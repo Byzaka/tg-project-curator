@@ -129,42 +129,52 @@ def extract_links_from_list(source, html):
     soup = BeautifulSoup(html, "html.parser")
     links = set()
 
-    base = f"{urlparse(source.list_url).scheme}://{urlparse(source.list_url).netloc}"
+    # базовый домен для urljoin
+    from urllib.parse import urljoin, urlparse
+
+    parsed = urlparse(source.list_url)
+    base = f"{parsed.scheme}://{parsed.netloc}"
 
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
-        if not href or href.startswith("javascript:") or href.startswith("mailto:"):
+        if not href:
+            continue
+        if href.startswith("javascript:") or href.startswith("mailto:"):
             continue
 
-        # делаем абсолютной любую относительную ссылку
         href = urljoin(base, href)
         href = href.split("#")[0]
 
-        # --- фильтры по сайтам ---
-       if "leibal.com" in href:
-    # только посты вида /interiors/<slug>/ или /architecture/<slug>/
-    if re.search(r"leibal\.com/(interiors|architecture)/[^/]+/?$", href):
-        links.add(href)
+        # Leibal: только посты /interiors/<slug>/ или /architecture/<slug>/
+        if "leibal.com" in base:
+            if re.search(r"leibal\.com/(interiors|architecture)/[^/]+/?$", href):
+                links.add(href)
+            continue
 
-        elif "archdaily.com" in base:
-            # проекты обычно имеют числовой id: /1038913/...
+        # ArchDaily: проекты с числовым id
+        if "archdaily.com" in base:
             if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
                 links.add(href)
+            continue
 
-        elif "dezeen.com" in base:
-    if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
-        links.add(href)
+        # Dezeen: статьи с датой /YYYY/MM/DD/
+        if "dezeen.com" in base:
+            if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
+                links.add(href)
+            continue
 
-        elif "landezine.com" in base:
-            # проекты обычно на корне домена: landezine.com/slug/
-            if "landezine.com" in href and "/landscapes/" not in href and "/topic/" not in href:
-                # исключим служебные
-                if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms", "/wp-"]):
+        # Landezine: обычно /slug/
+        if "landezine.com" in base:
+            if "landezine.com" in href and re.search(r"landezine\.com/[^/]+/?$", href):
+                if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
                     links.add(href)
+            continue
 
-        elif "worldlandscapearchitect.com" in base:
-    if "worldlandscapearchitect.com" in href and not any(x in href for x in ["/category/", "/tag/"]):
-        links.add(href)
+        # WLA: посты, не теги/категории
+        if "worldlandscapearchitect.com" in base:
+            if "worldlandscapearchitect.com" in href and not any(x in href for x in ["/category/", "/tag/"]):
+                links.add(href)
+            continue
 
     return list(links)
 
