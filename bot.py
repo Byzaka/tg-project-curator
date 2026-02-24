@@ -93,29 +93,25 @@ def build_paged_url(source: Source, page: int) -> str:
     if page <= 1:
         return source.list_url
 
-    if source.paging == "archdaily_category_page":
-    base = source.list_url.rstrip("/")
-    return f"{base}/page/{page}"
-    
     if source.paging == "wp_page":
-        # https://site.com/category/x/page/2/
         base = source.list_url.rstrip("/")
         return f"{base}/page/{page}/"
 
     if source.paging == "dezeen_page":
-        # https://www.dezeen.com/architecture/page/2/
         base = source.list_url.rstrip("/")
         return f"{base}/page/{page}/"
 
     if source.paging == "archdaily_search_page":
-        # add/replace ?page=
         if "?" in source.list_url:
             if re.search(r"([?&])page=\d+", source.list_url):
                 return re.sub(r"([?&])page=\d+", rf"\1page={page}", source.list_url)
             return f"{source.list_url}&page={page}"
         return f"{source.list_url}?page={page}"
 
-    # fallback
+    if source.paging == "archdaily_category_page":
+        base = source.list_url.rstrip("/")
+        return f"{base}/page/{page}"
+
     base = source.list_url.rstrip("/")
     return f"{base}/page/{page}/"
 
