@@ -1,33 +1,41 @@
 {
   "leibal_arch": {
-    "sent_urls": [],
+    "sent_urls": [
+      "https://leibal.com/category/architecture/"
+    ],
     "queue_new": [
       "https://leibal.com/subscription/subscribe",
       "//store.leibal.com",
-      "http://store.leibal.com"
+      "http://store.leibal.com",
+      "https://leibal.com/category/architecture/",
+      "https://leibal.com/category/architecture/page/2/"
     ],
-    "archive_page": 7
+    "archive_page": 8
   },
   "leibal_int": {
     "sent_urls": [
-      "http://store.leibal.com"
+      "http://store.leibal.com",
+      "https://leibal.com/category/interiors/page/8/"
     ],
     "queue_new": [
       "https://leibal.com/subscription/subscribe",
       "//store.leibal.com",
-      "http://store.leibal.com"
+      "http://store.leibal.com",
+      "https://leibal.com/category/interiors/page/2/",
+      "https://leibal.com/category/architecture/",
+      "https://leibal.com/category/interiors/"
     ],
-    "archive_page": 7
+    "archive_page": 8
   },
   "archdaily_projects": {
     "sent_urls": [],
     "queue_new": [],
-    "archive_page": 11
+    "archive_page": 16
   },
   "archdaily_landscape": {
     "sent_urls": [],
     "queue_new": [],
-    "archive_page": 11
+    "archive_page": 16
   },
   "dezeen_arch": {
     "sent_urls": [],
@@ -42,7 +50,8 @@
   "landezine_play": {
     "sent_urls": [
       "https://landezine.com/landscapes/locations/by-country/norway/",
-      "https://www.maglin.com/collections/ogden/"
+      "https://www.maglin.com/collections/ogden/",
+      "https://landezine.com/gadehaveskolen-by-11-landskab/"
     ],
     "queue_new": [
       "https://landezine.com/loops-changing-intensities-by-mbyland/",
@@ -249,9 +258,10 @@
       "https://www.miramondo.com/products/kingArthur/kingArthur.html?v=1_1_1_17",
       "https://landezine.com/environment-for-revit/",
       "https://www.area.fr/mobilier-urbain/la-pause/banc-dossier/banc-prague-b110",
-      "https://www.area.fr/mobilier-urbain/levasion/equipement-de-plein-air/domino-atlantique"
+      "https://www.area.fr/mobilier-urbain/levasion/equipement-de-plein-air/domino-atlantique",
+      "https://landezine.com/send-us-your-project/"
     ],
-    "archive_page": 3
+    "archive_page": 4
   },
   "wla": {
     "sent_urls": [],
