@@ -124,59 +124,37 @@ def normalize_url(url: str) -> str:
     return url
 
 
-def extract_links_from_list(source: Source, html: str) -> List[str]:
+def extract_links_from_list(source, html):
     soup = BeautifulSoup(html, "html.parser")
     links = set()
 
-    # Leibal: posts are standard WP articles
-    if "leibal.com" in source.list_url:
-        for a in soup.select("h2 a, h3 a, article a"):
-            href = a.get("href")
-            if not href:
-                continue
-            if "leibal.com" in href and "/category/" not in href:
-                links.add(normalize_url(href))
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
 
-    # Dezeen: articles in listings
-    elif "dezeen.com" in source.list_url:
-        for a in soup.select("a[href]"):
-            href = a.get("href")
-            if not href:
-                continue
-            if href.startswith("/"):
-                href = "https://www.dezeen.com" + href
-            if "dezeen.com" in href and re.search(r"https://www\.dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
-                links.add(normalize_url(href))
-
-    # ArchDaily search projects
-    elif "archdaily.com/search/projects" in source.list_url:
-        for a in soup.select("a[href]"):
-            href = a.get("href")
-            if not href:
-                continue
-            if href.startswith("/"):
+        if href.startswith("/"):
+            if "archdaily.com" in source.list_url:
                 href = "https://www.archdaily.com" + href
-            # typical project urls have numeric id segment like /1001234/
-            if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
-                links.add(normalize_url(href))
+            elif "dezeen.com" in source.list_url:
+                href = "https://www.dezeen.com" + href
 
-    # Landezine (WP-like)
-    elif "landezine" in source.list_url:
-        for a in soup.select("h2 a, h3 a, article a"):
-            href = a.get("href")
-            if not href:
-                continue
-            if "landezine" in href and "/category/" not in href and "/tag/" not in href:
-                links.add(normalize_url(href))
+        href = href.split("#")[0]
 
-    # World Landscape Architect (WP-like)
-    elif "worldlandscapearchitect" in source.list_url:
-        for a in soup.select("h2 a, h3 a, article a"):
-            href = a.get("href")
-            if not href:
-                continue
-            if "worldlandscapearchitect.com" in href:
-                links.add(normalize_url(href))
+        # фильтры по сайтам
+        if "leibal.com" in source.list_url:
+            if "/category/" not in href and "leibal.com" in href:
+                links.add(href)
+
+        elif "archdaily.com" in source.list_url:
+            if "archdaily.com" in href and re.search(r"/\d{6,}/", href):
+                links.add(href)
+
+        elif "dezeen.com" in source.list_url:
+            if re.search(r"/\d{4}/\d{2}/\d{2}/", href):
+                links.add(href)
+
+        elif "landezine" in source.list_url or "worldlandscapearchitect" in source.list_url:
+            if "/category/" not in href:
+                links.add(href)
 
     return list(links)
 
