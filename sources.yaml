@@ -9,14 +9,14 @@
   paging: wp_page
 
 - id: archdaily_projects
-  name: ArchDaily / Projects
-  list_url: https://www.archdaily.com/search/projects?ad_source=jv-header&ad_name=main-menu&is_allowed_bot=true
-  paging: archdaily_search_page
+  name: ArchDaily / Residential Architecture
+  list_url: https://www.archdaily.com/category/residential-architecture
+  paging: archdaily_category_page
 
 - id: archdaily_landscape
   name: ArchDaily / Landscape Architecture
-  list_url: https://www.archdaily.com/search/projects/categories/landscape-architecture?is_allowed_bot=true
-  paging: archdaily_search_page
+  list_url: https://www.archdaily.com/category/landscape-architecture
+  paging: archdaily_category_page
 
 - id: dezeen_arch
   name: Dezeen / Architecture
