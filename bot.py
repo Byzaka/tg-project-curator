@@ -93,6 +93,10 @@ def build_paged_url(source: Source, page: int) -> str:
     if page <= 1:
         return source.list_url
 
+    if source.paging == "archdaily_category_page":
+    base = source.list_url.rstrip("/")
+    return f"{base}/page/{page}"
+    
     if source.paging == "wp_page":
         # https://site.com/category/x/page/2/
         base = source.list_url.rstrip("/")
@@ -141,10 +145,10 @@ def extract_links_from_list(source, html):
         href = href.split("#")[0]
 
         # --- фильтры по сайтам ---
-        if "leibal.com" in base:
-            # берём только посты /architecture/... или /interiors/...
-            if "leibal.com" in href and ("/interiors/" in href or "/architecture/" in href):
-                links.add(href)
+       if "leibal.com" in href:
+    # только посты вида /interiors/<slug>/ или /architecture/<slug>/
+    if re.search(r"leibal\.com/(interiors|architecture)/[^/]+/?$", href):
+        links.add(href)
 
         elif "archdaily.com" in base:
             # проекты обычно имеют числовой id: /1038913/...
@@ -152,9 +156,8 @@ def extract_links_from_list(source, html):
                 links.add(href)
 
         elif "dezeen.com" in base:
-            # статьи Dezeen имеют /YYYY/MM/DD/...
-            if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
-                links.add(href)
+    if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
+        links.add(href)
 
         elif "landezine.com" in base:
             # проекты обычно на корне домена: landezine.com/slug/
@@ -164,9 +167,8 @@ def extract_links_from_list(source, html):
                     links.add(href)
 
         elif "worldlandscapearchitect.com" in base:
-            if "worldlandscapearchitect.com" in href:
-                if not any(x in href for x in ["/category/", "/tag/", "/page/"]):
-                    links.add(href)
+    if "worldlandscapearchitect.com" in href and not any(x in href for x in ["/category/", "/tag/"]):
+        links.add(href)
 
     return list(links)
 
