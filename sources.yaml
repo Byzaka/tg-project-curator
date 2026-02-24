@@ -10,12 +10,12 @@
 
 - id: archdaily_projects
   name: ArchDaily / Projects
-  list_url: https://www.archdaily.com/search/projects?ad_source=jv-header&ad_name=main-menu
+  list_url: https://www.archdaily.com/search/projects?ad_source=jv-header&ad_name=main-menu&is_allowed_bot=true
   paging: archdaily_search_page
 
 - id: archdaily_landscape
   name: ArchDaily / Landscape Architecture
-  list_url: https://www.archdaily.com/search/projects/categories/landscape-architecture
+  list_url: https://www.archdaily.com/search/projects/categories/landscape-architecture?is_allowed_bot=true
   paging: archdaily_search_page
 
 - id: dezeen_arch
