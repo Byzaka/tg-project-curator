@@ -4,13 +4,12 @@
       "https://leibal.com/category/architecture/"
     ],
     "queue_new": [
-      "https://leibal.com/subscription/subscribe",
       "//store.leibal.com",
       "http://store.leibal.com",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/architecture/page/2/"
     ],
-    "archive_page": 8
+    "archive_page": 13
   },
   "leibal_int": {
     "sent_urls": [
@@ -18,24 +17,77 @@
       "https://leibal.com/category/interiors/page/8/"
     ],
     "queue_new": [
-      "https://leibal.com/subscription/subscribe",
       "//store.leibal.com",
       "http://store.leibal.com",
       "https://leibal.com/category/interiors/page/2/",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/interiors/"
     ],
-    "archive_page": 8
+    "archive_page": 13
   },
   "archdaily_projects": {
-    "sent_urls": [],
-    "queue_new": [],
-    "archive_page": 16
+    "sent_urls": [
+      "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura"
+    ],
+    "queue_new": [
+      "https://www.archdaily.com/1038790/dollhouse-loft-studioac",
+      "https://www.archdaily.com/1038695/the-matchbox-house-stapati",
+      "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
+      "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
+      "https://www.archdaily.com/1038769/ironbark-house-not-all-architecture",
+      "https://www.archdaily.com/1038847/the-louvered-house-andblack-design-studio",
+      "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects",
+      "https://www.archdaily.com/1038853/house-in-santiago-s-ar",
+      "https://www.archdaily.com/1038596/mirze-refuge-estudio-haa",
+      "https://www.archdaily.com/1038945/sestajovice-house-mackovic-architecture",
+      "https://www.archdaily.com/1038891/loredo-house-navc01-zooco-estudio",
+      "https://www.archdaily.com/1038349/parents-house-yerch",
+      "https://www.archdaily.com/1038819/crabe-fantome-evolutive-housing-ouvrages",
+      "https://www.archdaily.com/1038947/residence-in-pinheiros-23-sul",
+      "https://www.archdaily.com/1038750/effevu-house-ellevuelle-architetti",
+      "https://www.archdaily.com/1038838/ger-plug-in-district-development-unit",
+      "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc",
+      "https://www.archdaily.com/1038498/exeter-road-pavilion-neiheiser-argyros",
+      "https://www.archdaily.com/1038694/havenwood-atlas-architects",
+      "https://www.archdaily.com/1038870/jv-residence-pitta-arquitetura",
+      "https://www.archdaily.com/1038590/entremontes-house-harpa-arquitetura",
+      "https://www.archdaily.com/1038965/can-gallineta-oam-oficina-darquitectura-a-mallorca",
+      "https://www.archdaily.com/1038848/lakeshore-barn-house-norm-architects",
+      "https://www.archdaily.com/1038496/itupeva-house-una-munizviegas"
+    ],
+    "archive_page": 17
   },
   "archdaily_landscape": {
-    "sent_urls": [],
-    "queue_new": [],
-    "archive_page": 16
+    "sent_urls": [
+      "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects"
+    ],
+    "queue_new": [
+      "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
+      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
+      "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
+      "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
+      "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
+      "https://www.archdaily.com/1037104/vinhuset-norm-architects",
+      "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
+      "https://www.archdaily.com/1037112/yanbu-old-dragon-park-atelier-cns-cicada-art",
+      "https://www.archdaily.com/1038119/noon-repose-pavilion-clab-architects",
+      "https://www.archdaily.com/1038261/corrego-do-bispo-linear-park-natureza-urbana",
+      "https://www.archdaily.com/1038823/chapultepec-forest-scenic-garden-michan-architecture-plus-parabase",
+      "https://www.archdaily.com/1038481/fujian-wuyi-mountain-national-park-moon-bay-observation-deck-clab-architects",
+      "https://www.archdaily.com/1038361/qingjiang-furong-pavilions-flip-studio",
+      "https://www.archdaily.com/1037150/the-hungry-caterpillar-lyth-design",
+      "https://www.archdaily.com/1038686/asympta-leopold-banchini-architects",
+      "https://www.archdaily.com/1036685/basketball-court-ralph-c-wilson-jr-centennial-park-adjaye-associates",
+      "https://www.archdaily.com/1037598/xinhepu-historical-and-cultural-precinct-core-area-enhancement-project-atelier-cns",
+      "https://www.archdaily.com/1037560/water-sculpture-lj-p-plus-arhitekti-plus-mkocbek-architects",
+      "https://www.archdaily.com/1036699/le-carrier-cabin-le-festival-des-cabanes",
+      "https://www.archdaily.com/1037644/isla-teja-performance-pavilions-dum-dum-lab",
+      "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal",
+      "https://www.archdaily.com/1038011/look-out-point-vresse-sur-semois-an-schoenmaekers-plus-sbe-nv",
+      "https://www.archdaily.com/1037509/resting-loop-with-views-hcch-studio",
+      "https://www.archdaily.com/1037227/sports-complex-in-petit-quevilly-olgga-architects"
+    ],
+    "archive_page": 17
   },
   "dezeen_arch": {
     "sent_urls": [],
@@ -51,7 +103,8 @@
     "sent_urls": [
       "https://landezine.com/landscapes/locations/by-country/norway/",
       "https://www.maglin.com/collections/ogden/",
-      "https://landezine.com/gadehaveskolen-by-11-landskab/"
+      "https://landezine.com/gadehaveskolen-by-11-landskab/",
+      "https://landezine.com/city-design/"
     ],
     "queue_new": [
       "https://landezine.com/loops-changing-intensities-by-mbyland/",
@@ -261,7 +314,7 @@
       "https://www.area.fr/mobilier-urbain/levasion/equipement-de-plein-air/domino-atlantique",
       "https://landezine.com/send-us-your-project/"
     ],
-    "archive_page": 4
+    "archive_page": 5
   },
   "wla": {
     "sent_urls": [],
