@@ -2,10 +2,10 @@
   "leibal_arch": {
     "sent_urls": [
       "https://leibal.com/category/architecture/",
-      "http://store.leibal.com"
+      "http://store.leibal.com",
+      "https://leibal.com/category/architecture/"
     ],
     "queue_new": [
-      "https://leibal.com/category/architecture/",
       "https://leibal.com/category/architecture/page/2/"
     ],
     "archive_page": 13
@@ -14,10 +14,10 @@
     "sent_urls": [
       "http://store.leibal.com",
       "https://leibal.com/category/interiors/page/8/",
-      "http://store.leibal.com"
+      "http://store.leibal.com",
+      "https://leibal.com/category/interiors/page/2/"
     ],
     "queue_new": [
-      "https://leibal.com/category/interiors/page/2/",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/interiors/"
     ],
@@ -27,10 +27,10 @@
     "sent_urls": [
       "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
       "https://www.archdaily.com/1038790/dollhouse-loft-studioac",
-      "https://www.archdaily.com/1038695/the-matchbox-house-stapati"
+      "https://www.archdaily.com/1038695/the-matchbox-house-stapati",
+      "https://www.archdaily.com/1038842/beit-hawa-badie-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
       "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
       "https://www.archdaily.com/1038769/ironbark-house-not-all-architecture",
       "https://www.archdaily.com/1038847/the-louvered-house-andblack-design-studio",
@@ -61,10 +61,10 @@
     "sent_urls": [
       "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects",
       "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
-      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects"
+      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
+      "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
       "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
       "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
       "https://www.archdaily.com/1037104/vinhuset-norm-architects",
@@ -91,10 +91,10 @@
   },
   "dezeen_arch": {
     "sent_urls": [
-      "https://www.dezeen.com/2026/02/13/taller-general-ecuador-la-miradora/"
+      "https://www.dezeen.com/2026/02/13/taller-general-ecuador-la-miradora/",
+      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/",
       "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/",
       "https://www.dezeen.com/2026/02/17/dorte-mandrup-wadden-sea-world-heritage-centre-netherlands/",
       "https://www.dezeen.com/2026/02/18/tampa-bay-rays-new-stadium-design/",
@@ -148,10 +148,10 @@
   },
   "dezeen_int": {
     "sent_urls": [
-      "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/"
+      "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/",
+      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/",
       "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
       "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
       "https://www.dezeen.com/2026/02/08/chapel-residence-nc-design-architecture-hong-kong/",
@@ -210,10 +210,10 @@
       "https://landezine.com/gadehaveskolen-by-11-landskab/",
       "https://landezine.com/city-design/",
       "https://landezine.com/loops-changing-intensities-by-mbyland/",
-      "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/"
+      "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/",
+      "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/"
     ],
     "queue_new": [
-      "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/park/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/post-industrial/",
       "https://landezine.com/jubileumsparken-play-learn-park-and-blue-park-by-mareld-landskapsarkitekter/",
