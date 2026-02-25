@@ -186,10 +186,14 @@ def extract_links_from_list(source, html):
         # --- Leibal ---
         if "leibal.com" in base:
             p = urlparse(href)
-            path = p.path.strip("/")
-            parts = path.split("/")
-            if p.netloc == "leibal.com" and len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
-                links.add(href)
+
+            if p.netloc == "leibal.com":
+                parts = p.path.strip("/").split("/")
+
+                # формат строго: interiors/slug или architecture/slug
+                if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
+                    links.add(href)
+
             continue
 
         # --- ArchDaily ---
@@ -207,8 +211,22 @@ def extract_links_from_list(source, html):
         # --- Landezine ---
         if "landezine.com" in base:
             p = urlparse(href)
-            if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
-                links.add(href)
+
+            if p.netloc == "landezine.com":
+                path = p.path.strip("/")
+
+                # проекты — один сегмент без "landscapes" и других служебных слов
+                if "/" not in path and len(path) > 5:
+                    if not any(x in path for x in [
+                        "landscapes",
+                        "category",
+                        "tag",
+                        "page",
+                        "about",
+                        "contact"
+                    ]):
+                        links.add(href)
+
             continue
 
         # --- MONSTRUM ---
