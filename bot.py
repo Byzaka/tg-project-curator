@@ -127,12 +127,10 @@ def normalize_url(url: str) -> str:
 
 
 def extract_links_from_list(source, html):
-    soup = BeautifulSoup(html, "html.parser")
-    links = set()
-
-    # --- RSS режим ---
+    # RSS режим (например Dezeen /feed/)
     if getattr(source, "paging", "") == "rss":
         import xml.etree.ElementTree as ET
+        links = set()
         root = ET.fromstring(html)
         for item in root.findall(".//item"):
             link = item.findtext("link")
@@ -140,7 +138,9 @@ def extract_links_from_list(source, html):
                 links.add(link.strip())
         return list(links)
 
-    # базовый домен для urljoin
+    soup = BeautifulSoup(html, "html.parser")
+    links = set()
+
     from urllib.parse import urljoin, urlparse
 
     parsed = urlparse(source.list_url)
@@ -154,51 +154,47 @@ def extract_links_from_list(source, html):
             continue
 
         href = urljoin(base, href)
+
         if href.startswith("//"):
             href = "https:" + href
+
         href = href.split("#")[0]
 
-      # Leibal: только посты на leibal.com (не store.leibal.com)
-from urllib.parse import urlparse
+        # Leibal (строго leibal.com, не store)
+        if "leibal.com" in base:
+            p = urlparse(href)
+            if p.netloc == "leibal.com":
+                if re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
+                    links.add(href)
+            continue
 
-if "leibal.com" in base:
-    p = urlparse(href)
-
-    # только основной домен leibal.com
-    if p.netloc == "leibal.com":
-        # только посты вида /interiors/<slug>/ или /architecture/<slug>/
-        if re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
-            links.add(href)
-
-    continue
-
-        # ArchDaily: проекты с числовым id
+        # ArchDaily (проекты с числовым id)
         if "archdaily.com" in base:
             if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
                 links.add(href)
             continue
 
-        # Dezeen: статьи с датой /YYYY/MM/DD/
+        # Dezeen (если не RSS)
         if "dezeen.com" in base:
             if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
                 links.add(href)
             continue
 
-        # Landezine: обычно /slug/
+        # Landezine (проекты типа /slug/)
         if "landezine.com" in base:
-            if "landezine.com" in href and re.search(r"landezine\.com/[^/]+/?$", href):
+            p = urlparse(href)
+            if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
                 if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
                     links.add(href)
             continue
 
-        # WLA: посты, не теги/категории
+        # World Landscape Architect
         if "worldlandscapearchitect.com" in base:
             if "worldlandscapearchitect.com" in href and not any(x in href for x in ["/category/", "/tag/"]):
                 links.add(href)
             continue
 
     return list(links)
-
 
 def meta_content(soup: BeautifulSoup, prop: str) -> Optional[str]:
     tag = soup.find("meta", property=prop)
