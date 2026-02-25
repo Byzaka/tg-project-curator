@@ -1,10 +1,10 @@
 {
   "leibal_arch": {
     "sent_urls": [
-      "https://leibal.com/category/architecture/"
+      "https://leibal.com/category/architecture/",
+      "http://store.leibal.com"
     ],
     "queue_new": [
-      "http://store.leibal.com",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/architecture/page/2/"
     ],
@@ -13,10 +13,10 @@
   "leibal_int": {
     "sent_urls": [
       "http://store.leibal.com",
-      "https://leibal.com/category/interiors/page/8/"
+      "https://leibal.com/category/interiors/page/8/",
+      "http://store.leibal.com"
     ],
     "queue_new": [
-      "http://store.leibal.com",
       "https://leibal.com/category/interiors/page/2/",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/interiors/"
@@ -26,10 +26,10 @@
   "archdaily_projects": {
     "sent_urls": [
       "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
-      "https://www.archdaily.com/1038790/dollhouse-loft-studioac"
+      "https://www.archdaily.com/1038790/dollhouse-loft-studioac",
+      "https://www.archdaily.com/1038695/the-matchbox-house-stapati"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038695/the-matchbox-house-stapati",
       "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
       "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
       "https://www.archdaily.com/1038769/ironbark-house-not-all-architecture",
@@ -60,10 +60,10 @@
   "archdaily_landscape": {
     "sent_urls": [
       "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects",
-      "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects"
+      "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
+      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
       "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
       "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
       "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
@@ -90,13 +90,117 @@
     "archive_page": 17
   },
   "dezeen_arch": {
-    "sent_urls": [],
-    "queue_new": [],
+    "sent_urls": [
+      "https://www.dezeen.com/2026/02/13/taller-general-ecuador-la-miradora/"
+    ],
+    "queue_new": [
+      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/",
+      "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/",
+      "https://www.dezeen.com/2026/02/17/dorte-mandrup-wadden-sea-world-heritage-centre-netherlands/",
+      "https://www.dezeen.com/2026/02/18/tampa-bay-rays-new-stadium-design/",
+      "https://www.dezeen.com/2026/02/24/leopold-banchini-architects-asympta-dezeen-debate/",
+      "https://www.dezeen.com/2026/02/16/mit-recycled-plastic-floor-trusses/",
+      "https://www.dezeen.com/2026/02/23/sardar-vallabhbhai-patel-sports-enclave-bdp-cox-architecture-collage-design/",
+      "https://www.dezeen.com/2026/02/24/sanjay-puri-architects-prestige-university/",
+      "https://www.dezeen.com/2026/02/24/design-alliance-architects-missouri-chapel-of-the-risen-christ/",
+      "https://www.dezeen.com/2026/02/17/shedkm-zodiac-temporary-accommodation/",
+      "https://www.dezeen.com/2026/02/23/central-station-multistudio-phoenix/",
+      "https://www.dezeen.com/2026/02/18/qasr-alhokm-metro-station-snohetta/",
+      "https://www.dezeen.com/2026/02/19/commission-of-fine-arts-approves-white-house-ballroom-designs/",
+      "https://www.dezeen.com/2026/02/14/australia-new-city-this-week/",
+      "https://www.dezeen.com/2026/02/19/copper-house-adu-francois-abbott/",
+      "https://www.dezeen.com/2026/02/20/arb-five-year-strategy/",
+      "https://www.dezeen.com/2026/02/23/bell-phillips-albion-street-housing/",
+      "https://www.dezeen.com/2026/02/20/white-house-ballroom-everything-you-need-to-know-2026/",
+      "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/",
+      "https://www.dezeen.com/2026/02/21/le-penhuel-associes-groupe-scolaire-simone-veil/",
+      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/",
+      "https://www.dezeen.com/2026/02/21/tampa-bay-rays-new-stadium-dezeen-agenda-us/",
+      "https://www.dezeen.com/2026/02/19/leopold-banchini-architects-asympta/",
+      "https://www.dezeen.com/2026/02/24/pritzker-prize-delayed-epstein-files/",
+      "https://www.dezeen.com/2026/02/19/carlos-ott-cube-3-design-miami-delano-residences-skyscraper/",
+      "https://www.dezeen.com/2026/02/19/delavegacanolasso-rosa-maria-house/",
+      "https://www.dezeen.com/2026/02/25/avoice-ai-workspace-architects/",
+      "https://www.dezeen.com/2026/02/15/felix-lewis-architects-the-works/",
+      "https://www.dezeen.com/2026/02/20/desert-fairway-residence-kendle-design-collaborative/",
+      "https://www.dezeen.com/2026/02/19/kod-arkitekter-liden-fire-station/",
+      "https://www.dezeen.com/2026/02/17/images-construction-som-skyscraper-spire-site-chicago/",
+      "https://www.dezeen.com/2026/02/16/thought-parallels-architecture-ananda-house-india/",
+      "https://www.dezeen.com/2026/02/16/ala-paisley-museum-revamp/",
+      "https://www.dezeen.com/2026/02/17/neiheiser-argyros-exeter-road-pavilion/",
+      "https://www.dezeen.com/2026/02/14/oddly-satisfying-architecture-roundups/",
+      "https://www.dezeen.com/2026/02/20/jony-ive-ferrari-luce-bradfield-city-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/02/14/john-puttick-associates-horizon-youth-zone/",
+      "https://www.dezeen.com/2026/02/21/thatched-roof-buildings/",
+      "https://www.dezeen.com/2026/02/16/chris-williamson-riba-president-interview/",
+      "https://www.dezeen.com/2026/02/18/wt-architecture-boathouse-bothy/",
+      "https://www.dezeen.com/2026/02/17/brutalist-southbank-centre-heritage-listed-dezeen-debate/",
+      "https://www.dezeen.com/2026/02/17/al-borde-arquitectos-ecuador-witoca-lab/",
+      "https://www.dezeen.com/2026/02/16/bekarch-converts-disused-workshop-skylight-apartment/",
+      "https://www.dezeen.com/2026/02/17/chinese-projects-completed-year-of-horse/",
+      "https://www.dezeen.com/2026/02/22/tristan-burfield-no23-annexe/",
+      "https://www.dezeen.com/2026/02/15/saadiyat-island-cultural-buildings/",
+      "https://www.dezeen.com/2026/02/19/xalet-del-catllaras-antoni-gaudi/",
+      "https://www.dezeen.com/2026/02/17/drawings-white-house-ballroom-baranes/",
+      "https://www.dezeen.com/2026/02/17/cielo-sanjay-puri-architects-17th-century-screens/"
+    ],
     "archive_page": 1
   },
   "dezeen_int": {
-    "sent_urls": [],
-    "queue_new": [],
+    "sent_urls": [
+      "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/"
+    ],
+    "queue_new": [
+      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/",
+      "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
+      "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
+      "https://www.dezeen.com/2026/02/08/chapel-residence-nc-design-architecture-hong-kong/",
+      "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/",
+      "https://www.dezeen.com/2026/01/26/heated-rivalry-cottage-set-design/",
+      "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/",
+      "https://www.dezeen.com/2026/02/16/nora-restaurant-canary-wharf-london-ola-jachymiak-studio/",
+      "https://www.dezeen.com/2026/01/25/bathhouses-saunas-new-york-city/",
+      "https://www.dezeen.com/2026/02/12/el-departamento-hoff-store-london/",
+      "https://www.dezeen.com/2026/02/03/pickleball-court-new-bahru-hall-singapore-open-studio/",
+      "https://www.dezeen.com/2026/02/08/seven-wine-bars-round-up/",
+      "https://www.dezeen.com/2026/02/08/pasadena-hillside-home-mid-century-renovation-cover-architecture/",
+      "https://www.dezeen.com/2026/01/30/grammys-2026-ceremony-set-design-yellow-studio/",
+      "https://www.dezeen.com/2026/01/31/gampworks-new-york-city-poke-court/",
+      "https://www.dezeen.com/2026/01/25/interiors-translucent-shoji-screens-light-in-lookbooks/",
+      "https://www.dezeen.com/2026/02/03/mexican-rooftop-bar-ag-studio-matriarchal-universe/",
+      "https://www.dezeen.com/2026/02/02/camper-shin-maru-jorge-penades/",
+      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/",
+      "https://www.dezeen.com/2026/02/15/rude-haus-pennsylvania-upcycled-vintage/",
+      "https://www.dezeen.com/2026/02/11/note-design-studio-lammhults-showroom/",
+      "https://www.dezeen.com/2026/02/09/the-hoxton-hotel-20th-anniversary-revamp-shoreditch/",
+      "https://www.dezeen.com/2026/02/18/formant-studio-modular-listening-lounge-mexico-city/",
+      "https://www.dezeen.com/2026/01/30/anomaly-avoids-formal-interiors-london-co-working-space/",
+      "https://www.dezeen.com/2026/01/27/lalique-icons-marc-ange-hanane-el-moutii-homes/",
+      "https://www.dezeen.com/2026/01/27/bar-far-temporary-bar-interior-rome-studio-strato/",
+      "https://www.dezeen.com/2026/01/26/hauvette-madani-architecture-nature-paris-apartment/",
+      "https://www.dezeen.com/2026/02/20/l-architects-overhauls-clients-last-home-revealing-original-features/",
+      "https://www.dezeen.com/2026/02/24/soda-nineteen-wells-street-office/",
+      "https://www.dezeen.com/2026/02/04/zomuzi-gantri-the-shop-san-franscisco/",
+      "https://www.dezeen.com/2026/02/14/warkentin-associates-models-los-angeles-coffee-shop-on-an-artists-living-room/",
+      "https://www.dezeen.com/2026/02/23/crafted-powdermills-hotel-house-of-dre/",
+      "https://www.dezeen.com/2026/02/22/mexico-city-restaurant-interiors-lookbooks/",
+      "https://www.dezeen.com/2026/02/18/nothing-first-india-flagship-store-bengaluru/",
+      "https://www.dezeen.com/2026/02/01/hotel-hans-bridge-different-parts-copenhagen-norron-architects/",
+      "https://www.dezeen.com/2026/01/26/cn-tower-renovation-superkul-bv/",
+      "https://www.dezeen.com/2026/02/06/bernadotte-kylberg-stratum-suites-clarion-hotel-sign-stockholm/",
+      "https://www.dezeen.com/2026/02/13/nicola-weetch-london-fields-record-bar-bambi/",
+      "https://www.dezeen.com/2026/02/04/form-us-with-love-testing-grounds-showroom/",
+      "https://www.dezeen.com/2026/02/03/1970s-style-devo-restaurant-wine-bar-marseille/",
+      "https://www.dezeen.com/2026/02/02/dezeen-exclusives-launch/",
+      "https://www.dezeen.com/2026/01/29/wellness-opinion-priya-khanchandani/",
+      "https://www.dezeen.com/2026/01/25/harry-nuriev-transformism-installation-maisonobject/",
+      "https://www.dezeen.com/2026/02/09/kelly-wearstler-kappo-kappo-japanese-restaurant-austin-proper-hotel/",
+      "https://www.dezeen.com/2026/02/09/decancq-vercruysse-bungalow-sint-martens-latem/",
+      "https://www.dezeen.com/2026/02/13/sinners-tattoo-parlour-interiors-aarhus-kidz-studio/",
+      "https://www.dezeen.com/2026/02/24/ukraine-war-interiors-feature/",
+      "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/",
+      "https://www.dezeen.com/2026/02/22/anastasiia-tempynska-former-embassy-kyiv-showroom/"
+    ],
     "archive_page": 1
   },
   "landezine_play": {
@@ -105,10 +209,10 @@
       "https://www.maglin.com/collections/ogden/",
       "https://landezine.com/gadehaveskolen-by-11-landskab/",
       "https://landezine.com/city-design/",
-      "https://landezine.com/loops-changing-intensities-by-mbyland/"
+      "https://landezine.com/loops-changing-intensities-by-mbyland/",
+      "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/"
     ],
     "queue_new": [
-      "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/park/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/post-industrial/",
