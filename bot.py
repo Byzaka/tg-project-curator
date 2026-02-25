@@ -333,14 +333,13 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
         ])
 
     elif "monstrum.dk" in domain:
-    authors = find_credit(full_text, [
-        r"COLLABORATION:\s*([^\n]+)",
-    ])
-    photographer = find_credit(full_text, [
-        r"Photo by\s+([^\n]+)",
-        r"Cover photo.*?by\s+([^\n]+)",
-    ])
-
+        authors = find_credit(full_text, [
+            r"COLLABORATION:\s*([^\n]+)",
+        ])
+        photographer = find_credit(full_text, [
+            r"Photo by\s+([^\n]+)",
+            r"Cover photo.*?by\s+([^\n]+)",
+        ])
     # Trim description to a short snippet
     if desc:
         desc = desc.strip()
