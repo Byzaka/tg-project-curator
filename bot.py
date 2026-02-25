@@ -296,19 +296,44 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
     authors = None
     photographer = None
 
-    domain = url
+    domain = urlparse(url).netloc
 
     if "leibal.com" in domain:
-        authors = find_credit(full_text, [
-            r"Architects?:\s*([^\n]+)",
-            r"Design(?:er|ers)?:\s*([^\n]+)",
-            r"Studio:\s*([^\n]+)",
-        ])
-        photographer = find_credit(full_text, [
-            r"Photographs?:\s*([^\n]+)",
-            r"Photography:\s*([^\n]+)",
-            r"Photo(?:s)?\s*by\s*([^\n]+)",
-        ])
+        def leibal_meta(label: str) -> Optional[str]:
+            label = label.strip().upper()
+
+            # ищем элемент, который ровно равен "AUTHOR" / "PHOTOGRAPHER"
+            el = soup.find(lambda tag: tag.get_text(strip=True).upper() == label)
+            if not el:
+                return None
+
+            # значение обычно в следующем текстовом элементе
+            nxt = el.find_next(lambda tag: tag.name in ["a", "span", "div", "p"] and tag.get_text(strip=True))
+            if not nxt:
+                return None
+
+            val = nxt.get_text(" ", strip=True)
+            # защита от того, что следующий элемент — снова лейбл
+            if val.upper() in {"AUTHOR", "CATEGORY", "DATE", "PHOTOGRAPHER"}:
+                return None
+            return val or None
+
+        authors = leibal_meta("AUTHOR")
+        photographer = leibal_meta("PHOTOGRAPHER")
+
+        # запасной вариант: если вдруг на какой-то странице метки нет
+        if not authors:
+            authors = find_credit(full_text, [
+                r"Architects?:\s*([^\n]+)",
+                r"Design(?:er|ers)?:\s*([^\n]+)",
+                r"Studio:\s*([^\n]+)",
+            ])
+        if not photographer:
+            photographer = find_credit(full_text, [
+                r"Photographs?:\s*([^\n]+)",
+                r"Photography:\s*([^\n]+)",
+                r"Photo(?:s)?\s*by\s*([^\n]+)",
+            ])
 
     elif "archdaily.com" in domain:
         authors = find_credit(full_text, [
