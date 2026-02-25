@@ -20,20 +20,21 @@
 
 - id: dezeen_arch
   name: Dezeen / Architecture
-  list_url: https://www.dezeen.com/architecture/
-  paging: dezeen_page
+  list_url: https://www.dezeen.com/architecture/feed/
+  paging: rss
 
 - id: dezeen_int
   name: Dezeen / Interiors
-  list_url: https://www.dezeen.com/interiors/
-  paging: dezeen_page
+  list_url: https://www.dezeen.com/interiors/feed/
+  paging: rss
 
 - id: landezine_play
   name: Landezine / Playground
   list_url: https://landezine.com/landscapes/landscape-architecture/realized-projects/playground/
   paging: wp_page
 
+
 - id: wla
   name: World Landscape Architect
-  list_url: https://worldlandscapearchitect.com/?v=5f02f0889301
+  list_url: https://worldlandscapearchitect.com/design-discipline/landscape-architecture/
   paging: wp_page
