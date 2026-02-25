@@ -2,19 +2,19 @@
   "leibal_arch": {
     "sent_urls": [],
     "queue_new": [],
-    "archive_page": 6
+    "archive_page": 11
   },
   "leibal_int": {
     "sent_urls": [],
     "queue_new": [],
-    "archive_page": 6
+    "archive_page": 11
   },
   "archdaily_projects": {
     "sent_urls": [
-      "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects"
+      "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects",
+      "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc",
       "https://www.archdaily.com/1038750/effevu-house-ellevuelle-architetti",
       "https://www.archdaily.com/1039009/the-gap-house-atelier-tas",
       "https://www.archdaily.com/1038891/loredo-house-navc01-zooco-estudio",
@@ -42,10 +42,10 @@
   },
   "archdaily_landscape": {
     "sent_urls": [
-      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects"
+      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
+      "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
       "https://www.archdaily.com/1038823/chapultepec-forest-scenic-garden-michan-architecture-plus-parabase",
       "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal",
       "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
@@ -73,10 +73,10 @@
   },
   "dezeen_arch": {
     "sent_urls": [
-      "https://www.dezeen.com/2026/02/14/australia-new-city-this-week/"
+      "https://www.dezeen.com/2026/02/14/australia-new-city-this-week/",
+      "https://www.dezeen.com/2026/02/19/copper-house-adu-francois-abbott/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/19/copper-house-adu-francois-abbott/",
       "https://www.dezeen.com/2026/02/15/saadiyat-island-cultural-buildings/",
       "https://www.dezeen.com/2026/02/19/kod-arkitekter-liden-fire-station/",
       "https://www.dezeen.com/2026/02/20/desert-fairway-residence-kendle-design-collaborative/",
@@ -130,10 +130,10 @@
   },
   "dezeen_int": {
     "sent_urls": [
-      "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/"
+      "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/",
+      "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/",
       "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/",
       "https://www.dezeen.com/2026/02/13/nicola-weetch-london-fields-record-bar-bambi/",
       "https://www.dezeen.com/2026/02/04/zomuzi-gantri-the-shop-san-franscisco/",
@@ -187,10 +187,10 @@
   },
   "landezine_play": {
     "sent_urls": [
-      "https://landezine.com/vectorworks/"
+      "https://landezine.com/vectorworks/",
+      "https://landezine.com/aldgate-a-twisted-ribbon-crawling-through-the-city-of-london-by-carve/"
     ],
     "queue_new": [
-      "https://landezine.com/aldgate-a-twisted-ribbon-crawling-through-the-city-of-london-by-carve/",
       "https://landezine.com/urbidermis/",
       "https://landezine.com/study-landscape-architecture/",
       "https://landezine.com/tynnyripuisto-by-loci/",
@@ -272,10 +272,10 @@
   },
   "monstrum_projects": {
     "sent_urls": [
-      "https://monstrum.dk/en/playground/cosmos"
+      "https://monstrum.dk/en/playground/cosmos",
+      "https://monstrum.dk/en/playground/neighbourhood-songbird-village"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/neighbourhood-songbird-village",
       "https://monstrum.dk/en/playground/unexpected-cat",
       "https://monstrum.dk/en/playground/temple-chase",
       "https://monstrum.dk/en/playground/giant-ant-playground",
