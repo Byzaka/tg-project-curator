@@ -1,13 +1,13 @@
 - id: leibal_arch
   name: Leibal / Architecture
-  list_url: https://leibal.com/category/architecture/
-  paging: wp_page
+  list_url: https://leibal.com/category/architecture/feed/
+  paging: rss
 
 - id: leibal_int
   name: Leibal / Interiors
-  list_url: https://leibal.com/category/interiors/
-  paging: wp_page
-
+  list_url: https://leibal.com/category/interiors/feed/
+  paging: rss
+  
 - id: archdaily_projects
   name: ArchDaily / Residential Architecture
   list_url: https://www.archdaily.com/category/residential-architecture
