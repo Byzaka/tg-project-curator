@@ -3,11 +3,10 @@
     "sent_urls": [
       "https://leibal.com/category/architecture/",
       "http://store.leibal.com",
-      "https://leibal.com/category/architecture/"
-    ],
-    "queue_new": [
+      "https://leibal.com/category/architecture/",
       "https://leibal.com/category/architecture/page/2/"
     ],
+    "queue_new": [],
     "archive_page": 13
   },
   "leibal_int": {
@@ -15,10 +14,10 @@
       "http://store.leibal.com",
       "https://leibal.com/category/interiors/page/8/",
       "http://store.leibal.com",
-      "https://leibal.com/category/interiors/page/2/"
+      "https://leibal.com/category/interiors/page/2/",
+      "https://leibal.com/category/architecture/"
     ],
     "queue_new": [
-      "https://leibal.com/category/architecture/",
       "https://leibal.com/category/interiors/"
     ],
     "archive_page": 13
@@ -28,10 +27,10 @@
       "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
       "https://www.archdaily.com/1038790/dollhouse-loft-studioac",
       "https://www.archdaily.com/1038695/the-matchbox-house-stapati",
-      "https://www.archdaily.com/1038842/beit-hawa-badie-architects"
+      "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
+      "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
       "https://www.archdaily.com/1038769/ironbark-house-not-all-architecture",
       "https://www.archdaily.com/1038847/the-louvered-house-andblack-design-studio",
       "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects",
@@ -53,7 +52,8 @@
       "https://www.archdaily.com/1038848/lakeshore-barn-house-norm-architects",
       "https://www.archdaily.com/1038496/itupeva-house-una-munizviegas",
       "https://www.archdaily.com/1039009/the-gap-house-atelier-tas",
-      "https://www.archdaily.com/1038837/sagarana-house-estudio-haa"
+      "https://www.archdaily.com/1038837/sagarana-house-estudio-haa",
+      "https://www.archdaily.com/1038866/the-reef-waterfront-living-kcap-plus-dca-architects"
     ],
     "archive_page": 17
   },
@@ -62,10 +62,10 @@
       "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects",
       "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
       "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
-      "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates"
+      "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
+      "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
       "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
       "https://www.archdaily.com/1037104/vinhuset-norm-architects",
       "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
@@ -92,10 +92,10 @@
   "dezeen_arch": {
     "sent_urls": [
       "https://www.dezeen.com/2026/02/13/taller-general-ecuador-la-miradora/",
-      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/"
+      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/",
+      "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/",
       "https://www.dezeen.com/2026/02/17/dorte-mandrup-wadden-sea-world-heritage-centre-netherlands/",
       "https://www.dezeen.com/2026/02/18/tampa-bay-rays-new-stadium-design/",
       "https://www.dezeen.com/2026/02/24/leopold-banchini-architects-asympta-dezeen-debate/",
@@ -149,10 +149,10 @@
   "dezeen_int": {
     "sent_urls": [
       "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/",
-      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/"
+      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/",
+      "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
       "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
       "https://www.dezeen.com/2026/02/08/chapel-residence-nc-design-architecture-hong-kong/",
       "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/",
@@ -199,7 +199,8 @@
       "https://www.dezeen.com/2026/02/13/sinners-tattoo-parlour-interiors-aarhus-kidz-studio/",
       "https://www.dezeen.com/2026/02/24/ukraine-war-interiors-feature/",
       "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/",
-      "https://www.dezeen.com/2026/02/22/anastasiia-tempynska-former-embassy-kyiv-showroom/"
+      "https://www.dezeen.com/2026/02/22/anastasiia-tempynska-former-embassy-kyiv-showroom/",
+      "https://www.dezeen.com/2026/02/25/cake-architecture-architectural-landmarks-thames-watchhouse/"
     ],
     "archive_page": 1
   },
@@ -211,10 +212,10 @@
       "https://landezine.com/city-design/",
       "https://landezine.com/loops-changing-intensities-by-mbyland/",
       "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/",
-      "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/"
+      "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/",
+      "https://landezine.com/landscapes/landscape-architecture/realized-projects/park/"
     ],
     "queue_new": [
-      "https://landezine.com/landscapes/landscape-architecture/realized-projects/park/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/post-industrial/",
       "https://landezine.com/jubileumsparken-play-learn-park-and-blue-park-by-mareld-landskapsarkitekter/",
       "https://landezine.com/vastandaparken-by-tengbom/",
@@ -422,13 +423,128 @@
       "https://landezine.com/designing-for-conviviality-in-landscape-architecture/",
       "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/",
       "https://landezine.com/finestrelles-planning-in-esplugues-de-llobregat-by-batlleiroig/",
-      "https://landezine.com/hpo-on-temporary-and-incomplete/"
+      "https://landezine.com/hpo-on-temporary-and-incomplete/",
+      "https://landezine.com/feyssine-park-by-iles-paysage-urbanisme/",
+      "https://landezine.com/shtscapes-100-mistakes-in-landscape-architecture/",
+      "https://landezine.com/california-is-burning-rethinking-the-wildland-suburban-interface/",
+      "https://landezine.com/terms-and-conditions-2/",
+      "https://landezine.com/privacy-policy/",
+      "https://landezine.com/jochiwon-cultural-garden/",
+      "https://landezine.com/built-on-sugar-park-am-lobauer-wasser-by-hutterreimann/",
+      "https://landezine.com/engaged-art-in-public-space-speaking-to-the-city/"
     ],
     "archive_page": 5
   },
   "wla": {
     "sent_urls": [],
     "queue_new": [],
+    "archive_page": 1
+  },
+  "monstrum_projects": {
+    "sent_urls": [
+      "https://monstrum.dk/en/playground/ibis-dreams"
+    ],
+    "queue_new": [
+      "https://monstrum.dk/en/playground/snake-and-apple",
+      "https://monstrum.dk/en/playground/wonderful-world",
+      "https://monstrum.dk/en/playground/lobster-chase",
+      "https://monstrum.dk/en/playground/lighthouse-and-ocean",
+      "https://monstrum.dk/en/playground/rivergiants",
+      "https://monstrum.dk/en/playground/pipefish",
+      "https://monstrum.dk/en/playground/charming-harbour",
+      "https://monstrum.dk/en/playground/honey-pot-hideout",
+      "https://monstrum.dk/en/playground/futuroscope",
+      "https://monstrum.dk/en/playground/enchanted-castle-playground",
+      "https://monstrum.dk/en/playground/bumble-bee-playground",
+      "https://monstrum.dk/en/playground/heart-hospital",
+      "https://monstrum.dk/en/playground/colourful-peacock",
+      "https://monstrum.dk/en/playground/playground-koldinghus",
+      "https://monstrum.dk/en/playground/humpback-whale",
+      "https://monstrum.dk/en/playground/frosnapperbyen",
+      "https://monstrum.dk/en/playground/bird-haven",
+      "https://monstrum.dk/en/playground/aliens-annecy",
+      "https://monstrum.dk/en/playground/visiting-seals",
+      "https://monstrum.dk/en/playground/crooked-houses",
+      "https://monstrum.dk/en/playground/adventurous-sea-turtle",
+      "https://monstrum.dk/en/playground/dusk-chase",
+      "https://monstrum.dk/en/playground/lilidorei-play-village",
+      "https://monstrum.dk/en/playground/animal-kirsebaerlunden",
+      "https://monstrum.dk/en/playground/industrial-history-adventure",
+      "https://monstrum.dk/en/playground/bears-hideout",
+      "https://monstrum.dk/en/playground/airport",
+      "https://monstrum.dk/en/playground/historical-playground",
+      "https://monstrum.dk/en/playground/blue-crab-playground",
+      "https://monstrum.dk/en/playground/giant-owls",
+      "https://monstrum.dk/en/playground/snake",
+      "https://monstrum.dk/en/playground/dubai-creek-harbour",
+      "https://monstrum.dk/en/playground/malkoha-meadows",
+      "https://monstrum.dk/en/playground/expo-2020",
+      "https://monstrum.dk/en/playground/dinosaur-playground",
+      "https://monstrum.dk/en/playground/plants-vs-zombies",
+      "https://monstrum.dk/en/playground/surfers-paradise",
+      "https://monstrum.dk/en/playground/life-stream",
+      "https://monstrum.dk/en/playground/adventures-nature",
+      "https://monstrum.dk/en/playground/flamingogo-playground",
+      "https://monstrum.dk/en/playground/avocet-playground",
+      "https://monstrum.dk/en/playground/fishing-village-and-eider-duck",
+      "https://monstrum.dk/en/playground/computer-playground",
+      "https://monstrum.dk/en/playground/hero-lagoh",
+      "https://monstrum.dk/en/playground/unexpected-cat",
+      "https://monstrum.dk/en/playground/spider",
+      "https://monstrum.dk/en/playground/boar-toutatis",
+      "https://monstrum.dk/en/playground/pelican-playground",
+      "https://monstrum.dk/en/playground/globe",
+      "https://monstrum.dk/en/playground/blazing-battle-dragon",
+      "https://monstrum.dk/en/playground/temple-chase",
+      "https://monstrum.dk/en/playground/samovar-playground",
+      "https://monstrum.dk/en/playground/towers-copenhagen",
+      "https://monstrum.dk/en/playground/deer-odderoya",
+      "https://monstrum.dk/en/playground/owl-playground",
+      "https://monstrum.dk/en/playground/enchanted-forest",
+      "https://monstrum.dk/en/playground/crystal-towers",
+      "https://monstrum.dk/en/playground/purple-octopus",
+      "https://monstrum.dk/en/playground/gorky-park-playground",
+      "https://monstrum.dk/en/playground/flower-playground",
+      "https://monstrum.dk/en/playground/liseberg-victorian-garden",
+      "https://monstrum.dk/en/playground/furry-bunny-playground",
+      "https://monstrum.dk/en/playground/beaver",
+      "https://monstrum.dk/en/playground/mondragon",
+      "https://monstrum.dk/en/playground/wonderful-garden",
+      "https://monstrum.dk/en/playground/medieval-village-slotshaven",
+      "https://monstrum.dk/en/playground/railway-museum",
+      "https://monstrum.dk/en/playground/pond",
+      "https://monstrum.dk/en/playground/oresund-playground",
+      "https://monstrum.dk/en/playground/great-escape-playground",
+      "https://monstrum.dk/en/playground/journey-lego-house",
+      "https://monstrum.dk/en/playground/plesiosaur-svalbard",
+      "https://monstrum.dk/en/playground/spaceship-princess-tower-playground",
+      "https://monstrum.dk/en/playground/neighbourhood-songbird-village",
+      "https://monstrum.dk/en/playground/cosmos",
+      "https://monstrum.dk/en/playground/coral-reef",
+      "https://monstrum.dk/en/playground/sturgeons-pier-26",
+      "https://monstrum.dk/en/playground/post-town",
+      "https://monstrum.dk/en/playground/salmon",
+      "https://monstrum.dk/en/playground/butterfly-kisses",
+      "https://monstrum.dk/en/playground/giant-ant-playground",
+      "https://monstrum.dk/en/playground/ringsted-outlet-playground",
+      "https://monstrum.dk/en/playground/between-wildflowers",
+      "https://monstrum.dk/en/playground/transport-playground",
+      "https://monstrum.dk/en/playground/gyllins-greenhouse-playground",
+      "https://monstrum.dk/en/playground/giant-garden",
+      "https://monstrum.dk/en/playground/sky-high-flight",
+      "https://monstrum.dk/en/playground/legacy-whale-vejle",
+      "https://monstrum.dk/en/playground/life-river",
+      "https://monstrum.dk/en/playground/amazing-animals-playground",
+      "https://monstrum.dk/en/playground/rosie-elephants-playground",
+      "https://monstrum.dk/en/playground/xplore-playground",
+      "https://monstrum.dk/en/playground/zweibrucken-towers",
+      "https://monstrum.dk/en/playground/space-garden",
+      "https://monstrum.dk/en/playground/world-linne",
+      "https://monstrum.dk/en/playground/hats-slide-playground",
+      "https://monstrum.dk/en/playground/affenzahn-island",
+      "https://monstrum.dk/en/playground/cunning-cobra",
+      "https://monstrum.dk/en/playground/guardian-lion"
+    ],
     "archive_page": 1
   }
 }
