@@ -34,7 +34,7 @@
   paging: wp_page
 
 
-- id: wla
-  name: World Landscape Architect
-  list_url: https://worldlandscapearchitect.com/
-  paging: wp_page
+- id: monstrum_projects
+  name: MONSTRUM / Projects
+  list_url: https://monstrum.dk/en/projects
+  paging: single
