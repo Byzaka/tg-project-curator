@@ -191,12 +191,20 @@ def extract_links_from_list(source, html):
         if p0.netloc.endswith("leibal.com") and p0.netloc != "leibal.com":
             continue
 
-        # Leibal (строго leibal.com, не store)
-        if "leibal.com" in base:
-            p = urlparse(href)
-            if p.netloc == "leibal.com" and re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
-                links.add(href)
-            continue
+# Leibal (строго посты)
+if "leibal.com" in base:
+    p = urlparse(href)
+
+    if p.netloc == "leibal.com":
+        path = p.path.strip("/")
+
+        # формат: interiors/slug или architecture/slug
+        parts = path.split("/")
+
+        if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
+            links.add(href)
+
+    continue
 
         # ArchDaily (проекты с числовым id)
         if "archdaily.com" in base:
