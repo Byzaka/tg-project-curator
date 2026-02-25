@@ -4,7 +4,6 @@
       "https://leibal.com/category/architecture/"
     ],
     "queue_new": [
-      "//store.leibal.com",
       "http://store.leibal.com",
       "https://leibal.com/category/architecture/",
       "https://leibal.com/category/architecture/page/2/"
@@ -17,7 +16,6 @@
       "https://leibal.com/category/interiors/page/8/"
     ],
     "queue_new": [
-      "//store.leibal.com",
       "http://store.leibal.com",
       "https://leibal.com/category/interiors/page/2/",
       "https://leibal.com/category/architecture/",
@@ -27,10 +25,10 @@
   },
   "archdaily_projects": {
     "sent_urls": [
-      "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura"
+      "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
+      "https://www.archdaily.com/1038790/dollhouse-loft-studioac"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038790/dollhouse-loft-studioac",
       "https://www.archdaily.com/1038695/the-matchbox-house-stapati",
       "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
       "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
@@ -53,16 +51,18 @@
       "https://www.archdaily.com/1038590/entremontes-house-harpa-arquitetura",
       "https://www.archdaily.com/1038965/can-gallineta-oam-oficina-darquitectura-a-mallorca",
       "https://www.archdaily.com/1038848/lakeshore-barn-house-norm-architects",
-      "https://www.archdaily.com/1038496/itupeva-house-una-munizviegas"
+      "https://www.archdaily.com/1038496/itupeva-house-una-munizviegas",
+      "https://www.archdaily.com/1039009/the-gap-house-atelier-tas",
+      "https://www.archdaily.com/1038837/sagarana-house-estudio-haa"
     ],
     "archive_page": 17
   },
   "archdaily_landscape": {
     "sent_urls": [
-      "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects"
+      "https://www.archdaily.com/1005873/pedestrian-boulevard-in-dnipro-filimonov-and-kashirina-architects",
+      "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
       "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
       "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
       "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
@@ -104,10 +104,10 @@
       "https://landezine.com/landscapes/locations/by-country/norway/",
       "https://www.maglin.com/collections/ogden/",
       "https://landezine.com/gadehaveskolen-by-11-landskab/",
-      "https://landezine.com/city-design/"
+      "https://landezine.com/city-design/",
+      "https://landezine.com/loops-changing-intensities-by-mbyland/"
     ],
     "queue_new": [
-      "https://landezine.com/loops-changing-intensities-by-mbyland/",
       "https://landezine.com/nightingale-primary-school-by-bd-landscape-architects/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/flood-resilience/",
       "https://landezine.com/landscapes/landscape-architecture/realized-projects/park/",
@@ -312,7 +312,13 @@
       "https://landezine.com/environment-for-revit/",
       "https://www.area.fr/mobilier-urbain/la-pause/banc-dossier/banc-prague-b110",
       "https://www.area.fr/mobilier-urbain/levasion/equipement-de-plein-air/domino-atlantique",
-      "https://landezine.com/send-us-your-project/"
+      "https://landezine.com/send-us-your-project/",
+      "https://landezine.com/the-fire-ring-an-xl-landscape-furniture-by-robin-winogrond/",
+      "https://landezine.com/public-spaces-in-banyoles-by-mias-arquitectes/",
+      "https://landezine.com/designing-for-conviviality-in-landscape-architecture/",
+      "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/",
+      "https://landezine.com/finestrelles-planning-in-esplugues-de-llobregat-by-batlleiroig/",
+      "https://landezine.com/hpo-on-temporary-and-incomplete/"
     ],
     "archive_page": 5
   },
