@@ -290,6 +290,27 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
     desc = meta_content(soup, "og:description") or find_first_paragraph(soup)
     preview = meta_content(soup, "og:image")
 
+    # fallback preview: pick first "big" image (useful for MONSTRUM etc.)
+    if not preview:
+        for img in soup.find_all("img"):
+            src = img.get("src") or img.get("data-src") or ""
+            if not src:
+                continue
+
+            alt = (img.get("alt") or "").lower()
+            cls = " ".join(img.get("class", [])).lower()
+
+            # skip logos/icons
+            if "logo" in alt or "logo" in cls or "icon" in cls:
+                continue
+
+            preview = src
+            if preview.startswith("//"):
+                preview = "https:" + preview
+            elif preview.startswith("/"):
+                preview = f"{urlparse(url).scheme}://{urlparse(url).netloc}{preview}"
+            break
+
     full_text = soup.get_text("\n", strip=True)
 
     # heuristics for authors/bureau + photographer
