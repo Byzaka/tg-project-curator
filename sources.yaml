@@ -20,12 +20,12 @@
 
 - id: dezeen_arch
   name: Dezeen / Architecture
-  list_url: https://www.dezeen.com/architecture/feed/
+  list_url: https://www.dezeen.com/feed/?post_type=post&taxonomy=category&term=architecture
   paging: rss
 
 - id: dezeen_int
   name: Dezeen / Interiors
-  list_url: https://www.dezeen.com/interiors/feed/
+  list_url: https://www.dezeen.com/feed/?post_type=post&taxonomy=category&term=interiors
   paging: rss
 
 - id: landezine_play
