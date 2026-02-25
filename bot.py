@@ -3,6 +3,7 @@ import re
 import json
 import time
 import random
+import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
@@ -129,6 +130,16 @@ def extract_links_from_list(source, html):
     soup = BeautifulSoup(html, "html.parser")
     links = set()
 
+    # --- RSS режим ---
+    if getattr(source, "paging", "") == "rss":
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(html)
+        for item in root.findall(".//item"):
+            link = item.findtext("link")
+            if link:
+                links.add(link.strip())
+        return list(links)
+
     # базовый домен для urljoin
     from urllib.parse import urljoin, urlparse
 
@@ -143,13 +154,23 @@ def extract_links_from_list(source, html):
             continue
 
         href = urljoin(base, href)
+        if href.startswith("//"):
+    href = "https:" + href
         href = href.split("#")[0]
 
-        # Leibal: только посты /interiors/<slug>/ или /architecture/<slug>/
-        if "leibal.com" in base:
-            if re.search(r"leibal\.com/(interiors|architecture)/[^/]+/?$", href):
-                links.add(href)
-            continue
+      # Leibal: только посты на leibal.com (не store.leibal.com)
+from urllib.parse import urlparse
+
+if "leibal.com" in base:
+    p = urlparse(href)
+
+    # только основной домен leibal.com
+    if p.netloc == "leibal.com":
+        # только посты вида /interiors/<slug>/ или /architecture/<slug>/
+        if re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
+            links.add(href)
+
+    continue
 
         # ArchDaily: проекты с числовым id
         if "archdaily.com" in base:
