@@ -130,52 +130,41 @@ def normalize_url(url: str) -> str:
 
 
 def extract_links_from_list(source, html):
-    # RSS режим (например Dezeen /feed/)
-  if getattr(source, "paging", "") == "rss":
-    import xml.etree.ElementTree as ET
 
-    links = set()
+    # RSS режим
+    if getattr(source, "paging", "") == "rss":
+        import xml.etree.ElementTree as ET
+        links = set()
+        cleaned = html.lstrip()
 
-    # Иногда приходит HTML/редирект. Чистим всё до первого "<"
-    cleaned = html.lstrip()
+        if not (cleaned.startswith("<?xml") or "<rss" in cleaned[:200] or "<feed" in cleaned[:200]):
+            return []
 
-    # Если это не похоже на XML/RSS — просто вернём пусто (не падаем)
-    if not (cleaned.startswith("<?xml") or "<rss" in cleaned[:200] or "<feed" in cleaned[:200]):
-        return []
+        first_lt = cleaned.find("<")
+        if first_lt > 0:
+            cleaned = cleaned[first_lt:]
 
-    # Иногда перед XML есть мусор — обрежем до первого "<"
-    first_lt = cleaned.find("<")
-    if first_lt > 0:
-        cleaned = cleaned[first_lt:]
+        try:
+            root = ET.fromstring(cleaned)
+        except ET.ParseError:
+            return []
 
-    try:
-        root = ET.fromstring(cleaned)
-    except ET.ParseError:
-        return []
+        for item in root.findall(".//item"):
+            link = item.findtext("link")
+            if link:
+                links.add(link.strip())
 
-    for item in root.findall(".//item"):
-        link = item.findtext("link")
-        if link:
-            links.add(link.strip())
-
-    # Atom fallback
-    if not links:
-        for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
-            link_el = entry.find("{http://www.w3.org/2005/Atom}link")
-            if link_el is not None and link_el.get("href"):
-                links.add(link_el.get("href").strip())
-
-    return list(links)
+        return list(links)
 
     soup = BeautifulSoup(html, "html.parser")
     links = set()
 
     from urllib.parse import urljoin, urlparse
-
     parsed = urlparse(source.list_url)
     base = f"{parsed.scheme}://{parsed.netloc}"
 
     for a in soup.find_all("a", href=True):
+
         href = a["href"].strip()
         if not href:
             continue
@@ -189,51 +178,45 @@ def extract_links_from_list(source, html):
 
         href = href.split("#")[0]
 
-        # ban store.leibal.com completely
+        # ban store.leibal.com
         p0 = urlparse(href)
         if p0.netloc.endswith("leibal.com") and p0.netloc != "leibal.com":
             continue
 
-    # Leibal (строго посты)
-    if "leibal.com" in base:
-        p = urlparse(href)
-
-        if p.netloc == "leibal.com":
+        # --- Leibal ---
+        if "leibal.com" in base:
+            p = urlparse(href)
             path = p.path.strip("/")
             parts = path.split("/")
-
-            if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
+            if p.netloc == "leibal.com" and len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
                 links.add(href)
+            continue
 
-        continue
-
-    # ArchDaily (проекты с числовым id)
-    if "archdaily.com" in base:
-        if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
-            links.add(href)
-        continue
-
-    # Dezeen (если не RSS)
-    if "dezeen.com" in base:
-        if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
-            links.add(href)
-        continue
-
-    # Landezine (проекты типа /slug/)
-    if "landezine.com" in base:
-        p = urlparse(href)
-        if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
-            if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
+        # --- ArchDaily ---
+        if "archdaily.com" in base:
+            if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
                 links.add(href)
-        continue
+            continue
 
-    # MONSTRUM Projects
-    if "monstrum.dk" in base:
-        p = urlparse(href)
-        if p.netloc == "monstrum.dk":
-            if re.search(r"^/en/playground/[^/]+/?$", p.path):
+        # --- Dezeen ---
+        if "dezeen.com" in base:
+            if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
                 links.add(href)
-        continue
+            continue
+
+        # --- Landezine ---
+        if "landezine.com" in base:
+            p = urlparse(href)
+            if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
+                links.add(href)
+            continue
+
+        # --- MONSTRUM ---
+        if "monstrum.dk" in base:
+            p = urlparse(href)
+            if p.netloc == "monstrum.dk" and re.search(r"^/en/playground/[^/]+/?$", p.path):
+                links.add(href)
+            continue
 
     return list(links)
 
