@@ -188,11 +188,24 @@ def extract_links_from_list(source, html):
             p = urlparse(href)
 
             if p.netloc == "leibal.com":
-                parts = p.path.strip("/").split("/")
 
-                # формат строго: interiors/slug или architecture/slug
-                if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
-                    links.add(href)
+                # игнорируем категории, страницы и т.п.
+                if any(x in p.path for x in [
+                    "/category/",
+                    "/page/",
+                    "/tag/",
+                    "/author/",
+                    "/store"
+                ]):
+                    continue
+
+                # открываем страницу и проверяем og:type
+                try:
+                    page = http_get(href)
+                    if 'property="og:type" content="article"' in page:
+                        links.add(href)
+                except:
+                    pass
 
             continue
 
