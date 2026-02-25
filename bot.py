@@ -194,49 +194,46 @@ def extract_links_from_list(source, html):
         if p0.netloc.endswith("leibal.com") and p0.netloc != "leibal.com":
             continue
 
-# Leibal (строго посты)
-if "leibal.com" in base:
-    p = urlparse(href)
+    # Leibal (строго посты)
+    if "leibal.com" in base:
+        p = urlparse(href)
 
-    if p.netloc == "leibal.com":
-        path = p.path.strip("/")
+        if p.netloc == "leibal.com":
+            path = p.path.strip("/")
+            parts = path.split("/")
 
-        # формат: interiors/slug или architecture/slug
-        parts = path.split("/")
+            if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
+                links.add(href)
 
-        if len(parts) == 2 and parts[0] in ["interiors", "architecture"]:
+        continue
+
+    # ArchDaily (проекты с числовым id)
+    if "archdaily.com" in base:
+        if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
             links.add(href)
+        continue
 
-    continue
+    # Dezeen (если не RSS)
+    if "dezeen.com" in base:
+        if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
+            links.add(href)
+        continue
 
-        # ArchDaily (проекты с числовым id)
-        if "archdaily.com" in base:
-            if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
+    # Landezine (проекты типа /slug/)
+    if "landezine.com" in base:
+        p = urlparse(href)
+        if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
+            if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
                 links.add(href)
-            continue
+        continue
 
-        # Dezeen (если не RSS)
-        if "dezeen.com" in base:
-            if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
+    # MONSTRUM Projects
+    if "monstrum.dk" in base:
+        p = urlparse(href)
+        if p.netloc == "monstrum.dk":
+            if re.search(r"^/en/playground/[^/]+/?$", p.path):
                 links.add(href)
-            continue
-
-        # Landezine (проекты типа /slug/)
-        if "landezine.com" in base:
-            p = urlparse(href)
-            if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
-                if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
-                    links.add(href)
-            continue
-
-        # MONSTRUM Projects
-        if "monstrum.dk" in base:
-            p = urlparse(href)
-            if p.netloc == "monstrum.dk":
-                # проекты у них обычно: /en/playground/<slug>
-                if re.search(r"^/en/playground/[^/]+/?$", p.path):
-                    links.add(href)
-            continue
+        continue
 
     return list(links)
 
