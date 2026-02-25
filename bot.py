@@ -185,14 +185,18 @@ def extract_links_from_list(source, html):
             href = "https:" + href
 
         href = href.split("#")[0]
+        
+       # ban store.leibal.com completely
+p0 = urlparse(href)
+if p0.netloc.endswith("leibal.com") and p0.netloc != "leibal.com":
+    continue
 
-        # Leibal (строго leibal.com, не store)
-        if "leibal.com" in base:
-            p = urlparse(href)
-            if p.netloc == "leibal.com":
-                if re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
-                    links.add(href)
-            continue
+# Leibal (строго leibal.com, не store)
+if "leibal.com" in base:
+    p = urlparse(href)
+    if p.netloc == "leibal.com" and re.search(r"^/(interiors|architecture)/[^/]+/?$", p.path):
+        links.add(href)
+    continue
 
         # ArchDaily (проекты с числовым id)
         if "archdaily.com" in base:
