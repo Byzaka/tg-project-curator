@@ -278,15 +278,6 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
 
     full_text = soup.get_text("\n", strip=True)
 
-    elif "monstrum.dk" in domain:
-        authors = find_credit(full_text, [
-            r"COLLABORATION:\s*([^\n]+)",
-        ])
-        photographer = find_credit(full_text, [
-            r"Cover photo.*?by\s+([^\n]+)",
-            r"Photo by\s+([^\n]+)",
-        ])
-
     # heuristics for authors/bureau + photographer
     authors = None
     photographer = None
@@ -341,17 +332,14 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
             r"Photo(?:s)?\s*:\s*([^\n]+)",
         ])
 
-    elif "worldlandscapearchitect" in domain:
-        authors = find_credit(full_text, [
-            r"Landscape\s+Architect(?:ure)?\s*:\s*([^\n]+)",
-            r"Designer\s*:\s*([^\n]+)",
-            r"Firm\s*:\s*([^\n]+)",
-        ])
-        photographer = find_credit(full_text, [
-            r"Photographer\s*:\s*([^\n]+)",
-            r"Photography\s*:\s*([^\n]+)",
-            r"Photo(?:s)?\s*:\s*([^\n]+)",
-        ])
+    elif "monstrum.dk" in domain:
+    authors = find_credit(full_text, [
+        r"COLLABORATION:\s*([^\n]+)",
+    ])
+    photographer = find_credit(full_text, [
+        r"Photo by\s+([^\n]+)",
+        r"Cover photo.*?by\s+([^\n]+)",
+    ])
 
     # Trim description to a short snippet
     if desc:
