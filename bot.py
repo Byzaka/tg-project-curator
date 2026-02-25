@@ -114,7 +114,7 @@ def build_paged_url(source: Source, page: int) -> str:
         return f"{base}/page/{page}"
 
         if source.paging == "single":
-        return source.list_url
+            return source.list_url
         
     base = source.list_url.rstrip("/")
     return f"{base}/page/{page}/"
