@@ -220,9 +220,13 @@ if "leibal.com" in base:
 
         # World Landscape Architect
         if "worldlandscapearchitect.com" in base:
-            if "worldlandscapearchitect.com" in href and not any(x in href for x in ["/category/", "/tag/"]):
+    p = urlparse(href)
+    if p.netloc == "worldlandscapearchitect.com":
+        # типичные посты WP: /2024/.. или /some-title/
+        if not any(x in p.path for x in ["/category/", "/tag/", "/page/", "/author/"]):
+            if len(p.path.strip("/")) > 5:
                 links.add(href)
-            continue
+    continue
 
     return list(links)
 
