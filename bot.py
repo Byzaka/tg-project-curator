@@ -128,15 +128,41 @@ def normalize_url(url: str) -> str:
 
 def extract_links_from_list(source, html):
     # RSS режим (например Dezeen /feed/)
-    if getattr(source, "paging", "") == "rss":
-        import xml.etree.ElementTree as ET
-        links = set()
-        root = ET.fromstring(html)
-        for item in root.findall(".//item"):
-            link = item.findtext("link")
-            if link:
-                links.add(link.strip())
-        return list(links)
+  if getattr(source, "paging", "") == "rss":
+    import xml.etree.ElementTree as ET
+
+    links = set()
+
+    # Иногда приходит HTML/редирект. Чистим всё до первого "<"
+    cleaned = html.lstrip()
+
+    # Если это не похоже на XML/RSS — просто вернём пусто (не падаем)
+    if not (cleaned.startswith("<?xml") or "<rss" in cleaned[:200] or "<feed" in cleaned[:200]):
+        return []
+
+    # Иногда перед XML есть мусор — обрежем до первого "<"
+    first_lt = cleaned.find("<")
+    if first_lt > 0:
+        cleaned = cleaned[first_lt:]
+
+    try:
+        root = ET.fromstring(cleaned)
+    except ET.ParseError:
+        return []
+
+    for item in root.findall(".//item"):
+        link = item.findtext("link")
+        if link:
+            links.add(link.strip())
+
+    # Atom fallback
+    if not links:
+        for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
+            link_el = entry.find("{http://www.w3.org/2005/Atom}link")
+            if link_el is not None and link_el.get("href"):
+                links.add(link_el.get("href").strip())
+
+    return list(links)
 
     soup = BeautifulSoup(html, "html.parser")
     links = set()
