@@ -113,6 +113,9 @@ def build_paged_url(source: Source, page: int) -> str:
         base = source.list_url.rstrip("/")
         return f"{base}/page/{page}"
 
+        if source.paging == "single":
+        return source.list_url
+        
     base = source.list_url.rstrip("/")
     return f"{base}/page/{page}/"
 
@@ -226,14 +229,13 @@ if "leibal.com" in base:
                     links.add(href)
             continue
 
-        # World Landscape Architect
-        if "worldlandscapearchitect.com" in base:
+        # MONSTRUM Projects
+        if "monstrum.dk" in base:
             p = urlparse(href)
-            if p.netloc == "worldlandscapearchitect.com":
-                # типичные посты WP: /2024/.. или /some-title/
-                if not any(x in p.path for x in ["/category/", "/tag/", "/page/", "/author/"]):
-                    if len(p.path.strip("/")) > 5:
-                        links.add(href)
+            if p.netloc == "monstrum.dk":
+                # проекты у них обычно: /en/playground/<slug>
+                if re.search(r"^/en/playground/[^/]+/?$", p.path):
+                    links.add(href)
             continue
 
     return list(links)
@@ -278,6 +280,15 @@ def parse_project(url: str) -> Dict[str, Optional[str]]:
     preview = meta_content(soup, "og:image")
 
     full_text = soup.get_text("\n", strip=True)
+
+    elif "monstrum.dk" in domain:
+        authors = find_credit(full_text, [
+            r"COLLABORATION:\s*([^\n]+)",
+        ])
+        photographer = find_credit(full_text, [
+            r"Cover photo.*?by\s+([^\n]+)",
+            r"Photo by\s+([^\n]+)",
+        ])
 
     # heuristics for authors/bureau + photographer
     authors = None
@@ -435,7 +446,19 @@ def add_new_links_to_queue(state: Dict, source: Source, links: List[str]) -> Non
 def pick_old_link(state: Dict, source: Source) -> Optional[str]:
     s = state[source.id]
     sent = set(s["sent_urls"])
-
+    
+    if source.paging == "single":
+        try:
+            html = http_get(source.list_url)
+            links = extract_links_from_list(source, html)
+        except Exception:
+            return None
+        random.shuffle(links)
+        for u in links:
+            if u not in sent:
+                return u
+        return None
+    
     # Try scanning deeper pages until we find an unseen link
     for _ in range(1, 6):  # at most 5 pages per run (polite)
         page = s.get("archive_page", 1)
