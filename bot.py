@@ -155,7 +155,7 @@ def extract_links_from_list(source, html):
 
         href = urljoin(base, href)
         if href.startswith("//"):
-        href = "https:" + href
+            href = "https:" + href
         href = href.split("#")[0]
 
       # Leibal: только посты на leibal.com (не store.leibal.com)
