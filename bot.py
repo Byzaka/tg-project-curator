@@ -198,28 +198,28 @@ if "leibal.com" in base:
         links.add(href)
     continue
 
-        # ArchDaily (проекты с числовым id)
-        if "archdaily.com" in base:
-            if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
-                links.add(href)
-            continue
+# ArchDaily (проекты с числовым id)
+if "archdaily.com" in base:
+    if "archdaily.com" in href and re.search(r"archdaily\.com/\d{6,}/", href) and "/search/" not in href:
+        links.add(href)
+    continue
 
-        # Dezeen (если не RSS)
-        if "dezeen.com" in base:
-            if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
-                links.add(href)
-            continue
+# Dezeen (если не RSS)
+if "dezeen.com" in base:
+    if re.search(r"dezeen\.com/\d{4}/\d{2}/\d{2}/", href):
+        links.add(href)
+    continue
 
-        # Landezine (проекты типа /slug/)
-        if "landezine.com" in base:
-            p = urlparse(href)
-            if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
-                if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
-                    links.add(href)
-            continue
+# Landezine (проекты типа /slug/)
+if "landezine.com" in base:
+    p = urlparse(href)
+    if p.netloc == "landezine.com" and re.search(r"^/[^/]+/?$", p.path):
+        if not any(x in href for x in ["/about", "/contact", "/privacy", "/terms"]):
+            links.add(href)
+    continue
 
-        # World Landscape Architect
-        if "worldlandscapearchitect.com" in base:
+# World Landscape Architect
+if "worldlandscapearchitect.com" in base:
     p = urlparse(href)
     if p.netloc == "worldlandscapearchitect.com":
         # типичные посты WP: /2024/.. или /some-title/
