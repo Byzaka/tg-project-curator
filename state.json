@@ -2,10 +2,10 @@
   "leibal_arch": {
     "sent_urls": [
       "https://leibal.com/interiors/porthmadog-residence/",
-      "https://leibal.com/interiors/komorebi-2/"
+      "https://leibal.com/interiors/komorebi-2/",
+      "https://leibal.com/interiors/wishing-well/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/wishing-well/",
       "https://leibal.com/interiors/hiavens/",
       "https://leibal.com/interiors/east-hampton-residence/",
       "https://leibal.com/interiors/crabe-fantome/",
@@ -19,10 +19,10 @@
   "leibal_int": {
     "sent_urls": [
       "https://leibal.com/interiors/embassy/",
-      "https://leibal.com/interiors/wishing-well/"
+      "https://leibal.com/interiors/wishing-well/",
+      "https://leibal.com/interiors/room-1101/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/room-1101/",
       "https://leibal.com/interiors/redbow-events-office/",
       "https://leibal.com/interiors/lakeside/",
       "https://leibal.com/interiors/marais-apartment/",
@@ -36,10 +36,10 @@
   "archdaily_projects": {
     "sent_urls": [
       "https://www.archdaily.com/1038496/itupeva-house-una-munizviegas",
-      "https://www.archdaily.com/1038847/the-louvered-house-andblack-design-studio"
+      "https://www.archdaily.com/1038847/the-louvered-house-andblack-design-studio",
+      "https://www.archdaily.com/1038945/sestajovice-house-mackovic-architecture"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038945/sestajovice-house-mackovic-architecture",
       "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
       "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
       "https://www.archdaily.com/1038853/house-in-santiago-s-ar",
@@ -67,10 +67,10 @@
   "archdaily_landscape": {
     "sent_urls": [
       "https://www.archdaily.com/1036699/le-carrier-cabin-le-festival-des-cabanes",
-      "https://www.archdaily.com/1038361/qingjiang-furong-pavilions-flip-studio"
+      "https://www.archdaily.com/1038361/qingjiang-furong-pavilions-flip-studio",
+      "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
       "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
       "https://www.archdaily.com/1038261/corrego-do-bispo-linear-park-natureza-urbana",
       "https://www.archdaily.com/1037150/the-hungry-caterpillar-lyth-design",
@@ -98,10 +98,10 @@
   "dezeen_arch": {
     "sent_urls": [
       "https://www.dezeen.com/2026/02/22/tristan-burfield-no23-annexe/",
-      "https://www.dezeen.com/2026/02/20/arb-five-year-strategy/"
+      "https://www.dezeen.com/2026/02/20/arb-five-year-strategy/",
+      "https://www.dezeen.com/2026/02/15/saadiyat-island-cultural-buildings/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/15/saadiyat-island-cultural-buildings/",
       "https://www.dezeen.com/2026/02/23/central-station-multistudio-phoenix/",
       "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/",
       "https://www.dezeen.com/2026/02/14/oddly-satisfying-architecture-roundups/",
@@ -155,10 +155,10 @@
   "dezeen_int": {
     "sent_urls": [
       "https://www.dezeen.com/2026/02/13/nicola-weetch-london-fields-record-bar-bambi/",
-      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/"
+      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/",
+      "https://www.dezeen.com/2026/02/04/zomuzi-gantri-the-shop-san-franscisco/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/04/zomuzi-gantri-the-shop-san-franscisco/",
       "https://www.dezeen.com/2026/02/02/camper-shin-maru-jorge-penades/",
       "https://www.dezeen.com/2026/02/09/decancq-vercruysse-bungalow-sint-martens-latem/",
       "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/",
@@ -212,10 +212,10 @@
   "landezine_play": {
     "sent_urls": [
       "https://landezine.com/privacy-policy/",
-      "https://landezine.com/jubileumsparken-play-learn-park-and-blue-park-by-mareld-landskapsarkitekter/"
+      "https://landezine.com/jubileumsparken-play-learn-park-and-blue-park-by-mareld-landskapsarkitekter/",
+      "https://landezine.com/historische-wallanlagen-hoxter-by-frl/"
     ],
     "queue_new": [
-      "https://landezine.com/historische-wallanlagen-hoxter-by-frl/",
       "https://landezine.com/metalco/",
       "https://landezine.com/energy-square-kerckebosch-by-wurck/",
       "https://landezine.com/gifizsee-in-offenburg-by-bhmp/",
@@ -303,10 +303,10 @@
   "monstrum_projects": {
     "sent_urls": [
       "https://monstrum.dk/en/playground/life-stream",
-      "https://monstrum.dk/en/playground/journey-lego-house"
+      "https://monstrum.dk/en/playground/journey-lego-house",
+      "https://monstrum.dk/en/playground/visiting-seals"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/visiting-seals",
       "https://monstrum.dk/en/playground/globe",
       "https://monstrum.dk/en/playground/dubai-creek-harbour",
       "https://monstrum.dk/en/playground/mondragon",
