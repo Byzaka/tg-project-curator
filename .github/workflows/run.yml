@@ -2,8 +2,8 @@ name: Run curator bot
 
 on:
   schedule:
-    - cron: "0 5 * * *"
-    - cron: "0 15 * * *"
+    - cron: "0 3 * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 permissions:
