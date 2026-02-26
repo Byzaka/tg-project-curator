@@ -6,14 +6,15 @@
       "https://leibal.com/interiors/wishing-well/",
       "https://leibal.com/interiors/hiavens/",
       "https://leibal.com/interiors/crabe-fantome/",
-      "https://leibal.com/interiors/east-hampton-residence/"
+      "https://leibal.com/interiors/east-hampton-residence/",
+      "https://leibal.com/interiors/crabe-fantome/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/crabe-fantome/",
       "https://leibal.com/interiors/ortiz-house/",
       "https://leibal.com/interiors/casa-oinarri/",
       "https://leibal.com/interiors/91-0/",
-      "https://leibal.com/interiors/bruno-michele/"
+      "https://leibal.com/interiors/bruno-michele/",
+      "https://leibal.com/interiors/staggered-cabin/"
     ],
     "archive_page": 2
   },
@@ -24,16 +25,18 @@
       "https://leibal.com/interiors/room-1101/",
       "https://leibal.com/interiors/redbow-events-office/",
       "https://leibal.com/travel/rosewood-courchevel-le-jardin-alpin/",
-      "https://leibal.com/interiors/lakeside/"
+      "https://leibal.com/interiors/lakeside/",
+      "https://leibal.com/interiors/marais-apartment/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/marais-apartment/",
       "https://leibal.com/interiors/cancan-flagship/",
       "https://leibal.com/interiors/east-river-residence/",
       "https://leibal.com/interiors/casa-oinarri/",
       "https://leibal.com/interiors/colorado-project/",
       "https://leibal.com/travel/rosewood-courchevel-le-jardin-alpin/",
-      "https://leibal.com/interiors/fhc-apartment/"
+      "https://leibal.com/interiors/fhc-apartment/",
+      "https://leibal.com/interiors/staggered-cabin/",
+      "https://leibal.com/interiors/angel-flat-london/"
     ],
     "archive_page": 2
   },
@@ -44,7 +47,8 @@
       "https://www.archdaily.com/1038945/sestajovice-house-mackovic-architecture",
       "https://www.archdaily.com/1038842/beit-hawa-badie-architects",
       "https://www.archdaily.com/1038819/crabe-fantome-evolutive-housing-ouvrages",
-      "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell"
+      "https://www.archdaily.com/1038849/sculpted-sanctuary-house-dwell",
+      "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038853/house-in-santiago-s-ar",
@@ -70,9 +74,11 @@
       "https://www.archdaily.com/1038915/the-crafts-college-dorte-mandrup",
       "https://www.archdaily.com/1038961/sar-residence-oad",
       "https://www.archdaily.com/1039032/kand-kaav-villa-abar-office",
-      "https://www.archdaily.com/1038990/house-in-avandaro-estudio-ignacio-urquiza-ana-paula-de-alba"
+      "https://www.archdaily.com/1038990/house-in-avandaro-estudio-ignacio-urquiza-ana-paula-de-alba",
+      "https://www.archdaily.com/1038938/house-of-dentist-couple-rcab-studio",
+      "https://www.archdaily.com/1038908/pine-flat-faulkner-architects"
     ],
-    "archive_page": 2
+    "archive_page": 3
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -81,7 +87,8 @@
       "https://www.archdaily.com/1038541/art-basel-qatar-in-the-assembly-of-lovers-counterspace",
       "https://www.archdaily.com/1037247/avenue-and-son-skatepark-various-associates",
       "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal",
-      "https://www.archdaily.com/1038261/corrego-do-bispo-linear-park-natureza-urbana"
+      "https://www.archdaily.com/1038261/corrego-do-bispo-linear-park-natureza-urbana",
+      "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1037150/the-hungry-caterpillar-lyth-design",
@@ -105,7 +112,7 @@
       "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
       "https://www.archdaily.com/1038860/sibeliuspark-kcap"
     ],
-    "archive_page": 2
+    "archive_page": 3
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -114,10 +121,10 @@
       "https://www.dezeen.com/2026/02/15/saadiyat-island-cultural-buildings/",
       "https://www.dezeen.com/2026/02/23/central-station-multistudio-phoenix/",
       "https://www.dezeen.com/2026/02/16/bekarch-converts-disused-workshop-skylight-apartment/",
-      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/"
+      "https://www.dezeen.com/2026/02/16/aia-global-campus-architecture-design-washington-dc-ehdd/",
+      "https://www.dezeen.com/2026/02/14/oddly-satisfying-architecture-roundups/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/14/oddly-satisfying-architecture-roundups/",
       "https://www.dezeen.com/2026/02/14/john-puttick-associates-horizon-youth-zone/",
       "https://www.dezeen.com/2026/02/17/neiheiser-argyros-exeter-road-pavilion/",
       "https://www.dezeen.com/2026/02/16/chris-williamson-riba-president-interview/",
@@ -164,7 +171,11 @@
       "https://www.dezeen.com/2026/02/17/brutalist-southbank-centre-heritage-listed-dezeen-debate/",
       "https://www.dezeen.com/2026/02/25/lina-ghotmeh-milan-design-week-debut-pink-labyrinth/",
       "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/",
-      "https://www.dezeen.com/2026/02/25/pamba-bike-refuge-urlo-studio-ecuador/"
+      "https://www.dezeen.com/2026/02/25/pamba-bike-refuge-urlo-studio-ecuador/",
+      "https://www.dezeen.com/2026/02/26/stone-clouds-data-centre-carl-fredrik-svenstedt-architects/",
+      "https://www.dezeen.com/2026/02/26/ma-rs-serenity-retreat/",
+      "https://www.dezeen.com/2026/02/26/la-fabrica-ricardo-bofill-nino-ferrari-mathis-alvaro-siza-safdie/",
+      "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/"
     ],
     "archive_page": 2
   },
@@ -175,10 +186,10 @@
       "https://www.dezeen.com/2026/02/04/zomuzi-gantri-the-shop-san-franscisco/",
       "https://www.dezeen.com/2026/02/02/camper-shin-maru-jorge-penades/",
       "https://www.dezeen.com/2026/02/25/cake-architecture-architectural-landmarks-thames-watchhouse/",
-      "https://www.dezeen.com/2026/02/09/decancq-vercruysse-bungalow-sint-martens-latem/"
+      "https://www.dezeen.com/2026/02/09/decancq-vercruysse-bungalow-sint-martens-latem/",
+      "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/",
       "https://www.dezeen.com/2026/02/08/pasadena-hillside-home-mid-century-renovation-cover-architecture/",
       "https://www.dezeen.com/2026/02/22/mexico-city-restaurant-interiors-lookbooks/",
       "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/",
@@ -223,7 +234,8 @@
       "https://www.dezeen.com/2026/02/20/l-architects-overhauls-clients-last-home-revealing-original-features/",
       "https://www.dezeen.com/2026/01/27/lalique-icons-marc-ange-hanane-el-moutii-homes/",
       "https://www.dezeen.com/2026/02/03/pickleball-court-new-bahru-hall-singapore-open-studio/",
-      "https://www.dezeen.com/2026/02/26/rachael-gowdridge-the-dean-hotel-berlin/"
+      "https://www.dezeen.com/2026/02/26/rachael-gowdridge-the-dean-hotel-berlin/",
+      "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/"
     ],
     "archive_page": 2
   },
@@ -234,7 +246,8 @@
       "https://landezine.com/historische-wallanlagen-hoxter-by-frl/",
       "https://landezine.com/metalco/",
       "https://landezine.com/cityscape-award-2026-opens-international-call-for-landscape-architecture-projects/",
-      "https://landezine.com/energy-square-kerckebosch-by-wurck/"
+      "https://landezine.com/energy-square-kerckebosch-by-wurck/",
+      "https://landezine.com/xiaohu-park-by-zt-studio/"
     ],
     "queue_new": [
       "https://landezine.com/gifizsee-in-offenburg-by-bhmp/",
@@ -320,9 +333,15 @@
       "https://landezine.com/strategies-against-sameness-1/",
       "https://landezine.com/hold-still/",
       "https://landezine.com/werkspoorcampus-by-flux-landscape-architecture/",
-      "https://landezine.com/lars-hopstock-hermann-mattern-idyll-and-ideology/"
+      "https://landezine.com/lars-hopstock-hermann-mattern-idyll-and-ideology/",
+      "https://landezine.com/red-list-garden-by-buro-harro/",
+      "https://landezine.com/clearing-the-woods-dan-handel-on-forest-metaphors/",
+      "https://landezine.com/taking-root/",
+      "https://landezine.com/dr-stephan-brenneisen-living-roofs-biodiversity-and-water-retention-by-design-measures/",
+      "https://landezine.com/rhone-river-banks-by-in-situ/",
+      "https://landezine.com/strandskogen-arninge-ullna-by-topia/"
     ],
-    "archive_page": 2
+    "archive_page": 3
   },
   "monstrum_projects": {
     "sent_urls": [
@@ -331,7 +350,8 @@
       "https://monstrum.dk/en/playground/visiting-seals",
       "https://monstrum.dk/en/playground/globe",
       "https://monstrum.dk/en/playground/crooked-houses",
-      "https://monstrum.dk/en/playground/dubai-creek-harbour"
+      "https://monstrum.dk/en/playground/dubai-creek-harbour",
+      "https://monstrum.dk/en/playground/salmon"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/mondragon",
