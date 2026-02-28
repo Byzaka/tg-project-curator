@@ -10,10 +10,10 @@
       "https://leibal.com/interiors/crabe-fantome/",
       "https://leibal.com/interiors/ortiz-house/",
       "https://leibal.com/interiors/casa-oinarri/",
-      "https://leibal.com/interiors/91-0/"
+      "https://leibal.com/interiors/91-0/",
+      "https://leibal.com/interiors/bruno-michele/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/bruno-michele/",
       "https://leibal.com/interiors/staggered-cabin/",
       "https://leibal.com/architecture/house-in-gurre/"
     ],
@@ -30,10 +30,10 @@
       "https://leibal.com/interiors/marais-apartment/",
       "https://leibal.com/interiors/cancan-flagship/",
       "https://leibal.com/interiors/east-river-residence/",
-      "https://leibal.com/interiors/casa-oinarri/"
+      "https://leibal.com/interiors/casa-oinarri/",
+      "https://leibal.com/interiors/colorado-project/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/colorado-project/",
       "https://leibal.com/travel/rosewood-courchevel-le-jardin-alpin/",
       "https://leibal.com/interiors/fhc-apartment/",
       "https://leibal.com/interiors/staggered-cabin/",
@@ -53,7 +53,8 @@
       "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc",
       "https://www.archdaily.com/1038853/house-in-santiago-s-ar",
       "https://www.archdaily.com/1038494/house-cr-so-arquitetura-and-design",
-      "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects"
+      "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects",
+      "https://www.archdaily.com/1038277/komorebi-family-home-conform"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038694/havenwood-atlas-architects",
@@ -89,7 +90,7 @@
       "https://www.archdaily.com/1038989/barao-geraldo-house-gil-mello-arquitetura",
       "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group"
     ],
-    "archive_page": 4
+    "archive_page": 5
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -102,7 +103,8 @@
       "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio",
       "https://www.archdaily.com/1037150/the-hungry-caterpillar-lyth-design",
       "https://www.archdaily.com/1033965/piloti-installation-marc-fornes-theverymany",
-      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects"
+      "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
+      "https://www.archdaily.com/1031892/hito-entrelazos-watchtower-javiera-munoz-olave"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038011/look-out-point-vresse-sur-semois-an-schoenmaekers-plus-sbe-nv",
@@ -124,7 +126,7 @@
       "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
       "https://www.archdaily.com/1038860/sibeliuspark-kcap"
     ],
-    "archive_page": 4
+    "archive_page": 5
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -137,10 +139,10 @@
       "https://www.dezeen.com/2026/02/14/oddly-satisfying-architecture-roundups/",
       "https://www.dezeen.com/2026/02/14/john-puttick-associates-horizon-youth-zone/",
       "https://www.dezeen.com/2026/02/17/neiheiser-argyros-exeter-road-pavilion/",
-      "https://www.dezeen.com/2026/02/16/chris-williamson-riba-president-interview/"
+      "https://www.dezeen.com/2026/02/16/chris-williamson-riba-president-interview/",
+      "https://www.dezeen.com/2026/02/15/felix-lewis-architects-the-works/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/15/felix-lewis-architects-the-works/",
       "https://www.dezeen.com/2026/02/21/tampa-bay-rays-new-stadium-dezeen-agenda-us/",
       "https://www.dezeen.com/2026/02/24/design-alliance-architects-missouri-chapel-of-the-risen-christ/",
       "https://www.dezeen.com/2026/02/17/chinese-projects-completed-year-of-horse/",
@@ -194,7 +196,11 @@
       "https://www.dezeen.com/2026/02/27/the-shuttle-badmington-centre-bhubaneswar-odisha-india/",
       "https://www.dezeen.com/2026/02/27/coastal-house-splinter-society/",
       "https://www.dezeen.com/2026/02/27/white-house-east-wing-ukraine-war-interiors-orion-spacecraft-dezeen-weekly-podcast/",
-      "https://www.dezeen.com/2026/02/27/safdie-architects-florida-mandarin-oriental-residences/"
+      "https://www.dezeen.com/2026/02/27/safdie-architects-florida-mandarin-oriental-residences/",
+      "https://www.dezeen.com/2026/02/28/orion-spacecraft-dezeen-in-depth/",
+      "https://www.dezeen.com/2026/02/28/pritzker-prize-delayed-this-week/",
+      "https://www.dezeen.com/2026/02/28/top-houses-february-2026/",
+      "https://www.dezeen.com/2026/02/28/house-nakano-tokyo-hoaa/"
     ],
     "archive_page": 2
   },
@@ -209,10 +215,10 @@
       "https://www.dezeen.com/2026/02/03/mesura-casa-batllo-gallery/",
       "https://www.dezeen.com/2026/02/08/pasadena-hillside-home-mid-century-renovation-cover-architecture/",
       "https://www.dezeen.com/2026/02/22/mexico-city-restaurant-interiors-lookbooks/",
-      "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/"
+      "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/",
+      "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/",
       "https://www.dezeen.com/2026/02/12/el-departamento-hoff-store-london/",
       "https://www.dezeen.com/2026/02/09/the-hoxton-hotel-20th-anniversary-revamp-shoreditch/",
       "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
@@ -271,7 +277,8 @@
       "https://landezine.com/xiaohu-park-by-zt-studio/",
       "https://landezine.com/gifizsee-in-offenburg-by-bhmp/",
       "https://landezine.com/ooo-the-inner-surplus-of-meaning/",
-      "https://landezine.com/darling-harbour-playground-by-aspect-studios/"
+      "https://landezine.com/darling-harbour-playground-by-aspect-studios/",
+      "https://landezine.com/victor-stanley/"
     ],
     "queue_new": [
       "https://landezine.com/loops-changing-intensities-by-mbyland/",
@@ -377,9 +384,14 @@
       "https://landezine.com/piazza-cortevecchia-by-inout-architettura/",
       "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/",
       "https://landezine.com/interview-with-taktyk-landscape-architecture-is-not-enough/",
-      "https://landezine.com/roche-pocket-park-by-bryum/"
+      "https://landezine.com/roche-pocket-park-by-bryum/",
+      "https://landezine.com/the-harm-of-harmonising/",
+      "https://landezine.com/designing-little-island-interview-with-signe-nielsen-of-mnla/",
+      "https://landezine.com/norreport-station-copenhagen/",
+      "https://landezine.com/lila-2020-cloud-of-hometown-landscape-design/",
+      "https://landezine.com/new-provincial-connection-n69-brabant-netherlands-hns/"
     ],
-    "archive_page": 4
+    "archive_page": 5
   },
   "monstrum_projects": {
     "sent_urls": [
@@ -392,7 +404,8 @@
       "https://monstrum.dk/en/playground/salmon",
       "https://monstrum.dk/en/playground/mondragon",
       "https://monstrum.dk/en/playground/rivergiants",
-      "https://monstrum.dk/en/playground/neighbourhood-songbird-village"
+      "https://monstrum.dk/en/playground/neighbourhood-songbird-village",
+      "https://monstrum.dk/en/playground/avocet-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/legacy-whale-vejle",
