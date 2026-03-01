@@ -12,11 +12,10 @@
       "https://leibal.com/interiors/casa-oinarri/",
       "https://leibal.com/interiors/91-0/",
       "https://leibal.com/interiors/bruno-michele/",
-      "https://leibal.com/interiors/staggered-cabin/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/staggered-cabin/",
       "https://leibal.com/architecture/house-in-gurre/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "leibal_int": {
@@ -32,13 +31,14 @@
       "https://leibal.com/interiors/east-river-residence/",
       "https://leibal.com/interiors/casa-oinarri/",
       "https://leibal.com/interiors/colorado-project/",
-      "https://leibal.com/travel/rosewood-courchevel-le-jardin-alpin/"
+      "https://leibal.com/travel/rosewood-courchevel-le-jardin-alpin/",
+      "https://leibal.com/interiors/fhc-apartment/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/fhc-apartment/",
       "https://leibal.com/interiors/staggered-cabin/",
       "https://leibal.com/interiors/angel-flat-london/",
-      "https://leibal.com/architecture/house-in-gurre/"
+      "https://leibal.com/architecture/house-in-gurre/",
+      "https://leibal.com/a-night-at/susurros-del-corazon/"
     ],
     "archive_page": 2
   },
@@ -55,7 +55,8 @@
       "https://www.archdaily.com/1038494/house-cr-so-arquitetura-and-design",
       "https://www.archdaily.com/1038855/lefferts-manor-house-abruzzo-bodziak-architects",
       "https://www.archdaily.com/1038277/komorebi-family-home-conform",
-      "https://www.archdaily.com/1038694/havenwood-atlas-architects"
+      "https://www.archdaily.com/1038694/havenwood-atlas-architects",
+      "https://www.archdaily.com/1038180/semi-detached-house-in-friedrichsruhe-larob-studio-fur-architektur-plus-florian-nagler-architekten"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038498/exeter-road-pavilion-neiheiser-argyros",
@@ -91,7 +92,7 @@
       "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group",
       "https://www.archdaily.com/1039187/shahrak-villa-next-office-alireza-taghaboni"
     ],
-    "archive_page": 5
+    "archive_page": 6
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -106,7 +107,8 @@
       "https://www.archdaily.com/1033965/piloti-installation-marc-fornes-theverymany",
       "https://www.archdaily.com/1038645/the-day-of-launching-practice-on-earth-plus-arc-z-architects",
       "https://www.archdaily.com/1031892/hito-entrelazos-watchtower-javiera-munoz-olave",
-      "https://www.archdaily.com/1038011/look-out-point-vresse-sur-semois-an-schoenmaekers-plus-sbe-nv"
+      "https://www.archdaily.com/1038011/look-out-point-vresse-sur-semois-an-schoenmaekers-plus-sbe-nv",
+      "https://www.archdaily.com/1029913/sombra-pavilion-mvrdv"
     ],
     "queue_new": [
       "https://www.archdaily.com/1036685/basketball-court-ralph-c-wilson-jr-centennial-park-adjaye-associates",
@@ -125,9 +127,10 @@
       "https://www.archdaily.com/1038686/asympta-leopold-banchini-architects",
       "https://www.archdaily.com/1038481/fujian-wuyi-mountain-national-park-moon-bay-observation-deck-clab-architects",
       "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
-      "https://www.archdaily.com/1038860/sibeliuspark-kcap"
+      "https://www.archdaily.com/1038860/sibeliuspark-kcap",
+      "https://www.archdaily.com/1039033/pavilion-teum-one-aftr"
     ],
-    "archive_page": 5
+    "archive_page": 6
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -142,10 +145,10 @@
       "https://www.dezeen.com/2026/02/17/neiheiser-argyros-exeter-road-pavilion/",
       "https://www.dezeen.com/2026/02/16/chris-williamson-riba-president-interview/",
       "https://www.dezeen.com/2026/02/15/felix-lewis-architects-the-works/",
-      "https://www.dezeen.com/2026/02/21/tampa-bay-rays-new-stadium-dezeen-agenda-us/"
+      "https://www.dezeen.com/2026/02/21/tampa-bay-rays-new-stadium-dezeen-agenda-us/",
+      "https://www.dezeen.com/2026/02/24/design-alliance-architects-missouri-chapel-of-the-risen-christ/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/24/design-alliance-architects-missouri-chapel-of-the-risen-christ/",
       "https://www.dezeen.com/2026/02/17/chinese-projects-completed-year-of-horse/",
       "https://www.dezeen.com/2026/02/18/wt-architecture-boathouse-bothy/",
       "https://www.dezeen.com/2026/02/25/dominique-frelaut-school-tectoniques/",
@@ -201,7 +204,8 @@
       "https://www.dezeen.com/2026/02/28/orion-spacecraft-dezeen-in-depth/",
       "https://www.dezeen.com/2026/02/28/pritzker-prize-delayed-this-week/",
       "https://www.dezeen.com/2026/02/28/top-houses-february-2026/",
-      "https://www.dezeen.com/2026/02/28/house-nakano-tokyo-hoaa/"
+      "https://www.dezeen.com/2026/02/28/house-nakano-tokyo-hoaa/",
+      "https://www.dezeen.com/2026/03/01/shoemakers-museum-purcell/"
     ],
     "archive_page": 2
   },
@@ -218,10 +222,10 @@
       "https://www.dezeen.com/2026/02/22/mexico-city-restaurant-interiors-lookbooks/",
       "https://www.dezeen.com/2026/02/22/penthouse-7-toronto-gh3/",
       "https://www.dezeen.com/2026/02/13/verner-panton-100-years-mid-century-modern/",
-      "https://www.dezeen.com/2026/02/12/el-departamento-hoff-store-london/"
+      "https://www.dezeen.com/2026/02/12/el-departamento-hoff-store-london/",
+      "https://www.dezeen.com/2026/02/09/the-hoxton-hotel-20th-anniversary-revamp-shoreditch/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/09/the-hoxton-hotel-20th-anniversary-revamp-shoreditch/",
       "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
       "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/",
       "https://www.dezeen.com/2026/01/31/gampworks-new-york-city-poke-court/",
@@ -264,7 +268,9 @@
       "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/",
       "https://www.dezeen.com/2026/02/26/house-under-magic-oddball-new-york-bar/",
       "https://www.dezeen.com/2026/02/27/spazio-leone-gallery-showroom-former-victorian-factory/",
-      "https://www.dezeen.com/2026/02/28/charlap-hyman-herrero-pocketbook-hudson-hotel/"
+      "https://www.dezeen.com/2026/02/28/charlap-hyman-herrero-pocketbook-hudson-hotel/",
+      "https://www.dezeen.com/2026/03/01/lionel-jadot-jam-hotel-ghent-artists-atelier/",
+      "https://www.dezeen.com/2026/03/01/monastic-minimalism-interiors-lookbooks/"
     ],
     "archive_page": 2
   },
@@ -281,7 +287,8 @@
       "https://landezine.com/ooo-the-inner-surplus-of-meaning/",
       "https://landezine.com/darling-harbour-playground-by-aspect-studios/",
       "https://landezine.com/victor-stanley/",
-      "https://landezine.com/loops-changing-intensities-by-mbyland/"
+      "https://landezine.com/loops-changing-intensities-by-mbyland/",
+      "https://landezine.com/national-museum-in-szczecin-dialogue-centre-przelomy-by-kwk-promes/"
     ],
     "queue_new": [
       "https://landezine.com/emscher-promenade-by-dtp/",
@@ -393,9 +400,12 @@
       "https://landezine.com/lila-2020-cloud-of-hometown-landscape-design/",
       "https://landezine.com/new-provincial-connection-n69-brabant-netherlands-hns/",
       "https://landezine.com/barrocal-park-by-topiaris/",
-      "https://landezine.com/mayfield-park-by-studio-egret-west/"
+      "https://landezine.com/mayfield-park-by-studio-egret-west/",
+      "https://landezine.com/stone-river-by-jon-piasecki/",
+      "https://landezine.com/aranzadi-meander-park-by-alday-jover/",
+      "https://landezine.com/urban-revitalization-superkilen-by-topotek1-big-superflex/"
     ],
-    "archive_page": 5
+    "archive_page": 6
   },
   "monstrum_projects": {
     "sent_urls": [
@@ -410,7 +420,8 @@
       "https://monstrum.dk/en/playground/rivergiants",
       "https://monstrum.dk/en/playground/neighbourhood-songbird-village",
       "https://monstrum.dk/en/playground/avocet-playground",
-      "https://monstrum.dk/en/playground/legacy-whale-vejle"
+      "https://monstrum.dk/en/playground/legacy-whale-vejle",
+      "https://monstrum.dk/en/playground/railway-museum"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/computer-playground",
