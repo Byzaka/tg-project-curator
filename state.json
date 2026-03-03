@@ -13,9 +13,12 @@
       "https://leibal.com/interiors/91-0/",
       "https://leibal.com/interiors/bruno-michele/",
       "https://leibal.com/interiors/staggered-cabin/",
-      "https://leibal.com/architecture/house-in-gurre/"
+      "https://leibal.com/architecture/house-in-gurre/",
+      "https://leibal.com/interiors/the-inverted-farm/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/lane-cove-house/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -35,12 +38,14 @@
       "https://leibal.com/interiors/fhc-apartment/",
       "https://leibal.com/interiors/staggered-cabin/",
       "https://leibal.com/interiors/angel-flat-london/",
-      "https://leibal.com/architecture/house-in-gurre/"
+      "https://leibal.com/architecture/house-in-gurre/",
+      "https://leibal.com/a-night-at/susurros-del-corazon/"
     ],
     "queue_new": [
-      "https://leibal.com/a-night-at/susurros-del-corazon/",
       "https://leibal.com/interiors/larchmont-residence/",
-      "https://leibal.com/interiors/gf-residence/"
+      "https://leibal.com/interiors/gf-residence/",
+      "https://leibal.com/interiors/the-inverted-farm/",
+      "https://leibal.com/interiors/lane-cove-house/"
     ],
     "archive_page": 2
   },
@@ -61,7 +66,8 @@
       "https://www.archdaily.com/1038180/semi-detached-house-in-friedrichsruhe-larob-studio-fur-architektur-plus-florian-nagler-architekten",
       "https://www.archdaily.com/1038498/exeter-road-pavilion-neiheiser-argyros",
       "https://www.archdaily.com/1038049/the-margaritas-house-tropico-arquitectura",
-      "https://www.archdaily.com/1039009/the-gap-house-atelier-tas"
+      "https://www.archdaily.com/1039009/the-gap-house-atelier-tas",
+      "https://www.archdaily.com/1037185/vale-verde-farm-bruschini-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc",
@@ -100,9 +106,11 @@
       "https://www.archdaily.com/1039091/coastal-dwelling-abon-studio",
       "https://www.archdaily.com/1038991/the-oculus-hayley-pryor-architect",
       "https://www.archdaily.com/1039024/the-sister-houses-oitoo",
-      "https://www.archdaily.com/1039149/shahrzad-villa"
+      "https://www.archdaily.com/1039149/shahrzad-villa",
+      "https://www.archdaily.com/1039188/casabella-di-como-tuckey-design-studio",
+      "https://www.archdaily.com/1039065/stepped-well-house-a-threshold"
     ],
-    "archive_page": 7
+    "archive_page": 8
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -121,7 +129,8 @@
       "https://www.archdaily.com/1029913/sombra-pavilion-mvrdv",
       "https://www.archdaily.com/1036685/basketball-court-ralph-c-wilson-jr-centennial-park-adjaye-associates",
       "https://www.archdaily.com/1027381/coastal-long-pavilion-on-chaishan-island-gn-architects",
-      "https://www.archdaily.com/1038119/noon-repose-pavilion-clab-architects"
+      "https://www.archdaily.com/1038119/noon-repose-pavilion-clab-architects",
+      "https://www.archdaily.com/1025636/liuquan-lake-childrens-paradise-hid-landscape-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/1037598/xinhepu-historical-and-cultural-precinct-core-area-enhancement-project-atelier-cns",
@@ -143,7 +152,7 @@
       "https://www.archdaily.com/1038822/pavilion-in-durazno-nicolas-oks",
       "https://www.archdaily.com/1039172/malba-forest-estudio-bulla"
     ],
-    "archive_page": 7
+    "archive_page": 8
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -162,10 +171,10 @@
       "https://www.dezeen.com/2026/02/24/design-alliance-architects-missouri-chapel-of-the-risen-christ/",
       "https://www.dezeen.com/2026/02/17/chinese-projects-completed-year-of-horse/",
       "https://www.dezeen.com/2026/02/18/wt-architecture-boathouse-bothy/",
-      "https://www.dezeen.com/2026/02/25/dominique-frelaut-school-tectoniques/"
+      "https://www.dezeen.com/2026/02/25/dominique-frelaut-school-tectoniques/",
+      "https://www.dezeen.com/2026/02/17/cielo-sanjay-puri-architects-17th-century-screens/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/17/cielo-sanjay-puri-architects-17th-century-screens/",
       "https://www.dezeen.com/2026/02/17/shedkm-zodiac-temporary-accommodation/",
       "https://www.dezeen.com/2026/02/17/al-borde-arquitectos-ecuador-witoca-lab/",
       "https://www.dezeen.com/2026/02/21/le-penhuel-associes-groupe-scolaire-simone-veil/",
@@ -226,7 +235,10 @@
       "https://www.dezeen.com/2026/03/02/underground-house-of-the-future-reinvents-chinese-cave-home-with-brick-vaults-and-3d-printing/",
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/02/mariano-azuela-194-bloqe-architectura/",
-      "https://www.dezeen.com/2026/03/02/zaha-hadid-name-legal-battle-patrik-schumacher/"
+      "https://www.dezeen.com/2026/03/02/zaha-hadid-name-legal-battle-patrik-schumacher/",
+      "https://www.dezeen.com/2026/03/03/malaga-university-vaillo-irigaray-architects/",
+      "https://www.dezeen.com/2026/03/03/mxarchitecture-2in1-houses-noisy-le-sec-back-to-back/",
+      "https://www.dezeen.com/2026/03/03/sustainability-projects-dezeen-awards/"
     ],
     "archive_page": 2
   },
@@ -247,10 +259,10 @@
       "https://www.dezeen.com/2026/02/09/the-hoxton-hotel-20th-anniversary-revamp-shoreditch/",
       "https://www.dezeen.com/2026/02/07/builtin-studio-maximises-manhattan-vistas-from-high-line-duplex/",
       "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/",
-      "https://www.dezeen.com/2026/01/31/gampworks-new-york-city-poke-court/"
+      "https://www.dezeen.com/2026/01/31/gampworks-new-york-city-poke-court/",
+      "https://www.dezeen.com/2026/01/26/hauvette-madani-architecture-nature-paris-apartment/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/01/26/hauvette-madani-architecture-nature-paris-apartment/",
       "https://www.dezeen.com/2026/02/15/rude-haus-pennsylvania-upcycled-vintage/",
       "https://www.dezeen.com/2026/01/29/wellness-opinion-priya-khanchandani/",
       "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
@@ -294,7 +306,8 @@
       "https://www.dezeen.com/2026/03/01/monastic-minimalism-interiors-lookbooks/",
       "https://www.dezeen.com/2026/03/01/caminhos-portinari-casacor-sao-paulo-melina-romano/",
       "https://www.dezeen.com/2026/03/02/at-interiors-cafe-kazakhstan-soviet-era-architecture/",
-      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/"
+      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
+      "https://www.dezeen.com/2026/03/03/yuspa-spa-beijing-china-fog-architecture/"
     ],
     "archive_page": 2
   },
@@ -315,7 +328,8 @@
       "https://landezine.com/national-museum-in-szczecin-dialogue-centre-przelomy-by-kwk-promes/",
       "https://landezine.com/emscher-promenade-by-dtp/",
       "https://landezine.com/toyosu-landscape-architecture/",
-      "https://landezine.com/return-of-the-hill-by-atelier-scale/"
+      "https://landezine.com/return-of-the-hill-by-atelier-scale/",
+      "https://landezine.com/call-for-abstracts-for-ifla-world-congress-2026-is-now-open/"
     ],
     "queue_new": [
       "https://landezine.com/parc-belval-sud-by-agence-ter/",
@@ -442,9 +456,15 @@
       "https://landezine.com/the-monument-site-of-jelling-by-kristine-jensens-tegnestue/",
       "https://landezine.com/territories-of-extraction-mapping-palimpsests-of-appropriation/",
       "https://landezine.com/the-fire-ring-an-xl-landscape-furniture-by-robin-winogrond/",
-      "https://landezine.com/rosa-luxemburg-garden-by-in-situ/"
+      "https://landezine.com/rosa-luxemburg-garden-by-in-situ/",
+      "https://landezine.com/dr-giovanni-aloi-the-lawn-nothing-to-do-with-nature/",
+      "https://landezine.com/rmit-new-academic-street-by-tcl/",
+      "https://landezine.com/konigwiesen-parks-in-schleswig-by-tgp/",
+      "https://landezine.com/green-infrastructure-and-landscape-architecture/",
+      "https://landezine.com/public-spaces-in-banyoles-by-mias-arquitectes/",
+      "https://landezine.com/hertig-johans-torg-och-gata-by-land-arkitektur/"
     ],
-    "archive_page": 7
+    "archive_page": 8
   },
   "monstrum_projects": {
     "sent_urls": [
@@ -463,7 +483,8 @@
       "https://monstrum.dk/en/playground/railway-museum",
       "https://monstrum.dk/en/playground/computer-playground",
       "https://monstrum.dk/en/playground/purple-octopus",
-      "https://monstrum.dk/en/playground/plesiosaur-svalbard"
+      "https://monstrum.dk/en/playground/plesiosaur-svalbard",
+      "https://monstrum.dk/en/playground/coral-reef"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/towers-copenhagen",
