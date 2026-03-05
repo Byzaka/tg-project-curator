@@ -15,7 +15,8 @@
       "https://leibal.com/interiors/staggered-cabin/",
       "https://leibal.com/architecture/house-in-gurre/",
       "https://leibal.com/interiors/the-inverted-farm/",
-      "https://leibal.com/interiors/lane-cove-house/"
+      "https://leibal.com/interiors/lane-cove-house/",
+      "https://leibal.com/interiors/inverted-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -41,12 +42,13 @@
       "https://leibal.com/a-night-at/susurros-del-corazon/",
       "https://leibal.com/interiors/larchmont-residence/",
       "https://leibal.com/interiors/gf-residence/",
-      "https://leibal.com/interiors/the-inverted-farm/"
+      "https://leibal.com/interiors/the-inverted-farm/",
+      "https://leibal.com/interiors/lane-cove-house/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/lane-cove-house/",
       "https://leibal.com/interiors/apartment-arabescato/",
-      "https://leibal.com/interiors/sixties-sea-side-transformation/"
+      "https://leibal.com/interiors/sixties-sea-side-transformation/",
+      "https://leibal.com/interiors/inverted-house/"
     ],
     "archive_page": 2
   },
@@ -71,7 +73,8 @@
       "https://www.archdaily.com/1037185/vale-verde-farm-bruschini-arquitetura",
       "https://www.archdaily.com/1038840/the-house-that-creates-a-view-studioshuwari-inc",
       "https://www.archdaily.com/1037751/youth-2-independence-campbell-street-project-liminal-architecture",
-      "https://www.archdaily.com/1038838/ger-plug-in-district-development-unit"
+      "https://www.archdaily.com/1038838/ger-plug-in-district-development-unit",
+      "https://www.archdaily.com/1036920/tangram-house-tetro-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038891/loredo-house-navc01-zooco-estudio",
@@ -115,9 +118,11 @@
       "https://www.archdaily.com/1039173/renovation-casa-dabreu-neto-sizas-first-work-alvaro-siza-vieira",
       "https://www.archdaily.com/1039143/fragrance-of-earth-house-neelesh-chopda-architecture-llp",
       "https://www.archdaily.com/1039286/hillside-residence-prentiss-plus-balance-plus-wickline-architects",
-      "https://www.archdaily.com/1039171/sunset-shelter-bon-studio"
+      "https://www.archdaily.com/1039171/sunset-shelter-bon-studio",
+      "https://www.archdaily.com/1038685/embargo-a-light-addition-office-mi-ji",
+      "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects"
     ],
-    "archive_page": 9
+    "archive_page": 10
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -140,7 +145,8 @@
       "https://www.archdaily.com/1025636/liuquan-lake-childrens-paradise-hid-landscape-architecture",
       "https://www.archdaily.com/1037598/xinhepu-historical-and-cultural-precinct-core-area-enhancement-project-atelier-cns",
       "https://www.archdaily.com/1023698/alpendre-installation-cesuga-school-of-architecture-plus-erazo-pugliese",
-      "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal"
+      "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal",
+      "https://www.archdaily.com/1020437/pavillon-jardins-atelier-du-pont"
     ],
     "queue_new": [
       "https://www.archdaily.com/1037112/yanbu-old-dragon-park-atelier-cns-cicada-art",
@@ -161,7 +167,7 @@
       "https://www.archdaily.com/1039172/malba-forest-estudio-bulla",
       "https://www.archdaily.com/1039250/unscripted-pavilion-abin-design-studio"
     ],
-    "archive_page": 9
+    "archive_page": 10
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -184,10 +190,10 @@
       "https://www.dezeen.com/2026/02/17/cielo-sanjay-puri-architects-17th-century-screens/",
       "https://www.dezeen.com/2026/02/17/shedkm-zodiac-temporary-accommodation/",
       "https://www.dezeen.com/2026/02/17/al-borde-arquitectos-ecuador-witoca-lab/",
-      "https://www.dezeen.com/2026/02/21/le-penhuel-associes-groupe-scolaire-simone-veil/"
+      "https://www.dezeen.com/2026/02/21/le-penhuel-associes-groupe-scolaire-simone-veil/",
+      "https://www.dezeen.com/2026/02/23/bell-phillips-albion-street-housing/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/23/bell-phillips-albion-street-housing/",
       "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/",
       "https://www.dezeen.com/2026/02/20/jony-ive-ferrari-luce-bradfield-city-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/02/16/thought-parallels-architecture-ananda-house-india/",
@@ -256,7 +262,12 @@
       "https://www.dezeen.com/2026/03/04/shift-world-wonder-competition-shortlist/",
       "https://www.dezeen.com/2026/03/04/madras-spaces-the-threshold-house/",
       "https://www.dezeen.com/2026/03/04/heirloom-house-concrete-components-designed-to-last-1000-years/",
-      "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/"
+      "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/",
+      "https://www.dezeen.com/2026/03/05/golestan-palace-damaged-unesco-world-heritage/",
+      "https://www.dezeen.com/2026/03/05/shigeru-ban-19th-century-armory-wooded-concert-hall/",
+      "https://www.dezeen.com/2026/03/05/wiercinski-studio-historic-villa-renovation-poland/",
+      "https://www.dezeen.com/2026/03/05/pritzker-prize-edwin-heathcote-opinion/",
+      "https://www.dezeen.com/2026/03/05/hotel-sevilla-brutalist-additions-merida-hotel-mexico-zeller-moye/"
     ],
     "archive_page": 2
   },
@@ -281,10 +292,10 @@
       "https://www.dezeen.com/2026/01/26/hauvette-madani-architecture-nature-paris-apartment/",
       "https://www.dezeen.com/2026/02/15/rude-haus-pennsylvania-upcycled-vintage/",
       "https://www.dezeen.com/2026/01/29/wellness-opinion-priya-khanchandani/",
-      "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/"
+      "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
+      "https://www.dezeen.com/2026/02/24/ukraine-war-interiors-feature/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/24/ukraine-war-interiors-feature/",
       "https://www.dezeen.com/2026/01/26/cn-tower-renovation-superkul-bv/",
       "https://www.dezeen.com/2026/02/06/bernadotte-kylberg-stratum-suites-clarion-hotel-sign-stockholm/",
       "https://www.dezeen.com/2026/02/09/kelly-wearstler-kappo-kappo-japanese-restaurant-austin-proper-hotel/",
@@ -326,7 +337,8 @@
       "https://www.dezeen.com/2026/03/02/at-interiors-cafe-kazakhstan-soviet-era-architecture/",
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/03/yuspa-spa-beijing-china-fog-architecture/",
-      "https://www.dezeen.com/2026/03/04/abac-architects-house-of-green-patios-lisbon/"
+      "https://www.dezeen.com/2026/03/04/abac-architects-house-of-green-patios-lisbon/",
+      "https://www.dezeen.com/2026/03/05/upstairs-at-ronnies-archer-humphryes-architects/"
     ],
     "archive_page": 2
   },
@@ -351,10 +363,10 @@
       "https://landezine.com/call-for-abstracts-for-ifla-world-congress-2026-is-now-open/",
       "https://landezine.com/parc-belval-sud-by-agence-ter/",
       "https://landezine.com/shanghai-super-tube-the-cultural-metamorphosis-of-infrastructure-by-fish-design/",
-      "https://landezine.com/teaterparken-landskrona-by-fojab/"
+      "https://landezine.com/teaterparken-landskrona-by-fojab/",
+      "https://landezine.com/peter-egges-plass-by-pir2/"
     ],
     "queue_new": [
-      "https://landezine.com/peter-egges-plass-by-pir2/",
       "https://landezine.com/durbanis/",
       "https://landezine.com/shtscapes-100-mistakes-in-landscape-architecture/",
       "https://landezine.com/dybkaer-school-and-godvad-square-by-vega-landskab/",
@@ -494,7 +506,11 @@
       "https://landezine.com/26-june-peter-joseph-lenne-prize-2026-ideas-competition/",
       "https://landezine.com/city-landscape-burg/",
       "https://landezine.com/farum-midtpunkt-activity-park/",
-      "https://landezine.com/tudela-club-med-restoration-in-cap-de-creus-by-emf-landscape-architecture/"
+      "https://landezine.com/tudela-club-med-restoration-in-cap-de-creus-by-emf-landscape-architecture/",
+      "https://landezine.com/common-unity-by-rozana-montiel/",
+      "https://landezine.com/liam-young-unknown-fields/",
+      "https://landezine.com/designing-for-conviviality-in-landscape-architecture/",
+      "https://landezine.com/void-temple/"
     ],
     "archive_page": 8
   },
@@ -518,7 +534,8 @@
       "https://monstrum.dk/en/playground/plesiosaur-svalbard",
       "https://monstrum.dk/en/playground/coral-reef",
       "https://monstrum.dk/en/playground/xplore-playground",
-      "https://monstrum.dk/en/playground/rosie-elephants-playground"
+      "https://monstrum.dk/en/playground/rosie-elephants-playground",
+      "https://monstrum.dk/en/playground/flamingogo-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/industrial-history-adventure",
