@@ -44,11 +44,12 @@
       "https://leibal.com/interiors/gf-residence/",
       "https://leibal.com/interiors/the-inverted-farm/",
       "https://leibal.com/interiors/lane-cove-house/",
-      "https://leibal.com/interiors/apartment-arabescato/"
+      "https://leibal.com/interiors/apartment-arabescato/",
+      "https://leibal.com/interiors/sixties-sea-side-transformation/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/sixties-sea-side-transformation/",
-      "https://leibal.com/interiors/inverted-house/"
+      "https://leibal.com/interiors/inverted-house/",
+      "https://leibal.com/interiors/leos/"
     ],
     "archive_page": 2
   },
@@ -75,7 +76,8 @@
       "https://www.archdaily.com/1037751/youth-2-independence-campbell-street-project-liminal-architecture",
       "https://www.archdaily.com/1038838/ger-plug-in-district-development-unit",
       "https://www.archdaily.com/1036920/tangram-house-tetro-arquitetura",
-      "https://www.archdaily.com/1038891/loredo-house-navc01-zooco-estudio"
+      "https://www.archdaily.com/1038891/loredo-house-navc01-zooco-estudio",
+      "https://www.archdaily.com/1020498/longbranch-residence-mwworks"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038596/mirze-refuge-estudio-haa",
@@ -123,9 +125,12 @@
       "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects",
       "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi",
       "https://www.archdaily.com/1039318/tropical-shift-house-o2-design-atelier-plus-choo-poo-liang-architect",
-      "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura"
+      "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura",
+      "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all",
+      "https://www.archdaily.com/1039307/baan-sudsaensuk-bodinchapa-architects",
+      "https://www.archdaily.com/1039283/bongs-house-23o5studio"
     ],
-    "archive_page": 10
+    "archive_page": 11
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -150,7 +155,8 @@
       "https://www.archdaily.com/1023698/alpendre-installation-cesuga-school-of-architecture-plus-erazo-pugliese",
       "https://www.archdaily.com/1038633/aranyani-pavilion-t-pace-plus-tara-lal",
       "https://www.archdaily.com/1020437/pavillon-jardins-atelier-du-pont",
-      "https://www.archdaily.com/1037112/yanbu-old-dragon-park-atelier-cns-cicada-art"
+      "https://www.archdaily.com/1037112/yanbu-old-dragon-park-atelier-cns-cicada-art",
+      "https://www.archdaily.com/1018234/grow-residence-modern-office-of-design-plus-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/933133/waterfront-botanical-gardens-perkins-plus-will",
@@ -170,7 +176,7 @@
       "https://www.archdaily.com/1039172/malba-forest-estudio-bulla",
       "https://www.archdaily.com/1039250/unscripted-pavilion-abin-design-studio"
     ],
-    "archive_page": 10
+    "archive_page": 11
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -195,10 +201,10 @@
       "https://www.dezeen.com/2026/02/17/al-borde-arquitectos-ecuador-witoca-lab/",
       "https://www.dezeen.com/2026/02/21/le-penhuel-associes-groupe-scolaire-simone-veil/",
       "https://www.dezeen.com/2026/02/23/bell-phillips-albion-street-housing/",
-      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/"
+      "https://www.dezeen.com/2026/02/23/starchitects-owen-hopkins-opinion/",
+      "https://www.dezeen.com/2026/02/20/jony-ive-ferrari-luce-bradfield-city-dezeen-weekly-podcast/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/20/jony-ive-ferrari-luce-bradfield-city-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/02/16/thought-parallels-architecture-ananda-house-india/",
       "https://www.dezeen.com/2026/02/25/avoice-ai-workspace-architects/",
       "https://www.dezeen.com/2026/02/19/kod-arkitekter-liden-fire-station/",
@@ -271,7 +277,10 @@
       "https://www.dezeen.com/2026/03/05/wiercinski-studio-historic-villa-renovation-poland/",
       "https://www.dezeen.com/2026/03/05/pritzker-prize-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/03/05/hotel-sevilla-brutalist-additions-merida-hotel-mexico-zeller-moye/",
-      "https://www.dezeen.com/2026/03/05/how-donald-trump-is-using-architecture-to-reshape-washington-dc/"
+      "https://www.dezeen.com/2026/03/05/how-donald-trump-is-using-architecture-to-reshape-washington-dc/",
+      "https://www.dezeen.com/2026/03/06/pritzker-prize-zaha-hadid-burj-al-arab-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/03/06/maggies-architetcure-that-cares-va-dundee/",
+      "https://www.dezeen.com/2026/03/06/komorebi-extension-conform-architects/"
     ],
     "archive_page": 2
   },
@@ -298,10 +307,10 @@
       "https://www.dezeen.com/2026/01/29/wellness-opinion-priya-khanchandani/",
       "https://www.dezeen.com/2026/02/21/the-willow-play-cafe-toronto-denizens-of-design-ds-studio/",
       "https://www.dezeen.com/2026/02/24/ukraine-war-interiors-feature/",
-      "https://www.dezeen.com/2026/01/26/cn-tower-renovation-superkul-bv/"
+      "https://www.dezeen.com/2026/01/26/cn-tower-renovation-superkul-bv/",
+      "https://www.dezeen.com/2026/02/06/bernadotte-kylberg-stratum-suites-clarion-hotel-sign-stockholm/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/06/bernadotte-kylberg-stratum-suites-clarion-hotel-sign-stockholm/",
       "https://www.dezeen.com/2026/02/09/kelly-wearstler-kappo-kappo-japanese-restaurant-austin-proper-hotel/",
       "https://www.dezeen.com/2026/02/14/warkentin-associates-models-los-angeles-coffee-shop-on-an-artists-living-room/",
       "https://www.dezeen.com/2026/02/25/cake-architecture-architectural-landmarks-thames-watchhouse/",
@@ -342,7 +351,8 @@
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/03/yuspa-spa-beijing-china-fog-architecture/",
       "https://www.dezeen.com/2026/03/04/abac-architects-house-of-green-patios-lisbon/",
-      "https://www.dezeen.com/2026/03/05/upstairs-at-ronnies-archer-humphryes-architects/"
+      "https://www.dezeen.com/2026/03/05/upstairs-at-ronnies-archer-humphryes-architects/",
+      "https://www.dezeen.com/2026/03/06/homer-rogue-taverna-sydney-ap-design-house/"
     ],
     "archive_page": 2
   },
@@ -369,10 +379,10 @@
       "https://landezine.com/shanghai-super-tube-the-cultural-metamorphosis-of-infrastructure-by-fish-design/",
       "https://landezine.com/teaterparken-landskrona-by-fojab/",
       "https://landezine.com/peter-egges-plass-by-pir2/",
-      "https://landezine.com/durbanis/"
+      "https://landezine.com/durbanis/",
+      "https://landezine.com/shtscapes-100-mistakes-in-landscape-architecture/"
     ],
     "queue_new": [
-      "https://landezine.com/shtscapes-100-mistakes-in-landscape-architecture/",
       "https://landezine.com/dybkaer-school-and-godvad-square-by-vega-landskab/",
       "https://landezine.com/vectorworks/",
       "https://landezine.com/glasgow-claypits-by-luc/",
@@ -518,7 +528,11 @@
       "https://landezine.com/fourth-dimension-of-space/",
       "https://landezine.com/northwoods-garden-by-practice-landscape/",
       "https://landezine.com/tidal-park-keilehaven-by-de-urbanisten/",
-      "https://landezine.com/cdle-office-by-paar-taller/"
+      "https://landezine.com/cdle-office-by-paar-taller/",
+      "https://landezine.com/responding-to-the-land-the-landscape-studio/",
+      "https://landezine.com/designing-with-applied-philosophy/",
+      "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/",
+      "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/"
     ],
     "archive_page": 8
   },
@@ -544,7 +558,8 @@
       "https://monstrum.dk/en/playground/xplore-playground",
       "https://monstrum.dk/en/playground/rosie-elephants-playground",
       "https://monstrum.dk/en/playground/flamingogo-playground",
-      "https://monstrum.dk/en/playground/industrial-history-adventure"
+      "https://monstrum.dk/en/playground/industrial-history-adventure",
+      "https://monstrum.dk/en/playground/charming-harbour"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/bird-haven",
