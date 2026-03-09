@@ -16,7 +16,8 @@
       "https://leibal.com/architecture/house-in-gurre/",
       "https://leibal.com/interiors/the-inverted-farm/",
       "https://leibal.com/interiors/lane-cove-house/",
-      "https://leibal.com/interiors/inverted-house/"
+      "https://leibal.com/interiors/inverted-house/",
+      "https://leibal.com/interiors/sint-martens-latem/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -50,9 +51,12 @@
       "https://leibal.com/interiors/leos/",
       "https://leibal.com/interiors/monroe-townhouse/",
       "https://leibal.com/interiors/miami-apartment/",
-      "https://leibal.com/interiors/sound-and-stillness/"
+      "https://leibal.com/interiors/sound-and-stillness/",
+      "https://leibal.com/interiors/sint-martens-latem/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/saint-henri/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -84,7 +88,8 @@
       "https://www.archdaily.com/1037210/wass-house-studio-mm-architect",
       "https://www.archdaily.com/1038837/sagarana-house-estudio-haa",
       "https://www.archdaily.com/972540/student-experience-minervahaven-vurb-architects",
-      "https://www.archdaily.com/1038750/effevu-house-ellevuelle-architetti"
+      "https://www.archdaily.com/1038750/effevu-house-ellevuelle-architetti",
+      "https://www.archdaily.com/1037066/house-in-sano-hidekazu-kishi-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038819/crabe-fantome-evolutive-housing-ouvrages",
@@ -137,9 +142,12 @@
       "https://www.archdaily.com/1039386/long-lake-cottage-dubbeldam-architecture-plus-design",
       "https://www.archdaily.com/1039422/main-ridge-house-porebski-architects",
       "https://www.archdaily.com/1027917/house-of-porous-mat-office",
-      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje"
+      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje",
+      "https://www.archdaily.com/1037264/wood-house-jak-architecture",
+      "https://www.archdaily.com/1039388/bondi-house-nick-kent-design",
+      "https://www.archdaily.com/1039426/kega-villa-t3-architects"
     ],
-    "archive_page": 13
+    "archive_page": 14
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -170,7 +178,8 @@
       "https://www.archdaily.com/1017371/emerald-screen-pergola-wutopia-lab",
       "https://www.archdaily.com/1037560/water-sculpture-lj-p-plus-arhitekti-plus-mkocbek-architects",
       "https://www.archdaily.com/1014065/linpan-cloud-eye-chengdu-dayi-rural-neighborhood-center-archi-union-architects",
-      "https://www.archdaily.com/1037509/resting-loop-with-views-hcch-studio"
+      "https://www.archdaily.com/1037509/resting-loop-with-views-hcch-studio",
+      "https://www.archdaily.com/994448/benchakitti-rain-forest-observatory-has-design-and-research"
     ],
     "queue_new": [
       "https://www.archdaily.com/1037227/sports-complex-in-petit-quevilly-olgga-architects",
@@ -187,7 +196,7 @@
       "https://www.archdaily.com/1039172/malba-forest-estudio-bulla",
       "https://www.archdaily.com/1039250/unscripted-pavilion-abin-design-studio"
     ],
-    "archive_page": 13
+    "archive_page": 14
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -218,10 +227,10 @@
       "https://www.dezeen.com/2026/02/25/avoice-ai-workspace-architects/",
       "https://www.dezeen.com/2026/02/19/kod-arkitekter-liden-fire-station/",
       "https://www.dezeen.com/2026/02/19/commission-of-fine-arts-approves-white-house-ballroom-designs/",
-      "https://www.dezeen.com/2026/02/19/delavegacanolasso-rosa-maria-house/"
+      "https://www.dezeen.com/2026/02/19/delavegacanolasso-rosa-maria-house/",
+      "https://www.dezeen.com/2026/02/19/carlos-ott-cube-3-design-miami-delano-residences-skyscraper/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/19/carlos-ott-cube-3-design-miami-delano-residences-skyscraper/",
       "https://www.dezeen.com/2026/02/18/qasr-alhokm-metro-station-snohetta/",
       "https://www.dezeen.com/2026/02/14/australia-new-city-this-week/",
       "https://www.dezeen.com/2026/02/18/tampa-bay-rays-new-stadium-design/",
@@ -299,7 +308,9 @@
       "https://www.dezeen.com/2026/03/07/patrik-schumacher-rename-zaha-hadid-architects/",
       "https://www.dezeen.com/2026/03/07/monumental-buildings-modern-brutalism/",
       "https://www.dezeen.com/2026/03/07/eduardo-longo-casa-bola-sao-paulo-aberto-exhibition/",
-      "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/"
+      "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/",
+      "https://www.dezeen.com/2026/03/09/maggies-kent-assemble/",
+      "https://www.dezeen.com/2026/03/09/puusauna-jaakko-torvinen/"
     ],
     "archive_page": 2
   },
@@ -332,10 +343,10 @@
       "https://www.dezeen.com/2026/02/14/warkentin-associates-models-los-angeles-coffee-shop-on-an-artists-living-room/",
       "https://www.dezeen.com/2026/02/25/cake-architecture-architectural-landmarks-thames-watchhouse/",
       "https://www.dezeen.com/2026/02/03/mexican-rooftop-bar-ag-studio-matriarchal-universe/",
-      "https://www.dezeen.com/2026/02/02/dezeen-exclusives-launch/"
+      "https://www.dezeen.com/2026/02/02/dezeen-exclusives-launch/",
+      "https://www.dezeen.com/2026/01/26/heated-rivalry-cottage-set-design/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/01/26/heated-rivalry-cottage-set-design/",
       "https://www.dezeen.com/2026/02/24/soda-nineteen-wells-street-office/",
       "https://www.dezeen.com/2026/02/22/anastasiia-tempynska-former-embassy-kyiv-showroom/",
       "https://www.dezeen.com/2026/02/18/formant-studio-modular-listening-lounge-mexico-city/",
@@ -374,7 +385,9 @@
       "https://www.dezeen.com/2026/03/06/homer-rogue-taverna-sydney-ap-design-house/",
       "https://www.dezeen.com/2026/03/08/blockwork-walls-lookbooks/",
       "https://www.dezeen.com/2026/03/08/schemata-architects-le-labo-store-interior-tokyo/",
-      "https://www.dezeen.com/2026/03/08/colbo-next-door-listening-bar-of-enso/"
+      "https://www.dezeen.com/2026/03/08/colbo-next-door-listening-bar-of-enso/",
+      "https://www.dezeen.com/2026/03/09/pluskouple-aircraft-hangar-aerotim-ukraine/",
+      "https://www.dezeen.com/2026/03/09/lisbon-townhouse-mclean-quinlan-architecture/"
     ],
     "archive_page": 2
   },
@@ -407,10 +420,10 @@
       "https://landezine.com/vectorworks/",
       "https://landezine.com/glasgow-claypits-by-luc/",
       "https://landezine.com/wadanggari-park-by-arcadia-landscape-architecture/",
-      "https://landezine.com/lappset/"
+      "https://landezine.com/lappset/",
+      "https://landezine.com/valle-hovin-by-pir2/"
     ],
     "queue_new": [
-      "https://landezine.com/valle-hovin-by-pir2/",
       "https://landezine.com/engaged-art-in-public-space-speaking-to-the-city/",
       "https://landezine.com/built-on-sugar-park-am-lobauer-wasser-by-hutterreimann/",
       "https://landezine.com/call-for-abstracts-for-ifla-world-congress-2026-is-now-open/",
@@ -571,7 +584,11 @@
       "https://landezine.com/ai-in-landscape-architecture-beyond-the-myth-of-ai-human-rivalry/",
       "https://landezine.com/strategies-against-sameness-2/",
       "https://landezine.com/into-the-forest-by-openfabric/",
-      "https://landezine.com/scandi-by-atelier-partero/"
+      "https://landezine.com/scandi-by-atelier-partero/",
+      "https://landezine.com/gronnegarden-herning-high-school-by-schonherr/",
+      "https://landezine.com/tim-waterman-on-astronauts-lsd-and-landscape-architecture-lecture-qa/",
+      "https://landezine.com/ultra-ruin-marco-casagrande/",
+      "https://landezine.com/adaptation-of-the-ancient-roman-deposit-of-can-taco-by-toni-girones-saderra/"
     ],
     "archive_page": 8
   },
@@ -602,7 +619,8 @@
       "https://monstrum.dk/en/playground/bird-haven",
       "https://monstrum.dk/en/playground/moomin-adventure",
       "https://monstrum.dk/en/playground/railway-museum",
-      "https://monstrum.dk/en/playground/giant-owls"
+      "https://monstrum.dk/en/playground/giant-owls",
+      "https://monstrum.dk/en/playground/frosnapperbyen"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/blue-crab-playground",
