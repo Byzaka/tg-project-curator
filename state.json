@@ -57,9 +57,12 @@
       "https://leibal.com/interiors/saint-henri/",
       "https://leibal.com/interiors/casa-guadalupe/",
       "https://leibal.com/interiors/ayoughi-house/",
-      "https://leibal.com/interiors/casa-effevu/"
+      "https://leibal.com/interiors/casa-effevu/",
+      "https://leibal.com/interiors/casa-tlaloc/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/un-interno-al-giomein/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -97,7 +100,8 @@
       "https://www.archdaily.com/1036822/casa-roca-ppaa",
       "https://www.archdaily.com/1038866/the-reef-waterfront-living-kcap-plus-dca-architects",
       "https://www.archdaily.com/1036974/black-stone-house-vapor-arquitetura",
-      "https://www.archdaily.com/1038947/residence-in-pinheiros-23-sul"
+      "https://www.archdaily.com/1038947/residence-in-pinheiros-23-sul",
+      "https://www.archdaily.com/1036525/tent-cabin-in-omori-hune-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038769/ironbark-house-not-all-architecture",
@@ -162,9 +166,11 @@
       "https://www.archdaily.com/1039278/rural-housing-and-lodging-dormis-donata-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes",
       "https://www.archdaily.com/1039418/patio-house-dada-partners",
       "https://www.archdaily.com/1039489/house-at-the-urban-nature-threshold-teitakusubako-plus-yusuke-igarashi-architects",
-      "https://www.archdaily.com/1039398/hvm-maya-perkins-and-will"
+      "https://www.archdaily.com/1039398/hvm-maya-perkins-and-will",
+      "https://www.archdaily.com/1039423/living-continuum-studio-and-house-damith-s-munasinghe-associates",
+      "https://www.archdaily.com/1039403/boras-getaway-claesson-koivisto-rune"
     ],
-    "archive_page": 16
+    "archive_page": 17
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -201,7 +207,8 @@
       "https://www.archdaily.com/1009504/the-park-mia-design-studio",
       "https://www.archdaily.com/1038858/tie-ma-cycling-station-at-dapo-pond-studio-apl-plus-lin-ko-fang-architects",
       "https://www.archdaily.com/1007768/mirrors-plaza-bla-estudio-creativo-plus-abarca-palma-arquitectos",
-      "https://www.archdaily.com/1037644/isla-teja-performance-pavilions-dum-dum-lab"
+      "https://www.archdaily.com/1037644/isla-teja-performance-pavilions-dum-dum-lab",
+      "https://www.archdaily.com/1002899/parque-montornes-norte-regeneracion-urbana-hiha-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038823/chapultepec-forest-scenic-garden-michan-architecture-plus-parabase",
@@ -216,7 +223,7 @@
       "https://www.archdaily.com/1039250/unscripted-pavilion-abin-design-studio",
       "https://www.archdaily.com/1039383/floating-pavilion-studio-re-plus-n"
     ],
-    "archive_page": 16
+    "archive_page": 17
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -253,10 +260,10 @@
       "https://www.dezeen.com/2026/02/14/australia-new-city-this-week/",
       "https://www.dezeen.com/2026/02/18/tampa-bay-rays-new-stadium-design/",
       "https://www.dezeen.com/2026/02/17/drawings-white-house-ballroom-baranes/",
-      "https://www.dezeen.com/2026/02/24/sanjay-puri-architects-prestige-university/"
+      "https://www.dezeen.com/2026/02/24/sanjay-puri-architects-prestige-university/",
+      "https://www.dezeen.com/2026/02/24/pritzker-prize-delayed-epstein-files/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/24/pritzker-prize-delayed-epstein-files/",
       "https://www.dezeen.com/2026/02/19/xalet-del-catllaras-antoni-gaudi/",
       "https://www.dezeen.com/2026/02/17/images-construction-som-skyscraper-spire-site-chicago/",
       "https://www.dezeen.com/2026/02/23/sardar-vallabhbhai-patel-sports-enclave-bdp-cox-architecture-collage-design/",
@@ -344,7 +351,11 @@
       "https://www.dezeen.com/2026/03/11/ai-planning-tool-google-uk-government/",
       "https://www.dezeen.com/2026/03/11/lmn-page-austin-convention-center-texas/",
       "https://www.dezeen.com/2026/03/11/grama-house-studio-arthur-casas/",
-      "https://www.dezeen.com/2026/03/11/architecture-office-brasilia-world-trade-center-biotic/"
+      "https://www.dezeen.com/2026/03/11/architecture-office-brasilia-world-trade-center-biotic/",
+      "https://www.dezeen.com/2026/03/12/china-architecture-projects-dezeen-awards/",
+      "https://www.dezeen.com/2026/03/12/waelgaard-salim-arkitekter-house-grimstad/",
+      "https://www.dezeen.com/2026/03/12/of-architects-ignacio-galan-camp-alliances/",
+      "https://www.dezeen.com/2026/03/12/tiktok-cabin-self-build-architecture/"
     ],
     "archive_page": 2
   },
@@ -383,10 +394,10 @@
       "https://www.dezeen.com/2026/02/22/anastasiia-tempynska-former-embassy-kyiv-showroom/",
       "https://www.dezeen.com/2026/02/18/formant-studio-modular-listening-lounge-mexico-city/",
       "https://www.dezeen.com/2026/02/11/note-design-studio-lammhults-showroom/",
-      "https://www.dezeen.com/2026/02/03/1970s-style-devo-restaurant-wine-bar-marseille/"
+      "https://www.dezeen.com/2026/02/03/1970s-style-devo-restaurant-wine-bar-marseille/",
+      "https://www.dezeen.com/2026/02/01/hotel-hans-bridge-different-parts-copenhagen-norron-architects/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/01/hotel-hans-bridge-different-parts-copenhagen-norron-architects/",
       "https://www.dezeen.com/2026/02/04/form-us-with-love-testing-grounds-showroom/",
       "https://www.dezeen.com/2026/02/16/nora-restaurant-canary-wharf-london-ola-jachymiak-studio/",
       "https://www.dezeen.com/2026/01/30/grammys-2026-ceremony-set-design-yellow-studio/",
@@ -424,7 +435,8 @@
       "https://www.dezeen.com/2026/03/09/lisbon-townhouse-mclean-quinlan-architecture/",
       "https://www.dezeen.com/2026/03/10/casa-da-praia-mallorca-holiday-home-holzrausch/",
       "https://www.dezeen.com/2026/03/11/acid-cafe-berlin-interiors-plantea-estudio/",
-      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/"
+      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/",
+      "https://www.dezeen.com/2026/03/12/peckham-palais-nightclub-nikjoo/"
     ],
     "archive_page": 2
   },
@@ -463,10 +475,10 @@
       "https://landezine.com/built-on-sugar-park-am-lobauer-wasser-by-hutterreimann/",
       "https://landezine.com/call-for-abstracts-for-ifla-world-congress-2026-is-now-open/",
       "https://landezine.com/bellitalia/",
-      "https://landezine.com/one-green-mile-public-space-and-streetscape-design-by-studiopod/"
+      "https://landezine.com/one-green-mile-public-space-and-streetscape-design-by-studiopod/",
+      "https://landezine.com/landscape-forms/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms/",
       "https://landezine.com/grijsen/",
       "https://landezine.com/streetlife/",
       "https://landezine.com/central-park-all-abilities-playground-by-sbla-studio/",
@@ -639,7 +651,10 @@
       "https://landezine.com/betania-garden-rich-and-detailed-composition-with-minimum-amount-of-moves/",
       "https://landezine.com/conversion-aktienmuhle-by-bryum/",
       "https://landezine.com/al-fay-park-by-sla/",
-      "https://landezine.com/buga-05-playground/"
+      "https://landezine.com/buga-05-playground/",
+      "https://landezine.com/lila-honour-award-2022-gilles-clement/",
+      "https://landezine.com/alvpromenaden-by-tengbom/",
+      "https://landezine.com/gleispark-frintrop-by-dtp/"
     ],
     "archive_page": 8
   },
@@ -676,7 +691,8 @@
       "https://monstrum.dk/en/playground/animal-kirsebaerlunden",
       "https://monstrum.dk/en/playground/lighthouse-and-ocean",
       "https://monstrum.dk/en/playground/hero-lagoh",
-      "https://monstrum.dk/en/playground/colourful-peacock"
+      "https://monstrum.dk/en/playground/colourful-peacock",
+      "https://monstrum.dk/en/playground/dusk-chase"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/expo-2020",
