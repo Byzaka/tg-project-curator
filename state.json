@@ -20,7 +20,8 @@
       "https://leibal.com/interiors/sint-martens-latem/",
       "https://leibal.com/interiors/ayoughi-house/",
       "https://leibal.com/architecture/la-conception-iv/",
-      "https://leibal.com/interiors/house-jcm/"
+      "https://leibal.com/interiors/house-jcm/",
+      "https://leibal.com/interiors/memory-center/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -66,9 +67,12 @@
       "https://leibal.com/architecture/la-conception-iv/",
       "https://leibal.com/interiors/l-office/",
       "https://leibal.com/interiors/house-jcm/",
-      "https://leibal.com/interiors/islington-house-3/"
+      "https://leibal.com/interiors/islington-house-3/",
+      "https://leibal.com/interiors/canon-mews/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/memory-center/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -116,7 +120,8 @@
       "https://www.archdaily.com/1036286/armstrong-cottage-peter-braithwaite-studio",
       "https://www.archdaily.com/1038965/can-gallineta-oam-oficina-darquitectura-a-mallorca",
       "https://www.archdaily.com/1036132/nellagro-di-ostuni-house-tela-architettura",
-      "https://www.archdaily.com/1038848/lakeshore-barn-house-norm-architects"
+      "https://www.archdaily.com/1038848/lakeshore-barn-house-norm-architects",
+      "https://www.archdaily.com/1036076/atelier-jeumeu-cov-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039019/gott-apartment-building-amunt-martenson-plus-heramarte",
@@ -189,9 +194,11 @@
       "https://www.archdaily.com/1039503/barkly-house-ha-architecture",
       "https://www.archdaily.com/1039563/counter-slope-house-yh2-architecture",
       "https://www.archdaily.com/1039487/shark-house-talc",
-      "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso"
+      "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso",
+      "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners",
+      "https://www.archdaily.com/1039501/lofos-residence-react-architects"
     ],
-    "archive_page": 21
+    "archive_page": 22
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -238,7 +245,8 @@
       "https://www.archdaily.com/997248/vizafogo-pavilion-and-ecopark-archikon-architects",
       "https://www.archdaily.com/1038481/fujian-wuyi-mountain-national-park-moon-bay-observation-deck-clab-architects",
       "https://www.archdaily.com/994933/bungalow-h-eo",
-      "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers"
+      "https://www.archdaily.com/1037995/kulhad-pavilion-wallmakers",
+      "https://www.archdaily.com/992910/carrillo-puerto-theater-aspj"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038860/sibeliuspark-kcap",
@@ -249,7 +257,7 @@
       "https://www.archdaily.com/1039383/floating-pavilion-studio-re-plus-n",
       "https://www.archdaily.com/1039602/twin-pavilions-atelier-luxnox-plus-found-projects"
     ],
-    "archive_page": 21
+    "archive_page": 22
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -296,10 +304,10 @@
       "https://www.dezeen.com/2026/02/20/white-house-ballroom-everything-you-need-to-know-2026/",
       "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/",
       "https://www.dezeen.com/2026/02/21/thatched-roof-buildings/",
-      "https://www.dezeen.com/2026/02/17/dorte-mandrup-wadden-sea-world-heritage-centre-netherlands/"
+      "https://www.dezeen.com/2026/02/17/dorte-mandrup-wadden-sea-world-heritage-centre-netherlands/",
+      "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/15/yod-group-thatched-roof-guesthouses-ukraine/",
       "https://www.dezeen.com/2026/02/20/desert-fairway-residence-kendle-design-collaborative/",
       "https://www.dezeen.com/2026/02/16/mit-recycled-plastic-floor-trusses/",
       "https://www.dezeen.com/2026/02/19/copper-house-adu-francois-abbott/",
@@ -396,7 +404,12 @@
       "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/",
       "https://www.dezeen.com/2026/03/16/som-alatau-iconic-complex-kazakhstan/",
       "https://www.dezeen.com/2026/03/16/ravi-handa-quebec-maison-du-lac-perdu/",
-      "https://www.dezeen.com/2026/03/16/prada-new-york-store-facade-mesh-scaffolding-green/"
+      "https://www.dezeen.com/2026/03/16/prada-new-york-store-facade-mesh-scaffolding-green/",
+      "https://www.dezeen.com/2026/03/17/buzzi-heritage-cultural-centre-carlo-ratti-associati-italy/",
+      "https://www.dezeen.com/2026/03/17/new-government-quarter-oslo-nordic-office-of-architecture/",
+      "https://www.dezeen.com/2026/03/17/willowdale-sports-precinct-sam-crawford/",
+      "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/",
+      "https://www.dezeen.com/2026/03/17/subterranean-white-house-visitor-screening-centre-donald-trump/"
     ],
     "archive_page": 2
   },
@@ -445,10 +458,10 @@
       "https://www.dezeen.com/2026/02/08/seven-wine-bars-round-up/",
       "https://www.dezeen.com/2026/01/27/bar-far-temporary-bar-interior-rome-studio-strato/",
       "https://www.dezeen.com/2026/02/08/chapel-residence-nc-design-architecture-hong-kong/",
-      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/"
+      "https://www.dezeen.com/2026/02/19/serena-mignatti-wabi-sabi-interior-thom-yorkes-rome-apartment/",
+      "https://www.dezeen.com/2026/02/13/sinners-tattoo-parlour-interiors-aarhus-kidz-studio/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/13/sinners-tattoo-parlour-interiors-aarhus-kidz-studio/",
       "https://www.dezeen.com/2026/02/18/nothing-first-india-flagship-store-bengaluru/",
       "https://www.dezeen.com/2026/02/23/crafted-powdermills-hotel-house-of-dre/",
       "https://www.dezeen.com/2026/01/30/anomaly-avoids-formal-interiors-london-co-working-space/",
@@ -530,10 +543,10 @@
       "https://landezine.com/skakkeringen-by-pir2/",
       "https://landezine.com/jochiwon-cultural-garden/",
       "https://landezine.com/victor-stanley/",
-      "https://landezine.com/varbergstoppen-by-land-arkitektur/"
+      "https://landezine.com/varbergstoppen-by-land-arkitektur/",
+      "https://landezine.com/the-circles-by-atelier-scale/"
     ],
     "queue_new": [
-      "https://landezine.com/the-circles-by-atelier-scale/",
       "https://landezine.com/send-us-your-project/",
       "https://landezine.com/transforming-the-aproz-wastewater-treatment-system-into-a-playground-by-en-dehors/",
       "https://landezine.com/cityscape-award-2026-opens-international-call-for-landscape-architecture-projects/",
@@ -727,7 +740,9 @@
       "https://landezine.com/park-of-luna-by-hosper-and-drftwd-office-associates/",
       "https://landezine.com/the-novel-city-faux-nature-maze/",
       "https://landezine.com/tussols-basil-track-and-field-stadium/",
-      "https://landezine.com/the-crack-by-taktyk/"
+      "https://landezine.com/the-crack-by-taktyk/",
+      "https://landezine.com/feyssine-park-by-ilex-paysage-urbanisme/",
+      "https://landezine.com/the-enchanting-secrecy-and-liberating-uselessness-of-roofs/"
     ],
     "archive_page": 8
   },
@@ -774,7 +789,8 @@
       "https://monstrum.dk/en/playground/enchanted-castle-playground",
       "https://monstrum.dk/en/playground/dusk-chase",
       "https://monstrum.dk/en/playground/giant-ant-playground",
-      "https://monstrum.dk/en/playground/great-escape-playground"
+      "https://monstrum.dk/en/playground/great-escape-playground",
+      "https://monstrum.dk/en/playground/wonderful-garden"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/gorky-park-playground",
