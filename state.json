@@ -24,7 +24,8 @@
       "https://leibal.com/interiors/memory-center/",
       "https://leibal.com/interiors/palingbeek/",
       "https://leibal.com/interiors/west-london-house-2/",
-      "https://leibal.com/interiors/exeter-road-pavilion/"
+      "https://leibal.com/interiors/exeter-road-pavilion/",
+      "https://leibal.com/interiors/gilberts-cottage/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -81,9 +82,12 @@
       "https://leibal.com/interiors/house-kuo/",
       "https://leibal.com/interiors/natural-shelter/",
       "https://leibal.com/interiors/west-london-house-2/",
-      "https://leibal.com/interiors/exeter-road-pavilion/"
+      "https://leibal.com/interiors/exeter-road-pavilion/",
+      "https://leibal.com/interiors/casa-kendo/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/gilberts-cottage/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -145,7 +149,8 @@
       "https://www.archdaily.com/1035187/hn08-house-tnt-architects",
       "https://www.archdaily.com/1038938/house-of-dentist-couple-rcab-studio",
       "https://www.archdaily.com/1034681/marhus-lakehouse-lichtstad-architecten",
-      "https://www.archdaily.com/1038908/pine-flat-faulkner-architects"
+      "https://www.archdaily.com/1038908/pine-flat-faulkner-architects",
+      "https://www.archdaily.com/1034213/balance-house-alexandre-chaguri-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039135/maison-aube-yh2-architecture",
@@ -236,9 +241,12 @@
       "https://www.archdaily.com/1039857/vespa-house-habitat-studio-architects",
       "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects",
       "https://www.archdaily.com/1039752/staggered-cabin-mork-ulnes-architects",
-      "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects"
+      "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects",
+      "https://www.archdaily.com/1039748/lane-cove-house-lachlan-seegers-architect",
+      "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch",
+      "https://www.archdaily.com/1039869/overlap-no-ma-house-igarchitects"
     ],
-    "archive_page": 28
+    "archive_page": 29
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -299,12 +307,13 @@
       "https://www.archdaily.com/978328/nanhua-glimmer-park-atelier-lets-plus-jr-architects",
       "https://www.archdaily.com/1039383/floating-pavilion-studio-re-plus-n",
       "https://www.archdaily.com/938846/aka-patagonia-hotel-pablo-larroulet",
-      "https://www.archdaily.com/1039602/twin-pavilions-atelier-luxnox-plus-found-projects"
+      "https://www.archdaily.com/1039602/twin-pavilions-atelier-luxnox-plus-found-projects",
+      "https://www.archdaily.com/971635/shenzhen-baoan-waterfront-cultural-park-aube-conception"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039685/three-service-pavilions-of-guiwan-park-hang-cheng-studio"
     ],
-    "archive_page": 28
+    "archive_page": 29
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -365,10 +374,10 @@
       "https://www.dezeen.com/2026/02/26/stone-clouds-data-centre-carl-fredrik-svenstedt-architects/",
       "https://www.dezeen.com/2026/02/26/ma-rs-serenity-retreat/",
       "https://www.dezeen.com/2026/02/26/la-fabrica-ricardo-bofill-nino-ferrari-mathis-alvaro-siza-safdie/",
-      "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/"
+      "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/",
+      "https://www.dezeen.com/2026/02/26/foster-partners-american-express-two-world-trade-center-new-york/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/26/foster-partners-american-express-two-world-trade-center-new-york/",
       "https://www.dezeen.com/2026/02/26/sports-district-india-worlds-largest-stadium-dezeen-agenda/",
       "https://www.dezeen.com/2026/02/26/los-angeles-architects-showcase-art-emeco-house/",
       "https://www.dezeen.com/2026/02/27/the-shuttle-badmington-centre-bhubaneswar-odisha-india/",
@@ -491,7 +500,11 @@
       "https://www.dezeen.com/2026/03/23/rong-museum-of-art-ole-scheeren/",
       "https://www.dezeen.com/2026/03/23/per-ofrenar-pichiavo-fallas/",
       "https://www.dezeen.com/2026/03/23/itc-green-centre-morphogenesis/",
-      "https://www.dezeen.com/2026/03/23/aia-lawsuit-trump-kennedy-center-dc/"
+      "https://www.dezeen.com/2026/03/23/aia-lawsuit-trump-kennedy-center-dc/",
+      "https://www.dezeen.com/2026/03/24/burundi-ineza-clinic-francis-kere/",
+      "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/",
+      "https://www.dezeen.com/2026/03/24/venice-central-pavilion-labics-fabio-fumagalli/",
+      "https://www.dezeen.com/2026/03/24/cork-loft-office-sm/"
     ],
     "archive_page": 2
   },
@@ -554,10 +567,10 @@
       "https://www.dezeen.com/2026/02/27/spazio-leone-gallery-showroom-former-victorian-factory/",
       "https://www.dezeen.com/2026/02/28/charlap-hyman-herrero-pocketbook-hudson-hotel/",
       "https://www.dezeen.com/2026/03/01/lionel-jadot-jam-hotel-ghent-artists-atelier/",
-      "https://www.dezeen.com/2026/03/01/monastic-minimalism-interiors-lookbooks/"
+      "https://www.dezeen.com/2026/03/01/monastic-minimalism-interiors-lookbooks/",
+      "https://www.dezeen.com/2026/03/01/caminhos-portinari-casacor-sao-paulo-melina-romano/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/01/caminhos-portinari-casacor-sao-paulo-melina-romano/",
       "https://www.dezeen.com/2026/03/02/at-interiors-cafe-kazakhstan-soviet-era-architecture/",
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/03/yuspa-spa-beijing-china-fog-architecture/",
@@ -645,10 +658,10 @@
       "https://landezine.com/banks-of-the-allier-river-moulins-by-base/",
       "https://landezine.com/archaeological-park-corvey-hoxter-by-frl/",
       "https://landezine.com/advertise/",
-      "https://landezine.com/godrej-riverhills-central-greens-by-studiopod/"
+      "https://landezine.com/godrej-riverhills-central-greens-by-studiopod/",
+      "https://landezine.com/totem-lake-park-by-berger-partnership/"
     ],
     "queue_new": [
-      "https://landezine.com/totem-lake-park-by-berger-partnership/",
       "https://landezine.com/archatrak/",
       "https://landezine.com/26-27-february-healthscapes-22nd-international-landscape-study-days-treviso-italy/",
       "https://landezine.com/tree-trunk-funk-by-mbyland/",
@@ -857,7 +870,9 @@
       "https://landezine.com/park-zomerhuis-in-stekene-belgium-by-omgeving/",
       "https://landezine.com/expanding-landscape-set-and-surplus/",
       "https://landezine.com/norways-july-22-memorial-sites-by-jonas-dahlberg-studio/",
-      "https://landezine.com/edge-garden-by-yiyu-design/"
+      "https://landezine.com/edge-garden-by-yiyu-design/",
+      "https://landezine.com/kalvebod-faelled-skole/",
+      "https://landezine.com/forest-garden-nests-house-by-estudio-ome/"
     ],
     "archive_page": 8
   },
@@ -918,7 +933,8 @@
       "https://monstrum.dk/en/playground/gyllins-greenhouse-playground",
       "https://monstrum.dk/en/playground/wonderful-garden",
       "https://monstrum.dk/en/playground/pond",
-      "https://monstrum.dk/en/playground/lilidorei-play-village"
+      "https://monstrum.dk/en/playground/lilidorei-play-village",
+      "https://monstrum.dk/en/playground/cunning-cobra"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/frosnapperbyen",
