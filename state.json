@@ -84,7 +84,8 @@
       "https://leibal.com/interiors/west-london-house-2/",
       "https://leibal.com/interiors/exeter-road-pavilion/",
       "https://leibal.com/interiors/casa-kendo/",
-      "https://leibal.com/interiors/gilberts-cottage/"
+      "https://leibal.com/interiors/gilberts-cottage/",
+      "https://leibal.com/interiors/noi/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -150,7 +151,8 @@
       "https://www.archdaily.com/1034681/marhus-lakehouse-lichtstad-architecten",
       "https://www.archdaily.com/1038908/pine-flat-faulkner-architects",
       "https://www.archdaily.com/1034213/balance-house-alexandre-chaguri-arquitetura",
-      "https://www.archdaily.com/1039135/maison-aube-yh2-architecture"
+      "https://www.archdaily.com/1039135/maison-aube-yh2-architecture",
+      "https://www.archdaily.com/1034549/house-in-brianza-studio-gerosa"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038890/bite-house-bioma",
@@ -245,9 +247,12 @@
       "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch",
       "https://www.archdaily.com/1039869/overlap-no-ma-house-igarchitects",
       "https://www.archdaily.com/1039916/country-house-in-the-interior-of-sao-paulo-db-arquitetos",
-      "https://www.archdaily.com/1039934/interface-house-core-design-workshop"
+      "https://www.archdaily.com/1039934/interface-house-core-design-workshop",
+      "https://www.archdaily.com/1039865/emilys-home-horizontal-design",
+      "https://www.archdaily.com/1039914/fitzroy-north-terrace-field-office-architecture",
+      "https://www.archdaily.com/1039920/villa-faringso-artists-house-strombro-building-workshop"
     ],
-    "archive_page": 29
+    "archive_page": 30
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -310,10 +315,14 @@
       "https://www.archdaily.com/938846/aka-patagonia-hotel-pablo-larroulet",
       "https://www.archdaily.com/1039602/twin-pavilions-atelier-luxnox-plus-found-projects",
       "https://www.archdaily.com/971635/shenzhen-baoan-waterfront-cultural-park-aube-conception",
-      "https://www.archdaily.com/1039685/three-service-pavilions-of-guiwan-park-hang-cheng-studio"
+      "https://www.archdaily.com/1039685/three-service-pavilions-of-guiwan-park-hang-cheng-studio",
+      "https://www.archdaily.com/970389/rural-geometries-barn-paradigma-ariadne"
     ],
-    "queue_new": [],
-    "archive_page": 29
+    "queue_new": [
+      "https://www.archdaily.com/1039918/compass-bonfire-messina-rivas",
+      "https://www.archdaily.com/1039899/bridge-of-happiness-hcch-studio"
+    ],
+    "archive_page": 30
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -376,10 +385,10 @@
       "https://www.dezeen.com/2026/02/26/la-fabrica-ricardo-bofill-nino-ferrari-mathis-alvaro-siza-safdie/",
       "https://www.dezeen.com/2026/02/26/iconic-nordic-house-book/",
       "https://www.dezeen.com/2026/02/26/foster-partners-american-express-two-world-trade-center-new-york/",
-      "https://www.dezeen.com/2026/02/26/sports-district-india-worlds-largest-stadium-dezeen-agenda/"
+      "https://www.dezeen.com/2026/02/26/sports-district-india-worlds-largest-stadium-dezeen-agenda/",
+      "https://www.dezeen.com/2026/02/26/los-angeles-architects-showcase-art-emeco-house/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/26/los-angeles-architects-showcase-art-emeco-house/",
       "https://www.dezeen.com/2026/02/27/the-shuttle-badmington-centre-bhubaneswar-odisha-india/",
       "https://www.dezeen.com/2026/02/27/coastal-house-splinter-society/",
       "https://www.dezeen.com/2026/02/27/white-house-east-wing-ukraine-war-interiors-orion-spacecraft-dezeen-weekly-podcast/",
@@ -505,7 +514,11 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/",
       "https://www.dezeen.com/2026/03/24/venice-central-pavilion-labics-fabio-fumagalli/",
       "https://www.dezeen.com/2026/03/24/cork-loft-office-sm/",
-      "https://www.dezeen.com/2026/03/24/false-bay-heliotrope-house-washington/"
+      "https://www.dezeen.com/2026/03/24/false-bay-heliotrope-house-washington/",
+      "https://www.dezeen.com/2026/03/25/snohetta-theatre-nanterre-amandiers/",
+      "https://www.dezeen.com/2026/03/25/smiljan-radic-pritzker-architecture-prize-winner-interview/",
+      "https://www.dezeen.com/2026/03/25/construction-materials-hormuz-blockade/",
+      "https://www.dezeen.com/2026/03/25/africa-skyscrapers/"
     ],
     "archive_page": 2
   },
@@ -570,10 +583,10 @@
       "https://www.dezeen.com/2026/03/01/lionel-jadot-jam-hotel-ghent-artists-atelier/",
       "https://www.dezeen.com/2026/03/01/monastic-minimalism-interiors-lookbooks/",
       "https://www.dezeen.com/2026/03/01/caminhos-portinari-casacor-sao-paulo-melina-romano/",
-      "https://www.dezeen.com/2026/03/02/at-interiors-cafe-kazakhstan-soviet-era-architecture/"
+      "https://www.dezeen.com/2026/03/02/at-interiors-cafe-kazakhstan-soviet-era-architecture/",
+      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/03/yuspa-spa-beijing-china-fog-architecture/",
       "https://www.dezeen.com/2026/03/04/abac-architects-house-of-green-patios-lisbon/",
       "https://www.dezeen.com/2026/03/05/upstairs-at-ronnies-archer-humphryes-architects/",
@@ -596,7 +609,8 @@
       "https://www.dezeen.com/2026/03/19/all-matters-studio-store-scent-brand-en-doft-stockholm/",
       "https://www.dezeen.com/2026/03/21/cota760-arquitetura-sao-paulo-apartment-terracota/",
       "https://www.dezeen.com/2026/03/22/good-finance-office-snohetta-taichung/",
-      "https://www.dezeen.com/2026/03/22/mouthwash-studio-new-york-offices-charlap-hyman-herrero/"
+      "https://www.dezeen.com/2026/03/22/mouthwash-studio-new-york-offices-charlap-hyman-herrero/",
+      "https://www.dezeen.com/2026/03/25/ceintuur-theatre-studio-elen-letort-restaurant-amsterdam/"
     ],
     "archive_page": 2
   },
@@ -661,10 +675,10 @@
       "https://landezine.com/advertise/",
       "https://landezine.com/godrej-riverhills-central-greens-by-studiopod/",
       "https://landezine.com/totem-lake-park-by-berger-partnership/",
-      "https://landezine.com/archatrak/"
+      "https://landezine.com/archatrak/",
+      "https://landezine.com/26-27-february-healthscapes-22nd-international-landscape-study-days-treviso-italy/"
     ],
     "queue_new": [
-      "https://landezine.com/26-27-february-healthscapes-22nd-international-landscape-study-days-treviso-italy/",
       "https://landezine.com/tree-trunk-funk-by-mbyland/",
       "https://landezine.com/spakwus-feather-park-by-hapa-collaborative/",
       "https://landezine.com/grona-stugans-park-by-land-arkitektur/",
@@ -875,7 +889,12 @@
       "https://landezine.com/kalvebod-faelled-skole/",
       "https://landezine.com/forest-garden-nests-house-by-estudio-ome/",
       "https://landezine.com/hortus-veemarkt-utrecht-by-strootman/",
-      "https://landezine.com/scandiagade-by-11-landskab/"
+      "https://landezine.com/scandiagade-by-11-landskab/",
+      "https://landezine.com/broparken-by-white/",
+      "https://landezine.com/landesgartenschau-wassertrudingen-by-planorama-landschaftsarchitektur/",
+      "https://landezine.com/11-may-open-call-what-if-waste-experimental-essays-for-oslo-architecture-triennale-2026/",
+      "https://landezine.com/middle-pader-springs-area-paderborn-wes-landscape-architecture/",
+      "https://landezine.com/28-june-1-july-uia-world-congress-of-architects-2026-barcelona/"
     ],
     "archive_page": 8
   },
@@ -938,7 +957,8 @@
       "https://monstrum.dk/en/playground/pond",
       "https://monstrum.dk/en/playground/lilidorei-play-village",
       "https://monstrum.dk/en/playground/cunning-cobra",
-      "https://monstrum.dk/en/playground/frosnapperbyen"
+      "https://monstrum.dk/en/playground/frosnapperbyen",
+      "https://monstrum.dk/en/playground/world-linne"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/ringsted-outlet-playground",
