@@ -89,7 +89,8 @@
       "https://leibal.com/interiors/noi/",
       "https://leibal.com/interiors/antonia-roger-house/",
       "https://leibal.com/interiors/angel-dream/",
-      "https://leibal.com/interiors/maison-de-loree/"
+      "https://leibal.com/interiors/maison-de-loree/",
+      "https://leibal.com/interiors/uk-apartment/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -161,7 +162,8 @@
       "https://www.archdaily.com/1034266/homa-house-homa-studio",
       "https://www.archdaily.com/1039063/georgian-bay-beach-house-and-pierre",
       "https://www.archdaily.com/1034504/residence-at-edavanna-zero-studio",
-      "https://www.archdaily.com/1038922/floating-house-cta-creative-architects"
+      "https://www.archdaily.com/1038922/floating-house-cta-creative-architects",
+      "https://www.archdaily.com/1034342/grand-bayview-qianhai-residential-towers-foster-plus-partners"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038984/jonoya-house-masakazu-tsujibayashi-architects",
@@ -266,9 +268,10 @@
       "https://www.archdaily.com/1039941/jevany-villa-architektura",
       "https://www.archdaily.com/1039933/northcote-house-llds",
       "https://www.archdaily.com/1039764/la-florida-ii-house-lezaeta-lavanchy",
-      "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects"
+      "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects",
+      "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects"
     ],
-    "archive_page": 32
+    "archive_page": 33
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -337,13 +340,14 @@
       "https://www.archdaily.com/966850/river-view-service-kiosk-atelier-z-plus",
       "https://www.archdaily.com/1039899/bridge-of-happiness-hcch-studio",
       "https://www.archdaily.com/966423/roof-gardens-ladesignstudio",
-      "https://www.archdaily.com/1039910/circle-pit-studio-clash"
+      "https://www.archdaily.com/1039910/circle-pit-studio-clash",
+      "https://www.archdaily.com/964370/nordes-observation-post-cesuga-school-of-architecture-plus-sebastian-erazo-plus-stefano-pugliese"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039943/beijing-haidian-xiaojiahe-green-dynamic-world-ddon",
       "https://www.archdaily.com/1039960/the-leaf-at-assiniboine-park-kpmb-architects-plus-architecture49"
     ],
-    "archive_page": 32
+    "archive_page": 33
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -412,10 +416,10 @@
       "https://www.dezeen.com/2026/02/27/coastal-house-splinter-society/",
       "https://www.dezeen.com/2026/02/27/white-house-east-wing-ukraine-war-interiors-orion-spacecraft-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/02/27/safdie-architects-florida-mandarin-oriental-residences/",
-      "https://www.dezeen.com/2026/02/28/orion-spacecraft-dezeen-in-depth/"
+      "https://www.dezeen.com/2026/02/28/orion-spacecraft-dezeen-in-depth/",
+      "https://www.dezeen.com/2026/02/28/pritzker-prize-delayed-this-week/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/02/28/pritzker-prize-delayed-this-week/",
       "https://www.dezeen.com/2026/02/28/top-houses-february-2026/",
       "https://www.dezeen.com/2026/02/28/house-nakano-tokyo-hoaa/",
       "https://www.dezeen.com/2026/03/01/shoemakers-museum-purcell/",
@@ -553,7 +557,9 @@
       "https://www.dezeen.com/2026/03/27/henriquez-partners-vancouver-supertall-skyscraper-sea-sponge/",
       "https://www.dezeen.com/2026/03/27/tipping-point-east-circular-construction-hub-london-yes-make-resolve-collective-material-cultures/",
       "https://www.dezeen.com/2026/03/27/aia-sues-trump-ai-toys-africa-skyscrapers-dezeen-weekly/",
-      "https://www.dezeen.com/2026/03/27/benjamin-hall-design-arizona-moon-valley-residence-adu/"
+      "https://www.dezeen.com/2026/03/27/benjamin-hall-design-arizona-moon-valley-residence-adu/",
+      "https://www.dezeen.com/2026/03/28/studio-razavi-seaside-house-cap-ferret/",
+      "https://www.dezeen.com/2026/03/28/smiljan-radic-interview-pritzker-this-week/"
     ],
     "archive_page": 2
   },
@@ -624,10 +630,10 @@
       "https://www.dezeen.com/2026/03/04/abac-architects-house-of-green-patios-lisbon/",
       "https://www.dezeen.com/2026/03/05/upstairs-at-ronnies-archer-humphryes-architects/",
       "https://www.dezeen.com/2026/03/06/homer-rogue-taverna-sydney-ap-design-house/",
-      "https://www.dezeen.com/2026/03/08/blockwork-walls-lookbooks/"
+      "https://www.dezeen.com/2026/03/08/blockwork-walls-lookbooks/",
+      "https://www.dezeen.com/2026/03/08/schemata-architects-le-labo-store-interior-tokyo/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/08/schemata-architects-le-labo-store-interior-tokyo/",
       "https://www.dezeen.com/2026/03/08/colbo-next-door-listening-bar-of-enso/",
       "https://www.dezeen.com/2026/03/09/pluskouple-aircraft-hangar-aerotim-ukraine/",
       "https://www.dezeen.com/2026/03/09/lisbon-townhouse-mclean-quinlan-architecture/",
@@ -718,10 +724,10 @@
       "https://landezine.com/spakwus-feather-park-by-hapa-collaborative/",
       "https://landezine.com/grona-stugans-park-by-land-arkitektur/",
       "https://landezine.com/tynnyripuisto-by-loci/",
-      "https://landezine.com/overlook-at-rise-park-by-studio-one-eleven/"
+      "https://landezine.com/overlook-at-rise-park-by-studio-one-eleven/",
+      "https://landezine.com/miramondo/"
     ],
     "queue_new": [
-      "https://landezine.com/miramondo/",
       "https://landezine.com/anna-marly-garden-by-arpentere/",
       "https://landezine.com/terms-and-conditions-2/",
       "https://landezine.com/ttc-timmler-technology/",
@@ -940,7 +946,10 @@
       "https://landezine.com/hard-turm-park-zurich-vetschpartner/",
       "https://landezine.com/averbode-abbey-square-by-omgeving/",
       "https://landezine.com/the-slaughterhouse-site-in-holstebro-by-bogl/",
-      "https://landezine.com/bureplatsen-by-niva/"
+      "https://landezine.com/bureplatsen-by-niva/",
+      "https://landezine.com/kossuth-square-kispest-by-leptek-terv/",
+      "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/",
+      "https://landezine.com/the-garden-of-migrations-by-agence-aps/"
     ],
     "archive_page": 8
   },
@@ -1009,7 +1018,8 @@
       "https://monstrum.dk/en/playground/bumble-bee-playground",
       "https://monstrum.dk/en/playground/flamingogo-playground",
       "https://monstrum.dk/en/playground/historical-playground",
-      "https://monstrum.dk/en/playground/affenzahn-island"
+      "https://monstrum.dk/en/playground/affenzahn-island",
+      "https://monstrum.dk/en/playground/airport"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/hats-slide-playground",
