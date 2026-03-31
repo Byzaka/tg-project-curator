@@ -95,9 +95,12 @@
       "https://leibal.com/interiors/uk-apartment/",
       "https://leibal.com/interiors/standing-room-coffee/",
       "https://leibal.com/interiors/lakeshore-barn-house/",
-      "https://leibal.com/interiors/mozart-house/"
+      "https://leibal.com/interiors/mozart-house/",
+      "https://leibal.com/interiors/lindfield-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/domaine-de-beaucastel/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -173,7 +176,8 @@
       "https://www.archdaily.com/1033958/house-hutmann-sea-arquitectos",
       "https://www.archdaily.com/1039082/valckensteyn-timber-residential-building-powerhouse-company",
       "https://www.archdaily.com/1034079/house-pirca-manto-arquitectura",
-      "https://www.archdaily.com/1038989/barao-geraldo-house-gil-mello-arquitetura"
+      "https://www.archdaily.com/1038989/barao-geraldo-house-gil-mello-arquitetura",
+      "https://www.archdaily.com/1033705/keogh-residence-venn-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group",
@@ -285,9 +289,12 @@
       "https://www.archdaily.com/1040031/casa-ga-archiplanstudio",
       "https://www.archdaily.com/1039998/east-river-residence-omar-gandhi-architects",
       "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects",
-      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects"
+      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
+      "https://www.archdaily.com/1040030/villa-lyla-saota",
+      "https://www.archdaily.com/1039990/capuchinas-house-labarq",
+      "https://www.archdaily.com/1040086/v-house-23o5studio"
     ],
-    "archive_page": 35
+    "archive_page": 36
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -361,10 +368,11 @@
       "https://www.archdaily.com/1039943/beijing-haidian-xiaojiahe-green-dynamic-world-ddon",
       "https://www.archdaily.com/963333/ghost-house-installation-i-thee",
       "https://www.archdaily.com/1039960/the-leaf-at-assiniboine-park-kpmb-architects-plus-architecture49",
-      "https://www.archdaily.com/959308/casita-house-the-ranch-mine"
+      "https://www.archdaily.com/959308/casita-house-the-ranch-mine",
+      "https://www.archdaily.com/954290/castignani-house-ebeca"
     ],
     "queue_new": [],
-    "archive_page": 36
+    "archive_page": 37
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -439,10 +447,10 @@
       "https://www.dezeen.com/2026/02/28/house-nakano-tokyo-hoaa/",
       "https://www.dezeen.com/2026/03/01/shoemakers-museum-purcell/",
       "https://www.dezeen.com/2026/03/02/cablecar-de-carlo-gualla-aosta-valley-stella-di-pila/",
-      "https://www.dezeen.com/2026/03/02/burj-al-arab-skyscraper-dubai-iranian-strikes/"
+      "https://www.dezeen.com/2026/03/02/burj-al-arab-skyscraper-dubai-iranian-strikes/",
+      "https://www.dezeen.com/2026/03/02/eight-architecture-design-events-march-dezeen-events-guide-2026/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/02/eight-architecture-design-events-march-dezeen-events-guide-2026/",
       "https://www.dezeen.com/2026/03/02/barbara-buser-2026-jane-drew-prize/",
       "https://www.dezeen.com/2026/03/02/underground-house-of-the-future-reinvents-chinese-cave-home-with-brick-vaults-and-3d-printing/",
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
@@ -585,7 +593,12 @@
       "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
       "https://www.dezeen.com/2026/03/30/tampa-bay-rays-florida-stadium-roof/",
       "https://www.dezeen.com/2026/03/31/woonpioniers-dune-house-goeree-overflakkee-ouddorp/",
-      "https://www.dezeen.com/2026/03/30/white-house-ballroom-shed-military-bunker-trump-dc/"
+      "https://www.dezeen.com/2026/03/30/white-house-ballroom-shed-military-bunker-trump-dc/",
+      "https://www.dezeen.com/2026/03/31/playrise-easy-build-playground-refugee-camps-design/",
+      "https://www.dezeen.com/2026/03/31/va-east-museum-odonnell-tuomey-london-uk/",
+      "https://www.dezeen.com/2026/03/31/zaha-hadid-anniversary-ingrid-schroder-opinion/",
+      "https://www.dezeen.com/2026/03/31/trump-video-skyscraper-presidential-library/",
+      "https://www.dezeen.com/2026/03/31/zaha-hadid-archive-aric-chen/"
     ],
     "archive_page": 2
   },
@@ -662,10 +675,10 @@
       "https://www.dezeen.com/2026/03/09/pluskouple-aircraft-hangar-aerotim-ukraine/",
       "https://www.dezeen.com/2026/03/09/lisbon-townhouse-mclean-quinlan-architecture/",
       "https://www.dezeen.com/2026/03/10/casa-da-praia-mallorca-holiday-home-holzrausch/",
-      "https://www.dezeen.com/2026/03/11/acid-cafe-berlin-interiors-plantea-estudio/"
+      "https://www.dezeen.com/2026/03/11/acid-cafe-berlin-interiors-plantea-estudio/",
+      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/",
       "https://www.dezeen.com/2026/03/12/peckham-palais-nightclub-nikjoo/",
       "https://www.dezeen.com/2026/03/13/the-melange-studio-new-delhi-gully-labs-sneaker-store/",
       "https://www.dezeen.com/2026/03/14/haram-haram-tattoo-parlour-miami-chimera-design/",
@@ -761,10 +774,10 @@
       "https://landezine.com/terms-and-conditions-2/",
       "https://landezine.com/ttc-timmler-technology/",
       "https://landezine.com/ecole-centrale-supelec-by-btp/",
-      "https://landezine.com/stanislas-institute-by-atelier-clap/"
+      "https://landezine.com/stanislas-institute-by-atelier-clap/",
+      "https://landezine.com/playground-travel-around-the-world-by-bhmp/"
     ],
     "queue_new": [
-      "https://landezine.com/playground-travel-around-the-world-by-bhmp/",
       "https://landezine.com/city-design/",
       "https://landezine.com/california-is-burning-rethinking-the-wildland-suburban-interface/",
       "https://landezine.com/environment-for-revit/",
@@ -994,7 +1007,9 @@
       "https://landezine.com/zollverein-park-by-planergruppe-gmbh/",
       "https://landezine.com/mooi-mosterdhof-by-veenenbos-en-bosch-landscape-architecture/",
       "https://landezine.com/willow-street-garden-by-mvva/",
-      "https://landezine.com/cycling-through-the-trees-by-burolandschap/"
+      "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
+      "https://landezine.com/paddington-reservoir-by-jmd-design/",
+      "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/"
     ],
     "archive_page": 8
   },
@@ -1069,7 +1084,8 @@
       "https://monstrum.dk/en/playground/liseberg-victorian-garden",
       "https://monstrum.dk/en/playground/blazing-battle-dragon",
       "https://monstrum.dk/en/playground/pelican-playground",
-      "https://monstrum.dk/en/playground/cosmos"
+      "https://monstrum.dk/en/playground/cosmos",
+      "https://monstrum.dk/en/playground/oresund-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/airport",
