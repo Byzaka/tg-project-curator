@@ -96,11 +96,10 @@
       "https://leibal.com/interiors/standing-room-coffee/",
       "https://leibal.com/interiors/lakeshore-barn-house/",
       "https://leibal.com/interiors/mozart-house/",
-      "https://leibal.com/interiors/lindfield-house/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/lindfield-house/",
       "https://leibal.com/interiors/domaine-de-beaucastel/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -177,10 +176,10 @@
       "https://www.archdaily.com/1039082/valckensteyn-timber-residential-building-powerhouse-company",
       "https://www.archdaily.com/1034079/house-pirca-manto-arquitectura",
       "https://www.archdaily.com/1038989/barao-geraldo-house-gil-mello-arquitetura",
-      "https://www.archdaily.com/1033705/keogh-residence-venn-studio"
+      "https://www.archdaily.com/1033705/keogh-residence-venn-studio",
+      "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group",
       "https://www.archdaily.com/1039187/shahrak-villa-next-office-alireza-taghaboni",
       "https://www.archdaily.com/1039185/maki-no-yado-miyakojima-riverside-coil-kazuteru-matumura-architects",
       "https://www.archdaily.com/1039015/bouscat-villa-patrick-arotcharen-architecte",
@@ -292,7 +291,10 @@
       "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
       "https://www.archdaily.com/1040030/villa-lyla-saota",
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
-      "https://www.archdaily.com/1040086/v-house-23o5studio"
+      "https://www.archdaily.com/1040086/v-house-23o5studio",
+      "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
+      "https://www.archdaily.com/1040191/h168-house-only-human",
+      "https://www.archdaily.com/1039959/light-house-studioninedots"
     ],
     "archive_page": 36
   },
@@ -369,10 +371,11 @@
       "https://www.archdaily.com/963333/ghost-house-installation-i-thee",
       "https://www.archdaily.com/1039960/the-leaf-at-assiniboine-park-kpmb-architects-plus-architecture49",
       "https://www.archdaily.com/959308/casita-house-the-ranch-mine",
-      "https://www.archdaily.com/954290/castignani-house-ebeca"
+      "https://www.archdaily.com/954290/castignani-house-ebeca",
+      "https://www.archdaily.com/953350/house-93-v2-arquitetos"
     ],
     "queue_new": [],
-    "archive_page": 37
+    "archive_page": 38
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -448,10 +451,10 @@
       "https://www.dezeen.com/2026/03/01/shoemakers-museum-purcell/",
       "https://www.dezeen.com/2026/03/02/cablecar-de-carlo-gualla-aosta-valley-stella-di-pila/",
       "https://www.dezeen.com/2026/03/02/burj-al-arab-skyscraper-dubai-iranian-strikes/",
-      "https://www.dezeen.com/2026/03/02/eight-architecture-design-events-march-dezeen-events-guide-2026/"
+      "https://www.dezeen.com/2026/03/02/eight-architecture-design-events-march-dezeen-events-guide-2026/",
+      "https://www.dezeen.com/2026/03/02/barbara-buser-2026-jane-drew-prize/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/02/barbara-buser-2026-jane-drew-prize/",
       "https://www.dezeen.com/2026/03/02/underground-house-of-the-future-reinvents-chinese-cave-home-with-brick-vaults-and-3d-printing/",
       "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
       "https://www.dezeen.com/2026/03/02/mariano-azuela-194-bloqe-architectura/",
@@ -598,7 +601,9 @@
       "https://www.dezeen.com/2026/03/31/va-east-museum-odonnell-tuomey-london-uk/",
       "https://www.dezeen.com/2026/03/31/zaha-hadid-anniversary-ingrid-schroder-opinion/",
       "https://www.dezeen.com/2026/03/31/trump-video-skyscraper-presidential-library/",
-      "https://www.dezeen.com/2026/03/31/zaha-hadid-archive-aric-chen/"
+      "https://www.dezeen.com/2026/03/31/zaha-hadid-archive-aric-chen/",
+      "https://www.dezeen.com/2026/03/31/texas-tiny-houses-inside-tiny-house-nation/",
+      "https://www.dezeen.com/2026/03/31/white-house-ballroom-project-temporarily-halted-by-judge/"
     ],
     "archive_page": 2
   },
@@ -676,10 +681,10 @@
       "https://www.dezeen.com/2026/03/09/lisbon-townhouse-mclean-quinlan-architecture/",
       "https://www.dezeen.com/2026/03/10/casa-da-praia-mallorca-holiday-home-holzrausch/",
       "https://www.dezeen.com/2026/03/11/acid-cafe-berlin-interiors-plantea-estudio/",
-      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/"
+      "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/",
+      "https://www.dezeen.com/2026/03/12/peckham-palais-nightclub-nikjoo/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/12/peckham-palais-nightclub-nikjoo/",
       "https://www.dezeen.com/2026/03/13/the-melange-studio-new-delhi-gully-labs-sneaker-store/",
       "https://www.dezeen.com/2026/03/14/haram-haram-tattoo-parlour-miami-chimera-design/",
       "https://www.dezeen.com/2026/03/15/eight-interior-designs-reclaimed-materials-lookbooks/",
@@ -697,7 +702,8 @@
       "https://www.dezeen.com/2026/03/28/asap-rocky-paul-rudolph-house-basic-space-auction-la/",
       "https://www.dezeen.com/2026/03/29/elizabeth-roberts-architects-degraw-street-office-brooklyn-arts-sciences/",
       "https://www.dezeen.com/2026/03/30/colchon-expres-madrid-mattress-store-jotajota-yellow/",
-      "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/"
+      "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
+      "https://www.dezeen.com/2026/04/01/ferrari-style-london-flagship/"
     ],
     "archive_page": 2
   },
@@ -775,10 +781,10 @@
       "https://landezine.com/ttc-timmler-technology/",
       "https://landezine.com/ecole-centrale-supelec-by-btp/",
       "https://landezine.com/stanislas-institute-by-atelier-clap/",
-      "https://landezine.com/playground-travel-around-the-world-by-bhmp/"
+      "https://landezine.com/playground-travel-around-the-world-by-bhmp/",
+      "https://landezine.com/city-design/"
     ],
     "queue_new": [
-      "https://landezine.com/city-design/",
       "https://landezine.com/california-is-burning-rethinking-the-wildland-suburban-interface/",
       "https://landezine.com/environment-for-revit/",
       "https://landezine.com/skaistakalnis-park-by-pupa/",
@@ -1009,7 +1015,9 @@
       "https://landezine.com/willow-street-garden-by-mvva/",
       "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
       "https://landezine.com/paddington-reservoir-by-jmd-design/",
-      "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/"
+      "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/",
+      "https://landezine.com/housing-steinwies-irisstrasse/",
+      "https://landezine.com/birzhevaya-square-by-karres-en-brands/"
     ],
     "archive_page": 8
   },
@@ -1085,10 +1093,10 @@
       "https://monstrum.dk/en/playground/blazing-battle-dragon",
       "https://monstrum.dk/en/playground/pelican-playground",
       "https://monstrum.dk/en/playground/cosmos",
-      "https://monstrum.dk/en/playground/oresund-playground"
+      "https://monstrum.dk/en/playground/oresund-playground",
+      "https://monstrum.dk/en/playground/airport"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/airport",
       "https://monstrum.dk/en/playground/guardian-lion",
       "https://monstrum.dk/en/playground/samovar-playground",
       "https://monstrum.dk/en/playground/charming-harbour",
