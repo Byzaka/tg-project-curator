@@ -99,9 +99,12 @@
       "https://leibal.com/interiors/lindfield-house/",
       "https://leibal.com/interiors/domaine-de-beaucastel/",
       "https://leibal.com/interiors/pascoal-vita-apartment/",
-      "https://leibal.com/interiors/north-cornwall-retreat/"
+      "https://leibal.com/interiors/north-cornwall-retreat/",
+      "https://leibal.com/interiors/penthouse-vivace/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/modular/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -181,7 +184,8 @@
       "https://www.archdaily.com/1033705/keogh-residence-venn-studio",
       "https://www.archdaily.com/1039150/villa-1028-kanisavaran-architectural-group",
       "https://www.archdaily.com/1033382/adorn-house-bhutha-earthen-architecture-studio",
-      "https://www.archdaily.com/1039187/shahrak-villa-next-office-alireza-taghaboni"
+      "https://www.archdaily.com/1039187/shahrak-villa-next-office-alireza-taghaboni",
+      "https://www.archdaily.com/1033440/pi-house-arquitectosrt"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039185/maki-no-yado-miyakojima-riverside-coil-kazuteru-matumura-architects",
@@ -301,9 +305,11 @@
       "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
       "https://www.archdaily.com/1040133/real-house-hk-associates-inc",
       "https://www.archdaily.com/1040127/apartment-a",
-      "https://www.archdaily.com/1039532/luaa-house-ana-smud"
+      "https://www.archdaily.com/1039532/luaa-house-ana-smud",
+      "https://www.archdaily.com/1040252/pbr-house-studio-saransh",
+      "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects"
     ],
-    "archive_page": 37
+    "archive_page": 38
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -381,10 +387,13 @@
       "https://www.archdaily.com/954290/castignani-house-ebeca",
       "https://www.archdaily.com/953350/house-93-v2-arquitetos",
       "https://www.archdaily.com/949411/white-upland-wutopia-lab",
-      "https://www.archdaily.com/948418/the-fountain-villa-mjolk-architekti"
+      "https://www.archdaily.com/948418/the-fountain-villa-mjolk-architekti",
+      "https://www.archdaily.com/794302/veranda-in-shanghai-ppas-plus-tf-architecture-office"
     ],
-    "queue_new": [],
-    "archive_page": 40
+    "queue_new": [
+      "https://www.archdaily.com/1040130/xuanpu-pavilion-uad"
+    ],
+    "archive_page": 41
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -463,10 +472,10 @@
       "https://www.dezeen.com/2026/03/02/eight-architecture-design-events-march-dezeen-events-guide-2026/",
       "https://www.dezeen.com/2026/03/02/barbara-buser-2026-jane-drew-prize/",
       "https://www.dezeen.com/2026/03/02/underground-house-of-the-future-reinvents-chinese-cave-home-with-brick-vaults-and-3d-printing/",
-      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/"
+      "https://www.dezeen.com/2026/03/02/soil-nihonbashi-hotel-tokyo-staple/",
+      "https://www.dezeen.com/2026/03/02/mariano-azuela-194-bloqe-architectura/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/02/mariano-azuela-194-bloqe-architectura/",
       "https://www.dezeen.com/2026/03/02/zaha-hadid-name-legal-battle-patrik-schumacher/",
       "https://www.dezeen.com/2026/03/03/malaga-university-vaillo-irigaray-architects/",
       "https://www.dezeen.com/2026/03/03/mxarchitecture-2in1-houses-noisy-le-sec-back-to-back/",
@@ -619,7 +628,11 @@
       "https://www.dezeen.com/2026/04/01/thatch-holiday-home-latvia-oad-bprom/",
       "https://www.dezeen.com/2026/04/01/shakira-stadium-pop-up-madrid-big/",
       "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/",
-      "https://www.dezeen.com/2026/04/01/fallingwater-frank-lloyd-wright-architectural-preservation-studio/"
+      "https://www.dezeen.com/2026/04/01/fallingwater-frank-lloyd-wright-architectural-preservation-studio/",
+      "https://www.dezeen.com/2026/04/02/reinier-de-graaf-architecture-against-architecture-book-interview/",
+      "https://www.dezeen.com/2026/04/02/braga-football-stadium-eduardo-souto-de-moura-video-profile/",
+      "https://www.dezeen.com/2026/04/02/via-zaha-hadid-milan-street/",
+      "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/"
     ],
     "archive_page": 2
   },
@@ -700,10 +713,10 @@
       "https://www.dezeen.com/2026/03/11/i-in-kamakura-lulla-house-ocean-view-holiday-home/",
       "https://www.dezeen.com/2026/03/12/peckham-palais-nightclub-nikjoo/",
       "https://www.dezeen.com/2026/03/13/the-melange-studio-new-delhi-gully-labs-sneaker-store/",
-      "https://www.dezeen.com/2026/03/14/haram-haram-tattoo-parlour-miami-chimera-design/"
+      "https://www.dezeen.com/2026/03/14/haram-haram-tattoo-parlour-miami-chimera-design/",
+      "https://www.dezeen.com/2026/03/15/eight-interior-designs-reclaimed-materials-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/15/eight-interior-designs-reclaimed-materials-lookbooks/",
       "https://www.dezeen.com/2026/03/15/car-part-time-brooklyn-office-of-tangible-space-showroom-lounge/",
       "https://www.dezeen.com/2026/03/17/digital-guide-nycxdesign-2026-dezeen-events-guide/",
       "https://www.dezeen.com/2026/03/18/berlin-co-working-space-bruzkus-greenberg/",
@@ -801,10 +814,10 @@
       "https://landezine.com/playground-travel-around-the-world-by-bhmp/",
       "https://landezine.com/city-design/",
       "https://landezine.com/california-is-burning-rethinking-the-wildland-suburban-interface/",
-      "https://landezine.com/environment-for-revit/"
+      "https://landezine.com/environment-for-revit/",
+      "https://landezine.com/skaistakalnis-park-by-pupa/"
     ],
     "queue_new": [
-      "https://landezine.com/skaistakalnis-park-by-pupa/",
       "https://landezine.com/vaidila-square-by-pupa/",
       "https://landezine.com/vargarden-by-niva/",
       "https://landezine.com/study-landscape-architecture/",
@@ -1038,7 +1051,10 @@
       "https://landezine.com/bradfords-city-park-by-gillespies/",
       "https://landezine.com/21-23-april-conference-urbanscapes-2026/",
       "https://landezine.com/archstoyanie-park-by-wagon-landscaping/",
-      "https://landezine.com/sohlbergplassen-viewpoint/"
+      "https://landezine.com/sohlbergplassen-viewpoint/",
+      "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
+      "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
+      "https://landezine.com/times-square-redesign-by-snohetta-opens-today/"
     ],
     "archive_page": 8
   },
@@ -1117,7 +1133,8 @@
       "https://monstrum.dk/en/playground/oresund-playground",
       "https://monstrum.dk/en/playground/airport",
       "https://monstrum.dk/en/playground/unexpected-cat",
-      "https://monstrum.dk/en/playground/guardian-lion"
+      "https://monstrum.dk/en/playground/guardian-lion",
+      "https://monstrum.dk/en/playground/giant-garden"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/samovar-playground",
