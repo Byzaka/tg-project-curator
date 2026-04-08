@@ -30,7 +30,8 @@
       "https://leibal.com/interiors/lakeshore-barn-house/",
       "https://leibal.com/interiors/mozart-house/",
       "https://leibal.com/a-night-at/desa-potato-head-bali/",
-      "https://leibal.com/interiors/concrete-house-2/"
+      "https://leibal.com/interiors/concrete-house-2/",
+      "https://leibal.com/interiors/casa-ga/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -108,9 +109,12 @@
       "https://leibal.com/interiors/chatelet-apartment/",
       "https://leibal.com/interiors/preface-design/",
       "https://leibal.com/interiors/concrete-house-2/",
-      "https://leibal.com/interiors/turenne/"
+      "https://leibal.com/interiors/turenne/",
+      "https://leibal.com/interiors/five-villas-2/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/casa-ga/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -202,7 +206,8 @@
       "https://www.archdaily.com/1032937/house-of-local-spirits-atelier-salad",
       "https://www.archdaily.com/1038991/the-oculus-hayley-pryor-architect",
       "https://www.archdaily.com/1032728/hierlooms-in-concrete-greyscale-design-studio",
-      "https://www.archdaily.com/1039024/the-sister-houses-oitoo"
+      "https://www.archdaily.com/1039024/the-sister-houses-oitoo",
+      "https://www.archdaily.com/1032291/house-in-cieneguilla-vasquez-and-lopez-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039149/shahrzad-villa",
@@ -342,9 +347,12 @@
       "https://www.archdaily.com/1040267/81-housing-units-ramdam-architectes-plus-palast",
       "https://www.archdaily.com/1040311/the-brick-house-studio-vdga",
       "https://www.archdaily.com/1040128/house-meriportti-luo-architects",
-      "https://www.archdaily.com/1040387/moffat-morphing-house-arcke"
+      "https://www.archdaily.com/1040387/moffat-morphing-house-arcke",
+      "https://www.archdaily.com/1040319/n3-residence-tristan-burfield",
+      "https://www.archdaily.com/1040159/veil-arid",
+      "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber"
     ],
-    "archive_page": 43
+    "archive_page": 44
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -434,10 +442,11 @@
       "https://www.archdaily.com/920699/path-of-perspectives-panorama-trail-snohetta",
       "https://www.archdaily.com/915563/pixeland-100architects",
       "https://www.archdaily.com/908221/titan-integrity-campus-mindspace",
-      "https://www.archdaily.com/904222/xuhui-runway-park-sasaki-associates"
+      "https://www.archdaily.com/904222/xuhui-runway-park-sasaki-associates",
+      "https://www.archdaily.com/900662/truthehole-splace"
     ],
     "queue_new": [],
-    "archive_page": 49
+    "archive_page": 50
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -528,10 +537,10 @@
       "https://www.dezeen.com/2026/03/03/una-residences-skyscraper-miami-adrian-smith-gordon-gill/",
       "https://www.dezeen.com/2026/03/04/barbican-renewal-programme-allies-and-morrison/",
       "https://www.dezeen.com/2026/03/04/shift-world-wonder-competition-shortlist/",
-      "https://www.dezeen.com/2026/03/04/madras-spaces-the-threshold-house/"
+      "https://www.dezeen.com/2026/03/04/madras-spaces-the-threshold-house/",
+      "https://www.dezeen.com/2026/03/04/heirloom-house-concrete-components-designed-to-last-1000-years/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/04/heirloom-house-concrete-components-designed-to-last-1000-years/",
       "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/",
       "https://www.dezeen.com/2026/03/05/golestan-palace-damaged-unesco-world-heritage/",
       "https://www.dezeen.com/2026/03/05/shigeru-ban-19th-century-armory-wooded-concert-hall/",
@@ -693,7 +702,10 @@
       "https://www.dezeen.com/2026/04/07/big-not-a-hotel-setouchi/",
       "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
       "https://www.dezeen.com/2026/04/07/tepoztlan-market-mexico-ramirez-suarez-arquitectos-laboratorio-regional-de-arquitectura/",
-      "https://www.dezeen.com/2026/04/07/the-white-house-construction-legal-limbo/"
+      "https://www.dezeen.com/2026/04/07/the-white-house-construction-legal-limbo/",
+      "https://www.dezeen.com/2026/04/08/sabella-arquitetura-casa-colmeia/",
+      "https://www.dezeen.com/2026/04/08/mata-architects-timber-extension-hamstead-home/",
+      "https://www.dezeen.com/2026/04/08/kengo-kuma-national-gallery-wing/"
     ],
     "archive_page": 2
   },
@@ -786,10 +798,10 @@
       "https://www.dezeen.com/2026/03/25/ceintuur-theatre-studio-elen-letort-restaurant-amsterdam/",
       "https://www.dezeen.com/2026/03/26/messa-house-boutique-almaty-kazakhstan-up2date-architects/",
       "https://www.dezeen.com/2026/03/26/dezeen-jobs-announces-top-companies-2026/",
-      "https://www.dezeen.com/2026/03/29/sabari-gold-diamonds-tiruppur-tamil-nadu-parinamah-architects-india/"
+      "https://www.dezeen.com/2026/03/29/sabari-gold-diamonds-tiruppur-tamil-nadu-parinamah-architects-india/",
+      "https://www.dezeen.com/2026/03/28/asap-rocky-paul-rudolph-house-basic-space-auction-la/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/28/asap-rocky-paul-rudolph-house-basic-space-auction-la/",
       "https://www.dezeen.com/2026/03/29/elizabeth-roberts-architects-degraw-street-office-brooklyn-arts-sciences/",
       "https://www.dezeen.com/2026/03/30/colchon-expres-madrid-mattress-store-jotajota-yellow/",
       "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
@@ -800,7 +812,8 @@
       "https://www.dezeen.com/2026/04/05/luise-terrace-care-of-studio-sydney-house-interiors/",
       "https://www.dezeen.com/2026/04/05/tattoo-parlour-interiors-lookbook/",
       "https://www.dezeen.com/2026/04/05/the-bell-office-tower-amenity-interiors-chicago-ste-marie/",
-      "https://www.dezeen.com/2026/04/07/keiji-ashizawa-loca-niru-restaurant-singapore/"
+      "https://www.dezeen.com/2026/04/07/keiji-ashizawa-loca-niru-restaurant-singapore/",
+      "https://www.dezeen.com/2026/04/08/gourmega-restaurant-mariam-issoufou-manhattan-new-york/"
     ],
     "archive_page": 2
   },
@@ -893,10 +906,10 @@
       "https://landezine.com/sticks-stones-by-lu-la-studio/",
       "https://landezine.com/ponderosa-commons/",
       "https://landezine.com/interview-with-gunther-vogt-ecology-is-invisible/",
-      "https://landezine.com/river-restoration-landscape-between-the-ecology-and-aesthetics/"
+      "https://landezine.com/river-restoration-landscape-between-the-ecology-and-aesthetics/",
+      "https://landezine.com/lila-2020-phase-shifts-park-by-mosbach-paysagistes/"
     ],
     "queue_new": [
-      "https://landezine.com/lila-2020-phase-shifts-park-by-mosbach-paysagistes/",
       "https://landezine.com/base-our-work-lies-on-freedom-of-spirit/",
       "https://landezine.com/caulfield-to-dandenong-railway-linear-park-by-aspect-studios/",
       "https://landezine.com/passerelle-de-la-troche-by-btp/",
@@ -1179,7 +1192,30 @@
       "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/",
       "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/",
       "https://landezine.com/heavy-heavy-block-seats/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/durbanis-outdoor-furniture-lamina/",
+      "https://landezine.com/1-may-call-for-submissions-thresholds-55-property/",
+      "https://landezine.com/streetlife-outdoor-furniture-drifter-structures/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-bench-table-chicago/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-bicycle-rack-antares/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-torres-path-light/",
+      "https://landezine.com/museum-park-louvre-lens-by-mosbach-paysagistes/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/",
+      "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/",
+      "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
+      "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/",
+      "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/into-the-forest-being-a-guest-in-the-landscape-by-andrew-van-egmond/",
+      "https://landezine.com/durbanis-outdoor-furniture-piet/",
+      "https://landezine.com/area-outdoor-furniture-bollard-antares/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/nola-outdoor-furniture-langbordet-picnic-table/",
+      "https://landezine.com/miramondo-outdoor-furniture-buddy/"
     ],
     "archive_page": 8
   },
@@ -1270,7 +1306,8 @@
       "https://monstrum.dk/en/playground/butterfly-kisses",
       "https://monstrum.dk/en/playground/snake",
       "https://monstrum.dk/en/playground/temple-chase",
-      "https://monstrum.dk/en/playground/xplore-playground"
+      "https://monstrum.dk/en/playground/xplore-playground",
+      "https://monstrum.dk/en/playground/playground-koldinghus"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/animal-kirsebaerlunden",
@@ -1331,7 +1368,8 @@
       "https://monstrum.dk/en/playground/wayward-octopus-case",
       "https://monstrum.dk/en/playground/owl-playground",
       "https://monstrum.dk/en/playground/rocket-roof",
-      "https://monstrum.dk/en/playground/wayward-octopus"
+      "https://monstrum.dk/en/playground/wayward-octopus",
+      "https://monstrum.dk/en/playground/adventure-playscape"
     ],
     "archive_page": 1
   }
