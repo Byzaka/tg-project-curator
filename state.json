@@ -111,7 +111,8 @@
       "https://leibal.com/interiors/concrete-house-2/",
       "https://leibal.com/interiors/turenne/",
       "https://leibal.com/interiors/five-villas-2/",
-      "https://leibal.com/interiors/casa-ga/"
+      "https://leibal.com/interiors/casa-ga/",
+      "https://leibal.com/interiors/ams-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -207,7 +208,8 @@
       "https://www.archdaily.com/1032728/hierlooms-in-concrete-greyscale-design-studio",
       "https://www.archdaily.com/1039024/the-sister-houses-oitoo",
       "https://www.archdaily.com/1032291/house-in-cieneguilla-vasquez-and-lopez-arquitectos",
-      "https://www.archdaily.com/1039149/shahrzad-villa"
+      "https://www.archdaily.com/1039149/shahrzad-villa",
+      "https://www.archdaily.com/1032433/a-house-that-embraces-its-vegetable-garden-sukchulmok-plus-brbb-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039188/casabella-di-como-tuckey-design-studio",
@@ -351,9 +353,11 @@
       "https://www.archdaily.com/1040159/veil-arid",
       "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
       "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
-      "https://www.archdaily.com/1040427/two-gabled-volumes-one-landscape-brbb-architects"
+      "https://www.archdaily.com/1040427/two-gabled-volumes-one-landscape-brbb-architects",
+      "https://www.archdaily.com/1040395/villa-ef-depaolidefranceschibaldan-architetti",
+      "https://www.archdaily.com/1040326/carrickalinga-shed-architects-ink"
     ],
-    "archive_page": 44
+    "archive_page": 45
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -445,10 +449,13 @@
       "https://www.archdaily.com/908221/titan-integrity-campus-mindspace",
       "https://www.archdaily.com/904222/xuhui-runway-park-sasaki-associates",
       "https://www.archdaily.com/900662/truthehole-splace",
-      "https://www.archdaily.com/896912/landscape-fence-heri-and-salli"
+      "https://www.archdaily.com/896912/landscape-fence-heri-and-salli",
+      "https://www.archdaily.com/885732/kaan-architecten-designs-new-facades-for-munichs-icampus"
     ],
-    "queue_new": [],
-    "archive_page": 51
+    "queue_new": [
+      "https://www.archdaily.com/1040411/villa-in-recco-gosplan-plus-giordano-hadamik-architects-plus-caarpa-plus-studikey"
+    ],
+    "archive_page": 52
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -541,10 +548,10 @@
       "https://www.dezeen.com/2026/03/04/shift-world-wonder-competition-shortlist/",
       "https://www.dezeen.com/2026/03/04/madras-spaces-the-threshold-house/",
       "https://www.dezeen.com/2026/03/04/heirloom-house-concrete-components-designed-to-last-1000-years/",
-      "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/"
+      "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/",
+      "https://www.dezeen.com/2026/03/05/golestan-palace-damaged-unesco-world-heritage/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/05/golestan-palace-damaged-unesco-world-heritage/",
       "https://www.dezeen.com/2026/03/05/shigeru-ban-19th-century-armory-wooded-concert-hall/",
       "https://www.dezeen.com/2026/03/05/wiercinski-studio-historic-villa-renovation-poland/",
       "https://www.dezeen.com/2026/03/05/pritzker-prize-edwin-heathcote-opinion/",
@@ -709,7 +716,13 @@
       "https://www.dezeen.com/2026/04/08/mata-architects-timber-extension-hamstead-home/",
       "https://www.dezeen.com/2026/04/08/kengo-kuma-national-gallery-wing/",
       "https://www.dezeen.com/2026/04/08/trump-presidential-library-skyscraper-matt-shaw-opinion/",
-      "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/"
+      "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/",
+      "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/",
+      "https://www.dezeen.com/2026/04/09/kengo-kuma-earth-tree-installation-copenhagen-contemporary/",
+      "https://www.dezeen.com/2026/04/09/glasgow-burning-heritage-buildings-matt-loader-opinion/",
+      "https://www.dezeen.com/2026/04/09/casa-das-historias-museum-eduardo-souto-de-moura-video-profile/",
+      "https://www.dezeen.com/2026/04/09/european-houses/",
+      "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/"
     ],
     "archive_page": 2
   },
@@ -804,10 +817,10 @@
       "https://www.dezeen.com/2026/03/26/dezeen-jobs-announces-top-companies-2026/",
       "https://www.dezeen.com/2026/03/29/sabari-gold-diamonds-tiruppur-tamil-nadu-parinamah-architects-india/",
       "https://www.dezeen.com/2026/03/28/asap-rocky-paul-rudolph-house-basic-space-auction-la/",
-      "https://www.dezeen.com/2026/03/29/elizabeth-roberts-architects-degraw-street-office-brooklyn-arts-sciences/"
+      "https://www.dezeen.com/2026/03/29/elizabeth-roberts-architects-degraw-street-office-brooklyn-arts-sciences/",
+      "https://www.dezeen.com/2026/03/30/colchon-expres-madrid-mattress-store-jotajota-yellow/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/30/colchon-expres-madrid-mattress-store-jotajota-yellow/",
       "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
       "https://www.dezeen.com/2026/04/01/ferrari-style-london-flagship/",
       "https://www.dezeen.com/2026/04/02/day-studio-london-trattoria-burro/",
@@ -914,10 +927,10 @@
       "https://landezine.com/interview-with-gunther-vogt-ecology-is-invisible/",
       "https://landezine.com/river-restoration-landscape-between-the-ecology-and-aesthetics/",
       "https://landezine.com/lila-2020-phase-shifts-park-by-mosbach-paysagistes/",
-      "https://landezine.com/base-our-work-lies-on-freedom-of-spirit/"
+      "https://landezine.com/base-our-work-lies-on-freedom-of-spirit/",
+      "https://landezine.com/caulfield-to-dandenong-railway-linear-park-by-aspect-studios/"
     ],
     "queue_new": [
-      "https://landezine.com/caulfield-to-dandenong-railway-linear-park-by-aspect-studios/",
       "https://landezine.com/passerelle-de-la-troche-by-btp/",
       "https://landezine.com/strategies-against-sameness-1/",
       "https://landezine.com/hold-still/",
@@ -1242,7 +1255,19 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/",
       "https://landezine.com/streetlife-outdoor-furniture-cliffhanger-park-benches/",
       "https://landezine.com/area-outdoor-furniture-bench-table-chicago/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-rockford-litter/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-rockford-litter/",
+      "https://landezine.com/streetlife-outdoor-furniture-solid-peano-benches/",
+      "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-light-typology-ring-light/",
+      "https://landezine.com/miramondo-outdoor-furniture-picnic/",
+      "https://landezine.com/city-design-outdoor-furniture-bench-noale/",
+      "https://landezine.com/metalco-outdoor-furniture-bench-jasper/",
+      "https://landezine.com/bellitalia-outdoor-furniture-jonathan-bench/",
+      "https://landezine.com/streetlife-outdoor-furniture-rough-ready-big-green-benches/",
+      "https://landezine.com/nola-outdoor-furniture-gry-furniture-group/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/",
+      "https://landezine.com/jissen-womens-university-hino-campus-by-stgk/",
+      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/"
     ],
     "archive_page": 8
   },
@@ -1335,7 +1360,8 @@
       "https://monstrum.dk/en/playground/temple-chase",
       "https://monstrum.dk/en/playground/xplore-playground",
       "https://monstrum.dk/en/playground/playground-koldinghus",
-      "https://monstrum.dk/en/playground/animal-kirsebaerlunden"
+      "https://monstrum.dk/en/playground/animal-kirsebaerlunden",
+      "https://monstrum.dk/en/playground/amazing-animals-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/between-wildflowers",
