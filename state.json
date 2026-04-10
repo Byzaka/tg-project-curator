@@ -31,7 +31,8 @@
       "https://leibal.com/interiors/mozart-house/",
       "https://leibal.com/a-night-at/desa-potato-head-bali/",
       "https://leibal.com/interiors/concrete-house-2/",
-      "https://leibal.com/interiors/casa-ga/"
+      "https://leibal.com/interiors/casa-ga/",
+      "https://leibal.com/interiors/lulla-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -112,7 +113,8 @@
       "https://leibal.com/interiors/turenne/",
       "https://leibal.com/interiors/five-villas-2/",
       "https://leibal.com/interiors/casa-ga/",
-      "https://leibal.com/interiors/ams-residence/"
+      "https://leibal.com/interiors/ams-residence/",
+      "https://leibal.com/interiors/lulla-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -210,7 +212,8 @@
       "https://www.archdaily.com/1032291/house-in-cieneguilla-vasquez-and-lopez-arquitectos",
       "https://www.archdaily.com/1039149/shahrzad-villa",
       "https://www.archdaily.com/1032433/a-house-that-embraces-its-vegetable-garden-sukchulmok-plus-brbb-architects",
-      "https://www.archdaily.com/1039188/casabella-di-como-tuckey-design-studio"
+      "https://www.archdaily.com/1039188/casabella-di-como-tuckey-design-studio",
+      "https://www.archdaily.com/1032337/casa-et-renovation-and-extension-studio-bocchi"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039065/stepped-well-house-a-threshold",
@@ -358,9 +361,12 @@
       "https://www.archdaily.com/1040326/carrickalinga-shed-architects-ink",
       "https://www.archdaily.com/1040428/sailom-house-anonym",
       "https://www.archdaily.com/1040426/tull-weekend-home",
-      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos"
+      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos",
+      "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
+      "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
+      "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes"
     ],
-    "archive_page": 45
+    "archive_page": 46
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -454,10 +460,11 @@
       "https://www.archdaily.com/900662/truthehole-splace",
       "https://www.archdaily.com/896912/landscape-fence-heri-and-salli",
       "https://www.archdaily.com/885732/kaan-architecten-designs-new-facades-for-munichs-icampus",
-      "https://www.archdaily.com/1040411/villa-in-recco-gosplan-plus-giordano-hadamik-architects-plus-caarpa-plus-studikey"
+      "https://www.archdaily.com/1040411/villa-in-recco-gosplan-plus-giordano-hadamik-architects-plus-caarpa-plus-studikey",
+      "https://www.archdaily.com/877284/hall-of-literature-and-garden-of-chinese-classics-at-taizhou-high-school-architectural-design-and-research-institute-of-scut"
     ],
     "queue_new": [],
-    "archive_page": 52
+    "archive_page": 53
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -552,10 +559,10 @@
       "https://www.dezeen.com/2026/03/04/heirloom-house-concrete-components-designed-to-last-1000-years/",
       "https://www.dezeen.com/2026/03/04/east-wing-modernization-opinion-landscape-charles-birnbaum/",
       "https://www.dezeen.com/2026/03/05/golestan-palace-damaged-unesco-world-heritage/",
-      "https://www.dezeen.com/2026/03/05/shigeru-ban-19th-century-armory-wooded-concert-hall/"
+      "https://www.dezeen.com/2026/03/05/shigeru-ban-19th-century-armory-wooded-concert-hall/",
+      "https://www.dezeen.com/2026/03/05/wiercinski-studio-historic-villa-renovation-poland/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/05/wiercinski-studio-historic-villa-renovation-poland/",
       "https://www.dezeen.com/2026/03/05/pritzker-prize-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/03/05/hotel-sevilla-brutalist-additions-merida-hotel-mexico-zeller-moye/",
       "https://www.dezeen.com/2026/03/05/how-donald-trump-is-using-architecture-to-reshape-washington-dc/",
@@ -727,7 +734,12 @@
       "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/",
       "https://www.dezeen.com/2026/04/09/cedars-kin-omar-gandhi-cedar-lake-house-canada/",
       "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
-      "https://www.dezeen.com/2026/04/09/frank-lloyd-wright-fallingwater-renovation-dezeen-agenda/"
+      "https://www.dezeen.com/2026/04/09/frank-lloyd-wright-fallingwater-renovation-dezeen-agenda/",
+      "https://www.dezeen.com/2026/04/10/replus-bureau-villa-quince-comments/",
+      "https://www.dezeen.com/2026/04/10/centre-pompidou-hanwha-wilmotte-associes/",
+      "https://www.dezeen.com/2026/04/10/trump-white-house-lime-bikes-marc-newson-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/04/10/goldstein-heather-west-london-house/",
+      "https://www.dezeen.com/2026/04/10/sydney-harbour-bridge-cycleway-ramp/"
     ],
     "archive_page": 2
   },
@@ -824,10 +836,10 @@
       "https://www.dezeen.com/2026/03/28/asap-rocky-paul-rudolph-house-basic-space-auction-la/",
       "https://www.dezeen.com/2026/03/29/elizabeth-roberts-architects-degraw-street-office-brooklyn-arts-sciences/",
       "https://www.dezeen.com/2026/03/30/colchon-expres-madrid-mattress-store-jotajota-yellow/",
-      "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/"
+      "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
+      "https://www.dezeen.com/2026/04/01/ferrari-style-london-flagship/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/01/ferrari-style-london-flagship/",
       "https://www.dezeen.com/2026/04/02/day-studio-london-trattoria-burro/",
       "https://www.dezeen.com/2026/04/03/spotify-immersive-london-listening-room/",
       "https://www.dezeen.com/2026/04/03/dragon-i-renovation-pirajean-lees-hong-kong/",
@@ -934,10 +946,10 @@
       "https://landezine.com/lila-2020-phase-shifts-park-by-mosbach-paysagistes/",
       "https://landezine.com/base-our-work-lies-on-freedom-of-spirit/",
       "https://landezine.com/caulfield-to-dandenong-railway-linear-park-by-aspect-studios/",
-      "https://landezine.com/passerelle-de-la-troche-by-btp/"
+      "https://landezine.com/passerelle-de-la-troche-by-btp/",
+      "https://landezine.com/strategies-against-sameness-1/"
     ],
     "queue_new": [
-      "https://landezine.com/strategies-against-sameness-1/",
       "https://landezine.com/hold-still/",
       "https://landezine.com/werkspoorcampus-by-flux-landscape-architecture/",
       "https://landezine.com/lars-hopstock-hermann-mattern-idyll-and-ideology/",
@@ -1272,7 +1284,17 @@
       "https://landezine.com/nola-outdoor-furniture-gry-furniture-group/",
       "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/",
       "https://landezine.com/jissen-womens-university-hino-campus-by-stgk/",
-      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/"
+      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/",
+      "https://landezine.com/streetlife-outdoor-furniture-drifter-picnic-sets/",
+      "https://landezine.com/metalco-outdoor-furniture-treeline/",
+      "https://landezine.com/nature-recreation-area-de-punt-ouddorp-by-boschslabbers/",
+      "https://landezine.com/the-park-of-encounters-by-robin-winogrond-studio-vulkan/",
+      "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/",
+      "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/",
+      "https://landezine.com/durbanis-outdoor-furniture-cilar/",
+      "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
+      "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
+      "https://landezine.com/nola-outdoor-furniture-viaduct-bench/"
     ],
     "archive_page": 8
   },
@@ -1367,7 +1389,8 @@
       "https://monstrum.dk/en/playground/playground-koldinghus",
       "https://monstrum.dk/en/playground/animal-kirsebaerlunden",
       "https://monstrum.dk/en/playground/amazing-animals-playground",
-      "https://monstrum.dk/en/playground/between-wildflowers"
+      "https://monstrum.dk/en/playground/between-wildflowers",
+      "https://monstrum.dk/en/playground/futuroscope"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/oresund-playground",
