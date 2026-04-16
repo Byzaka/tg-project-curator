@@ -35,11 +35,10 @@
       "https://leibal.com/interiors/lulla-house/",
       "https://leibal.com/interiors/spec-co-ltd/",
       "https://leibal.com/interiors/heion-house/",
-      "https://leibal.com/interiors/not-a-hotel-setouchi/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/not-a-hotel-setouchi/",
       "https://leibal.com/interiors/atami-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "leibal_int": {
@@ -124,11 +123,10 @@
       "https://leibal.com/interiors/spec-co-ltd/",
       "https://leibal.com/interiors/wood-residence/",
       "https://leibal.com/interiors/heion-house/",
-      "https://leibal.com/interiors/not-a-hotel-setouchi/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/not-a-hotel-setouchi/",
       "https://leibal.com/interiors/atami-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -235,10 +233,10 @@
       "https://www.archdaily.com/1039143/fragrance-of-earth-house-neelesh-chopda-architecture-llp",
       "https://www.archdaily.com/1016854/zasadeny-house-pauliny-hovorka-architekti",
       "https://www.archdaily.com/1039286/hillside-residence-prentiss-plus-balance-plus-wickline-architects",
-      "https://www.archdaily.com/1030850/river-residence-tirana-davide-macullo-architects"
+      "https://www.archdaily.com/1030850/river-residence-tirana-davide-macullo-architects",
+      "https://www.archdaily.com/1039171/sunset-shelter-bon-studio"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039171/sunset-shelter-bon-studio",
       "https://www.archdaily.com/1038685/embargo-a-light-addition-office-mi-ji",
       "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects",
       "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi",
@@ -400,7 +398,9 @@
       "https://www.archdaily.com/1040399/itaipava-farm-lucas-jimeno-dualde",
       "https://www.archdaily.com/1040614/vesp-house-story-architecture",
       "https://www.archdaily.com/1040636/nojoor-hive-architecture",
-      "https://www.archdaily.com/1040447/gort-ui-ghaoithin-fuinneamh-workshop-architects"
+      "https://www.archdaily.com/1040447/gort-ui-ghaoithin-fuinneamh-workshop-architects",
+      "https://www.archdaily.com/1040692/fn-house-anonym",
+      "https://www.archdaily.com/1040398/eucalyptus-house-julia-yako-plus-laura-marino"
     ],
     "archive_page": 51
   },
@@ -507,10 +507,11 @@
       "https://www.archdaily.com/1040379/renovation-design-of-yongping-warehouses-atelier-cns",
       "https://www.archdaily.com/575232/rogers-partners-and-scape-design-new-public-gateway-for-mississippi-river-waterfall",
       "https://www.archdaily.com/515859/care-campus-1-mohn-bouman",
-      "https://www.archdaily.com/475114/asif-khan-designs-an-architectural-mount-rushmore-for-sochi-winter-olympics"
+      "https://www.archdaily.com/475114/asif-khan-designs-an-architectural-mount-rushmore-for-sochi-winter-olympics",
+      "https://www.archdaily.com/449590/sherbourne-common-pfs-studio"
     ],
     "queue_new": [],
-    "archive_page": 62
+    "archive_page": 63
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -616,10 +617,10 @@
       "https://www.dezeen.com/2026/03/06/oma-casa-wabi-mushroom-pavilion/",
       "https://www.dezeen.com/2026/03/06/johnston-marklee-new-york-vipp-guesthouse/",
       "https://www.dezeen.com/2026/03/06/pinnacle-skytower-toronto-hariri-pontarini-architects/",
-      "https://www.dezeen.com/2026/03/07/skupaj-arhitekti-house-edge-plain/"
+      "https://www.dezeen.com/2026/03/07/skupaj-arhitekti-house-edge-plain/",
+      "https://www.dezeen.com/2026/03/07/patrik-schumacher-rename-zaha-hadid-architects/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/07/patrik-schumacher-rename-zaha-hadid-architects/",
       "https://www.dezeen.com/2026/03/07/monumental-buildings-modern-brutalism/",
       "https://www.dezeen.com/2026/03/07/eduardo-longo-casa-bola-sao-paulo-aberto-exhibition/",
       "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/",
@@ -807,7 +808,9 @@
       "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
       "https://www.dezeen.com/2026/04/15/house-born-four-soils-hiren-patel-architects-design/",
       "https://www.dezeen.com/2026/04/15/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk/",
-      "https://www.dezeen.com/2026/04/15/christ-gantenbein-dongjak-art-space/"
+      "https://www.dezeen.com/2026/04/15/christ-gantenbein-dongjak-art-space/",
+      "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
+      "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/"
     ],
     "archive_page": 2
   },
@@ -915,17 +918,18 @@
       "https://www.dezeen.com/2026/04/07/keiji-ashizawa-loca-niru-restaurant-singapore/",
       "https://www.dezeen.com/2026/04/08/gourmega-restaurant-mariam-issoufou-manhattan-new-york/",
       "https://www.dezeen.com/2026/04/09/studio-toogood-holy-carrot-spitalfields-interior-design/",
-      "https://www.dezeen.com/2026/04/08/bone-like-forms-extend-through-fum-restaurant-in-atlanta/"
+      "https://www.dezeen.com/2026/04/08/bone-like-forms-extend-through-fum-restaurant-in-atlanta/",
+      "https://www.dezeen.com/2026/04/12/metonia-designs-geetanjali-salon-ahmedabad/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/12/metonia-designs-geetanjali-salon-ahmedabad/",
       "https://www.dezeen.com/2026/04/11/the-world-yacht-residential-suite-studio-ahead/",
       "https://www.dezeen.com/2026/04/12/brutalist-penthouse-mexico-city-barde-vanvoltt/",
       "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/",
       "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
-      "https://www.dezeen.com/2026/04/15/nice-projects-selfridges-members-club-40-duke-street-london/"
+      "https://www.dezeen.com/2026/04/15/nice-projects-selfridges-members-club-40-duke-street-london/",
+      "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/"
     ],
     "archive_page": 2
   },
@@ -1033,10 +1037,10 @@
       "https://landezine.com/dr-stephan-brenneisen-living-roofs-biodiversity-and-water-retention-by-design-measures/",
       "https://landezine.com/rhone-river-banks-by-in-situ/",
       "https://landezine.com/strandskogen-arninge-ullna-by-topia/",
-      "https://landezine.com/lydia-kallipoliti-histories-of-ecological-design/"
+      "https://landezine.com/lydia-kallipoliti-histories-of-ecological-design/",
+      "https://landezine.com/jules-ferry-park-in-lorient-by-in-situ/"
     ],
     "queue_new": [
-      "https://landezine.com/jules-ferry-park-in-lorient-by-in-situ/",
       "https://landezine.com/porch-house-by-hillworks/",
       "https://landezine.com/froslovs-garden/",
       "https://landezine.com/michael-jakob-landscape-architecture-suffers-from-a-lack-of-self-conscience/",
@@ -1416,7 +1420,14 @@
       "https://landezine.com/streetlife-outdoor-furniture-planter-rough-ready-circular-tree-isles/",
       "https://landezine.com/16-18-september-asla-2026-conference-action/",
       "https://landezine.com/tuin-van-delft-by-boom-landscape/",
-      "https://landezine.com/rmit-urban-space-by-peter-elliot-architecture-and-urban-design/"
+      "https://landezine.com/rmit-urban-space-by-peter-elliot-architecture-and-urban-design/",
+      "https://landezine.com/fire-circles-by-t-c-l/",
+      "https://landezine.com/de-nieuwe-mark-breda-by-stadsingenieurs-breda-with-odc-architecture-and-studio-mars/",
+      "https://landezine.com/city-design-outdoor-furniture-bench-casteo/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-io/",
+      "https://landezine.com/miramondo-outdoor-furniture-tetatet/",
+      "https://landezine.com/the-power-station-by-hocker-design-group/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-motive-area-light/"
     ],
     "archive_page": 13
   },
@@ -1522,10 +1533,10 @@
       "https://monstrum.dk/en/playground/giant-garden",
       "https://monstrum.dk/en/playground/flower-playground",
       "https://monstrum.dk/en/playground/purple-octopus",
-      "https://monstrum.dk/en/playground/deer-odderoya"
+      "https://monstrum.dk/en/playground/deer-odderoya",
+      "https://monstrum.dk/en/playground/playground-koldinghus"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/playground-koldinghus",
       "https://monstrum.dk/en/playground/enchanted-castle-playground",
       "https://monstrum.dk/en/playground/giant-ant-playground",
       "https://monstrum.dk/en/playground/rivergiants",
