@@ -126,9 +126,12 @@
       "https://leibal.com/interiors/not-a-hotel-setouchi/",
       "https://leibal.com/interiors/atami-house/",
       "https://leibal.com/interiors/project-heartlake/",
-      "https://leibal.com/interiors/the-penthouse-at-the-founding/"
+      "https://leibal.com/interiors/the-penthouse-at-the-founding/",
+      "https://leibal.com/interiors/oberkampf-apartment/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/shift-house-2/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -238,7 +241,8 @@
       "https://www.archdaily.com/1030850/river-residence-tirana-davide-macullo-architects",
       "https://www.archdaily.com/1039171/sunset-shelter-bon-studio",
       "https://www.archdaily.com/1031035/rendezvous-for-four-generations-house-float-design-studio",
-      "https://www.archdaily.com/1038685/embargo-a-light-addition-office-mi-ji"
+      "https://www.archdaily.com/1038685/embargo-a-light-addition-office-mi-ji",
+      "https://www.archdaily.com/1031072/sienna-billionbricks"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects",
@@ -410,9 +414,12 @@
       "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects",
       "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
       "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
-      "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos"
+      "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos",
+      "https://www.archdaily.com/1040472/the-house-of-the-green-pond-aceboxalonso-studio",
+      "https://www.archdaily.com/1040554/pom-two-residential-buildings-block-iii-zanderroth",
+      "https://www.archdaily.com/1040160/holiday-homes-in-moldovenesti-mvaa"
     ],
-    "archive_page": 52
+    "archive_page": 53
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -520,10 +527,11 @@
       "https://www.archdaily.com/475114/asif-khan-designs-an-architectural-mount-rushmore-for-sochi-winter-olympics",
       "https://www.archdaily.com/449590/sherbourne-common-pfs-studio",
       "https://www.archdaily.com/397691/so-celebrates-the-opening-of-sky-spotting-stop-in-istanbul",
-      "https://www.archdaily.com/393618/the-australian-garden-taylor-cullity-lethlean-paul-thompson"
+      "https://www.archdaily.com/393618/the-australian-garden-taylor-cullity-lethlean-paul-thompson",
+      "https://www.archdaily.com/297713/freedom-park-phase-2-gapp-mashabane-rose-architects-mma"
     ],
     "queue_new": [],
-    "archive_page": 65
+    "archive_page": 66
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -632,10 +640,10 @@
       "https://www.dezeen.com/2026/03/07/skupaj-arhitekti-house-edge-plain/",
       "https://www.dezeen.com/2026/03/07/patrik-schumacher-rename-zaha-hadid-architects/",
       "https://www.dezeen.com/2026/03/07/monumental-buildings-modern-brutalism/",
-      "https://www.dezeen.com/2026/03/07/eduardo-longo-casa-bola-sao-paulo-aberto-exhibition/"
+      "https://www.dezeen.com/2026/03/07/eduardo-longo-casa-bola-sao-paulo-aberto-exhibition/",
+      "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/",
       "https://www.dezeen.com/2026/03/09/maggies-kent-assemble/",
       "https://www.dezeen.com/2026/03/09/puusauna-jaakko-torvinen/",
       "https://www.dezeen.com/2026/03/09/torre-rise-construction-monterrey-mexico-latin-america-tallest/",
@@ -829,7 +837,11 @@
       "https://www.dezeen.com/2026/04/16/woods-bagot-modular-terminal-lax/",
       "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
       "https://www.dezeen.com/2026/04/16/mies-van-der-rohe-award-2026/",
-      "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/"
+      "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
+      "https://www.dezeen.com/2026/04/17/british-pavilion-2027-venice-architecture-biennale-festival-of-hungry-ghosts/",
+      "https://www.dezeen.com/2026/04/17/milan-design-week-trump-arch-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
+      "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/"
     ],
     "archive_page": 2
   },
@@ -940,10 +952,10 @@
       "https://www.dezeen.com/2026/04/08/bone-like-forms-extend-through-fum-restaurant-in-atlanta/",
       "https://www.dezeen.com/2026/04/12/metonia-designs-geetanjali-salon-ahmedabad/",
       "https://www.dezeen.com/2026/04/11/the-world-yacht-residential-suite-studio-ahead/",
-      "https://www.dezeen.com/2026/04/12/brutalist-penthouse-mexico-city-barde-vanvoltt/"
+      "https://www.dezeen.com/2026/04/12/brutalist-penthouse-mexico-city-barde-vanvoltt/",
+      "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/",
       "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
@@ -1059,10 +1071,10 @@
       "https://landezine.com/lydia-kallipoliti-histories-of-ecological-design/",
       "https://landezine.com/jules-ferry-park-in-lorient-by-in-situ/",
       "https://landezine.com/porch-house-by-hillworks/",
-      "https://landezine.com/froslovs-garden/"
+      "https://landezine.com/froslovs-garden/",
+      "https://landezine.com/michael-jakob-landscape-architecture-suffers-from-a-lack-of-self-conscience/"
     ],
     "queue_new": [
-      "https://landezine.com/michael-jakob-landscape-architecture-suffers-from-a-lack-of-self-conscience/",
       "https://landezine.com/landscapism-in-nature-conservation/",
       "https://landezine.com/hard-turm-park-zurich/",
       "https://landezine.com/the-urban-environment-house-by-loci/",
@@ -1449,7 +1461,12 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-motive-area-light/",
       "https://landezine.com/university-of-new-mexico-smith-plaza-by-surfacedesign/",
       "https://landezine.com/miramondo-outdoor-furniture-hot-dot/",
-      "https://landezine.com/silhouette-garden-by-yiyu-design/"
+      "https://landezine.com/silhouette-garden-by-yiyu-design/",
+      "https://landezine.com/quarry-garden-by-ten-x-ten/",
+      "https://landezine.com/area-outdoor-furniture-michigan-wood-chaise-longue/",
+      "https://landezine.com/pedregals-lava-garden-by-estudio-ome/",
+      "https://landezine.com/durbanis-outdoor-furniture-concentrica/",
+      "https://landezine.com/atelierhaus-c21-by-rajek-barosch/"
     ],
     "archive_page": 13
   },
@@ -1558,7 +1575,8 @@
       "https://monstrum.dk/en/playground/deer-odderoya",
       "https://monstrum.dk/en/playground/playground-koldinghus",
       "https://monstrum.dk/en/playground/medieval-village-slotshaven",
-      "https://monstrum.dk/en/playground/enchanted-castle-playground"
+      "https://monstrum.dk/en/playground/enchanted-castle-playground",
+      "https://monstrum.dk/en/playground/transport-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/giant-ant-playground",
