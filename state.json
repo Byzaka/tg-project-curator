@@ -128,7 +128,8 @@
       "https://leibal.com/interiors/project-heartlake/",
       "https://leibal.com/interiors/the-penthouse-at-the-founding/",
       "https://leibal.com/interiors/oberkampf-apartment/",
-      "https://leibal.com/interiors/shift-house-2/"
+      "https://leibal.com/interiors/shift-house-2/",
+      "https://leibal.com/interiors/ll-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -242,7 +243,8 @@
       "https://www.archdaily.com/1031035/rendezvous-for-four-generations-house-float-design-studio",
       "https://www.archdaily.com/1038685/embargo-a-light-addition-office-mi-ji",
       "https://www.archdaily.com/1031072/sienna-billionbricks",
-      "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects"
+      "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects",
+      "https://www.archdaily.com/1030564/cc-house-esquissos-arquitectura-e-consultoria"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi",
@@ -419,9 +421,10 @@
       "https://www.archdaily.com/1040160/holiday-homes-in-moldovenesti-mvaa",
       "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design",
       "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
-      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape"
+      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
+      "https://www.archdaily.com/1039401/hermi-house-superestudio"
     ],
-    "archive_page": 53
+    "archive_page": 54
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -531,10 +534,11 @@
       "https://www.archdaily.com/397691/so-celebrates-the-opening-of-sky-spotting-stop-in-istanbul",
       "https://www.archdaily.com/393618/the-australian-garden-taylor-cullity-lethlean-paul-thompson",
       "https://www.archdaily.com/297713/freedom-park-phase-2-gapp-mashabane-rose-architects-mma",
-      "https://www.archdaily.com/1039763/pignatelli-reservoirs-from-water-infrastructure-to-urban-park-hector-fernandez-elorza"
+      "https://www.archdaily.com/1039763/pignatelli-reservoirs-from-water-infrastructure-to-urban-park-hector-fernandez-elorza",
+      "https://www.archdaily.com/297678/freedom-park-phase-1-gapp-mashabane-rose-architects-mma"
     ],
     "queue_new": [],
-    "archive_page": 66
+    "archive_page": 67
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -647,7 +651,6 @@
       "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/09/puusauna-jaakko-torvinen/",
       "https://www.dezeen.com/2026/03/09/torre-rise-construction-monterrey-mexico-latin-america-tallest/",
       "https://www.dezeen.com/2026/03/09/bronze-and-black-house-spf-architects/",
       "https://www.dezeen.com/2026/03/10/kraft-architects-an-unfinished-house/",
@@ -845,7 +848,8 @@
       "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
       "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/",
       "https://www.dezeen.com/2026/04/17/hillman-library-renovation-gbbn-university-pittsburgh/",
-      "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/"
+      "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
+      "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/"
     ],
     "archive_page": 2
   },
@@ -960,11 +964,11 @@
       "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
       "https://www.dezeen.com/2026/04/15/nice-projects-selfridges-members-club-40-duke-street-london/",
       "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
-      "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/"
+      "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/",
+      "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/"
     ],
     "archive_page": 2
   },
@@ -1077,10 +1081,10 @@
       "https://landezine.com/porch-house-by-hillworks/",
       "https://landezine.com/froslovs-garden/",
       "https://landezine.com/michael-jakob-landscape-architecture-suffers-from-a-lack-of-self-conscience/",
-      "https://landezine.com/landscapism-in-nature-conservation/"
+      "https://landezine.com/landscapism-in-nature-conservation/",
+      "https://landezine.com/hard-turm-park-zurich/"
     ],
     "queue_new": [
-      "https://landezine.com/hard-turm-park-zurich/",
       "https://landezine.com/the-urban-environment-house-by-loci/",
       "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/",
       "https://landezine.com/dan-kiley-exhibition-interview-with-charles-birnbaum-tclf/",
@@ -1470,7 +1474,8 @@
       "https://landezine.com/area-outdoor-furniture-michigan-wood-chaise-longue/",
       "https://landezine.com/pedregals-lava-garden-by-estudio-ome/",
       "https://landezine.com/durbanis-outdoor-furniture-concentrica/",
-      "https://landezine.com/atelierhaus-c21-by-rajek-barosch/"
+      "https://landezine.com/atelierhaus-c21-by-rajek-barosch/",
+      "https://landezine.com/area-outdoor-furniture-bench-atlantique/"
     ],
     "archive_page": 13
   },
@@ -1581,7 +1586,8 @@
       "https://monstrum.dk/en/playground/medieval-village-slotshaven",
       "https://monstrum.dk/en/playground/enchanted-castle-playground",
       "https://monstrum.dk/en/playground/transport-playground",
-      "https://monstrum.dk/en/playground/giant-ant-playground"
+      "https://monstrum.dk/en/playground/giant-ant-playground",
+      "https://monstrum.dk/en/playground/sky-high-flight"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/rivergiants",
