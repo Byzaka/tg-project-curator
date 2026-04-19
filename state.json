@@ -129,7 +129,8 @@
       "https://leibal.com/interiors/the-penthouse-at-the-founding/",
       "https://leibal.com/interiors/oberkampf-apartment/",
       "https://leibal.com/interiors/shift-house-2/",
-      "https://leibal.com/interiors/ll-house/"
+      "https://leibal.com/interiors/ll-house/",
+      "https://leibal.com/interiors/twin-towers-old-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -245,7 +246,8 @@
       "https://www.archdaily.com/1031072/sienna-billionbricks",
       "https://www.archdaily.com/1039312/63-housing-units-for-the-bastide-niel-urban-development-olgga-architects",
       "https://www.archdaily.com/1030564/cc-house-esquissos-arquitectura-e-consultoria",
-      "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi"
+      "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi",
+      "https://www.archdaily.com/1030516/the-red-house-morfeus-arkitekter"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039318/tropical-shift-house-o2-design-atelier-plus-choo-poo-liang-architect",
@@ -424,9 +426,10 @@
       "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
       "https://www.archdaily.com/1039401/hermi-house-superestudio",
       "https://www.archdaily.com/1040762/minamicho-house-roovice",
-      "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design"
+      "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
+      "https://www.archdaily.com/1040211/na-kukackach-mountain-chalet-edit-architects"
     ],
-    "archive_page": 54
+    "archive_page": 55
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -538,10 +541,13 @@
       "https://www.archdaily.com/297713/freedom-park-phase-2-gapp-mashabane-rose-architects-mma",
       "https://www.archdaily.com/1039763/pignatelli-reservoirs-from-water-infrastructure-to-urban-park-hector-fernandez-elorza",
       "https://www.archdaily.com/297678/freedom-park-phase-1-gapp-mashabane-rose-architects-mma",
-      "https://www.archdaily.com/210720/deck-over-a-roman-site-amann-canovas-mauri"
+      "https://www.archdaily.com/210720/deck-over-a-roman-site-amann-canovas-mauri",
+      "https://www.archdaily.com/201061/refuge-en-terre-thibault-marcilly"
     ],
-    "queue_new": [],
-    "archive_page": 68
+    "queue_new": [
+      "https://www.archdaily.com/1040135/la-vuelta-al-monte-installation-rare-studio-experimental"
+    ],
+    "archive_page": 69
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -654,7 +660,6 @@
       "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/09/bronze-and-black-house-spf-architects/",
       "https://www.dezeen.com/2026/03/10/kraft-architects-an-unfinished-house/",
       "https://www.dezeen.com/2026/03/10/architect-regulation-eleanor-jolliffe-opinion/",
       "https://www.dezeen.com/2026/03/10/snohetta-big-mvrdv-ion-riva-masterplan/",
@@ -851,7 +856,8 @@
       "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/",
       "https://www.dezeen.com/2026/04/17/hillman-library-renovation-gbbn-university-pittsburgh/",
       "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
-      "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/"
+      "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/",
+      "https://www.dezeen.com/2026/04/19/startt-beyond-pantheon-rome/"
     ],
     "archive_page": 2
   },
@@ -966,12 +972,12 @@
       "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/15/nice-projects-selfridges-members-club-40-duke-street-london/",
       "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
       "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/",
       "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
-      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/"
+      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/",
+      "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/"
     ],
     "archive_page": 2
   },
@@ -1086,10 +1092,10 @@
       "https://landezine.com/michael-jakob-landscape-architecture-suffers-from-a-lack-of-self-conscience/",
       "https://landezine.com/landscapism-in-nature-conservation/",
       "https://landezine.com/hard-turm-park-zurich/",
-      "https://landezine.com/the-urban-environment-house-by-loci/"
+      "https://landezine.com/the-urban-environment-house-by-loci/",
+      "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/"
     ],
     "queue_new": [
-      "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/",
       "https://landezine.com/dan-kiley-exhibition-interview-with-charles-birnbaum-tclf/",
       "https://landezine.com/uferpark-attisholz-sud-luterbach-by-mavo-landschaften/",
       "https://landezine.com/nana-coffee-roaster-bangna-by-trop/",
@@ -1482,7 +1488,8 @@
       "https://landezine.com/metalco-outdoor-furniture-bench-harris/",
       "https://landezine.com/small-plaza-tiled-pattern-pavement-niva/",
       "https://landezine.com/landscape-forms-outdoor-furniture-moment-catenary-light/",
-      "https://landezine.com/heerenschurli-sport-complex-by-topotek1/"
+      "https://landezine.com/heerenschurli-sport-complex-by-topotek1/",
+      "https://landezine.com/the-small-campus-by-buro-harro/"
     ],
     "archive_page": 13
   },
@@ -1595,7 +1602,8 @@
       "https://monstrum.dk/en/playground/transport-playground",
       "https://monstrum.dk/en/playground/giant-ant-playground",
       "https://monstrum.dk/en/playground/sky-high-flight",
-      "https://monstrum.dk/en/playground/rivergiants"
+      "https://monstrum.dk/en/playground/rivergiants",
+      "https://monstrum.dk/en/playground/spaceship-princess-tower-playground"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/wonderful-world",
