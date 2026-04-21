@@ -131,11 +131,10 @@
       "https://leibal.com/interiors/shift-house-2/",
       "https://leibal.com/interiors/ll-house/",
       "https://leibal.com/interiors/twin-towers-old-house/",
-      "https://leibal.com/interiors/campomanes/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/campomanes/",
       "https://leibal.com/interiors/balmore-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -252,10 +251,10 @@
       "https://www.archdaily.com/1039324/la-montse-and-manels-house-obo-estudi",
       "https://www.archdaily.com/1030516/the-red-house-morfeus-arkitekter",
       "https://www.archdaily.com/1039318/tropical-shift-house-o2-design-atelier-plus-choo-poo-liang-architect",
-      "https://www.archdaily.com/1030467/casa-plana-marco-turcato"
+      "https://www.archdaily.com/1030467/casa-plana-marco-turcato",
+      "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura",
       "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all",
       "https://www.archdaily.com/1039307/baan-sudsaensuk-bodinchapa-architects",
       "https://www.archdaily.com/1039283/bongs-house-23o5studio",
@@ -438,7 +437,8 @@
       "https://www.archdaily.com/1040560/trim-house-robert-konieczny-plus-kwk-promes",
       "https://www.archdaily.com/1040557/eugen-bolz-student-residence-cukrowicz-nachbaur-architekten",
       "https://www.archdaily.com/1040757/burnley-house-sonelo-architects",
-      "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico"
+      "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico",
+      "https://www.archdaily.com/1040761/house-and-office-sh-1-1-architects"
     ],
     "archive_page": 56
   },
@@ -555,10 +555,11 @@
       "https://www.archdaily.com/210720/deck-over-a-roman-site-amann-canovas-mauri",
       "https://www.archdaily.com/201061/refuge-en-terre-thibault-marcilly",
       "https://www.archdaily.com/1040135/la-vuelta-al-monte-installation-rare-studio-experimental",
-      "https://www.archdaily.com/158403/fran-and-ray-stark-sculpture-garden-j-paul-getty-center-olin"
+      "https://www.archdaily.com/158403/fran-and-ray-stark-sculpture-garden-j-paul-getty-center-olin",
+      "https://www.archdaily.com/147437/discovery-green-hargreaves-associates"
     ],
     "queue_new": [],
-    "archive_page": 70
+    "archive_page": 71
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -670,10 +671,10 @@
       "https://www.dezeen.com/2026/03/07/eduardo-longo-casa-bola-sao-paulo-aberto-exhibition/",
       "https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/",
       "https://www.dezeen.com/2026/03/10/kraft-architects-an-unfinished-house/",
-      "https://www.dezeen.com/2026/03/10/architect-regulation-eleanor-jolliffe-opinion/"
+      "https://www.dezeen.com/2026/03/10/architect-regulation-eleanor-jolliffe-opinion/",
+      "https://www.dezeen.com/2026/03/10/snohetta-big-mvrdv-ion-riva-masterplan/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/10/snohetta-big-mvrdv-ion-riva-masterplan/",
       "https://www.dezeen.com/2026/03/10/james-gwertzman-2026-burning-man-temple/",
       "https://www.dezeen.com/2026/03/10/homer-rogue-taverna-sydney-ap-design-house-dezeen-debate/",
       "https://www.dezeen.com/2026/03/10/kaye-tower-seattle-grzywinski-pons/",
@@ -870,7 +871,9 @@
       "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/",
       "https://www.dezeen.com/2026/04/19/startt-beyond-pantheon-rome/",
       "https://www.dezeen.com/2026/04/20/kere-architecture-goethe-institut/",
-      "https://www.dezeen.com/2026/04/20/gender-pay-gap-uk-architecture-2/"
+      "https://www.dezeen.com/2026/04/20/gender-pay-gap-uk-architecture-2/",
+      "https://www.dezeen.com/2026/04/20/cherokee-heritage-center-oklahoma-safdie-architects/",
+      "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/"
     ],
     "archive_page": 2
   },
@@ -984,10 +987,10 @@
       "https://www.dezeen.com/2026/04/12/brutalist-penthouse-mexico-city-barde-vanvoltt/",
       "https://www.dezeen.com/2026/04/13/oksana-dolgopyatova-gallery-like-interiors-lawyers-office-kyiv/",
       "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
-      "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/"
+      "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/",
+      "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/",
       "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
@@ -1112,10 +1115,10 @@
       "https://landezine.com/the-urban-environment-house-by-loci/",
       "https://landezine.com/the-paradigm-shift-and-spaces-of-meaning/",
       "https://landezine.com/dan-kiley-exhibition-interview-with-charles-birnbaum-tclf/",
-      "https://landezine.com/uferpark-attisholz-sud-luterbach-by-mavo-landschaften/"
+      "https://landezine.com/uferpark-attisholz-sud-luterbach-by-mavo-landschaften/",
+      "https://landezine.com/nana-coffee-roaster-bangna-by-trop/"
     ],
     "queue_new": [
-      "https://landezine.com/nana-coffee-roaster-bangna-by-trop/",
       "https://landezine.com/piazza-cortevecchia-by-inout-architettura/",
       "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/",
       "https://landezine.com/interview-with-taktyk-landscape-architecture-is-not-enough/",
@@ -1512,7 +1515,9 @@
       "https://landezine.com/reconstruction-of-the-square-in-frydlant/",
       "https://landezine.com/streetlife-outdoor-furniture-roughready-curve-bench-all-black/",
       "https://landezine.com/sibeliuspark-by-kcap/",
-      "https://landezine.com/wuhlepark-by-gruppe-f-lots-of-landscape-minimal-maintenance/"
+      "https://landezine.com/wuhlepark-by-gruppe-f-lots-of-landscape-minimal-maintenance/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-curve/",
+      "https://landezine.com/invisible-bridge-by-scapelab/"
     ],
     "archive_page": 13
   },
@@ -1628,10 +1633,10 @@
       "https://monstrum.dk/en/playground/rivergiants",
       "https://monstrum.dk/en/playground/spaceship-princess-tower-playground",
       "https://monstrum.dk/en/playground/wonderful-world",
-      "https://monstrum.dk/en/playground/zweibrucken-towers"
+      "https://monstrum.dk/en/playground/zweibrucken-towers",
+      "https://monstrum.dk/en/playground/spider"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/spider",
       "https://monstrum.dk/en/playground/crystal-towers",
       "https://monstrum.dk/en/playground/plants-vs-zombies",
       "https://monstrum.dk/en/playground/furry-bunny-playground",
