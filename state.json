@@ -36,7 +36,8 @@
       "https://leibal.com/interiors/spec-co-ltd/",
       "https://leibal.com/interiors/heion-house/",
       "https://leibal.com/interiors/not-a-hotel-setouchi/",
-      "https://leibal.com/interiors/atami-house/"
+      "https://leibal.com/interiors/atami-house/",
+      "https://leibal.com/interiors/house-in-a-garden/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -134,7 +135,8 @@
       "https://leibal.com/interiors/campomanes/",
       "https://leibal.com/interiors/balmore-house/",
       "https://leibal.com/interiors/belleview/",
-      "https://leibal.com/interiors/enfants-rouge-apartment/"
+      "https://leibal.com/interiors/enfants-rouge-apartment/",
+      "https://leibal.com/interiors/house-in-a-garden/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -256,7 +258,8 @@
       "https://www.archdaily.com/1030467/casa-plana-marco-turcato",
       "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura",
       "https://www.archdaily.com/1030326/mm33-apartment-buno",
-      "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all"
+      "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all",
+      "https://www.archdaily.com/1029462/crs79-residence-oad"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039307/baan-sudsaensuk-bodinchapa-architects",
@@ -446,9 +449,10 @@
       "https://www.archdaily.com/1040492/el-grove-family-home-olson-kundig",
       "https://www.archdaily.com/1040565/casa-levanzo-margine",
       "https://www.archdaily.com/1040443/gs-house-studio-fp02",
-      "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office"
+      "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office",
+      "https://www.archdaily.com/1040469/mmmm-apartment-depaolidefranceschibaldan-architetti"
     ],
-    "archive_page": 57
+    "archive_page": 58
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -683,10 +687,10 @@
       "https://www.dezeen.com/2026/03/10/architect-regulation-eleanor-jolliffe-opinion/",
       "https://www.dezeen.com/2026/03/10/snohetta-big-mvrdv-ion-riva-masterplan/",
       "https://www.dezeen.com/2026/03/10/james-gwertzman-2026-burning-man-temple/",
-      "https://www.dezeen.com/2026/03/10/homer-rogue-taverna-sydney-ap-design-house-dezeen-debate/"
+      "https://www.dezeen.com/2026/03/10/homer-rogue-taverna-sydney-ap-design-house-dezeen-debate/",
+      "https://www.dezeen.com/2026/03/10/kaye-tower-seattle-grzywinski-pons/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/10/kaye-tower-seattle-grzywinski-pons/",
       "https://www.dezeen.com/2026/03/11/bolster-pavilion-walden-studio/",
       "https://www.dezeen.com/2026/03/11/foster-partners-chapel-lodge-eit-oxford/",
       "https://www.dezeen.com/2026/03/11/ai-planning-tool-google-uk-government/",
@@ -886,7 +890,9 @@
       "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
       "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
-      "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/"
+      "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
+      "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/",
+      "https://www.dezeen.com/2026/04/22/thing-ladder-library-conversion/"
     ],
     "archive_page": 2
   },
@@ -1003,10 +1009,10 @@
       "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/",
       "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
-      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/"
+      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/",
+      "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
       "https://www.dezeen.com/2026/04/20/gabriella-marcella-risotto-print-self-designed-studio-glasgow/",
       "https://www.dezeen.com/2026/04/19/22re-channels-italian-dining-culture-at-bar-di-bello-in-los-angeles/",
       "https://www.dezeen.com/2026/04/15/nice-projects-selfridges-members-club-40-duke-street-london/",
@@ -1133,10 +1139,10 @@
       "https://landezine.com/uferpark-attisholz-sud-luterbach-by-mavo-landschaften/",
       "https://landezine.com/nana-coffee-roaster-bangna-by-trop/",
       "https://landezine.com/piazza-cortevecchia-by-inout-architettura/",
-      "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/"
+      "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/",
+      "https://landezine.com/interview-with-taktyk-landscape-architecture-is-not-enough/"
     ],
     "queue_new": [
-      "https://landezine.com/interview-with-taktyk-landscape-architecture-is-not-enough/",
       "https://landezine.com/roche-pocket-park-by-bryum/",
       "https://landezine.com/the-harm-of-harmonising/",
       "https://landezine.com/designing-little-island-interview-with-signe-nielsen-of-mnla/",
@@ -1535,7 +1541,9 @@
       "https://landezine.com/invisible-bridge-by-scapelab/",
       "https://landezine.com/the-red-pavilion-by-michelemiquel-da-vision-design/",
       "https://landezine.com/metalco-outdoor-furniture-bench-dois/",
-      "https://landezine.com/belvederes-drentsche-aa-by-strootman/"
+      "https://landezine.com/belvederes-drentsche-aa-by-strootman/",
+      "https://landezine.com/innsbruck-landscape-architecture/",
+      "https://landezine.com/roof-of-oslo-opera-snohetta/"
     ],
     "archive_page": 13
   },
@@ -1653,7 +1661,8 @@
       "https://monstrum.dk/en/playground/wonderful-world",
       "https://monstrum.dk/en/playground/zweibrucken-towers",
       "https://monstrum.dk/en/playground/spider",
-      "https://monstrum.dk/en/playground/sturgeons-pier-26"
+      "https://monstrum.dk/en/playground/sturgeons-pier-26",
+      "https://monstrum.dk/en/playground/fishing-village-and-eider-duck"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/plants-vs-zombies",
