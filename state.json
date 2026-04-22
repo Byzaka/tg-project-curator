@@ -133,11 +133,10 @@
       "https://leibal.com/interiors/twin-towers-old-house/",
       "https://leibal.com/interiors/campomanes/",
       "https://leibal.com/interiors/balmore-house/",
-      "https://leibal.com/interiors/belleview/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/belleview/",
       "https://leibal.com/interiors/enfants-rouge-apartment/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -256,10 +255,10 @@
       "https://www.archdaily.com/1039318/tropical-shift-house-o2-design-atelier-plus-choo-poo-liang-architect",
       "https://www.archdaily.com/1030467/casa-plana-marco-turcato",
       "https://www.archdaily.com/1039140/ortiz-house-meireles-plus-pavan-arquitetura",
-      "https://www.archdaily.com/1030326/mm33-apartment-buno"
+      "https://www.archdaily.com/1030326/mm33-apartment-buno",
+      "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039219/xikoucuo-dwelling-atelier-all",
       "https://www.archdaily.com/1039307/baan-sudsaensuk-bodinchapa-architects",
       "https://www.archdaily.com/1039283/bongs-house-23o5studio",
       "https://www.archdaily.com/1039326/caetes-house-atelie-gr",
@@ -445,7 +444,9 @@
       "https://www.archdaily.com/1040761/house-and-office-sh-1-1-architects",
       "https://www.archdaily.com/1040798/jingu-studio-ynas",
       "https://www.archdaily.com/1040492/el-grove-family-home-olson-kundig",
-      "https://www.archdaily.com/1040565/casa-levanzo-margine"
+      "https://www.archdaily.com/1040565/casa-levanzo-margine",
+      "https://www.archdaily.com/1040443/gs-house-studio-fp02",
+      "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office"
     ],
     "archive_page": 57
   },
@@ -567,7 +568,7 @@
       "https://www.archdaily.com/110854/lantern-pavilion-awp-atelier-oslo"
     ],
     "queue_new": [],
-    "archive_page": 72
+    "archive_page": 75
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -681,10 +682,10 @@
       "https://www.dezeen.com/2026/03/10/kraft-architects-an-unfinished-house/",
       "https://www.dezeen.com/2026/03/10/architect-regulation-eleanor-jolliffe-opinion/",
       "https://www.dezeen.com/2026/03/10/snohetta-big-mvrdv-ion-riva-masterplan/",
-      "https://www.dezeen.com/2026/03/10/james-gwertzman-2026-burning-man-temple/"
+      "https://www.dezeen.com/2026/03/10/james-gwertzman-2026-burning-man-temple/",
+      "https://www.dezeen.com/2026/03/10/homer-rogue-taverna-sydney-ap-design-house-dezeen-debate/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/10/homer-rogue-taverna-sydney-ap-design-house-dezeen-debate/",
       "https://www.dezeen.com/2026/03/10/kaye-tower-seattle-grzywinski-pons/",
       "https://www.dezeen.com/2026/03/11/bolster-pavilion-walden-studio/",
       "https://www.dezeen.com/2026/03/11/foster-partners-chapel-lodge-eit-oxford/",
@@ -884,7 +885,8 @@
       "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/",
       "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
-      "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/"
+      "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
+      "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/"
     ],
     "archive_page": 2
   },
@@ -1000,10 +1002,10 @@
       "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
       "https://www.dezeen.com/2026/04/18/mitsu-restaurant-london-astet-studio/",
       "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
-      "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/"
+      "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
+      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/18/nonfiction-nyc-lower-east-side-charlap-hyman-herrero/",
       "https://www.dezeen.com/2026/04/15/peridot-bar-hong-kong-studio-paolo-ferrari/",
       "https://www.dezeen.com/2026/04/20/gabriella-marcella-risotto-print-self-designed-studio-glasgow/",
       "https://www.dezeen.com/2026/04/19/22re-channels-italian-dining-culture-at-bar-di-bello-in-los-angeles/",
@@ -1130,10 +1132,10 @@
       "https://landezine.com/dan-kiley-exhibition-interview-with-charles-birnbaum-tclf/",
       "https://landezine.com/uferpark-attisholz-sud-luterbach-by-mavo-landschaften/",
       "https://landezine.com/nana-coffee-roaster-bangna-by-trop/",
-      "https://landezine.com/piazza-cortevecchia-by-inout-architettura/"
+      "https://landezine.com/piazza-cortevecchia-by-inout-architettura/",
+      "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/"
     ],
     "queue_new": [
-      "https://landezine.com/soil-contains-social-relations-and-its-our-external-gut-thinking-through-soil-by-seth-denizen/",
       "https://landezine.com/interview-with-taktyk-landscape-architecture-is-not-enough/",
       "https://landezine.com/roche-pocket-park-by-bryum/",
       "https://landezine.com/the-harm-of-harmonising/",
@@ -1532,7 +1534,8 @@
       "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-curve/",
       "https://landezine.com/invisible-bridge-by-scapelab/",
       "https://landezine.com/the-red-pavilion-by-michelemiquel-da-vision-design/",
-      "https://landezine.com/metalco-outdoor-furniture-bench-dois/"
+      "https://landezine.com/metalco-outdoor-furniture-bench-dois/",
+      "https://landezine.com/belvederes-drentsche-aa-by-strootman/"
     ],
     "archive_page": 13
   },
@@ -1653,7 +1656,6 @@
       "https://monstrum.dk/en/playground/sturgeons-pier-26"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/crystal-towers",
       "https://monstrum.dk/en/playground/plants-vs-zombies",
       "https://monstrum.dk/en/playground/furry-bunny-playground",
       "https://monstrum.dk/en/playground/crooked-houses",
