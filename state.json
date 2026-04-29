@@ -40,7 +40,8 @@
       "https://leibal.com/interiors/house-in-a-garden/",
       "https://leibal.com/interiors/casa-balma-murada/",
       "https://leibal.com/interiors/kehai-house/",
-      "https://leibal.com/architecture/forest-house-2/"
+      "https://leibal.com/architecture/forest-house-2/",
+      "https://leibal.com/interiors/monkton/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -146,10 +147,11 @@
       "https://leibal.com/interiors/the-eighth-penthouse-2/",
       "https://leibal.com/interiors/house-dm/",
       "https://leibal.com/interiors/kehai-house/",
-      "https://leibal.com/architecture/forest-house-2/"
+      "https://leibal.com/architecture/forest-house-2/",
+      "https://leibal.com/interiors/rooms-of-am-tacheles/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/rooms-of-am-tacheles/"
+      "https://leibal.com/interiors/monkton/"
     ],
     "archive_page": 2
   },
@@ -283,7 +285,8 @@
       "https://www.archdaily.com/1039422/main-ridge-house-porebski-architects",
       "https://www.archdaily.com/1029350/house-of-after-image-ultra-studio",
       "https://www.archdaily.com/1027917/house-of-porous-mat-office",
-      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje"
+      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje",
+      "https://www.archdaily.com/1029177/wood-concrete-house-mano"
     ],
     "queue_new": [
       "https://www.archdaily.com/1037264/wood-house-jak-architecture",
@@ -495,9 +498,11 @@
       "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects",
       "https://www.archdaily.com/1040904/neem-tree-house-dada-partners",
       "https://www.archdaily.com/1040948/house-tn-1-1-architects",
-      "https://www.archdaily.com/1040974/a-place-in-the-country-studio-ben-allen"
+      "https://www.archdaily.com/1040974/a-place-in-the-country-studio-ben-allen",
+      "https://www.archdaily.com/1040938/wind-fence-2-hyunjoon-yoo-plus-partners",
+      "https://www.archdaily.com/1040493/a-house-in-a-mountain-meadow-atelier-sad"
     ],
-    "archive_page": 63
+    "archive_page": 64
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -746,10 +751,10 @@
       "https://www.dezeen.com/2026/03/12/of-architects-ignacio-galan-camp-alliances/",
       "https://www.dezeen.com/2026/03/12/tiktok-cabin-self-build-architecture/",
       "https://www.dezeen.com/2026/03/12/eight-key-projects-pritzker-prize-2026-winner-smiljan-radic/",
-      "https://www.dezeen.com/2026/03/13/glasshouse-theatre-snohetta-blight-rayner/"
+      "https://www.dezeen.com/2026/03/13/glasshouse-theatre-snohetta-blight-rayner/",
+      "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/",
       "https://www.dezeen.com/2026/03/13/yibin-high-speed-railway-station-gateway-development-pelli-clarke-partners/",
       "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
       "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/",
@@ -962,7 +967,12 @@
       "https://www.dezeen.com/2026/04/27/donald-trump-lincoln-memorial-reflecting-pool/",
       "https://www.dezeen.com/2026/04/28/will-gamble-architects-ribbon-house/",
       "https://www.dezeen.com/2026/04/29/nike-dropcity-air-lab-innovation-space-milan/",
-      "https://www.dezeen.com/2026/04/28/dattner-architects-bronx-new-york-city-st-james-terrace/"
+      "https://www.dezeen.com/2026/04/28/dattner-architects-bronx-new-york-city-st-james-terrace/",
+      "https://www.dezeen.com/2026/04/29/brighton-womens-football-stadium-kss/",
+      "https://www.dezeen.com/2026/04/29/kengo-kuma-substance-book/",
+      "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
+      "https://www.dezeen.com/2026/04/29/samsung-design-is-an-act-of-love-milan-talk-video/",
+      "https://www.dezeen.com/2026/04/29/kengo-kuma-angers-cathedral-entrance-2/"
     ],
     "archive_page": 2
   },
@@ -1225,10 +1235,10 @@
       "https://landezine.com/stone-river-by-jon-piasecki/",
       "https://landezine.com/aranzadi-meander-park-by-alday-jover/",
       "https://landezine.com/urban-revitalization-superkilen-by-topotek1-big-superflex/",
-      "https://landezine.com/mont-evrin-park-by-urbicus/"
+      "https://landezine.com/mont-evrin-park-by-urbicus/",
+      "https://landezine.com/renovation-of-the-grounds-of-the-villa-white-mansion-by-studio-akka/"
     ],
     "queue_new": [
-      "https://landezine.com/renovation-of-the-grounds-of-the-villa-white-mansion-by-studio-akka/",
       "https://landezine.com/lila-2020-ellipse-garden-by-kjeld-slot-havearkitekt/",
       "https://landezine.com/prati-commons-lost-in-translation/",
       "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/",
@@ -1636,7 +1646,9 @@
       "https://landezine.com/hvidovre-beach-park-by-vega-landskab/",
       "https://landezine.com/lenfance-du-pli-paysarchitectures/",
       "https://landezine.com/the-dark-line-by-michelemiquel-and-da-vision-design/",
-      "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/"
+      "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/",
+      "https://landezine.com/green-corridor-kosmosviertel-by-hochc-landscape-architecture/",
+      "https://landezine.com/teardrop-park-mvva/"
     ],
     "archive_page": 13
   },
@@ -1770,7 +1782,6 @@
       "https://monstrum.dk/en/playground/salmon"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/surfers-paradise",
       "https://monstrum.dk/en/playground/cunning-cobra",
       "https://monstrum.dk/en/playground/avocet-playground",
       "https://monstrum.dk/en/playground/honey-pot-hideout",
