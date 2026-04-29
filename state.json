@@ -39,7 +39,8 @@
       "https://leibal.com/interiors/atami-house/",
       "https://leibal.com/interiors/house-in-a-garden/",
       "https://leibal.com/interiors/casa-balma-murada/",
-      "https://leibal.com/interiors/kehai-house/"
+      "https://leibal.com/interiors/kehai-house/",
+      "https://leibal.com/architecture/forest-house-2/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -144,9 +145,12 @@
       "https://leibal.com/interiors/villa-rafales/",
       "https://leibal.com/interiors/the-eighth-penthouse-2/",
       "https://leibal.com/interiors/house-dm/",
-      "https://leibal.com/interiors/kehai-house/"
+      "https://leibal.com/interiors/kehai-house/",
+      "https://leibal.com/architecture/forest-house-2/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/rooms-of-am-tacheles/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -278,10 +282,10 @@
       "https://www.archdaily.com/1029571/a-new-journey-residence-wei-yi-international-design-associates",
       "https://www.archdaily.com/1039422/main-ridge-house-porebski-architects",
       "https://www.archdaily.com/1029350/house-of-after-image-ultra-studio",
-      "https://www.archdaily.com/1027917/house-of-porous-mat-office"
+      "https://www.archdaily.com/1027917/house-of-porous-mat-office",
+      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje",
       "https://www.archdaily.com/1037264/wood-house-jak-architecture",
       "https://www.archdaily.com/1039388/bondi-house-nick-kent-design",
       "https://www.archdaily.com/1039426/kega-villa-t3-architects",
@@ -486,7 +490,12 @@
       "https://www.archdaily.com/1040705/passive-house-forest-retreat-stark",
       "https://www.archdaily.com/1040879/tropical-flow-h-and-p-architects",
       "https://www.archdaily.com/1040950/tn-house-idin-architects",
-      "https://www.archdaily.com/1040540/refugio-house-db-estudio-de-arquitectura"
+      "https://www.archdaily.com/1040540/refugio-house-db-estudio-de-arquitectura",
+      "https://www.archdaily.com/1040575/west-london-house-goldstein-heather",
+      "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects",
+      "https://www.archdaily.com/1040904/neem-tree-house-dada-partners",
+      "https://www.archdaily.com/1040948/house-tn-1-1-architects",
+      "https://www.archdaily.com/1040974/a-place-in-the-country-studio-ben-allen"
     ],
     "archive_page": 63
   },
@@ -736,10 +745,10 @@
       "https://www.dezeen.com/2026/03/12/waelgaard-salim-arkitekter-house-grimstad/",
       "https://www.dezeen.com/2026/03/12/of-architects-ignacio-galan-camp-alliances/",
       "https://www.dezeen.com/2026/03/12/tiktok-cabin-self-build-architecture/",
-      "https://www.dezeen.com/2026/03/12/eight-key-projects-pritzker-prize-2026-winner-smiljan-radic/"
+      "https://www.dezeen.com/2026/03/12/eight-key-projects-pritzker-prize-2026-winner-smiljan-radic/",
+      "https://www.dezeen.com/2026/03/13/glasshouse-theatre-snohetta-blight-rayner/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/13/glasshouse-theatre-snohetta-blight-rayner/",
       "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/",
       "https://www.dezeen.com/2026/03/13/yibin-high-speed-railway-station-gateway-development-pelli-clarke-partners/",
       "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
@@ -950,7 +959,10 @@
       "https://www.dezeen.com/2026/04/27/kruunuvuori-bridge-helsinki-finland-wsp-news/",
       "https://www.dezeen.com/2026/04/27/musson-brown-architects-miltiadou-cook-mitzman-flatpack-newcastle-home/",
       "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/",
-      "https://www.dezeen.com/2026/04/27/donald-trump-lincoln-memorial-reflecting-pool/"
+      "https://www.dezeen.com/2026/04/27/donald-trump-lincoln-memorial-reflecting-pool/",
+      "https://www.dezeen.com/2026/04/28/will-gamble-architects-ribbon-house/",
+      "https://www.dezeen.com/2026/04/29/nike-dropcity-air-lab-innovation-space-milan/",
+      "https://www.dezeen.com/2026/04/28/dattner-architects-bronx-new-york-city-st-james-terrace/"
     ],
     "archive_page": 2
   },
@@ -1212,10 +1224,10 @@
       "https://landezine.com/mayfield-park-by-studio-egret-west/",
       "https://landezine.com/stone-river-by-jon-piasecki/",
       "https://landezine.com/aranzadi-meander-park-by-alday-jover/",
-      "https://landezine.com/urban-revitalization-superkilen-by-topotek1-big-superflex/"
+      "https://landezine.com/urban-revitalization-superkilen-by-topotek1-big-superflex/",
+      "https://landezine.com/mont-evrin-park-by-urbicus/"
     ],
     "queue_new": [
-      "https://landezine.com/mont-evrin-park-by-urbicus/",
       "https://landezine.com/renovation-of-the-grounds-of-the-villa-white-mansion-by-studio-akka/",
       "https://landezine.com/lila-2020-ellipse-garden-by-kjeld-slot-havearkitekt/",
       "https://landezine.com/prati-commons-lost-in-translation/",
@@ -1623,7 +1635,8 @@
       "https://landezine.com/bridgefoot-street-park-by-dfla/",
       "https://landezine.com/hvidovre-beach-park-by-vega-landskab/",
       "https://landezine.com/lenfance-du-pli-paysarchitectures/",
-      "https://landezine.com/the-dark-line-by-michelemiquel-and-da-vision-design/"
+      "https://landezine.com/the-dark-line-by-michelemiquel-and-da-vision-design/",
+      "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/"
     ],
     "archive_page": 13
   },
@@ -1753,10 +1766,10 @@
       "https://monstrum.dk/en/playground/snowy-owl-play-theatre",
       "https://monstrum.dk/en/playground/post-town",
       "https://monstrum.dk/en/playground/pipefish",
-      "https://monstrum.dk/en/playground/boar-toutatis"
+      "https://monstrum.dk/en/playground/boar-toutatis",
+      "https://monstrum.dk/en/playground/salmon"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/salmon",
       "https://monstrum.dk/en/playground/surfers-paradise",
       "https://monstrum.dk/en/playground/cunning-cobra",
       "https://monstrum.dk/en/playground/avocet-playground",
