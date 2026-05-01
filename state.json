@@ -152,7 +152,8 @@
       "https://leibal.com/interiors/rooms-of-am-tacheles/",
       "https://leibal.com/interiors/monkton/",
       "https://leibal.com/interiors/casa-plan-de-barrancas/",
-      "https://leibal.com/interiors/mh-apartment/"
+      "https://leibal.com/interiors/mh-apartment/",
+      "https://leibal.com/interiors/apartment-messine/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -291,7 +292,8 @@
       "https://www.archdaily.com/1029177/wood-concrete-house-mano",
       "https://www.archdaily.com/1037264/wood-house-jak-architecture",
       "https://www.archdaily.com/1028970/casa-figueira-buck-and-simple",
-      "https://www.archdaily.com/1039388/bondi-house-nick-kent-design"
+      "https://www.archdaily.com/1039388/bondi-house-nick-kent-design",
+      "https://www.archdaily.com/1029035/house-on-deep-cove-elliottarchitects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039426/kega-villa-t3-architects",
@@ -510,9 +512,12 @@
       "https://www.archdaily.com/1040900/the-terrace-house-sos-architects",
       "https://www.archdaily.com/1040920/laruns-mesnil-architectures",
       "https://www.archdaily.com/1040445/bersatu-house-estudio-d3b",
-      "https://www.archdaily.com/1040994/stack-and-field-house-steffen-welsch-architects"
+      "https://www.archdaily.com/1040994/stack-and-field-house-steffen-welsch-architects",
+      "https://www.archdaily.com/1040883/bot-house-son-architecture",
+      "https://www.archdaily.com/1040519/house-among-the-trees-wrzeszcz-architekci-plus-mode-lina",
+      "https://www.archdaily.com/1040874/flying-vegetation-h-and-p-architects"
     ],
-    "archive_page": 65
+    "archive_page": 66
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -765,10 +770,10 @@
       "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/",
       "https://www.dezeen.com/2026/03/13/yibin-high-speed-railway-station-gateway-development-pelli-clarke-partners/",
       "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
-      "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/"
+      "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/",
+      "https://www.dezeen.com/2026/03/13/world-wonder-competition-macbook-neo-dezeen-weekly-podcast/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/13/world-wonder-competition-macbook-neo-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/03/13/montgomery-sisam-architects-university-of-toronto-research-center/",
       "https://www.dezeen.com/2026/03/14/smiljan-radic-pritzker-architecture-prize-this-week/",
       "https://www.dezeen.com/2026/03/14/saedalen-kirke-koht-arkitekter/",
@@ -986,7 +991,14 @@
       "https://www.dezeen.com/2026/04/29/adkins-treehouse-benjamin-hall-design-phoenix/",
       "https://www.dezeen.com/2026/04/30/hollaway-studio-westview-cottage/",
       "https://www.dezeen.com/2026/04/30/dezeen-agenda-features-kruunuvuori-bridge-helsinki-finland-wsp-news/",
-      "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/"
+      "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/",
+      "https://www.dezeen.com/2026/05/01/top-houses-april-2026/",
+      "https://www.dezeen.com/2026/05/01/milan-design-week-2026-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/05/01/john-pawson-art-of-simplicity-gaggenau-milan-talk-video-2026/",
+      "https://www.dezeen.com/2026/05/01/gs-architecture-hampstead-passive-house/",
+      "https://www.dezeen.com/2026/05/01/seven-architecture-design-events-may-dezeen-events-guide-2026/",
+      "https://www.dezeen.com/2026/05/01/guide-nycxdesign-2026-dezeen-events-guide-live/",
+      "https://www.dezeen.com/2026/05/01/kengo-kuma-angers-cathedral-entrance-comments/"
     ],
     "archive_page": 2
   },
@@ -1115,9 +1127,12 @@
       "https://www.dezeen.com/2026/04/26/bruzkus-greenberg-multifunctional-blue-box-berlin-apartment/",
       "https://www.dezeen.com/2026/04/26/vladimir-radutny-highlights-poetic-relics-in-chicago-loft-renovation/",
       "https://www.dezeen.com/2026/04/28/cafe-kowloon-daytrip-east-london-cantonese-restaurant/",
-      "https://www.dezeen.com/2026/04/30/bahbak-hashemi-nezhad-farrokh-aman-iranian-iraqi-cafe-hackney/"
+      "https://www.dezeen.com/2026/04/30/bahbak-hashemi-nezhad-farrokh-aman-iranian-iraqi-cafe-hackney/",
+      "https://www.dezeen.com/2026/05/01/theaster-gates-chawan-cabinet-exhibition-prada-home-milan/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://www.dezeen.com/2026/05/01/guide-nycxdesign-2026-dezeen-events-guide-live/"
+    ],
     "archive_page": 2
   },
   "landezine_play": {
@@ -1254,10 +1269,10 @@
       "https://landezine.com/renovation-of-the-grounds-of-the-villa-white-mansion-by-studio-akka/",
       "https://landezine.com/lila-2020-ellipse-garden-by-kjeld-slot-havearkitekt/",
       "https://landezine.com/prati-commons-lost-in-translation/",
-      "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/"
+      "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/",
+      "https://landezine.com/pirate-playground-by-tgp/"
     ],
     "queue_new": [
-      "https://landezine.com/pirate-playground-by-tgp/",
       "https://landezine.com/central-plaza-cooperative-housing-katzenbach-by-robin-winogrond/",
       "https://landezine.com/diaspora-garden-by-atelier-le-balto/",
       "https://landezine.com/climate-changed-waters-unsettled/",
@@ -1670,7 +1685,10 @@
       "https://landezine.com/17-22-may-wuf-at-baku/",
       "https://landezine.com/funenpark-by-landlab/",
       "https://landezine.com/lila-2020-flyvestation-vaerlose-by-juul-frost-architects/",
-      "https://landezine.com/hofheide-crematorium-holsbeek-belgium-by-omgeving-and-rcr/"
+      "https://landezine.com/hofheide-crematorium-holsbeek-belgium-by-omgeving-and-rcr/",
+      "https://landezine.com/renens-mail-du-marche-by-approches/",
+      "https://landezine.com/songzhuang-micro-community-park-by-crossboundaries/",
+      "https://landezine.com/durbanis-outdoor-furniture-superlock/"
     ],
     "archive_page": 13
   },
@@ -1806,7 +1824,6 @@
       "https://monstrum.dk/en/playground/avocet-playground"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/honey-pot-hideout",
       "https://monstrum.dk/en/playground/deer-odderoya",
       "https://monstrum.dk/en/playground/butterfly-kisses",
       "https://monstrum.dk/en/playground/fishing-village-and-eider-duck",
