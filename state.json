@@ -151,11 +151,10 @@
       "https://leibal.com/architecture/forest-house-2/",
       "https://leibal.com/interiors/rooms-of-am-tacheles/",
       "https://leibal.com/interiors/monkton/",
-      "https://leibal.com/interiors/casa-plan-de-barrancas/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/casa-plan-de-barrancas/",
       "https://leibal.com/interiors/mh-apartment/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -291,10 +290,10 @@
       "https://www.archdaily.com/1039008/rehabilitation-of-casa-p-colina-darp-de-arquitectura-y-paisaje",
       "https://www.archdaily.com/1029177/wood-concrete-house-mano",
       "https://www.archdaily.com/1037264/wood-house-jak-architecture",
-      "https://www.archdaily.com/1028970/casa-figueira-buck-and-simple"
+      "https://www.archdaily.com/1028970/casa-figueira-buck-and-simple",
+      "https://www.archdaily.com/1039388/bondi-house-nick-kent-design"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039388/bondi-house-nick-kent-design",
       "https://www.archdaily.com/1039426/kega-villa-t3-architects",
       "https://www.archdaily.com/1039424/self-sustaining-farmhouse-manoj-patel-design-studio",
       "https://www.archdaily.com/1039325/tamanas-house-atelie-amanha",
@@ -509,7 +508,9 @@
       "https://www.archdaily.com/1040396/house-17-jb-luiz-volpato-arquitetura",
       "https://www.archdaily.com/1040970/house-in-karuizawa-nao-architects-office-plus-studio-hashimura",
       "https://www.archdaily.com/1040900/the-terrace-house-sos-architects",
-      "https://www.archdaily.com/1040920/laruns-mesnil-architectures"
+      "https://www.archdaily.com/1040920/laruns-mesnil-architectures",
+      "https://www.archdaily.com/1040445/bersatu-house-estudio-d3b",
+      "https://www.archdaily.com/1040994/stack-and-field-house-steffen-welsch-architects"
     ],
     "archive_page": 65
   },
@@ -763,10 +764,10 @@
       "https://www.dezeen.com/2026/03/13/glasshouse-theatre-snohetta-blight-rayner/",
       "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/",
       "https://www.dezeen.com/2026/03/13/yibin-high-speed-railway-station-gateway-development-pelli-clarke-partners/",
-      "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/"
+      "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
+      "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/",
       "https://www.dezeen.com/2026/03/13/world-wonder-competition-macbook-neo-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/03/13/montgomery-sisam-architects-university-of-toronto-research-center/",
       "https://www.dezeen.com/2026/03/14/smiljan-radic-pritzker-architecture-prize-this-week/",
@@ -983,7 +984,9 @@
       "https://www.dezeen.com/2026/04/29/samsung-design-is-an-act-of-love-milan-talk-video/",
       "https://www.dezeen.com/2026/04/29/kengo-kuma-angers-cathedral-entrance-2/",
       "https://www.dezeen.com/2026/04/29/adkins-treehouse-benjamin-hall-design-phoenix/",
-      "https://www.dezeen.com/2026/04/30/hollaway-studio-westview-cottage/"
+      "https://www.dezeen.com/2026/04/30/hollaway-studio-westview-cottage/",
+      "https://www.dezeen.com/2026/04/30/dezeen-agenda-features-kruunuvuori-bridge-helsinki-finland-wsp-news/",
+      "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/"
     ],
     "archive_page": 2
   },
@@ -1250,10 +1253,10 @@
       "https://landezine.com/mont-evrin-park-by-urbicus/",
       "https://landezine.com/renovation-of-the-grounds-of-the-villa-white-mansion-by-studio-akka/",
       "https://landezine.com/lila-2020-ellipse-garden-by-kjeld-slot-havearkitekt/",
-      "https://landezine.com/prati-commons-lost-in-translation/"
+      "https://landezine.com/prati-commons-lost-in-translation/",
+      "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/"
     ],
     "queue_new": [
-      "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/",
       "https://landezine.com/pirate-playground-by-tgp/",
       "https://landezine.com/central-plaza-cooperative-housing-katzenbach-by-robin-winogrond/",
       "https://landezine.com/diaspora-garden-by-atelier-le-balto/",
@@ -1665,7 +1668,9 @@
       "https://landezine.com/moesgaard-museum-by-kristine-jensen/",
       "https://landezine.com/27-june-la-call-for-papers-field/",
       "https://landezine.com/17-22-may-wuf-at-baku/",
-      "https://landezine.com/funenpark-by-landlab/"
+      "https://landezine.com/funenpark-by-landlab/",
+      "https://landezine.com/lila-2020-flyvestation-vaerlose-by-juul-frost-architects/",
+      "https://landezine.com/hofheide-crematorium-holsbeek-belgium-by-omgeving-and-rcr/"
     ],
     "archive_page": 13
   },
@@ -1797,10 +1802,10 @@
       "https://monstrum.dk/en/playground/pipefish",
       "https://monstrum.dk/en/playground/boar-toutatis",
       "https://monstrum.dk/en/playground/salmon",
-      "https://monstrum.dk/en/playground/adventure-playscape"
+      "https://monstrum.dk/en/playground/adventure-playscape",
+      "https://monstrum.dk/en/playground/avocet-playground"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/avocet-playground",
       "https://monstrum.dk/en/playground/honey-pot-hideout",
       "https://monstrum.dk/en/playground/deer-odderoya",
       "https://monstrum.dk/en/playground/butterfly-kisses",
