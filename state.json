@@ -153,7 +153,8 @@
       "https://leibal.com/interiors/monkton/",
       "https://leibal.com/interiors/casa-plan-de-barrancas/",
       "https://leibal.com/interiors/mh-apartment/",
-      "https://leibal.com/interiors/apartment-messine/"
+      "https://leibal.com/interiors/apartment-messine/",
+      "https://leibal.com/interiors/malvern-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -294,7 +295,8 @@
       "https://www.archdaily.com/1028970/casa-figueira-buck-and-simple",
       "https://www.archdaily.com/1039388/bondi-house-nick-kent-design",
       "https://www.archdaily.com/1029035/house-on-deep-cove-elliottarchitects",
-      "https://www.archdaily.com/1039426/kega-villa-t3-architects"
+      "https://www.archdaily.com/1039426/kega-villa-t3-architects",
+      "https://www.archdaily.com/1028270/9-on-nares-apartment-building-two-five-five-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039424/self-sustaining-farmhouse-manoj-patel-design-studio",
@@ -518,7 +520,7 @@
       "https://www.archdaily.com/1040874/flying-vegetation-h-and-p-architects",
       "https://www.archdaily.com/1041095/playfair-house-43-north-architecture"
     ],
-    "archive_page": 66
+    "archive_page": 67
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -773,10 +775,10 @@
       "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
       "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/",
       "https://www.dezeen.com/2026/03/13/world-wonder-competition-macbook-neo-dezeen-weekly-podcast/",
-      "https://www.dezeen.com/2026/03/13/montgomery-sisam-architects-university-of-toronto-research-center/"
+      "https://www.dezeen.com/2026/03/13/montgomery-sisam-architects-university-of-toronto-research-center/",
+      "https://www.dezeen.com/2026/03/14/smiljan-radic-pritzker-architecture-prize-this-week/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/14/smiljan-radic-pritzker-architecture-prize-this-week/",
       "https://www.dezeen.com/2026/03/14/saedalen-kirke-koht-arkitekter/",
       "https://www.dezeen.com/2026/03/15/lma-the-lost-shtetl-jewish-museum/",
       "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/",
@@ -1002,7 +1004,9 @@
       "https://www.dezeen.com/2026/05/01/kengo-kuma-angers-cathedral-entrance-comments/",
       "https://www.dezeen.com/2026/05/01/steel-house-morris-adjmi-architects-office-denver/",
       "https://www.dezeen.com/2026/05/01/field-operations-arts-landing-pittsburgh-pennsylvania/",
-      "https://www.dezeen.com/2026/05/02/kengo-kuma-arched-entrance-angers-cathedral/"
+      "https://www.dezeen.com/2026/05/02/kengo-kuma-arched-entrance-angers-cathedral/",
+      "https://www.dezeen.com/2026/05/02/tennessee-performing-arts-nashville-big-metal-pipes-dezeen-us-agenda/",
+      "https://www.dezeen.com/2026/05/02/the-root-cabin-kasawoo/"
     ],
     "archive_page": 2
   },
@@ -1274,10 +1278,10 @@
       "https://landezine.com/prati-commons-lost-in-translation/",
       "https://landezine.com/lila-2023-lisa-diedrich-on-aesthetics-of-the-transitory-and-operating-as-a-radicant/",
       "https://landezine.com/pirate-playground-by-tgp/",
-      "https://landezine.com/central-plaza-cooperative-housing-katzenbach-by-robin-winogrond/"
+      "https://landezine.com/central-plaza-cooperative-housing-katzenbach-by-robin-winogrond/",
+      "https://landezine.com/diaspora-garden-by-atelier-le-balto/"
     ],
     "queue_new": [
-      "https://landezine.com/diaspora-garden-by-atelier-le-balto/",
       "https://landezine.com/climate-changed-waters-unsettled/",
       "https://landezine.com/denise-hoffman-brandt-on-ethics-and-design-with-nature-debunking-ian-mcharg/",
       "https://landezine.com/the-monument-site-of-jelling-by-kristine-jensens-tegnestue/",
@@ -1692,7 +1696,9 @@
       "https://landezine.com/renens-mail-du-marche-by-approches/",
       "https://landezine.com/songzhuang-micro-community-park-by-crossboundaries/",
       "https://landezine.com/durbanis-outdoor-furniture-superlock/",
-      "https://landezine.com/pacific-overlook-by-cmg-landscape-architecture/"
+      "https://landezine.com/pacific-overlook-by-cmg-landscape-architecture/",
+      "https://landezine.com/campus-roche-central-park-by-bryum/",
+      "https://landezine.com/brutogolf/"
     ],
     "archive_page": 13
   },
@@ -1828,7 +1834,6 @@
       "https://monstrum.dk/en/playground/avocet-playground"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/butterfly-kisses",
       "https://monstrum.dk/en/playground/fishing-village-and-eider-duck",
       "https://monstrum.dk/en/playground/historical-playground",
       "https://monstrum.dk/en/playground/pond",
