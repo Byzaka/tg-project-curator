@@ -43,11 +43,10 @@
       "https://leibal.com/architecture/forest-house-2/",
       "https://leibal.com/interiors/monkton/",
       "https://leibal.com/interiors/casa-plan-de-barrancas/",
-      "https://leibal.com/interiors/dunes-sand-residence/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/dunes-sand-residence/",
       "https://leibal.com/interiors/panoramic-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "leibal_int": {
@@ -159,11 +158,10 @@
       "https://leibal.com/interiors/apartment-messine/",
       "https://leibal.com/interiors/malvern-residence/",
       "https://leibal.com/interiors/cinderella/",
-      "https://leibal.com/interiors/dunes-sand-residence/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/dunes-sand-residence/",
       "https://leibal.com/interiors/panoramic-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -307,10 +305,10 @@
       "https://www.archdaily.com/1039424/self-sustaining-farmhouse-manoj-patel-design-studio",
       "https://www.archdaily.com/1028510/gruta-house-salvador-roman-hernandez-plus-adela-mortera-villarreal",
       "https://www.archdaily.com/1039325/tamanas-house-atelie-amanha",
-      "https://www.archdaily.com/1028299/nightingale-village-leftfield-kennedy-nolan-architects"
+      "https://www.archdaily.com/1028299/nightingale-village-leftfield-kennedy-nolan-architects",
+      "https://www.archdaily.com/1039365/nancy-social-housing-abc-studio"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039365/nancy-social-housing-abc-studio",
       "https://www.archdaily.com/1039416/aurva-illam-house-iki-builds",
       "https://www.archdaily.com/1039338/rochas-floridas-guest-house-waca-design-plus-julia-kosciuk",
       "https://www.archdaily.com/1039435/mriya-the-red-house-i2a-architects-studio",
@@ -534,7 +532,10 @@
       "https://www.archdaily.com/1039991/cosmos-house-cristian-nanzer",
       "https://www.archdaily.com/1041061/casa-luce-hk-associates-inc",
       "https://www.archdaily.com/1040951/macmasters-jorge-hrdina-architects",
-      "https://www.archdaily.com/1040990/25-columns"
+      "https://www.archdaily.com/1040990/25-columns",
+      "https://www.archdaily.com/1040707/northview-point-apartments-brooks-scarpa-huber",
+      "https://www.archdaily.com/1040527/dam-house-bernardes-arquitetura",
+      "https://www.archdaily.com/1041138/villa-68-mas-architecture-workshop"
     ],
     "archive_page": 69
   },
@@ -796,10 +797,10 @@
       "https://www.dezeen.com/2026/03/14/saedalen-kirke-koht-arkitekter/",
       "https://www.dezeen.com/2026/03/15/lma-the-lost-shtetl-jewish-museum/",
       "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/",
-      "https://www.dezeen.com/2026/03/16/som-alatau-iconic-complex-kazakhstan/"
+      "https://www.dezeen.com/2026/03/16/som-alatau-iconic-complex-kazakhstan/",
+      "https://www.dezeen.com/2026/03/16/ravi-handa-quebec-maison-du-lac-perdu/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/16/ravi-handa-quebec-maison-du-lac-perdu/",
       "https://www.dezeen.com/2026/03/16/prada-new-york-store-facade-mesh-scaffolding-green/",
       "https://www.dezeen.com/2026/03/17/buzzi-heritage-cultural-centre-carlo-ratti-associati-italy/",
       "https://www.dezeen.com/2026/03/17/new-government-quarter-oslo-nordic-office-of-architecture/",
@@ -1025,7 +1026,8 @@
       "https://www.dezeen.com/2026/05/02/the-root-cabin-kasawoo/",
       "https://www.dezeen.com/2026/05/03/bernard-tschumi-architects-philo/",
       "https://www.dezeen.com/2026/05/04/brutalist-london-book-owen-hopkins-nigel-green/",
-      "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/"
+      "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/",
+      "https://www.dezeen.com/2026/05/04/lga-architectural-partners-toronto-the-belle-pavilion/"
     ],
     "archive_page": 2
   },
@@ -1159,7 +1161,8 @@
       "https://www.dezeen.com/2026/05/01/guide-nycxdesign-2026-dezeen-events-guide-live/",
       "https://www.dezeen.com/2026/05/02/harper-house-renovation-restoration-gramercy-park-nyc-span-architecture/",
       "https://www.dezeen.com/2026/05/03/concrete-staircase-anchors-purple-brand-studios-by-scott-scott-architects/",
-      "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/"
+      "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/",
+      "https://www.dezeen.com/2026/05/05/capella-kyoto-hotel-kengo-kuma/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -1305,10 +1308,10 @@
       "https://landezine.com/climate-changed-waters-unsettled/",
       "https://landezine.com/denise-hoffman-brandt-on-ethics-and-design-with-nature-debunking-ian-mcharg/",
       "https://landezine.com/the-monument-site-of-jelling-by-kristine-jensens-tegnestue/",
-      "https://landezine.com/territories-of-extraction-mapping-palimpsests-of-appropriation/"
+      "https://landezine.com/territories-of-extraction-mapping-palimpsests-of-appropriation/",
+      "https://landezine.com/the-fire-ring-an-xl-landscape-furniture-by-robin-winogrond/"
     ],
     "queue_new": [
-      "https://landezine.com/the-fire-ring-an-xl-landscape-furniture-by-robin-winogrond/",
       "https://landezine.com/rosa-luxemburg-garden-by-in-situ/",
       "https://landezine.com/dr-giovanni-aloi-the-lawn-nothing-to-do-with-nature/",
       "https://landezine.com/rmit-new-academic-street-by-tcl/",
@@ -1721,7 +1724,8 @@
       "https://landezine.com/pacific-overlook-by-cmg-landscape-architecture/",
       "https://landezine.com/campus-roche-central-park-by-bryum/",
       "https://landezine.com/brutogolf/",
-      "https://landezine.com/nowadays/"
+      "https://landezine.com/nowadays/",
+      "https://landezine.com/elinor-ostrom-park-by-uniola/"
     ],
     "archive_page": 13
   },
@@ -1857,10 +1861,10 @@
       "https://monstrum.dk/en/playground/avocet-playground",
       "https://monstrum.dk/en/playground/wayward-octopus",
       "https://monstrum.dk/en/playground/historical-playground",
-      "https://monstrum.dk/en/playground/adventurous-sea-turtle"
+      "https://monstrum.dk/en/playground/adventurous-sea-turtle",
+      "https://monstrum.dk/en/playground/pond"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/pond",
       "https://monstrum.dk/en/playground/temple-chase",
       "https://monstrum.dk/en/playground/world-linne",
       "https://monstrum.dk/en/playground/zweibrucken-towers",
