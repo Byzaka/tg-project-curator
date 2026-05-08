@@ -165,9 +165,12 @@
       "https://leibal.com/interiors/studio-four/",
       "https://leibal.com/interiors/church-house/",
       "https://leibal.com/interiors/montrose-sixplex/",
-      "https://leibal.com/interiors/carriage-house/"
+      "https://leibal.com/interiors/carriage-house/",
+      "https://leibal.com/a-night-at/lamartine/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/hugo/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -317,7 +320,8 @@
       "https://www.archdaily.com/1028086/housing-in-uppsala-jagnefalt-milton",
       "https://www.archdaily.com/1039338/rochas-floridas-guest-house-waca-design-plus-julia-kosciuk",
       "https://www.archdaily.com/1027856/nogal-house-escobedo-soliz",
-      "https://www.archdaily.com/1039435/mriya-the-red-house-i2a-architects-studio"
+      "https://www.archdaily.com/1039435/mriya-the-red-house-i2a-architects-studio",
+      "https://www.archdaily.com/1027889/rural-house-in-soutelos-ruivaes-figuereido-plus-pena-arquitectos-plus-nuno-flores-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039479/guangdong-brick-house-wuwu-atelier-adinju",
@@ -557,9 +561,13 @@
       "https://www.archdaily.com/1041059/house-at-towns-edge-elliottarchitects",
       "https://www.archdaily.com/1041193/kerr-ssdh",
       "https://www.archdaily.com/1041277/casa-themis-sergio-sampaio-archi-plus-tectonica",
-      "https://www.archdaily.com/1040544/detached-house-in-the-la-reserva-neighborhood-bahia-blanca-vagon-arquitectura"
+      "https://www.archdaily.com/1040544/detached-house-in-the-la-reserva-neighborhood-bahia-blanca-vagon-arquitectura",
+      "https://www.archdaily.com/1041274/the-corner-store-ian-moore-architects",
+      "https://www.archdaily.com/1041288/la-boulanerie-emergency-shelter-francois-brugel-architectes-associes-plus-atelier-rita",
+      "https://www.archdaily.com/1041350/contemporary-farmhouse-ashworth-parkes-architects",
+      "https://www.archdaily.com/1041249/apartment-block-grundmuhle-dolmus-architekten"
     ],
-    "archive_page": 71
+    "archive_page": 72
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -679,7 +687,8 @@
       "https://www.archdaily.com/110854/lantern-pavilion-awp-atelier-oslo",
       "https://www.archdaily.com/989310/montpellier-metropolitan-cemetery-agence-traverses-paysage-urbanisme-architecture",
       "https://www.archdaily.com/1041186/tolka-estuary-greenway-ttt-plus-darmody-architecture",
-      "https://www.archdaily.com/1041042/the-happy-spot-under-the-light-rail-viascape-design"
+      "https://www.archdaily.com/1041042/the-happy-spot-under-the-light-rail-viascape-design",
+      "https://www.archdaily.com/1041291/karens-minde-aksen-schonherr"
     ],
     "queue_new": [],
     "archive_page": 75
@@ -827,10 +836,10 @@
       "https://www.dezeen.com/2026/03/17/buzzi-heritage-cultural-centre-carlo-ratti-associati-italy/",
       "https://www.dezeen.com/2026/03/17/new-government-quarter-oslo-nordic-office-of-architecture/",
       "https://www.dezeen.com/2026/03/17/willowdale-sports-precinct-sam-crawford/",
-      "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/"
+      "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/",
+      "https://www.dezeen.com/2026/03/17/subterranean-white-house-visitor-screening-centre-donald-trump/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/17/subterranean-white-house-visitor-screening-centre-donald-trump/",
       "https://www.dezeen.com/2026/03/17/glasshouse-theatre-snohetta-blight-rayner-dezeen-debate/",
       "https://www.dezeen.com/2026/03/17/digital-guide-nycxdesign-2026-dezeen-events-guide/",
       "https://www.dezeen.com/2026/03/17/corinthian-columns-white-house-commission-fine-arts-rodney-mims-cook/",
@@ -1067,7 +1076,13 @@
       "https://www.dezeen.com/2026/05/07/isabel-strauss-competition-restroom-gropius-house-massachusetts/",
       "https://www.dezeen.com/2026/05/07/zgf-navy-seal-museum-san-diego/",
       "https://www.dezeen.com/2026/05/07/olson-kundig-otis-elevators-space-needle-agenda/",
-      "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/"
+      "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
+      "https://www.dezeen.com/2026/05/08/courthouse-building-h-i29-dp6/",
+      "https://www.dezeen.com/2026/05/08/hollaway-studio-westview-cottage-comments/",
+      "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
+      "https://www.dezeen.com/2026/05/08/adidas-marathon-super-shoe-met-gala-kengo-kuma-angers-cathedral-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/05/08/public-toilets-england-royal-society-for-public-health/",
+      "https://www.dezeen.com/2026/05/08/3-days-design-2026-digital-guides-dezeen-events-guide/"
     ],
     "archive_page": 2
   },
@@ -1203,9 +1218,12 @@
       "https://www.dezeen.com/2026/05/03/concrete-staircase-anchors-purple-brand-studios-by-scott-scott-architects/",
       "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/",
       "https://www.dezeen.com/2026/05/05/capella-kyoto-hotel-kengo-kuma/",
-      "https://www.dezeen.com/2026/05/07/earl-of-east-founders-personality-rental-home-book/"
+      "https://www.dezeen.com/2026/05/07/earl-of-east-founders-personality-rental-home-book/",
+      "https://www.dezeen.com/2026/05/08/issey-miyake-store-nomad-new-york-so-il/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://www.dezeen.com/2026/05/08/gerold-katia-schneider-haus-w-lodge/"
+    ],
     "archive_page": 2
   },
   "landezine_play": {
@@ -1355,10 +1373,10 @@
       "https://landezine.com/dr-giovanni-aloi-the-lawn-nothing-to-do-with-nature/",
       "https://landezine.com/rmit-new-academic-street-by-tcl/",
       "https://landezine.com/konigwiesen-parks-in-schleswig-by-tgp/",
-      "https://landezine.com/green-infrastructure-and-landscape-architecture/"
+      "https://landezine.com/green-infrastructure-and-landscape-architecture/",
+      "https://landezine.com/public-spaces-in-banyoles-by-mias-arquitectes/"
     ],
     "queue_new": [
-      "https://landezine.com/public-spaces-in-banyoles-by-mias-arquitectes/",
       "https://landezine.com/hertig-johans-torg-och-gata-by-land-arkitektur/",
       "https://landezine.com/rhinolands/",
       "https://landezine.com/berlin-wall-memorial-by-sinai/",
@@ -1770,7 +1788,8 @@
       "https://landezine.com/forest-path-in-the-roques-blanques-cemetery-in-the-collserola-natural-park-by-batlleiroig/",
       "https://landezine.com/miramondo-outdoor-furniture-mayfield/",
       "https://landezine.com/plaine-de-plainpalais-by-atelier-descombes-rampini/",
-      "https://landezine.com/lila-2020-gironas-shores-by-emf/"
+      "https://landezine.com/lila-2020-gironas-shores-by-emf/",
+      "https://landezine.com/steno-diabetes-center-copenhagen-by-sted/"
     ],
     "archive_page": 13
   },
@@ -1912,7 +1931,8 @@
       "https://monstrum.dk/en/playground/life-river",
       "https://monstrum.dk/en/playground/world-linne",
       "https://monstrum.dk/en/playground/spoookitetsparken",
-      "https://monstrum.dk/en/playground/zweibrucken-towers"
+      "https://monstrum.dk/en/playground/zweibrucken-towers",
+      "https://monstrum.dk/en/playground/rocket-roof"
     ],
     "queue_new": [
       "https://monstrum.dk/en/playground/spaceship-princess-tower-playground",
