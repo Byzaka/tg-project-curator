@@ -173,7 +173,8 @@
       "https://leibal.com/interiors/no-2-residence/",
       "https://leibal.com/interiors/plaza-del-sauce-apartment/",
       "https://leibal.com/interiors/shoreline-studio/",
-      "https://leibal.com/interiors/pg-house/"
+      "https://leibal.com/interiors/pg-house/",
+      "https://leibal.com/interiors/elmhurst/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -335,7 +336,8 @@
       "https://www.archdaily.com/1026939/restelo-mgr-house-joao-tiago-aguiar-arquitectos",
       "https://www.archdaily.com/1039418/patio-house-dada-partners",
       "https://www.archdaily.com/1027032/casa-ona-paloma-bau-studio",
-      "https://www.archdaily.com/1039489/house-at-the-urban-nature-threshold-teitakusubako-plus-yusuke-igarashi-architects"
+      "https://www.archdaily.com/1039489/house-at-the-urban-nature-threshold-teitakusubako-plus-yusuke-igarashi-architects",
+      "https://www.archdaily.com/1026681/guapuruvus-house-cornetta-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039398/hvm-maya-perkins-and-will",
@@ -588,9 +590,12 @@
       "https://www.archdaily.com/1041248/casa-sota-la-mola-twobo-arquitectura",
       "https://www.archdaily.com/1041333/masurian-house-archigrest",
       "https://www.archdaily.com/1041474/city-cottage-sans-arc-studio",
-      "https://www.archdaily.com/1041440/tales-of-saru-studio-for-architecture-and-regional-urbanism"
+      "https://www.archdaily.com/1041440/tales-of-saru-studio-for-architecture-and-regional-urbanism",
+      "https://www.archdaily.com/1041495/villa-nouvelle-vague-magalie-munters-architecture",
+      "https://www.archdaily.com/1041517/p81-house-wiercinski-studio",
+      "https://www.archdaily.com/1041146/casa-selva-housing-for-hospitality-workers-anonimous-plus-g3arquitectos-plus-jesus-vassallo"
     ],
-    "archive_page": 76
+    "archive_page": 77
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -873,10 +878,10 @@
       "https://www.dezeen.com/2026/03/18/ala-fusion-power-plant-nottinghamshire/",
       "https://www.dezeen.com/2026/03/18/colosseum-piazza-rome-stefano-boeri-interiors/",
       "https://www.dezeen.com/2026/03/18/kerala-pavilion-purple-ink-studio-german/",
-      "https://www.dezeen.com/2026/03/18/pablo-sanchez-lopez-house-walthamstow/"
+      "https://www.dezeen.com/2026/03/18/pablo-sanchez-lopez-house-walthamstow/",
+      "https://www.dezeen.com/2026/03/18/oma-new-museum-new-york-extension/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/18/oma-new-museum-new-york-extension/",
       "https://www.dezeen.com/2026/03/18/eight-completed-skyscrapers-brazil/",
       "https://www.dezeen.com/2026/03/19/live-sawn-house-icada-saitama-japan/",
       "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/",
@@ -1124,7 +1129,10 @@
       "https://www.dezeen.com/2026/05/12/antonio-bessa-cruz-architects-agramonte-house/",
       "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
       "https://www.dezeen.com/2026/05/12/whistler-hideaway-bricault-design-vancouver-cabin/",
-      "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/"
+      "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/",
+      "https://www.dezeen.com/2026/05/13/melike-altinisik-parametricism-interview/",
+      "https://www.dezeen.com/2026/05/13/slussporten-restaurant-stockholm-wingardhs-foster-partners-bridge/",
+      "https://www.dezeen.com/2026/05/13/dezeen-shortlisted-awards-bsme-aop-ppa/"
     ],
     "archive_page": 2
   },
@@ -1430,10 +1438,10 @@
       "https://landezine.com/metro-forest-bangkok-urban-reforestation-by-lab/",
       "https://landezine.com/low-res-landscape/",
       "https://landezine.com/katwijk-coastal-defence-by-okra/",
-      "https://landezine.com/mariahilferstrasse-by-bureau-bb/"
+      "https://landezine.com/mariahilferstrasse-by-bureau-bb/",
+      "https://landezine.com/the-u-s-environmental-protection-agency-climate-policy-reversal/"
     ],
     "queue_new": [
-      "https://landezine.com/the-u-s-environmental-protection-agency-climate-policy-reversal/",
       "https://landezine.com/26-june-peter-joseph-lenne-prize-2026-ideas-competition/",
       "https://landezine.com/city-landscape-burg/",
       "https://landezine.com/farum-midtpunkt-activity-park/",
@@ -1842,7 +1850,8 @@
       "https://landezine.com/schalker-verein-by-planergruppe-oberhausen/",
       "https://landezine.com/zhang-jiang-ji-dian-gang-phase-4-west-block-by-dlc/",
       "https://landezine.com/urban-campus-lieven-amsterdam-by-bureau-bb/",
-      "https://landezine.com/moses-bridge-by-road-architects/"
+      "https://landezine.com/moses-bridge-by-road-architects/",
+      "https://landezine.com/schoneberger-sudgelande-park-by-odious/"
     ],
     "archive_page": 13
   },
@@ -1994,10 +2003,10 @@
       "https://monstrum.dk/en/playground/lobster-chase",
       "https://monstrum.dk/en/playground/pipefish",
       "https://monstrum.dk/en/playground/flower-playground",
-      "https://monstrum.dk/en/playground/liseberg-victorian-garden"
+      "https://monstrum.dk/en/playground/liseberg-victorian-garden",
+      "https://monstrum.dk/en/playground/adventurous-sea-turtle"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/adventurous-sea-turtle",
       "https://monstrum.dk/en/playground/sturgeons-pier-26",
       "https://monstrum.dk/en/playground/medieval-village-slotshaven",
       "https://monstrum.dk/en/playground/sky-high-flight",
