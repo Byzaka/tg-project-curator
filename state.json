@@ -47,7 +47,8 @@
       "https://leibal.com/interiors/panoramic-house/",
       "https://leibal.com/interiors/church-house/",
       "https://leibal.com/interiors/montrose-sixplex/",
-      "https://leibal.com/interiors/shoreline-studio/"
+      "https://leibal.com/interiors/shoreline-studio/",
+      "https://leibal.com/interiors/la-maraude/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -174,9 +175,12 @@
       "https://leibal.com/interiors/plaza-del-sauce-apartment/",
       "https://leibal.com/interiors/shoreline-studio/",
       "https://leibal.com/interiors/pg-house/",
-      "https://leibal.com/interiors/elmhurst/"
+      "https://leibal.com/interiors/elmhurst/",
+      "https://leibal.com/interiors/la-maraude/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/spanish-courtyard-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -338,7 +342,8 @@
       "https://www.archdaily.com/1027032/casa-ona-paloma-bau-studio",
       "https://www.archdaily.com/1039489/house-at-the-urban-nature-threshold-teitakusubako-plus-yusuke-igarashi-architects",
       "https://www.archdaily.com/1026681/guapuruvus-house-cornetta-arquitetura",
-      "https://www.archdaily.com/1039398/hvm-maya-perkins-and-will"
+      "https://www.archdaily.com/1039398/hvm-maya-perkins-and-will",
+      "https://www.archdaily.com/1026500/la-cache-modular-residences-delordinaire"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039423/living-continuum-studio-and-house-damith-s-munasinghe-associates",
@@ -596,9 +601,13 @@
       "https://www.archdaily.com/1041146/casa-selva-housing-for-hospitality-workers-anonimous-plus-g3arquitectos-plus-jesus-vassallo",
       "https://www.archdaily.com/1041465/casa-dahora-sergio-sampaio-archi-plus-tectonica",
       "https://www.archdaily.com/1041546/soho-work-plus-living-soho-architects",
-      "https://www.archdaily.com/1041505/veiled-void-roomoor"
+      "https://www.archdaily.com/1041505/veiled-void-roomoor",
+      "https://www.archdaily.com/1041526/euthea-residence-ateno-architecture-studio",
+      "https://www.archdaily.com/1041521/flexible-dormitory-atelier-kaiser-shen",
+      "https://www.archdaily.com/1041439/pyramid-house-khan-bonshek",
+      "https://www.archdaily.com/1041553/belfountain-house-uufie"
     ],
-    "archive_page": 77
+    "archive_page": 78
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -884,10 +893,10 @@
       "https://www.dezeen.com/2026/03/18/kerala-pavilion-purple-ink-studio-german/",
       "https://www.dezeen.com/2026/03/18/pablo-sanchez-lopez-house-walthamstow/",
       "https://www.dezeen.com/2026/03/18/oma-new-museum-new-york-extension/",
-      "https://www.dezeen.com/2026/03/18/eight-completed-skyscrapers-brazil/"
+      "https://www.dezeen.com/2026/03/18/eight-completed-skyscrapers-brazil/",
+      "https://www.dezeen.com/2026/03/19/live-sawn-house-icada-saitama-japan/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/19/live-sawn-house-icada-saitama-japan/",
       "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/",
       "https://www.dezeen.com/2026/03/19/dior-golden-bamboo-pavilion-tokyo-version-hq/",
       "https://www.dezeen.com/2026/03/19/plaza-luna-vallenata-tarq-studio-market-colombia/",
@@ -1138,7 +1147,11 @@
       "https://www.dezeen.com/2026/05/13/slussporten-restaurant-stockholm-wingardhs-foster-partners-bridge/",
       "https://www.dezeen.com/2026/05/13/dezeen-shortlisted-awards-bsme-aop-ppa/",
       "https://www.dezeen.com/2026/05/14/chaos-survey-artificial-intelligence-architecture/",
-      "https://www.dezeen.com/2026/05/13/kennedy-library-renovation-miller-hull-partnership-california/"
+      "https://www.dezeen.com/2026/05/13/kennedy-library-renovation-miller-hull-partnership-california/",
+      "https://www.dezeen.com/2026/05/14/oda-post-skyscraper-nearing-completion/",
+      "https://www.dezeen.com/2026/05/14/otlo-studio-house-quiet-raga/",
+      "https://www.dezeen.com/2026/05/14/seoul-robot-ai-museum-parametric-architecture/",
+      "https://www.dezeen.com/2026/05/14/design-ni-dukaan-geometric-gujarat-house/"
     ],
     "archive_page": 2
   },
@@ -1283,11 +1296,10 @@
       "https://www.dezeen.com/2026/05/11/orient-express-corinthian-sailing-yacht-interiors/",
       "https://www.dezeen.com/2026/05/12/tutto-bene-futuristic-historic-milan-fornasetti-store/",
       "https://www.dezeen.com/2026/05/12/east-london-gramicci-store-jumbo-shorts/",
-      "https://www.dezeen.com/2026/05/14/spacon-rosenborg-castle-garden/"
-    ],
-    "queue_new": [
+      "https://www.dezeen.com/2026/05/14/spacon-rosenborg-castle-garden/",
       "https://www.dezeen.com/2026/05/13/10-bars-restaurants-clubs-new-york-city-2026/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "landezine_play": {
@@ -1449,10 +1461,10 @@
       "https://landezine.com/katwijk-coastal-defence-by-okra/",
       "https://landezine.com/mariahilferstrasse-by-bureau-bb/",
       "https://landezine.com/the-u-s-environmental-protection-agency-climate-policy-reversal/",
-      "https://landezine.com/26-june-peter-joseph-lenne-prize-2026-ideas-competition/"
+      "https://landezine.com/26-june-peter-joseph-lenne-prize-2026-ideas-competition/",
+      "https://landezine.com/city-landscape-burg/"
     ],
     "queue_new": [
-      "https://landezine.com/city-landscape-burg/",
       "https://landezine.com/farum-midtpunkt-activity-park/",
       "https://landezine.com/tudela-club-med-restoration-in-cap-de-creus-by-emf-landscape-architecture/",
       "https://landezine.com/common-unity-by-rozana-montiel/",
@@ -1860,7 +1872,11 @@
       "https://landezine.com/zhang-jiang-ji-dian-gang-phase-4-west-block-by-dlc/",
       "https://landezine.com/urban-campus-lieven-amsterdam-by-bureau-bb/",
       "https://landezine.com/moses-bridge-by-road-architects/",
-      "https://landezine.com/schoneberger-sudgelande-park-by-odious/"
+      "https://landezine.com/schoneberger-sudgelande-park-by-odious/",
+      "https://landezine.com/may-19-oberlander-prize-forum-with-mario-schjetnan-maria-bellalta/",
+      "https://landezine.com/loenen-memorial-cemetery-extension-by-karres-en-brands/",
+      "https://landezine.com/park-am-gleisdreieck-westpark-by-atelier-loidl/",
+      "https://landezine.com/30-october-radicepura-garden-festival/"
     ],
     "archive_page": 13
   },
@@ -2014,10 +2030,10 @@
       "https://monstrum.dk/en/playground/flower-playground",
       "https://monstrum.dk/en/playground/liseberg-victorian-garden",
       "https://monstrum.dk/en/playground/adventurous-sea-turtle",
-      "https://monstrum.dk/en/playground/sturgeons-pier-26"
+      "https://monstrum.dk/en/playground/sturgeons-pier-26",
+      "https://monstrum.dk/en/playground/medieval-village-slotshaven"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/medieval-village-slotshaven",
       "https://monstrum.dk/en/playground/sky-high-flight",
       "https://monstrum.dk/en/playground/heart-hospital",
       "https://monstrum.dk/en/playground/bears-hideout",
