@@ -184,9 +184,12 @@
       "https://leibal.com/interiors/the-pinnacle/",
       "https://leibal.com/interiors/maachi/",
       "https://leibal.com/interiors/sono/",
-      "https://leibal.com/furniture/crossings/"
+      "https://leibal.com/furniture/crossings/",
+      "https://leibal.com/interiors/casa-carme/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/casa-st/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -358,7 +361,8 @@
       "https://www.archdaily.com/1026018/fort-house-span-architects",
       "https://www.archdaily.com/1039486/ananda-house-thought-parallels",
       "https://www.archdaily.com/1025860/case-vecie-winery-production-facility-masaai-studio",
-      "https://www.archdaily.com/1039464/place-tenaquip-affordable-housing-units-l-mccomber"
+      "https://www.archdaily.com/1039464/place-tenaquip-affordable-housing-units-l-mccomber",
+      "https://www.archdaily.com/1025816/sutton-house-pelletier-de-fontenay"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039327/mkn-house-triplex-arquitetura",
@@ -630,9 +634,11 @@
       "https://www.archdaily.com/1041503/yaw-house-robert-konieczny-plus-kwk-promes",
       "https://www.archdaily.com/1041499/between-the-rock-and-the-river-mimosa-architects",
       "https://www.archdaily.com/1041628/svatman-farmhouse-habitart-architecture-studio",
-      "https://www.archdaily.com/1041622/hide-house-mrtn-architects"
+      "https://www.archdaily.com/1041622/hide-house-mrtn-architects",
+      "https://www.archdaily.com/1041522/gagy-self-sufficient-house-kareem-aldomiaty-plus-ehab-aldomiaty",
+      "https://www.archdaily.com/1041544/unit-2f-mutter"
     ],
-    "archive_page": 82
+    "archive_page": 83
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -930,10 +936,10 @@
       "https://www.dezeen.com/2026/03/19/mamdani-wxy-architecture-adu-plan-library-new-york/",
       "https://www.dezeen.com/2026/03/20/grand-mosque-riyadh-diriyah-x-architects/",
       "https://www.dezeen.com/2026/03/20/iran-civilian-buildings-damaged/",
-      "https://www.dezeen.com/2026/03/20/anthropic-ai-jobs-smiljan-radic-pritzker-bioupcycling-dezeen-weekly-podcast/"
+      "https://www.dezeen.com/2026/03/20/anthropic-ai-jobs-smiljan-radic-pritzker-bioupcycling-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/03/20/dulwich-estate-archmongers-mid-century-houses/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/20/dulwich-estate-archmongers-mid-century-houses/",
       "https://www.dezeen.com/2026/03/20/islington-house-architecture-london-hamish-vincent/",
       "https://www.dezeen.com/2026/03/20/144-vanderbilt-apartment-pink-concrete-brooklyn-soil/",
       "https://www.dezeen.com/2026/03/20/verge-select-janna-watson-grey-county-studio-ontario/",
@@ -1192,7 +1198,13 @@
       "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
       "https://www.dezeen.com/2026/05/18/nordpark-railway-stations-innsbruck-austria-zaha-hadid/",
       "https://www.dezeen.com/2026/05/18/kuma-elsa-nakano-house-apartments-japan/",
-      "https://www.dezeen.com/2026/05/18/the-harper-manhattan-oda/"
+      "https://www.dezeen.com/2026/05/18/the-harper-manhattan-oda/",
+      "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/",
+      "https://www.dezeen.com/2026/05/19/ynas-house-in-miyakonojo-japan/",
+      "https://www.dezeen.com/2026/05/19/corniche-skyscraper-foster-partners-trial-london/",
+      "https://www.dezeen.com/2026/05/19/parametricism-opinion-catherine-slessor/",
+      "https://www.dezeen.com/2026/05/19/louvre-renovation-entrances-selldorf-architects-studios-architecture-winner/",
+      "https://www.dezeen.com/2026/05/19/global-design-forum-istanbul-waugh-thistleton-pavilion/"
     ],
     "archive_page": 2
   },
@@ -1344,10 +1356,10 @@
       "https://www.dezeen.com/2026/05/16/recycled-copper-elements-accent-purist-interior-design-of-mexico-city-fashion-boutique/",
       "https://www.dezeen.com/2026/05/17/machiya-houses-kyoto-renovations/",
       "https://www.dezeen.com/2026/05/17/audo-copenhagen-showroom-norm-architects-tribeca-new-york/",
-      "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/"
+      "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
+      "https://www.dezeen.com/2026/05/18/browns-of-leith-restaurant-gras-edinburgh-warehouse/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/18/browns-of-leith-restaurant-gras-edinburgh-warehouse/",
       "https://www.dezeen.com/2026/05/19/nada-debs-okhun-gozar-mosque-craft-salon/"
     ],
     "archive_page": 2
@@ -1521,10 +1533,10 @@
       "https://landezine.com/void-temple/",
       "https://landezine.com/fourth-dimension-of-space/",
       "https://landezine.com/northwoods-garden-by-practice-landscape/",
-      "https://landezine.com/tidal-park-keilehaven-by-de-urbanisten/"
+      "https://landezine.com/tidal-park-keilehaven-by-de-urbanisten/",
+      "https://landezine.com/cdle-office-by-paar-taller/"
     ],
     "queue_new": [
-      "https://landezine.com/cdle-office-by-paar-taller/",
       "https://landezine.com/responding-to-the-land-the-landscape-studio/",
       "https://landezine.com/designing-with-applied-philosophy/",
       "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/",
@@ -1933,7 +1945,8 @@
       "https://landezine.com/norrebrohus-by-vega-landskab/",
       "https://landezine.com/play-landscape-be-mine-beringen-be-by-carve-and-omgeving/",
       "https://landezine.com/cycling-through-limburg/",
-      "https://landezine.com/see-the-projects-submitted-to-the-11th-edition-of-lila/"
+      "https://landezine.com/see-the-projects-submitted-to-the-11th-edition-of-lila/",
+      "https://landezine.com/blandan-park-lyon-by-base/"
     ],
     "archive_page": 13
   },
@@ -2097,10 +2110,10 @@
       "https://monstrum.dk/en/playground/amazing-animals-playground",
       "https://monstrum.dk/en/playground/beaver",
       "https://monstrum.dk/en/playground/hero-lagoh",
-      "https://monstrum.dk/en/playground/moomin-adventure"
+      "https://monstrum.dk/en/playground/moomin-adventure",
+      "https://monstrum.dk/en/playground/towers-copenhagen"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/towers-copenhagen",
       "https://monstrum.dk/en/playground/wayward-octopus-case",
       "https://monstrum.dk/en/playground/owl-playground",
       "https://monstrum.dk/en/playground/rocket-roof",
