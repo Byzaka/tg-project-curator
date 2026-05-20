@@ -185,11 +185,10 @@
       "https://leibal.com/interiors/maachi/",
       "https://leibal.com/interiors/sono/",
       "https://leibal.com/furniture/crossings/",
-      "https://leibal.com/interiors/casa-carme/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/casa-carme/",
       "https://leibal.com/interiors/casa-st/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -362,10 +361,10 @@
       "https://www.archdaily.com/1039486/ananda-house-thought-parallels",
       "https://www.archdaily.com/1025860/case-vecie-winery-production-facility-masaai-studio",
       "https://www.archdaily.com/1039464/place-tenaquip-affordable-housing-units-l-mccomber",
-      "https://www.archdaily.com/1025816/sutton-house-pelletier-de-fontenay"
+      "https://www.archdaily.com/1025816/sutton-house-pelletier-de-fontenay",
+      "https://www.archdaily.com/1039327/mkn-house-triplex-arquitetura"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039327/mkn-house-triplex-arquitetura",
       "https://www.archdaily.com/1038894/house-in-pradet-clara-crous-arquitectura",
       "https://www.archdaily.com/1039633/casa-branca-nebr-arquitetura",
       "https://www.archdaily.com/1039557/casa-np-tesa-architetture",
@@ -636,7 +635,8 @@
       "https://www.archdaily.com/1041628/svatman-farmhouse-habitart-architecture-studio",
       "https://www.archdaily.com/1041622/hide-house-mrtn-architects",
       "https://www.archdaily.com/1041522/gagy-self-sufficient-house-kareem-aldomiaty-plus-ehab-aldomiaty",
-      "https://www.archdaily.com/1041544/unit-2f-mutter"
+      "https://www.archdaily.com/1041544/unit-2f-mutter",
+      "https://www.archdaily.com/1041652/the-gable-villa-next-office-alireza-taghaboni"
     ],
     "archive_page": 83
   },
@@ -937,10 +937,10 @@
       "https://www.dezeen.com/2026/03/20/grand-mosque-riyadh-diriyah-x-architects/",
       "https://www.dezeen.com/2026/03/20/iran-civilian-buildings-damaged/",
       "https://www.dezeen.com/2026/03/20/anthropic-ai-jobs-smiljan-radic-pritzker-bioupcycling-dezeen-weekly-podcast/",
-      "https://www.dezeen.com/2026/03/20/dulwich-estate-archmongers-mid-century-houses/"
+      "https://www.dezeen.com/2026/03/20/dulwich-estate-archmongers-mid-century-houses/",
+      "https://www.dezeen.com/2026/03/20/islington-house-architecture-london-hamish-vincent/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/20/islington-house-architecture-london-hamish-vincent/",
       "https://www.dezeen.com/2026/03/20/144-vanderbilt-apartment-pink-concrete-brooklyn-soil/",
       "https://www.dezeen.com/2026/03/20/verge-select-janna-watson-grey-county-studio-ontario/",
       "https://www.dezeen.com/2026/03/21/undulating-glass-facades/",
@@ -1204,7 +1204,8 @@
       "https://www.dezeen.com/2026/05/19/corniche-skyscraper-foster-partners-trial-london/",
       "https://www.dezeen.com/2026/05/19/parametricism-opinion-catherine-slessor/",
       "https://www.dezeen.com/2026/05/19/louvre-renovation-entrances-selldorf-architects-studios-architecture-winner/",
-      "https://www.dezeen.com/2026/05/19/global-design-forum-istanbul-waugh-thistleton-pavilion/"
+      "https://www.dezeen.com/2026/05/19/global-design-forum-istanbul-waugh-thistleton-pavilion/",
+      "https://www.dezeen.com/2026/05/19/ibsp-ii-ignacio-rojas-hirigoyen-leonardo-guzman-valencia-chile/"
     ],
     "archive_page": 2
   },
@@ -1357,11 +1358,10 @@
       "https://www.dezeen.com/2026/05/17/machiya-houses-kyoto-renovations/",
       "https://www.dezeen.com/2026/05/17/audo-copenhagen-showroom-norm-architects-tribeca-new-york/",
       "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
-      "https://www.dezeen.com/2026/05/18/browns-of-leith-restaurant-gras-edinburgh-warehouse/"
-    ],
-    "queue_new": [
+      "https://www.dezeen.com/2026/05/18/browns-of-leith-restaurant-gras-edinburgh-warehouse/",
       "https://www.dezeen.com/2026/05/19/nada-debs-okhun-gozar-mosque-craft-salon/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "landezine_play": {
@@ -1534,10 +1534,10 @@
       "https://landezine.com/fourth-dimension-of-space/",
       "https://landezine.com/northwoods-garden-by-practice-landscape/",
       "https://landezine.com/tidal-park-keilehaven-by-de-urbanisten/",
-      "https://landezine.com/cdle-office-by-paar-taller/"
+      "https://landezine.com/cdle-office-by-paar-taller/",
+      "https://landezine.com/responding-to-the-land-the-landscape-studio/"
     ],
     "queue_new": [
-      "https://landezine.com/responding-to-the-land-the-landscape-studio/",
       "https://landezine.com/designing-with-applied-philosophy/",
       "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/",
       "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/",
@@ -2111,10 +2111,10 @@
       "https://monstrum.dk/en/playground/beaver",
       "https://monstrum.dk/en/playground/hero-lagoh",
       "https://monstrum.dk/en/playground/moomin-adventure",
-      "https://monstrum.dk/en/playground/towers-copenhagen"
+      "https://monstrum.dk/en/playground/towers-copenhagen",
+      "https://monstrum.dk/en/playground/wayward-octopus-case"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/wayward-octopus-case",
       "https://monstrum.dk/en/playground/owl-playground",
       "https://monstrum.dk/en/playground/rocket-roof",
       "https://monstrum.dk/en/playground/wayward-octopus",
