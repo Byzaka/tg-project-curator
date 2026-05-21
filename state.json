@@ -188,7 +188,8 @@
       "https://leibal.com/furniture/crossings/",
       "https://leibal.com/interiors/casa-carme/",
       "https://leibal.com/interiors/casa-st/",
-      "https://leibal.com/interiors/sr-house/"
+      "https://leibal.com/interiors/sr-house/",
+      "https://leibal.com/interiors/chelsea-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -366,7 +367,8 @@
       "https://www.archdaily.com/1025816/sutton-house-pelletier-de-fontenay",
       "https://www.archdaily.com/1039327/mkn-house-triplex-arquitetura",
       "https://www.archdaily.com/1025338/house-of-heights-idam-design-studio",
-      "https://www.archdaily.com/1038894/house-in-pradet-clara-crous-arquitectura"
+      "https://www.archdaily.com/1038894/house-in-pradet-clara-crous-arquitectura",
+      "https://www.archdaily.com/1025305/olympic-social-housing-for-greater-paris-soa-architectes"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039633/casa-branca-nebr-arquitetura",
@@ -643,9 +645,11 @@
       "https://www.archdaily.com/1041634/kailua-house-mork-ulnes-architects",
       "https://www.archdaily.com/1041661/kaap-powerhouse-company-plus-orange-architects",
       "https://www.archdaily.com/1041692/bondi-beach-villa-common-office",
-      "https://www.archdaily.com/1041685/casa-chamego-pablo-patriota-arquitetos-associados"
+      "https://www.archdaily.com/1041685/casa-chamego-pablo-patriota-arquitetos-associados",
+      "https://www.archdaily.com/1041482/house-by-the-sea-jorgelina-tortorici-and-asociados",
+      "https://www.archdaily.com/1041658/workers-house-renovation-cecile-elicagaray-architecte"
     ],
-    "archive_page": 84
+    "archive_page": 85
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -773,7 +777,8 @@
       "https://www.archdaily.com/1041331/renaissance-of-the-real-multisensory-installation-milan-design-week-2026-snohetta-plus-usm-modular-furniture",
       "https://www.archdaily.com/1041437/land-of-wells-le-laboratoire-darchitecture-plus-a4-architecture-plus-bled-el-abar-collective",
       "https://www.archdaily.com/1040597/theatre-in-the-santa-clotilde-gardens-scob",
-      "https://www.archdaily.com/1041501/osmanthus-yard-atelier-wenarch"
+      "https://www.archdaily.com/1041501/osmanthus-yard-atelier-wenarch",
+      "https://www.archdaily.com/1041632/cheshm-cheran-bazi-playground-zav-architects"
     ],
     "queue_new": [],
     "archive_page": 75
@@ -947,10 +952,10 @@
       "https://www.dezeen.com/2026/03/20/dulwich-estate-archmongers-mid-century-houses/",
       "https://www.dezeen.com/2026/03/20/islington-house-architecture-london-hamish-vincent/",
       "https://www.dezeen.com/2026/03/20/144-vanderbilt-apartment-pink-concrete-brooklyn-soil/",
-      "https://www.dezeen.com/2026/03/20/verge-select-janna-watson-grey-county-studio-ontario/"
+      "https://www.dezeen.com/2026/03/20/verge-select-janna-watson-grey-county-studio-ontario/",
+      "https://www.dezeen.com/2026/03/21/undulating-glass-facades/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/21/undulating-glass-facades/",
       "https://www.dezeen.com/2026/03/21/house-at-the-edge-in-sinu-architectes/",
       "https://www.dezeen.com/2026/03/21/oma-new-museum-extension-this-week/",
       "https://www.dezeen.com/2026/03/21/subterranean-visitor-screening-centre-white-house-dezeen-agenda-us/",
@@ -1216,7 +1221,12 @@
       "https://www.dezeen.com/2026/05/20/buro-ziyu-zhuang-prairie-ark/",
       "https://www.dezeen.com/2026/05/20/daniel-oakley-zaha-hadid-digital-design-videos/",
       "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
-      "https://www.dezeen.com/2026/05/20/ademas-arquitectura-casa-alba-two-buenos-aires-concrete-wall/"
+      "https://www.dezeen.com/2026/05/20/ademas-arquitectura-casa-alba-two-buenos-aires-concrete-wall/",
+      "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
+      "https://www.dezeen.com/2026/05/21/dezeen-events-guide-3-days-design-2026-launch/",
+      "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
+      "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
+      "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/"
     ],
     "archive_page": 2
   },
@@ -1548,10 +1558,10 @@
       "https://landezine.com/cdle-office-by-paar-taller/",
       "https://landezine.com/responding-to-the-land-the-landscape-studio/",
       "https://landezine.com/designing-with-applied-philosophy/",
-      "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/"
+      "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/",
+      "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/"
     ],
     "queue_new": [
-      "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/",
       "https://landezine.com/observatorium-public-art-for-public-spaces/",
       "https://landezine.com/hoekenrode-square-by-karres-en-brands/",
       "https://landezine.com/ika-meditation-spot/",
@@ -1959,7 +1969,8 @@
       "https://landezine.com/see-the-projects-submitted-to-the-11th-edition-of-lila/",
       "https://landezine.com/blandan-park-lyon-by-base/",
       "https://landezine.com/20-july-competition-for-the-christo-and-jeanne-claude-center-for-contemporary-art/",
-      "https://landezine.com/okra-wins-international-competition-with-roma-continua/"
+      "https://landezine.com/okra-wins-international-competition-with-roma-continua/",
+      "https://landezine.com/toni-areal-pixel-park-by-studio-vulkan/"
     ],
     "archive_page": 18
   },
@@ -2127,10 +2138,10 @@
       "https://monstrum.dk/en/playground/towers-copenhagen",
       "https://monstrum.dk/en/playground/wayward-octopus-case",
       "https://monstrum.dk/en/playground/owl-playground",
-      "https://monstrum.dk/en/playground/rocket-roof"
+      "https://monstrum.dk/en/playground/rocket-roof",
+      "https://monstrum.dk/en/playground/wayward-octopus"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/wayward-octopus",
       "https://monstrum.dk/en/playground/adventure-playscape",
       "https://monstrum.dk/en/playground/snowy-owl-play-theatre",
       "https://monstrum.dk/en/playground/spoookitetsparken"
