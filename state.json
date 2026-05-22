@@ -189,9 +189,12 @@
       "https://leibal.com/interiors/casa-carme/",
       "https://leibal.com/interiors/casa-st/",
       "https://leibal.com/interiors/sr-house/",
-      "https://leibal.com/interiors/chelsea-residence/"
+      "https://leibal.com/interiors/chelsea-residence/",
+      "https://leibal.com/interiors/sj-apartment/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/belgrave-road/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -369,7 +372,8 @@
       "https://www.archdaily.com/1025338/house-of-heights-idam-design-studio",
       "https://www.archdaily.com/1038894/house-in-pradet-clara-crous-arquitectura",
       "https://www.archdaily.com/1025305/olympic-social-housing-for-greater-paris-soa-architectes",
-      "https://www.archdaily.com/1039633/casa-branca-nebr-arquitetura"
+      "https://www.archdaily.com/1039633/casa-branca-nebr-arquitetura",
+      "https://www.archdaily.com/1024139/oblique-house-red-brick-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039557/casa-np-tesa-architetture",
@@ -649,9 +653,11 @@
       "https://www.archdaily.com/1041482/house-by-the-sea-jorgelina-tortorici-and-asociados",
       "https://www.archdaily.com/1041658/workers-house-renovation-cecile-elicagaray-architecte",
       "https://www.archdaily.com/1041713/o4-house",
-      "https://www.archdaily.com/1041381/copan-d-apartment-sabia-arquitetos-plus-trema-arquitetura"
+      "https://www.archdaily.com/1041381/copan-d-apartment-sabia-arquitetos-plus-trema-arquitetura",
+      "https://www.archdaily.com/1041188/north-vancouver-remodel-olson-kundig",
+      "https://www.archdaily.com/1041690/boutique-house-studio-gontijo-arquitetura"
     ],
-    "archive_page": 85
+    "archive_page": 86
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -956,10 +962,10 @@
       "https://www.dezeen.com/2026/03/20/144-vanderbilt-apartment-pink-concrete-brooklyn-soil/",
       "https://www.dezeen.com/2026/03/20/verge-select-janna-watson-grey-county-studio-ontario/",
       "https://www.dezeen.com/2026/03/21/undulating-glass-facades/",
-      "https://www.dezeen.com/2026/03/21/house-at-the-edge-in-sinu-architectes/"
+      "https://www.dezeen.com/2026/03/21/house-at-the-edge-in-sinu-architectes/",
+      "https://www.dezeen.com/2026/03/21/oma-new-museum-extension-this-week/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/21/oma-new-museum-extension-this-week/",
       "https://www.dezeen.com/2026/03/21/subterranean-visitor-screening-centre-white-house-dezeen-agenda-us/",
       "https://www.dezeen.com/2026/03/22/proctor-shaw-stone-brick-house/",
       "https://www.dezeen.com/2026/03/22/houses-on-stilts/",
@@ -1229,7 +1235,15 @@
       "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
       "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
       "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/",
-      "https://www.dezeen.com/2026/05/21/gensler-thistle-data-center-phoenix-corten-steel/"
+      "https://www.dezeen.com/2026/05/21/gensler-thistle-data-center-phoenix-corten-steel/",
+      "https://www.dezeen.com/2026/05/22/studio-hallett-ike-cemetery-house-extension-london/",
+      "https://www.dezeen.com/2026/05/22/giacomo-moor-quadrodesign-salone-del-mobile-2026/",
+      "https://www.dezeen.com/2026/05/22/lanza-atelier-2026-serpentine-pavilion-video/",
+      "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/",
+      "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/",
+      "https://www.dezeen.com/2026/05/22/arc-de-trump-design-approved-for-washington-dc-cfa/",
+      "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
+      "https://www.dezeen.com/2026/05/22/utah-data-centre-ikea-ps-collection-tour-triangle-paris-dezeen-weekly-podcast/"
     ],
     "archive_page": 2
   },
@@ -1564,10 +1578,10 @@
       "https://landezine.com/designing-with-applied-philosophy/",
       "https://landezine.com/asphalt-jungle-paris-by-wagon-landscaping/",
       "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/",
-      "https://landezine.com/observatorium-public-art-for-public-spaces/"
+      "https://landezine.com/observatorium-public-art-for-public-spaces/",
+      "https://landezine.com/hoekenrode-square-by-karres-en-brands/"
     ],
     "queue_new": [
-      "https://landezine.com/hoekenrode-square-by-karres-en-brands/",
       "https://landezine.com/ika-meditation-spot/",
       "https://landezine.com/hpo-on-temporary-and-incomplete/",
       "https://landezine.com/the-contemporary-chinese-urban-landscape-and-public-realm/",
@@ -2146,10 +2160,10 @@
       "https://monstrum.dk/en/playground/owl-playground",
       "https://monstrum.dk/en/playground/rocket-roof",
       "https://monstrum.dk/en/playground/wayward-octopus",
-      "https://monstrum.dk/en/playground/adventure-playscape"
+      "https://monstrum.dk/en/playground/adventure-playscape",
+      "https://monstrum.dk/en/playground/snowy-owl-play-theatre"
     ],
     "queue_new": [
-      "https://monstrum.dk/en/playground/snowy-owl-play-theatre",
       "https://monstrum.dk/en/playground/spoookitetsparken"
     ],
     "archive_page": 1
