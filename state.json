@@ -191,7 +191,8 @@
       "https://leibal.com/interiors/sr-house/",
       "https://leibal.com/interiors/chelsea-residence/",
       "https://leibal.com/interiors/sj-apartment/",
-      "https://leibal.com/interiors/belgrave-road/"
+      "https://leibal.com/interiors/belgrave-road/",
+      "https://leibal.com/interiors/nomahouse/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -373,7 +374,8 @@
       "https://www.archdaily.com/1025305/olympic-social-housing-for-greater-paris-soa-architectes",
       "https://www.archdaily.com/1039633/casa-branca-nebr-arquitetura",
       "https://www.archdaily.com/1024139/oblique-house-red-brick-studio",
-      "https://www.archdaily.com/1039557/casa-np-tesa-architetture"
+      "https://www.archdaily.com/1039557/casa-np-tesa-architetture",
+      "https://www.archdaily.com/1025009/rf-residence-andrade-morettin-arquitetos-associados"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039503/barkly-house-ha-architecture",
@@ -655,9 +657,11 @@
       "https://www.archdaily.com/1041381/copan-d-apartment-sabia-arquitetos-plus-trema-arquitetura",
       "https://www.archdaily.com/1041188/north-vancouver-remodel-olson-kundig",
       "https://www.archdaily.com/1041690/boutique-house-studio-gontijo-arquitetura",
-      "https://www.archdaily.com/1040649/juriquilla-house-estudio-mero"
+      "https://www.archdaily.com/1040649/juriquilla-house-estudio-mero",
+      "https://www.archdaily.com/1041508/house-with-a-mountain-view-stempel-and-tesar-architects",
+      "https://www.archdaily.com/1041326/scala-mare-building-atelier-darquitectura-lopes-da-costa"
     ],
-    "archive_page": 86
+    "archive_page": 87
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -965,10 +969,10 @@
       "https://www.dezeen.com/2026/03/21/undulating-glass-facades/",
       "https://www.dezeen.com/2026/03/21/house-at-the-edge-in-sinu-architectes/",
       "https://www.dezeen.com/2026/03/21/oma-new-museum-extension-this-week/",
-      "https://www.dezeen.com/2026/03/21/subterranean-visitor-screening-centre-white-house-dezeen-agenda-us/"
+      "https://www.dezeen.com/2026/03/21/subterranean-visitor-screening-centre-white-house-dezeen-agenda-us/",
+      "https://www.dezeen.com/2026/03/22/proctor-shaw-stone-brick-house/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/22/proctor-shaw-stone-brick-house/",
       "https://www.dezeen.com/2026/03/22/houses-on-stilts/",
       "https://www.dezeen.com/2026/03/23/rong-museum-of-art-ole-scheeren/",
       "https://www.dezeen.com/2026/03/23/per-ofrenar-pichiavo-fallas/",
@@ -1246,7 +1250,9 @@
       "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
       "https://www.dezeen.com/2026/05/22/utah-data-centre-ikea-ps-collection-tour-triangle-paris-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/05/22/chapel-of-st-ignatius-new-orleans-trahan-architects/",
-      "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/"
+      "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
+      "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
+      "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/"
     ],
     "archive_page": 2
   },
@@ -1583,10 +1589,10 @@
       "https://landezine.com/hudson-river-parks-gansevoort-peninsula-by-field-operations/",
       "https://landezine.com/observatorium-public-art-for-public-spaces/",
       "https://landezine.com/hoekenrode-square-by-karres-en-brands/",
-      "https://landezine.com/ika-meditation-spot/"
+      "https://landezine.com/ika-meditation-spot/",
+      "https://landezine.com/hpo-on-temporary-and-incomplete/"
     ],
     "queue_new": [
-      "https://landezine.com/hpo-on-temporary-and-incomplete/",
       "https://landezine.com/the-contemporary-chinese-urban-landscape-and-public-realm/",
       "https://landezine.com/greening-of-flagey-and-sainte-croix-squares-brussels-by-kollektif-and-fallow/",
       "https://landezine.com/farsta-lakefront-boardwalk-by-karavan-landskapsarkitekter/",
@@ -1997,7 +2003,7 @@
       "https://landezine.com/jardin-des-joyeux-by-wagon-landscaping/",
       "https://landezine.com/harbour-quarter-square-by-redscape/"
     ],
-    "archive_page": 18
+    "archive_page": 23
   },
   "monstrum_projects": {
     "sent_urls": [
