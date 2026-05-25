@@ -193,7 +193,8 @@
       "https://leibal.com/interiors/sj-apartment/",
       "https://leibal.com/interiors/belgrave-road/",
       "https://leibal.com/interiors/nomahouse/",
-      "https://leibal.com/interiors/natural-extension/"
+      "https://leibal.com/interiors/natural-extension/",
+      "https://leibal.com/interiors/woolworth-tower-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -379,7 +380,8 @@
       "https://www.archdaily.com/1025009/rf-residence-andrade-morettin-arquitetos-associados",
       "https://www.archdaily.com/1039503/barkly-house-ha-architecture",
       "https://www.archdaily.com/1024956/lyon-confluence-mixed-use-quarter-david-chipperfield-architects",
-      "https://www.archdaily.com/1039563/counter-slope-house-yh2-architecture"
+      "https://www.archdaily.com/1039563/counter-slope-house-yh2-architecture",
+      "https://www.archdaily.com/1024770/la-secreta-house-grimaldi-nacht-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039487/shark-house-talc",
@@ -666,9 +668,10 @@
       "https://www.archdaily.com/1036817/qinghe-innng-international-talent-community-zxd-architects-plus-biad",
       "https://www.archdaily.com/1041745/haus-w-studio-eh",
       "https://www.archdaily.com/1041491/the-calm-house-carazo-arquitectura",
-      "https://www.archdaily.com/1041761/24-m-house-dua-studio"
+      "https://www.archdaily.com/1041761/24-m-house-dua-studio",
+      "https://www.archdaily.com/1041660/ute-strittmatter-strasse-collective-living-in-freiham-03-arch-plus-eneff-architekten-plus-illiz-architektur-plus-westner-schuhrer-zohrer"
     ],
-    "archive_page": 88
+    "archive_page": 89
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -981,10 +984,10 @@
       "https://www.dezeen.com/2026/03/22/proctor-shaw-stone-brick-house/",
       "https://www.dezeen.com/2026/03/22/houses-on-stilts/",
       "https://www.dezeen.com/2026/03/23/rong-museum-of-art-ole-scheeren/",
-      "https://www.dezeen.com/2026/03/23/per-ofrenar-pichiavo-fallas/"
+      "https://www.dezeen.com/2026/03/23/per-ofrenar-pichiavo-fallas/",
+      "https://www.dezeen.com/2026/03/23/itc-green-centre-morphogenesis/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/23/itc-green-centre-morphogenesis/",
       "https://www.dezeen.com/2026/03/23/aia-lawsuit-trump-kennedy-center-dc/",
       "https://www.dezeen.com/2026/03/24/burundi-ineza-clinic-francis-kere/",
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/",
@@ -1263,7 +1266,8 @@
       "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/",
       "https://www.dezeen.com/2026/05/23/barde-vanvoltt-estero-residences-gamba-cafe-san-jose-del-cabo-mexico/",
       "https://www.dezeen.com/2026/05/24/jia-art-shanghai-foster-partners/",
-      "https://www.dezeen.com/2026/05/24/cocopah-museum-cultural-center-expansion-arizona-eyrc-architects/"
+      "https://www.dezeen.com/2026/05/24/cocopah-museum-cultural-center-expansion-arizona-eyrc-architects/",
+      "https://www.dezeen.com/2026/05/25/summer-home-mindspark-architects/"
     ],
     "archive_page": 2
   },
@@ -1607,10 +1611,10 @@
       "https://landezine.com/hpo-on-temporary-and-incomplete/",
       "https://landezine.com/the-contemporary-chinese-urban-landscape-and-public-realm/",
       "https://landezine.com/greening-of-flagey-and-sainte-croix-squares-brussels-by-kollektif-and-fallow/",
-      "https://landezine.com/farsta-lakefront-boardwalk-by-karavan-landskapsarkitekter/"
+      "https://landezine.com/farsta-lakefront-boardwalk-by-karavan-landskapsarkitekter/",
+      "https://landezine.com/playground-slope-at-the-risskov-school-mbyland/"
     ],
     "queue_new": [
-      "https://landezine.com/playground-slope-at-the-risskov-school-mbyland/",
       "https://landezine.com/le-parc-du-chemin-de-lile-by-mutabilis/",
       "https://landezine.com/design-for-forest/",
       "https://landezine.com/atmos-by-studio-vulkan-landschaftsarchitektur/",
@@ -2015,7 +2019,9 @@
       "https://landezine.com/terra-nova-biospherebelt-bbz-landschaftsarchitekten-arch42/",
       "https://landezine.com/vestled-by-schonherr-landscape-architects/",
       "https://landezine.com/jardin-des-joyeux-by-wagon-landscaping/",
-      "https://landezine.com/harbour-quarter-square-by-redscape/"
+      "https://landezine.com/harbour-quarter-square-by-redscape/",
+      "https://landezine.com/invited-jurors-announced-for-the-streetlife-design-competition/",
+      "https://landezine.com/ringdijkpark-by-delva/"
     ],
     "archive_page": 28
   },
@@ -2187,9 +2193,12 @@
       "https://monstrum.dk/en/playground/wayward-octopus",
       "https://monstrum.dk/en/playground/adventure-playscape",
       "https://monstrum.dk/en/playground/snowy-owl-play-theatre",
-      "https://monstrum.dk/en/playground/spoookitetsparken"
+      "https://monstrum.dk/en/playground/spoookitetsparken",
+      "https://monstrum.dk/en/playground/duck-fish"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://monstrum.dk/en/playground/duck-fish"
+    ],
     "archive_page": 1
   }
 }
