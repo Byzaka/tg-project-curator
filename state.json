@@ -51,7 +51,8 @@
       "https://leibal.com/interiors/la-maraude/",
       "https://leibal.com/interiors/hartley-house/",
       "https://leibal.com/interiors/sono/",
-      "https://leibal.com/interiors/sr-house/"
+      "https://leibal.com/interiors/sr-house/",
+      "https://leibal.com/interiors/skylark/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -194,9 +195,12 @@
       "https://leibal.com/interiors/belgrave-road/",
       "https://leibal.com/interiors/nomahouse/",
       "https://leibal.com/interiors/natural-extension/",
-      "https://leibal.com/interiors/woolworth-tower-residence/"
+      "https://leibal.com/interiors/woolworth-tower-residence/",
+      "https://leibal.com/interiors/1-spring-street-2/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/skylark/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -382,7 +386,8 @@
       "https://www.archdaily.com/1024956/lyon-confluence-mixed-use-quarter-david-chipperfield-architects",
       "https://www.archdaily.com/1039563/counter-slope-house-yh2-architecture",
       "https://www.archdaily.com/1024770/la-secreta-house-grimaldi-nacht-arquitectos",
-      "https://www.archdaily.com/1039487/shark-house-talc"
+      "https://www.archdaily.com/1039487/shark-house-talc",
+      "https://www.archdaily.com/1024435/villa-no-268-sabk-design-group"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso",
@@ -672,9 +677,10 @@
       "https://www.archdaily.com/1041660/ute-strittmatter-strasse-collective-living-in-freiham-03-arch-plus-eneff-architekten-plus-illiz-architektur-plus-westner-schuhrer-zohrer",
       "https://www.archdaily.com/1041792/arth-home-wright-inspires",
       "https://www.archdaily.com/1041478/clay-house-norenaarquitectos",
-      "https://www.archdaily.com/1041801/node-house-ming-architects"
+      "https://www.archdaily.com/1041801/node-house-ming-architects",
+      "https://www.archdaily.com/1041739/tower-house-kit"
     ],
-    "archive_page": 89
+    "archive_page": 90
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -806,7 +812,8 @@
       "https://www.archdaily.com/1041632/cheshm-cheran-bazi-playground-zav-architects",
       "https://www.archdaily.com/1041662/spaziu-davia-franceschini-a-fabrica-architettura-plus-cgz-architecture",
       "https://www.archdaily.com/1041740/marina-in-tychy",
-      "https://www.archdaily.com/1040706/mabelle-park-lga-architectural-partners"
+      "https://www.archdaily.com/1040706/mabelle-park-lga-architectural-partners",
+      "https://www.archdaily.com/1041669/dongguan-mixc-village-ip-installation-pills"
     ],
     "queue_new": [],
     "archive_page": 75
@@ -990,10 +997,10 @@
       "https://www.dezeen.com/2026/03/23/rong-museum-of-art-ole-scheeren/",
       "https://www.dezeen.com/2026/03/23/per-ofrenar-pichiavo-fallas/",
       "https://www.dezeen.com/2026/03/23/itc-green-centre-morphogenesis/",
-      "https://www.dezeen.com/2026/03/23/aia-lawsuit-trump-kennedy-center-dc/"
+      "https://www.dezeen.com/2026/03/23/aia-lawsuit-trump-kennedy-center-dc/",
+      "https://www.dezeen.com/2026/03/24/burundi-ineza-clinic-francis-kere/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/24/burundi-ineza-clinic-francis-kere/",
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/",
       "https://www.dezeen.com/2026/03/24/venice-central-pavilion-labics-fabio-fumagalli/",
       "https://www.dezeen.com/2026/03/24/cork-loft-office-sm/",
@@ -1272,7 +1279,9 @@
       "https://www.dezeen.com/2026/05/24/jia-art-shanghai-foster-partners/",
       "https://www.dezeen.com/2026/05/24/cocopah-museum-cultural-center-expansion-arizona-eyrc-architects/",
       "https://www.dezeen.com/2026/05/25/summer-home-mindspark-architects/",
-      "https://www.dezeen.com/2026/05/25/smith-center-education-research-opal-maine/"
+      "https://www.dezeen.com/2026/05/25/smith-center-education-research-opal-maine/",
+      "https://www.dezeen.com/2026/05/26/stefano-boeri-architetti-community-hub-rome/",
+      "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/"
     ],
     "archive_page": 2
   },
@@ -1619,10 +1628,10 @@
       "https://landezine.com/greening-of-flagey-and-sainte-croix-squares-brussels-by-kollektif-and-fallow/",
       "https://landezine.com/farsta-lakefront-boardwalk-by-karavan-landskapsarkitekter/",
       "https://landezine.com/playground-slope-at-the-risskov-school-mbyland/",
-      "https://landezine.com/le-parc-du-chemin-de-lile-by-mutabilis/"
+      "https://landezine.com/le-parc-du-chemin-de-lile-by-mutabilis/",
+      "https://landezine.com/design-for-forest/"
     ],
     "queue_new": [
-      "https://landezine.com/design-for-forest/",
       "https://landezine.com/atmos-by-studio-vulkan-landschaftsarchitektur/",
       "https://landezine.com/lakeside-park-and-promenade-uberlingen/",
       "https://landezine.com/airport-calonne-ricouart-by-wagon-landscaping/",
