@@ -197,7 +197,8 @@
       "https://leibal.com/interiors/natural-extension/",
       "https://leibal.com/interiors/woolworth-tower-residence/",
       "https://leibal.com/interiors/1-spring-street-2/",
-      "https://leibal.com/interiors/skylark/"
+      "https://leibal.com/interiors/skylark/",
+      "https://leibal.com/interiors/residence-rbk/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -387,7 +388,8 @@
       "https://www.archdaily.com/1024770/la-secreta-house-grimaldi-nacht-arquitectos",
       "https://www.archdaily.com/1039487/shark-house-talc",
       "https://www.archdaily.com/1024435/villa-no-268-sabk-design-group",
-      "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso"
+      "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso",
+      "https://www.archdaily.com/1024358/house-b-kart-projects-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners",
@@ -678,9 +680,11 @@
       "https://www.archdaily.com/1041478/clay-house-norenaarquitectos",
       "https://www.archdaily.com/1041801/node-house-ming-architects",
       "https://www.archdaily.com/1041739/tower-house-kit",
-      "https://www.archdaily.com/1041791/barwon-dunes-house-eliza-blair-architecture"
+      "https://www.archdaily.com/1041791/barwon-dunes-house-eliza-blair-architecture",
+      "https://www.archdaily.com/1041473/earth-apartment-zemlja-projekt-v-arhitektura",
+      "https://www.archdaily.com/1041732/slope-house-source-architecture-studio"
     ],
-    "archive_page": 90
+    "archive_page": 91
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1002,7 +1006,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/24/venice-central-pavilion-labics-fabio-fumagalli/",
       "https://www.dezeen.com/2026/03/24/cork-loft-office-sm/",
       "https://www.dezeen.com/2026/03/24/false-bay-heliotrope-house-washington/",
       "https://www.dezeen.com/2026/03/25/snohetta-theatre-nanterre-amandiers/",
@@ -1283,7 +1286,10 @@
       "https://www.dezeen.com/2026/05/26/stefano-boeri-architetti-community-hub-rome/",
       "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/",
       "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
-      "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/"
+      "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/",
+      "https://www.dezeen.com/2026/05/27/sou-fujimoto-dior-shinsaibashi/",
+      "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/",
+      "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/"
     ],
     "archive_page": 2
   },
@@ -1635,7 +1641,6 @@
       "https://landezine.com/atmos-by-studio-vulkan-landschaftsarchitektur/"
     ],
     "queue_new": [
-      "https://landezine.com/lakeside-park-and-promenade-uberlingen/",
       "https://landezine.com/airport-calonne-ricouart-by-wagon-landscaping/",
       "https://landezine.com/ai-in-landscape-architecture-beyond-the-myth-of-ai-human-rivalry/",
       "https://landezine.com/strategies-against-sameness-2/",
