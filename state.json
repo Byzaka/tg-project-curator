@@ -52,7 +52,8 @@
       "https://leibal.com/interiors/hartley-house/",
       "https://leibal.com/interiors/sono/",
       "https://leibal.com/interiors/sr-house/",
-      "https://leibal.com/interiors/skylark/"
+      "https://leibal.com/interiors/skylark/",
+      "https://leibal.com/interiors/house-with-reflective-furniture/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -198,7 +199,8 @@
       "https://leibal.com/interiors/woolworth-tower-residence/",
       "https://leibal.com/interiors/1-spring-street-2/",
       "https://leibal.com/interiors/skylark/",
-      "https://leibal.com/interiors/residence-rbk/"
+      "https://leibal.com/interiors/residence-rbk/",
+      "https://leibal.com/interiors/house-with-reflective-furniture/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -390,7 +392,8 @@
       "https://www.archdaily.com/1024435/villa-no-268-sabk-design-group",
       "https://www.archdaily.com/1039618/path-envelope-in-maebashi-hagiso",
       "https://www.archdaily.com/1024358/house-b-kart-projects-architecture",
-      "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners"
+      "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners",
+      "https://www.archdaily.com/1023196/morumbi-house-terra-e-tuma-arquitetos-associados"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039501/lofos-residence-react-architects",
@@ -684,9 +687,10 @@
       "https://www.archdaily.com/1041473/earth-apartment-zemlja-projekt-v-arhitektura",
       "https://www.archdaily.com/1041732/slope-house-source-architecture-studio",
       "https://www.archdaily.com/1041860/fairlie-wellness-centre-wood-marsh",
-      "https://www.archdaily.com/1041686/house-of-sculpture-sabella-arquitetura"
+      "https://www.archdaily.com/1041686/house-of-sculpture-sabella-arquitetura",
+      "https://www.archdaily.com/1041798/cornebarrieu-social-housing-atelier-regis-roudil-architectes"
     ],
-    "archive_page": 91
+    "archive_page": 92
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -819,7 +823,8 @@
       "https://www.archdaily.com/1041662/spaziu-davia-franceschini-a-fabrica-architettura-plus-cgz-architecture",
       "https://www.archdaily.com/1041740/marina-in-tychy",
       "https://www.archdaily.com/1040706/mabelle-park-lga-architectural-partners",
-      "https://www.archdaily.com/1041669/dongguan-mixc-village-ip-installation-pills"
+      "https://www.archdaily.com/1041669/dongguan-mixc-village-ip-installation-pills",
+      "https://www.archdaily.com/1041803/black-thought-pavilion-meds-meetings-of-design-students-plus-cisem-nur-yldirim-plus-alberto-collet"
     ],
     "queue_new": [],
     "archive_page": 75
@@ -1008,7 +1013,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/24/false-bay-heliotrope-house-washington/",
       "https://www.dezeen.com/2026/03/25/snohetta-theatre-nanterre-amandiers/",
       "https://www.dezeen.com/2026/03/25/smiljan-radic-pritzker-architecture-prize-winner-interview/",
       "https://www.dezeen.com/2026/03/25/construction-materials-hormuz-blockade/",
@@ -1290,7 +1294,11 @@
       "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/",
       "https://www.dezeen.com/2026/05/27/sou-fujimoto-dior-shinsaibashi/",
       "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/",
-      "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/"
+      "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/",
+      "https://www.dezeen.com/2026/05/28/plastic-potted-green-walls/",
+      "https://www.dezeen.com/2026/05/28/julia-watson-lo-tek-water-interview/",
+      "https://www.dezeen.com/2026/05/28/stadium-of-life-rise-international/",
+      "https://www.dezeen.com/2026/05/28/purbeck-cottage-renovation-type/"
     ],
     "archive_page": 2
   },
@@ -1452,7 +1460,8 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/"
+      "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
+      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/"
     ],
     "archive_page": 2
   },
@@ -1642,10 +1651,10 @@
       "https://landezine.com/le-parc-du-chemin-de-lile-by-mutabilis/",
       "https://landezine.com/design-for-forest/",
       "https://landezine.com/atmos-by-studio-vulkan-landschaftsarchitektur/",
-      "https://landezine.com/airport-calonne-ricouart-by-wagon-landscaping/"
+      "https://landezine.com/airport-calonne-ricouart-by-wagon-landscaping/",
+      "https://landezine.com/ai-in-landscape-architecture-beyond-the-myth-of-ai-human-rivalry/"
     ],
     "queue_new": [
-      "https://landezine.com/ai-in-landscape-architecture-beyond-the-myth-of-ai-human-rivalry/",
       "https://landezine.com/strategies-against-sameness-2/",
       "https://landezine.com/into-the-forest-by-openfabric/",
       "https://landezine.com/scandi-by-atelier-partero/",
