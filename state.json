@@ -200,7 +200,8 @@
       "https://leibal.com/interiors/1-spring-street-2/",
       "https://leibal.com/interiors/skylark/",
       "https://leibal.com/interiors/residence-rbk/",
-      "https://leibal.com/interiors/house-with-reflective-furniture/"
+      "https://leibal.com/interiors/house-with-reflective-furniture/",
+      "https://leibal.com/interiors/stoke-newington-townhouse/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -394,7 +395,8 @@
       "https://www.archdaily.com/1024358/house-b-kart-projects-architecture",
       "https://www.archdaily.com/1039462/falling-leaves-house-bercy-fadel-plus-partners",
       "https://www.archdaily.com/1023196/morumbi-house-terra-e-tuma-arquitetos-associados",
-      "https://www.archdaily.com/1039501/lofos-residence-react-architects"
+      "https://www.archdaily.com/1039501/lofos-residence-react-architects",
+      "https://www.archdaily.com/1023945/forest-house-oostvoorne-kumiki"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039399/torrao-house-nommo-arquitetos-plus-luana-barichello",
@@ -689,9 +691,11 @@
       "https://www.archdaily.com/1041860/fairlie-wellness-centre-wood-marsh",
       "https://www.archdaily.com/1041686/house-of-sculpture-sabella-arquitetura",
       "https://www.archdaily.com/1041798/cornebarrieu-social-housing-atelier-regis-roudil-architectes",
-      "https://www.archdaily.com/1041479/londres-187-building-cca-bernardo-quinzanos-plus-olga-romano"
+      "https://www.archdaily.com/1041479/londres-187-building-cca-bernardo-quinzanos-plus-olga-romano",
+      "https://www.archdaily.com/1041647/villa-butterfly-mohamed-amine-siana",
+      "https://www.archdaily.com/1041504/villa-normanni-puglia-urban-interior"
     ],
-    "archive_page": 92
+    "archive_page": 93
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1014,7 +1018,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/25/smiljan-radic-pritzker-architecture-prize-winner-interview/",
       "https://www.dezeen.com/2026/03/25/construction-materials-hormuz-blockade/",
       "https://www.dezeen.com/2026/03/25/africa-skyscrapers/",
       "https://www.dezeen.com/2026/03/25/nasa-accelerates-plans-to-build-permanent-moon-base/",
@@ -1299,7 +1302,10 @@
       "https://www.dezeen.com/2026/05/28/julia-watson-lo-tek-water-interview/",
       "https://www.dezeen.com/2026/05/28/stadium-of-life-rise-international/",
       "https://www.dezeen.com/2026/05/28/purbeck-cottage-renovation-type/",
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/"
+      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+      "https://www.dezeen.com/2026/05/29/gehry-why-olin-getty-tram-los-angeles/",
+      "https://www.dezeen.com/2026/05/29/silk-wood-playscape-gloucestershire/",
+      "https://www.dezeen.com/2026/05/29/gentleism-opinion-nat-barker/"
     ],
     "archive_page": 2
   },
@@ -1461,9 +1467,11 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
-      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/"
+      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
+      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
+      "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
     ],
     "archive_page": 2
   },
@@ -1655,10 +1663,10 @@
       "https://landezine.com/atmos-by-studio-vulkan-landschaftsarchitektur/",
       "https://landezine.com/airport-calonne-ricouart-by-wagon-landscaping/",
       "https://landezine.com/ai-in-landscape-architecture-beyond-the-myth-of-ai-human-rivalry/",
-      "https://landezine.com/strategies-against-sameness-2/"
+      "https://landezine.com/strategies-against-sameness-2/",
+      "https://landezine.com/into-the-forest-by-openfabric/"
     ],
     "queue_new": [
-      "https://landezine.com/into-the-forest-by-openfabric/",
       "https://landezine.com/scandi-by-atelier-partero/",
       "https://landezine.com/gronnegarden-herning-high-school-by-schonherr/",
       "https://landezine.com/tim-waterman-on-astronauts-lsd-and-landscape-architecture-lecture-qa/",
@@ -2062,7 +2070,8 @@
       "https://landezine.com/palm-springs-downtown-park-by-rios/",
       "https://landezine.com/3-august-lina-open-call-for-emerging-creatives-in-spatial-practices/",
       "https://landezine.com/chilton-square-by-root-and-erect/",
-      "https://landezine.com/parco-reggia-di-rivalta-by-openfabric/"
+      "https://landezine.com/parco-reggia-di-rivalta-by-openfabric/",
+      "https://landezine.com/the-linear-forest-by-arpentere/"
     ],
     "archive_page": 28
   },
