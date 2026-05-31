@@ -202,7 +202,8 @@
       "https://leibal.com/interiors/residence-rbk/",
       "https://leibal.com/interiors/house-with-reflective-furniture/",
       "https://leibal.com/interiors/stoke-newington-townhouse/",
-      "https://leibal.com/interiors/apartment-45/"
+      "https://leibal.com/interiors/apartment-45/",
+      "https://leibal.com/interiors/where-every-step-has-a-view/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -400,7 +401,8 @@
       "https://www.archdaily.com/1023945/forest-house-oostvoorne-kumiki",
       "https://www.archdaily.com/1039399/torrao-house-nommo-arquitetos-plus-luana-barichello",
       "https://www.archdaily.com/1023590/bridge-house-klab-architecture",
-      "https://www.archdaily.com/1039664/copper-house-fabrication-studio"
+      "https://www.archdaily.com/1039664/copper-house-fabrication-studio",
+      "https://www.archdaily.com/1023297/bangalow-road-house-son-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039509/villa-modda-depaolidefranceschibaldan-architetti",
@@ -700,9 +702,10 @@
       "https://www.archdaily.com/1040820/terramar-house-estudio-pedro-haruf",
       "https://www.archdaily.com/1041969/ulster-house-lga-architectural-partners",
       "https://www.archdaily.com/1041282/beech-cottage-mimstudios",
-      "https://www.archdaily.com/1028412/house-jevio-db-estudio-de-arquitectura"
+      "https://www.archdaily.com/1028412/house-jevio-db-estudio-de-arquitectura",
+      "https://www.archdaily.com/1041925/knowlton-prairie-l-mccomber"
     ],
-    "archive_page": 94
+    "archive_page": 95
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1025,7 +1028,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/26/neom-cancels-contracts-the-line-trojena/",
       "https://www.dezeen.com/2026/03/26/bernardine-monastery-unesco-lviv-ukraine-russian-strikes/",
       "https://www.dezeen.com/2026/03/26/circular-economy-smith-mordak-opinion/",
       "https://www.dezeen.com/2026/03/26/light-house-woonpioniers/",
@@ -1312,7 +1314,9 @@
       "https://www.dezeen.com/2026/05/29/gentleism-opinion-nat-barker/",
       "https://www.dezeen.com/2026/05/30/parametricism-architecture-feature-dezeen-in-depth/",
       "https://www.dezeen.com/2026/05/30/studio-weave-maida-hill-toilet-block/",
-      "https://www.dezeen.com/2026/05/30/fgmf-arquitetos-valente-skyscraper-sao-paulo-brazil/"
+      "https://www.dezeen.com/2026/05/30/fgmf-arquitetos-valente-skyscraper-sao-paulo-brazil/",
+      "https://www.dezeen.com/2026/05/31/prostir-business-hub-aranchii-architects/",
+      "https://www.dezeen.com/2026/05/31/top-houses-may-2026/"
     ],
     "archive_page": 2
   },
@@ -1474,13 +1478,13 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
-      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/"
+      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
+      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/"
     ],
     "archive_page": 2
   },
@@ -1676,10 +1680,10 @@
       "https://landezine.com/into-the-forest-by-openfabric/",
       "https://landezine.com/scandi-by-atelier-partero/",
       "https://landezine.com/gronnegarden-herning-high-school-by-schonherr/",
-      "https://landezine.com/tim-waterman-on-astronauts-lsd-and-landscape-architecture-lecture-qa/"
+      "https://landezine.com/tim-waterman-on-astronauts-lsd-and-landscape-architecture-lecture-qa/",
+      "https://landezine.com/ultra-ruin-marco-casagrande/"
     ],
     "queue_new": [
-      "https://landezine.com/ultra-ruin-marco-casagrande/",
       "https://landezine.com/adaptation-of-the-ancient-roman-deposit-of-can-taco-by-toni-girones-saderra/",
       "https://landezine.com/elsa-eschelssons-park-by-karavan-landskapsarkitekter/",
       "https://landezine.com/carl-alexander-park-baesweiler-by-dtp/",
