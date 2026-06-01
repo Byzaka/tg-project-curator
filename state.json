@@ -203,7 +203,8 @@
       "https://leibal.com/interiors/house-with-reflective-furniture/",
       "https://leibal.com/interiors/stoke-newington-townhouse/",
       "https://leibal.com/interiors/apartment-45/",
-      "https://leibal.com/interiors/where-every-step-has-a-view/"
+      "https://leibal.com/interiors/where-every-step-has-a-view/",
+      "https://leibal.com/interiors/east-village-apartment/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -403,7 +404,8 @@
       "https://www.archdaily.com/1023590/bridge-house-klab-architecture",
       "https://www.archdaily.com/1039664/copper-house-fabrication-studio",
       "https://www.archdaily.com/1023297/bangalow-road-house-son-studio",
-      "https://www.archdaily.com/1039509/villa-modda-depaolidefranceschibaldan-architetti"
+      "https://www.archdaily.com/1039509/villa-modda-depaolidefranceschibaldan-architetti",
+      "https://www.archdaily.com/1023099/trianon-apartment-kuster-brizola-arquitetos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039719/point-lonsdale-house-field-office-architecture",
@@ -706,9 +708,10 @@
       "https://www.archdaily.com/1041925/knowlton-prairie-l-mccomber",
       "https://www.archdaily.com/1041688/aam-residence-ximenes-leite-arquitetura",
       "https://www.archdaily.com/1041999/eternity-house-apollo-architects-and-associates",
-      "https://www.archdaily.com/1042007/the-house-veiled-in-brick-lijenrchitects"
+      "https://www.archdaily.com/1042007/the-house-veiled-in-brick-lijenrchitects",
+      "https://www.archdaily.com/1042027/nanterre-housing-aqma"
     ],
-    "archive_page": 95
+    "archive_page": 96
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1031,7 +1034,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/26/circular-economy-smith-mordak-opinion/",
       "https://www.dezeen.com/2026/03/26/light-house-woonpioniers/",
       "https://www.dezeen.com/2026/03/26/lego-sagrada-familia-antoni-gaudi-largest-set/",
       "https://www.dezeen.com/2026/03/26/dezeen-jobs-announces-top-companies-2026/",
@@ -1320,7 +1322,11 @@
       "https://www.dezeen.com/2026/05/31/prostir-business-hub-aranchii-architects/",
       "https://www.dezeen.com/2026/05/31/top-houses-may-2026/",
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
-      "https://www.dezeen.com/2026/06/01/eight-architecture-design-events-june-dezeen-events-guide-2026/"
+      "https://www.dezeen.com/2026/06/01/eight-architecture-design-events-june-dezeen-events-guide-2026/",
+      "https://www.dezeen.com/2026/06/01/oma-hangzhou-prism/",
+      "https://www.dezeen.com/2026/06/01/sigla-studio-turo-park-apartment-barcelona-green-bathroom/",
+      "https://www.dezeen.com/2026/06/01/safdie-architects-crystal-bridges-museum-of-art-arkansas-expansion/",
+      "https://www.dezeen.com/2026/06/01/k-studio-and-arup-to-expand-grigoris-lamprakis-stadium-in-athens/"
     ],
     "archive_page": 2
   },
@@ -1482,14 +1488,15 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
-      "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/"
+      "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
     ],
     "archive_page": 2
   },
@@ -1687,10 +1694,10 @@
       "https://landezine.com/gronnegarden-herning-high-school-by-schonherr/",
       "https://landezine.com/tim-waterman-on-astronauts-lsd-and-landscape-architecture-lecture-qa/",
       "https://landezine.com/ultra-ruin-marco-casagrande/",
-      "https://landezine.com/adaptation-of-the-ancient-roman-deposit-of-can-taco-by-toni-girones-saderra/"
+      "https://landezine.com/adaptation-of-the-ancient-roman-deposit-of-can-taco-by-toni-girones-saderra/",
+      "https://landezine.com/elsa-eschelssons-park-by-karavan-landskapsarkitekter/"
     ],
     "queue_new": [
-      "https://landezine.com/elsa-eschelssons-park-by-karavan-landskapsarkitekter/",
       "https://landezine.com/carl-alexander-park-baesweiler-by-dtp/",
       "https://landezine.com/martin-luther-king-park-by-atelier-jacqueline-osty-associes/",
       "https://landezine.com/landscape-architecture-berlin-01/",
