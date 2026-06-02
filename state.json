@@ -204,7 +204,8 @@
       "https://leibal.com/interiors/stoke-newington-townhouse/",
       "https://leibal.com/interiors/apartment-45/",
       "https://leibal.com/interiors/where-every-step-has-a-view/",
-      "https://leibal.com/interiors/east-village-apartment/"
+      "https://leibal.com/interiors/east-village-apartment/",
+      "https://leibal.com/interiors/ounass-stage/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -406,7 +407,8 @@
       "https://www.archdaily.com/1023297/bangalow-road-house-son-studio",
       "https://www.archdaily.com/1039509/villa-modda-depaolidefranceschibaldan-architetti",
       "https://www.archdaily.com/1023099/trianon-apartment-kuster-brizola-arquitetos",
-      "https://www.archdaily.com/1039719/point-lonsdale-house-field-office-architecture"
+      "https://www.archdaily.com/1039719/point-lonsdale-house-field-office-architecture",
+      "https://www.archdaily.com/1023197/wohnhaus-sonnenfalter-kntxt-architektur"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039484/casa-mavra-tac-taller-alberto-calleja",
@@ -712,9 +714,11 @@
       "https://www.archdaily.com/1042027/nanterre-housing-aqma",
       "https://www.archdaily.com/1042004/the-brick-veil-house-vpa-architects",
       "https://www.archdaily.com/1019380/mini-south-villa-dispacement-architectural-design",
-      "https://www.archdaily.com/1041477/eclipse-house-etea-plus-ghostframe"
+      "https://www.archdaily.com/1041477/eclipse-house-etea-plus-ghostframe",
+      "https://www.archdaily.com/1041797/house-jr-gonzalo-bardach-arquitectura",
+      "https://www.archdaily.com/1042018/cano-house-diego-cano-lasso"
     ],
-    "archive_page": 96
+    "archive_page": 97
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -848,7 +852,8 @@
       "https://www.archdaily.com/1041740/marina-in-tychy",
       "https://www.archdaily.com/1040706/mabelle-park-lga-architectural-partners",
       "https://www.archdaily.com/1041669/dongguan-mixc-village-ip-installation-pills",
-      "https://www.archdaily.com/1041803/black-thought-pavilion-meds-meetings-of-design-students-plus-cisem-nur-yldirim-plus-alberto-collet"
+      "https://www.archdaily.com/1041803/black-thought-pavilion-meds-meetings-of-design-students-plus-cisem-nur-yldirim-plus-alberto-collet",
+      "https://www.archdaily.com/1041734/trnava-school-campus-reconstruction-sercel-svec"
     ],
     "queue_new": [],
     "archive_page": 75
@@ -1037,7 +1042,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/26/lego-sagrada-familia-antoni-gaudi-largest-set/",
       "https://www.dezeen.com/2026/03/26/dezeen-jobs-announces-top-companies-2026/",
       "https://www.dezeen.com/2026/03/26/visual-arts-building-quito-school-studio-blur/",
       "https://www.dezeen.com/2026/03/26/vectorworks-morpholio/",
@@ -1328,7 +1332,11 @@
       "https://www.dezeen.com/2026/06/01/oma-hangzhou-prism/",
       "https://www.dezeen.com/2026/06/01/sigla-studio-turo-park-apartment-barcelona-green-bathroom/",
       "https://www.dezeen.com/2026/06/01/safdie-architects-crystal-bridges-museum-of-art-arkansas-expansion/",
-      "https://www.dezeen.com/2026/06/01/k-studio-and-arup-to-expand-grigoris-lamprakis-stadium-in-athens/"
+      "https://www.dezeen.com/2026/06/01/k-studio-and-arup-to-expand-grigoris-lamprakis-stadium-in-athens/",
+      "https://www.dezeen.com/2026/06/02/japanese-houses-ka-me-ra-book/",
+      "https://www.dezeen.com/2026/06/02/freedmens-town-theaster-gates-studio-zewde-pavilion-houston/",
+      "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/",
+      "https://www.dezeen.com/2026/06/02/swoop-adu-out-of-line-new-jersey/"
     ],
     "archive_page": 2
   },
@@ -1490,7 +1498,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
@@ -1498,7 +1505,9 @@
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
-      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/"
+      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
+      "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
+      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/"
     ],
     "archive_page": 2
   },
@@ -1698,10 +1707,10 @@
       "https://landezine.com/ultra-ruin-marco-casagrande/",
       "https://landezine.com/adaptation-of-the-ancient-roman-deposit-of-can-taco-by-toni-girones-saderra/",
       "https://landezine.com/elsa-eschelssons-park-by-karavan-landskapsarkitekter/",
-      "https://landezine.com/carl-alexander-park-baesweiler-by-dtp/"
+      "https://landezine.com/carl-alexander-park-baesweiler-by-dtp/",
+      "https://landezine.com/martin-luther-king-park-by-atelier-jacqueline-osty-associes/"
     ],
     "queue_new": [
-      "https://landezine.com/martin-luther-king-park-by-atelier-jacqueline-osty-associes/",
       "https://landezine.com/landscape-architecture-berlin-01/",
       "https://landezine.com/denise-hoffman-brandt-on-trees-and-beasts-or-how-ideas-of-nature-shape-our-spaces/",
       "https://landezine.com/the-third-train-by-gilles-brusset-paysarchitectures/",
@@ -2101,7 +2110,7 @@
       "https://landezine.com/the-linear-forest-by-arpentere/",
       "https://landezine.com/scenic-path-along-igualadas-old-gypsum-mines-by-batlleiroig/"
     ],
-    "archive_page": 33
+    "archive_page": 38
   },
   "monstrum_projects": {
     "sent_urls": [
