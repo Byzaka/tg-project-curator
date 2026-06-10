@@ -215,11 +215,10 @@
       "https://leibal.com/interiors/rongqiao-residence/",
       "https://leibal.com/interiors/180399/",
       "https://leibal.com/interiors/single-story-villa/",
-      "https://leibal.com/interiors/k-apartment-2/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/k-apartment-2/",
       "https://leibal.com/interiors/dan-bakstudio/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -434,10 +433,10 @@
       "https://www.archdaily.com/1039717/riverhouse-workac",
       "https://www.archdaily.com/1021924/villa-ruwiel-studio-vincent-architecture",
       "https://www.archdaily.com/1039729/corner-apartment-prokop-hartl",
-      "https://www.archdaily.com/1022004/one-domino-square-selldorf-architects-plus-dencityworks-architecture"
+      "https://www.archdaily.com/1022004/one-domino-square-selldorf-architects-plus-dencityworks-architecture",
+      "https://www.archdaily.com/1039438/convento-do-beato-residential-complex-risco"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039438/convento-do-beato-residential-complex-risco",
       "https://www.archdaily.com/1039757/wooden-blocks-yh2-architecture",
       "https://www.archdaily.com/1033641/lake-views-ja-joubert-architecture",
       "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal",
@@ -760,7 +759,9 @@
       "https://www.archdaily.com/1041948/710-house-bloco-arquitetos",
       "https://www.archdaily.com/1042246/ara-manor-reincarnation",
       "https://www.archdaily.com/1042210/cp-rancho-weber-arquitectos",
-      "https://www.archdaily.com/1042278/cherry-orchard-shared-living-spaces-actual-office"
+      "https://www.archdaily.com/1042278/cherry-orchard-shared-living-spaces-actual-office",
+      "https://www.archdaily.com/1041950/abadim-house-paulo-moreira-architectures",
+      "https://www.archdaily.com/1041889/casa-tlaloc-lopez-gonzalez-studio"
     ],
     "archive_page": 104
   },
@@ -1088,7 +1089,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/30/compartment-s4-cow-shed-india/",
       "https://www.dezeen.com/2026/03/30/amangiri-utah-six-bedroom-villa-masastudio/",
       "https://www.dezeen.com/2026/03/30/tampa-bay-rays-florida-stadium-roof/",
       "https://www.dezeen.com/2026/03/31/woonpioniers-dune-house-goeree-overflakkee-ouddorp/",
@@ -1400,7 +1400,8 @@
       "https://www.dezeen.com/2026/06/09/populous-king-fahd-stadium-riyadh/",
       "https://www.dezeen.com/2026/06/09/the-sagrada-familia-antoni-gaudi/",
       "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/",
-      "https://www.dezeen.com/2026/06/09/coventry-central-baths-demolition-twentieth-century-society/"
+      "https://www.dezeen.com/2026/06/09/coventry-central-baths-demolition-twentieth-century-society/",
+      "https://www.dezeen.com/2026/06/09/pau-penn-station-redesign-political-realities/"
     ],
     "archive_page": 2
   },
@@ -1562,7 +1563,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
@@ -1578,7 +1578,8 @@
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
-      "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/"
+      "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
+      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/"
     ],
     "archive_page": 2
   },
@@ -1793,10 +1794,10 @@
       "https://landezine.com/buga-05-playground/",
       "https://landezine.com/lila-honour-award-2022-gilles-clement/",
       "https://landezine.com/alvpromenaden-by-tengbom/",
-      "https://landezine.com/gleispark-frintrop-by-dtp/"
+      "https://landezine.com/gleispark-frintrop-by-dtp/",
+      "https://landezine.com/vedahaugane-by-ljb/"
     ],
     "queue_new": [
-      "https://landezine.com/vedahaugane-by-ljb/",
       "https://landezine.com/24-27-march-urban-future-conference-in-ljubljana-si/",
       "https://landezine.com/buga-heilbronn-2019-sinai/",
       "https://landezine.com/the-cute-the-bad-and-the-ugly-on-urban-biodiversity-and-ecological-aesthetics/",
@@ -2189,7 +2190,8 @@
       "https://landezine.com/qunli-national-urban-wetland-by-turenscape/",
       "https://landezine.com/park-am-gleisdreieck-iii-flaschenhals-by-atelier-loidl/",
       "https://landezine.com/public-park-of-de-panne-by-omgeving/",
-      "https://landezine.com/new-old-market-square-nottingham-gustafson-porter/"
+      "https://landezine.com/new-old-market-square-nottingham-gustafson-porter/",
+      "https://landezine.com/little-island-by-mnla/"
     ],
     "archive_page": 53
   },
