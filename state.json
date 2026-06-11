@@ -219,9 +219,12 @@
       "https://leibal.com/interiors/k-apartment-2/",
       "https://leibal.com/interiors/dan-bakstudio/",
       "https://leibal.com/interiors/katonah-house/",
-      "https://leibal.com/interiors/cedar-barn/"
+      "https://leibal.com/interiors/cedar-barn/",
+      "https://leibal.com/interiors/japanese-style-apartment/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/home-for-an-art-director/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -439,7 +442,8 @@
       "https://www.archdaily.com/1022004/one-domino-square-selldorf-architects-plus-dencityworks-architecture",
       "https://www.archdaily.com/1039438/convento-do-beato-residential-complex-risco",
       "https://www.archdaily.com/1021897/m-residence-takatina",
-      "https://www.archdaily.com/1039757/wooden-blocks-yh2-architecture"
+      "https://www.archdaily.com/1039757/wooden-blocks-yh2-architecture",
+      "https://www.archdaily.com/1021612/housing-complex-in-leiria-bureau-des-mesarchitectures"
     ],
     "queue_new": [
       "https://www.archdaily.com/1033641/lake-views-ja-joubert-architecture",
@@ -773,7 +777,7 @@
       "https://www.archdaily.com/1042297/mount-martha-house-victoria-merrett-architects",
       "https://www.archdaily.com/1042183/the-porch-house-vasco-burnay-arquitectura"
     ],
-    "archive_page": 105
+    "archive_page": 106
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1100,7 +1104,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/31/woonpioniers-dune-house-goeree-overflakkee-ouddorp/",
       "https://www.dezeen.com/2026/03/30/white-house-ballroom-shed-military-bunker-trump-dc/",
       "https://www.dezeen.com/2026/03/31/playrise-easy-build-playground-refugee-camps-design/",
       "https://www.dezeen.com/2026/03/31/va-east-museum-odonnell-tuomey-london-uk/",
@@ -1414,7 +1417,10 @@
       "https://www.dezeen.com/2026/06/10/marta-nowicka-dom-studio/",
       "https://www.dezeen.com/2026/06/10/herzog-de-meuron-palace-congresses-tirana/",
       "https://www.dezeen.com/2026/06/10/sagrada-familia-architect-maurici-cortes-interview-gaudi-centenary/",
-      "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/"
+      "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/",
+      "https://www.dezeen.com/2026/06/11/world-cup-stadiums-usa-canada-mexico-2026/",
+      "https://www.dezeen.com/2026/06/11/casa-batllo-antoni-gaudi-centenary/",
+      "https://www.dezeen.com/2026/06/11/herzog-de-meuron-titlis-tower/"
     ],
     "archive_page": 2
   },
@@ -1576,7 +1582,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
@@ -1593,7 +1598,9 @@
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
       "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
-      "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/"
+      "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
+      "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
+      "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/"
     ],
     "archive_page": 2
   },
@@ -1811,10 +1818,10 @@
       "https://landezine.com/gleispark-frintrop-by-dtp/",
       "https://landezine.com/vedahaugane-by-ljb/",
       "https://landezine.com/24-27-march-urban-future-conference-in-ljubljana-si/",
-      "https://landezine.com/buga-heilbronn-2019-sinai/"
+      "https://landezine.com/buga-heilbronn-2019-sinai/",
+      "https://landezine.com/the-cute-the-bad-and-the-ugly-on-urban-biodiversity-and-ecological-aesthetics/"
     ],
     "queue_new": [
-      "https://landezine.com/the-cute-the-bad-and-the-ugly-on-urban-biodiversity-and-ecological-aesthetics/",
       "https://landezine.com/how-to-grow-a-shoreline-by-practice-landscape/",
       "https://landezine.com/little-c-by-juurlink-geluk-culd-rotterdam/",
       "https://landezine.com/guangzhou-wanggang-park-by-s-p-i-design/",
@@ -2210,7 +2217,7 @@
       "https://landezine.com/4-6-june-world-inequality-conference-launches-the-global-justice-report/",
       "https://landezine.com/oerliker-park-zurich-by-studio-vulkan/"
     ],
-    "archive_page": 58
+    "archive_page": 63
   },
   "monstrum_projects": {
     "sent_urls": [
