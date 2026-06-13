@@ -445,10 +445,10 @@
       "https://www.archdaily.com/1039757/wooden-blocks-yh2-architecture",
       "https://www.archdaily.com/1021612/housing-complex-in-leiria-bureau-des-mesarchitectures",
       "https://www.archdaily.com/1033641/lake-views-ja-joubert-architecture",
-      "https://www.archdaily.com/1021460/da-nang-villa-ad9-architects"
+      "https://www.archdaily.com/1021460/da-nang-villa-ad9-architects",
+      "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal",
       "https://www.archdaily.com/1039855/concrete-curtain-house-fgr-architects",
       "https://www.archdaily.com/1039538/chr-tomters-veg-house-rever-and-drage-architects",
       "https://www.archdaily.com/1039751/de-hartenrust-residential-building-van-bergen-kolpa-architects",
@@ -778,7 +778,8 @@
       "https://www.archdaily.com/1042297/mount-martha-house-victoria-merrett-architects",
       "https://www.archdaily.com/1042183/the-porch-house-vasco-burnay-arquitectura",
       "https://www.archdaily.com/1042080/vao-house-studio-carlito-e-renata-pascucci",
-      "https://www.archdaily.com/1042296/rock-pavilion-pfeffer-torode-architecture"
+      "https://www.archdaily.com/1042296/rock-pavilion-pfeffer-torode-architecture",
+      "https://www.archdaily.com/1042390/avocado-tree-house-dayala-e-rafael-arquitetos-associados"
     ],
     "archive_page": 107
   },
@@ -920,11 +921,10 @@
       "https://www.archdaily.com/1042198/yanqian-trail-vcd-lab",
       "https://www.archdaily.com/1042269/bent-by-spring-hcch-studio",
       "https://www.archdaily.com/1042338/the-earth-valley-theater-goa-group-of-architects",
-      "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango"
-    ],
-    "queue_new": [
+      "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
       "https://www.archdaily.com/1042365/cabane-7l-and-librairie-7l-salazarsequeromedina"
     ],
+    "queue_new": [],
     "archive_page": 76
   },
   "dezeen_arch": {
@@ -1111,7 +1111,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/31/va-east-museum-odonnell-tuomey-london-uk/",
       "https://www.dezeen.com/2026/03/31/zaha-hadid-anniversary-ingrid-schroder-opinion/",
       "https://www.dezeen.com/2026/03/31/trump-video-skyscraper-presidential-library/",
       "https://www.dezeen.com/2026/03/31/zaha-hadid-archive-aric-chen/",
@@ -1591,7 +1590,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
@@ -1609,7 +1607,9 @@
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
-      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
+      "https://www.dezeen.com/2026/06/13/charlap-hyman-herrero-futuristic-la-office/",
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
     ],
     "archive_page": 2
   },
@@ -1830,10 +1830,10 @@
       "https://landezine.com/buga-heilbronn-2019-sinai/",
       "https://landezine.com/the-cute-the-bad-and-the-ugly-on-urban-biodiversity-and-ecological-aesthetics/",
       "https://landezine.com/how-to-grow-a-shoreline-by-practice-landscape/",
-      "https://landezine.com/little-c-by-juurlink-geluk-culd-rotterdam/"
+      "https://landezine.com/little-c-by-juurlink-geluk-culd-rotterdam/",
+      "https://landezine.com/guangzhou-wanggang-park-by-s-p-i-design/"
     ],
     "queue_new": [
-      "https://landezine.com/guangzhou-wanggang-park-by-s-p-i-design/",
       "https://landezine.com/using-artificial-intelligence-in-your-design-process/",
       "https://landezine.com/diana-princess-of-wales-memorial-fountain-by-gustafson-porter-landscape-architecture/",
       "https://landezine.com/catharijnesingel-by-okra/",
