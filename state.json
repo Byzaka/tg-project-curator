@@ -446,7 +446,8 @@
       "https://www.archdaily.com/1021612/housing-complex-in-leiria-bureau-des-mesarchitectures",
       "https://www.archdaily.com/1033641/lake-views-ja-joubert-architecture",
       "https://www.archdaily.com/1021460/da-nang-villa-ad9-architects",
-      "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal"
+      "https://www.archdaily.com/1039691/casa-la-ladera-estudio-diagonal",
+      "https://www.archdaily.com/1021262/trekrona-treehouse-arkitekt-manuela-hardy-as"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039855/concrete-curtain-house-fgr-architects",
@@ -779,9 +780,11 @@
       "https://www.archdaily.com/1042183/the-porch-house-vasco-burnay-arquitectura",
       "https://www.archdaily.com/1042080/vao-house-studio-carlito-e-renata-pascucci",
       "https://www.archdaily.com/1042296/rock-pavilion-pfeffer-torode-architecture",
-      "https://www.archdaily.com/1042390/avocado-tree-house-dayala-e-rafael-arquitetos-associados"
+      "https://www.archdaily.com/1042390/avocado-tree-house-dayala-e-rafael-arquitetos-associados",
+      "https://www.archdaily.com/1038784/candy-loft-susa",
+      "https://www.archdaily.com/1042263/villa-e-vasquez-and-lopez-arquitectos"
     ],
-    "archive_page": 107
+    "archive_page": 108
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1111,7 +1114,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/03/31/zaha-hadid-anniversary-ingrid-schroder-opinion/",
       "https://www.dezeen.com/2026/03/31/trump-video-skyscraper-presidential-library/",
       "https://www.dezeen.com/2026/03/31/zaha-hadid-archive-aric-chen/",
       "https://www.dezeen.com/2026/03/31/texas-tiny-houses-inside-tiny-house-nation/",
@@ -1428,7 +1430,10 @@
       "https://www.dezeen.com/2026/06/11/antoni-gaudi-centenary-100-years-dezeen-agenda/",
       "https://www.dezeen.com/2026/06/12/building-stories-book-diebedo-francis-kere-interview/",
       "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/",
-      "https://www.dezeen.com/2026/06/12/populous-kansas-city-fifa-fan-festival/"
+      "https://www.dezeen.com/2026/06/12/populous-kansas-city-fifa-fan-festival/",
+      "https://www.dezeen.com/2026/06/13/built-works-yogis-cabin/",
+      "https://www.dezeen.com/2026/06/13/antoni-gaudi-centenary-100-years-this-week/",
+      "https://www.dezeen.com/2026/06/13/contemporary-british-houses-roundup/"
     ],
     "archive_page": 2
   },
@@ -1590,7 +1595,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
@@ -1609,7 +1613,8 @@
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/06/13/charlap-hyman-herrero-futuristic-la-office/",
-      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
+      "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/"
     ],
     "archive_page": 2
   },
@@ -1831,10 +1836,10 @@
       "https://landezine.com/the-cute-the-bad-and-the-ugly-on-urban-biodiversity-and-ecological-aesthetics/",
       "https://landezine.com/how-to-grow-a-shoreline-by-practice-landscape/",
       "https://landezine.com/little-c-by-juurlink-geluk-culd-rotterdam/",
-      "https://landezine.com/guangzhou-wanggang-park-by-s-p-i-design/"
+      "https://landezine.com/guangzhou-wanggang-park-by-s-p-i-design/",
+      "https://landezine.com/using-artificial-intelligence-in-your-design-process/"
     ],
     "queue_new": [
-      "https://landezine.com/using-artificial-intelligence-in-your-design-process/",
       "https://landezine.com/diana-princess-of-wales-memorial-fountain-by-gustafson-porter-landscape-architecture/",
       "https://landezine.com/catharijnesingel-by-okra/",
       "https://landezine.com/straub-thurmayr-horizon-of-understanding/",
@@ -2226,7 +2231,7 @@
       "https://landezine.com/4-6-june-world-inequality-conference-launches-the-global-justice-report/",
       "https://landezine.com/oerliker-park-zurich-by-studio-vulkan/"
     ],
-    "archive_page": 63
+    "archive_page": 68
   },
   "monstrum_projects": {
     "sent_urls": [
