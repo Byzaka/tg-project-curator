@@ -227,11 +227,10 @@
       "https://leibal.com/interiors/golden-reverie/",
       "https://leibal.com/interiors/ibiza-residence/",
       "https://leibal.com/interiors/casa-magma/",
-      "https://leibal.com/interiors/hampstead-home-and-rooftop-terrace/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/hampstead-home-and-rooftop-terrace/",
       "https://leibal.com/interiors/parisian-portrait/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -460,10 +459,10 @@
       "https://www.archdaily.com/1039538/chr-tomters-veg-house-rever-and-drage-architects",
       "https://www.archdaily.com/1039751/de-hartenrust-residential-building-van-bergen-kolpa-architects",
       "https://www.archdaily.com/1039761/gm-house-frederico-bicalho-arquitetura",
-      "https://www.archdaily.com/1020974/bunkie-on-the-hill-dubbeldam-architecture-plus-design"
+      "https://www.archdaily.com/1020974/bunkie-on-the-hill-dubbeldam-architecture-plus-design",
+      "https://www.archdaily.com/1039857/vespa-house-habitat-studio-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039857/vespa-house-habitat-studio-architects",
       "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects",
       "https://www.archdaily.com/1039752/staggered-cabin-mork-ulnes-architects",
       "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects",
@@ -805,7 +804,9 @@
       "https://www.archdaily.com/1042419/b-neshat-villa-chenin-studio",
       "https://www.archdaily.com/1042465/breathe-lodge-residence-jerome-lapierre-architecte",
       "https://www.archdaily.com/1042467/house-of-panes-matthew-giles-architects",
-      "https://www.archdaily.com/1042328/lego-house-fernanda-marques-arquitetos-associados"
+      "https://www.archdaily.com/1042328/lego-house-fernanda-marques-arquitetos-associados",
+      "https://www.archdaily.com/1042423/bahar-residential-building-dim-architecture-studio",
+      "https://www.archdaily.com/1041687/house-in-quinta-do-peru-gss-arquitectos"
     ],
     "archive_page": 110
   },
@@ -949,7 +950,8 @@
       "https://www.archdaily.com/1042338/the-earth-valley-theater-goa-group-of-architects",
       "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
       "https://www.archdaily.com/1042365/cabane-7l-and-librairie-7l-salazarsequeromedina",
-      "https://www.archdaily.com/1042317/mount-bazaar-peoples-architecture-office"
+      "https://www.archdaily.com/1042317/mount-bazaar-peoples-architecture-office",
+      "https://www.archdaily.com/1042404/clustered-rocks-court-and-floating-leaf-pavilion-atelier-z-plus"
     ],
     "queue_new": [],
     "archive_page": 76
@@ -1138,7 +1140,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/01/five-architecture-design-events-april-dezeen-events-guide-2026/",
       "https://www.dezeen.com/2026/04/01/thatch-holiday-home-latvia-oad-bprom/",
       "https://www.dezeen.com/2026/04/01/shakira-stadium-pop-up-madrid-big/",
       "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/",
@@ -1465,7 +1466,8 @@
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/06/16/troya-pavilion-dum-dum-lab-chile/",
       "https://www.dezeen.com/2026/06/16/colonia-guell-hanging-models-gaudi-centenary/",
-      "https://www.dezeen.com/2026/06/16/lorcan-oherlihy-obituary/"
+      "https://www.dezeen.com/2026/06/16/lorcan-oherlihy-obituary/",
+      "https://www.dezeen.com/2026/06/17/kings-birthday-honours-2026/"
     ],
     "archive_page": 2
   },
@@ -1627,7 +1629,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
@@ -1650,7 +1651,8 @@
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
       "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
-      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/"
+      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
+      "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/"
     ],
     "archive_page": 2
   },
@@ -1879,10 +1881,10 @@
       "https://landezine.com/straub-thurmayr-horizon-of-understanding/",
       "https://landezine.com/bondi-to-bronte-coastal-walk-extension-by-aspect-studios/",
       "https://landezine.com/temporary-use-of-the-palace-precincts-by-relais/",
-      "https://landezine.com/mosse-square-and-the-banks-of-the-loire-in-nevers-by-tn-landscape-architects/"
+      "https://landezine.com/mosse-square-and-the-banks-of-the-loire-in-nevers-by-tn-landscape-architects/",
+      "https://landezine.com/historic-hofgarten-cappelaue-landscape-park-by-rmp-stephan-lenzen-landschaftsarchitekten/"
     ],
     "queue_new": [
-      "https://landezine.com/historic-hofgarten-cappelaue-landscape-park-by-rmp-stephan-lenzen-landschaftsarchitekten/",
       "https://landezine.com/estates-tempel-and-nieuw-rhodenrijs-rotterdam-by-bureau-bb/",
       "https://landezine.com/dune-roof-by-buro-harro/",
       "https://landezine.com/statens-museum-for-kunst-by-karres-en-brands-and-werk/",
@@ -2267,7 +2269,8 @@
       "https://landezine.com/4-6-june-world-inequality-conference-launches-the-global-justice-report/",
       "https://landezine.com/oerliker-park-zurich-by-studio-vulkan/",
       "https://landezine.com/test-plot-by-terremoto/",
-      "https://landezine.com/lila-2026-shortlist-announced/"
+      "https://landezine.com/lila-2026-shortlist-announced/",
+      "https://landezine.com/sao-jorge-castle/"
     ],
     "archive_page": 78
   },
