@@ -229,11 +229,10 @@
       "https://leibal.com/interiors/casa-magma/",
       "https://leibal.com/interiors/hampstead-home-and-rooftop-terrace/",
       "https://leibal.com/interiors/parisian-portrait/",
-      "https://leibal.com/interiors/wade-house/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/wade-house/",
       "https://leibal.com/interiors/crouch-end-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -464,10 +463,10 @@
       "https://www.archdaily.com/1039761/gm-house-frederico-bicalho-arquitetura",
       "https://www.archdaily.com/1020974/bunkie-on-the-hill-dubbeldam-architecture-plus-design",
       "https://www.archdaily.com/1039857/vespa-house-habitat-studio-architects",
-      "https://www.archdaily.com/1020885/small-houses-bloom-architecture"
+      "https://www.archdaily.com/1020885/small-houses-bloom-architecture",
+      "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects",
       "https://www.archdaily.com/1039752/staggered-cabin-mork-ulnes-architects",
       "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects",
       "https://www.archdaily.com/1039748/lane-cove-house-lachlan-seegers-architect",
@@ -813,7 +812,9 @@
       "https://www.archdaily.com/1041687/house-in-quinta-do-peru-gss-arquitectos",
       "https://www.archdaily.com/1042493/house-2302-nordest-arquitectura",
       "https://www.archdaily.com/1042439/riverton-house-alexandra-buchanan-architecture",
-      "https://www.archdaily.com/1042454/villa-cora-bamboo-house-in-tulum-terraurea-studio"
+      "https://www.archdaily.com/1042454/villa-cora-bamboo-house-in-tulum-terraurea-studio",
+      "https://www.archdaily.com/1042535/double-courtyard-house-roberts-gray-architects",
+      "https://www.archdaily.com/1042498/melides-house-sabrab"
     ],
     "archive_page": 111
   },
@@ -958,7 +959,8 @@
       "https://www.archdaily.com/1042335/four-walls-pavilion-studio-mango",
       "https://www.archdaily.com/1042365/cabane-7l-and-librairie-7l-salazarsequeromedina",
       "https://www.archdaily.com/1042317/mount-bazaar-peoples-architecture-office",
-      "https://www.archdaily.com/1042404/clustered-rocks-court-and-floating-leaf-pavilion-atelier-z-plus"
+      "https://www.archdaily.com/1042404/clustered-rocks-court-and-floating-leaf-pavilion-atelier-z-plus",
+      "https://www.archdaily.com/1042413/china-resources-wuhan-optics-valley-runjing-park-commercial-renewal-dachuan-design-plus-wtd-weitu-design"
     ],
     "queue_new": [],
     "archive_page": 76
@@ -1147,7 +1149,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/01/shakira-stadium-pop-up-madrid-big/",
       "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/",
       "https://www.dezeen.com/2026/04/01/fallingwater-frank-lloyd-wright-architectural-preservation-studio/",
       "https://www.dezeen.com/2026/04/02/reinier-de-graaf-architecture-against-architecture-book-interview/",
@@ -1475,7 +1476,8 @@
       "https://www.dezeen.com/2026/06/16/lorcan-oherlihy-obituary/",
       "https://www.dezeen.com/2026/06/17/kings-birthday-honours-2026/",
       "https://www.dezeen.com/2026/06/17/anthill-house-kaushal-tatiya-architects/",
-      "https://www.dezeen.com/2026/06/17/gaudi-centenary-impact/"
+      "https://www.dezeen.com/2026/06/17/gaudi-centenary-impact/",
+      "https://www.dezeen.com/2026/06/17/springsteen-center-american-music-cookfox-new-jersey/"
     ],
     "archive_page": 2
   },
@@ -1637,7 +1639,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
       "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
@@ -1660,7 +1661,9 @@
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/"
+      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+      "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
+      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/"
     ],
     "archive_page": 2
   },
@@ -1891,10 +1894,10 @@
       "https://landezine.com/temporary-use-of-the-palace-precincts-by-relais/",
       "https://landezine.com/mosse-square-and-the-banks-of-the-loire-in-nevers-by-tn-landscape-architects/",
       "https://landezine.com/historic-hofgarten-cappelaue-landscape-park-by-rmp-stephan-lenzen-landschaftsarchitekten/",
-      "https://landezine.com/estates-tempel-and-nieuw-rhodenrijs-rotterdam-by-bureau-bb/"
+      "https://landezine.com/estates-tempel-and-nieuw-rhodenrijs-rotterdam-by-bureau-bb/",
+      "https://landezine.com/dune-roof-by-buro-harro/"
     ],
     "queue_new": [
-      "https://landezine.com/dune-roof-by-buro-harro/",
       "https://landezine.com/statens-museum-for-kunst-by-karres-en-brands-and-werk/",
       "https://landezine.com/salinas-swimming-pools-by-global-arquitectura-paisagista/",
       "https://landezine.com/lakeside-garden-by-henning-larsen/",
@@ -2278,7 +2281,8 @@
       "https://landezine.com/oerliker-park-zurich-by-studio-vulkan/",
       "https://landezine.com/test-plot-by-terremoto/",
       "https://landezine.com/lila-2026-shortlist-announced/",
-      "https://landezine.com/sao-jorge-castle/"
+      "https://landezine.com/sao-jorge-castle/",
+      "https://landezine.com/31-july-ifla-europe-conference-2026-abstract-submission/"
     ],
     "archive_page": 83
   },
