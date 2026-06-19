@@ -233,9 +233,12 @@
       "https://leibal.com/interiors/wade-house/",
       "https://leibal.com/interiors/crouch-end-house/",
       "https://leibal.com/interiors/pawalee-house/",
-      "https://leibal.com/interiors/studio-guest-house/"
+      "https://leibal.com/interiors/studio-guest-house/",
+      "https://leibal.com/interiors/fernand/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/w-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -469,7 +472,8 @@
       "https://www.archdaily.com/1020885/small-houses-bloom-architecture",
       "https://www.archdaily.com/1039845/anglesea-house-eckersley-architects",
       "https://www.archdaily.com/1020846/roofed-square-and-a-circle-single-family-house-curious-about",
-      "https://www.archdaily.com/1039752/staggered-cabin-mork-ulnes-architects"
+      "https://www.archdaily.com/1039752/staggered-cabin-mork-ulnes-architects",
+      "https://www.archdaily.com/1020623/the-new-amedee-saint-germain-district-lan"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039882/home-pavilion-mrtn-architects",
@@ -824,7 +828,7 @@
       "https://www.archdaily.com/1042405/steel-house-alto-arquitectura",
       "https://www.archdaily.com/1042407/casa-144o-jaime-prous-architects"
     ],
-    "archive_page": 112
+    "archive_page": 113
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1158,7 +1162,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/02/reinier-de-graaf-architecture-against-architecture-book-interview/",
       "https://www.dezeen.com/2026/04/02/braga-football-stadium-eduardo-souto-de-moura-video-profile/",
       "https://www.dezeen.com/2026/04/02/via-zaha-hadid-milan-street/",
       "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/",
@@ -1492,7 +1495,11 @@
       "https://www.dezeen.com/2026/06/18/london-museum-stanton-williams-asif-khan-revealed/",
       "https://www.dezeen.com/2026/06/18/out-there-architecture-us-buildings-fly-over-book/",
       "https://www.dezeen.com/2026/06/18/set-arquitectura-argentina-white-modular-house/",
-      "https://www.dezeen.com/2026/06/18/zha-zaha-hadid-architects-rebrand-patrik-schumacher-dezeen-agenda/"
+      "https://www.dezeen.com/2026/06/18/zha-zaha-hadid-architects-rebrand-patrik-schumacher-dezeen-agenda/",
+      "https://www.dezeen.com/2026/06/19/antoni-gaudi-iconic-buildings/",
+      "https://www.dezeen.com/2026/06/19/james-turrell-as-seen-below-skyspace-aarhus-aros-museum/",
+      "https://www.dezeen.com/2026/06/19/herzog-de-meuron-titlis-tower-comments/",
+      "https://www.dezeen.com/2026/06/19/alula-manara-space-observatory-heatherwick-studio-saudi-arabia/"
     ],
     "archive_page": 2
   },
@@ -1654,7 +1661,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
@@ -1678,7 +1684,8 @@
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
-      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/"
+      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
+      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/"
     ],
     "archive_page": 2
   },
@@ -1912,10 +1919,10 @@
       "https://landezine.com/estates-tempel-and-nieuw-rhodenrijs-rotterdam-by-bureau-bb/",
       "https://landezine.com/dune-roof-by-buro-harro/",
       "https://landezine.com/statens-museum-for-kunst-by-karres-en-brands-and-werk/",
-      "https://landezine.com/salinas-swimming-pools-by-global-arquitectura-paisagista/"
+      "https://landezine.com/salinas-swimming-pools-by-global-arquitectura-paisagista/",
+      "https://landezine.com/lakeside-garden-by-henning-larsen/"
     ],
     "queue_new": [
-      "https://landezine.com/lakeside-garden-by-henning-larsen/",
       "https://landezine.com/town-center-of-heeren-werve-by-kraft-raum/",
       "https://landezine.com/folly-forest-by-straub-thurmayr/",
       "https://landezine.com/uliveto-by-surfacedesign/",
@@ -2299,7 +2306,7 @@
       "https://landezine.com/sao-jorge-castle/",
       "https://landezine.com/31-july-ifla-europe-conference-2026-abstract-submission/"
     ],
-    "archive_page": 88
+    "archive_page": 93
   },
   "monstrum_projects": {
     "sent_urls": [
