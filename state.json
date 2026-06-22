@@ -58,7 +58,8 @@
       "https://leibal.com/interiors/single-story-villa/",
       "https://leibal.com/interiors/katonah-house/",
       "https://leibal.com/interiors/ibiza-residence/",
-      "https://leibal.com/interiors/studio-guest-house/"
+      "https://leibal.com/interiors/studio-guest-house/",
+      "https://leibal.com/interiors/mount-barker-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -236,9 +237,12 @@
       "https://leibal.com/interiors/studio-guest-house/",
       "https://leibal.com/interiors/fernand/",
       "https://leibal.com/interiors/w-house/",
-      "https://leibal.com/interiors/smart-park-residence/"
+      "https://leibal.com/interiors/smart-park-residence/",
+      "https://leibal.com/a-day-in/scope-thonglor/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/mount-barker-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -478,7 +482,8 @@
       "https://www.archdaily.com/1020429/soffit-house-ayutt-and-associates-design",
       "https://www.archdaily.com/1039748/lane-cove-house-lachlan-seegers-architect",
       "https://www.archdaily.com/1020138/anchor-house-mm-plus-plus-architects",
-      "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch"
+      "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch",
+      "https://www.archdaily.com/983512/house-on-a-hill-amunt"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039869/overlap-no-ma-house-igarchitects",
@@ -836,9 +841,11 @@
       "https://www.archdaily.com/1042571/saddleback-mountain-house-casey-brown-architecture",
       "https://www.archdaily.com/1042600/anthill-house-kaushal-tatiya-architects",
       "https://www.archdaily.com/1042599/nakano-house-kuma-and-elsa",
-      "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio"
+      "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
+      "https://www.archdaily.com/1042653/casa-29-estudio29",
+      "https://www.archdaily.com/1042624/casa-blajot-exitprojectes-estudi-darquitectura"
     ],
-    "archive_page": 115
+    "archive_page": 116
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1173,7 +1180,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/02/va-east-museum-odonnell-tuomey-london-uk-dezeen-agenda/",
       "https://www.dezeen.com/2026/04/03/vancouver-supertall-coral-reef-skyscraper-comments/",
       "https://www.dezeen.com/2026/04/03/esteras-perrote-atelier-cambre/",
       "https://www.dezeen.com/2026/04/04/replus-bureau-villa-quince/",
@@ -1509,7 +1515,12 @@
       "https://www.dezeen.com/2026/06/19/big-stem-university-bentonville-arkansas-renderings/",
       "https://www.dezeen.com/2026/06/20/herzog-de-meuron-office-headquarters-basel/",
       "https://www.dezeen.com/2026/06/20/viewpoints-roundup/",
-      "https://www.dezeen.com/2026/06/21/corner-shop-kister-architects-melbourne-renovation-courtyard-entrance/"
+      "https://www.dezeen.com/2026/06/21/corner-shop-kister-architects-melbourne-renovation-courtyard-entrance/",
+      "https://www.dezeen.com/2026/06/22/unknown-architects-house-on-a-dune-timber-cabin-netherlands/",
+      "https://www.dezeen.com/2026/06/22/la-caverne-du-pont-neuf-interior-jr-paris/",
+      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
+      "https://www.dezeen.com/2026/06/22/no-1616-fence-rana-begum-webb-yates-london-festival-of-architecture/",
+      "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/"
     ],
     "archive_page": 2
   },
@@ -1671,7 +1682,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/13/charlap-hyman-herrero-futuristic-la-office/",
       "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
@@ -1700,7 +1710,9 @@
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
-      "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/"
+      "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
+      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
     ],
     "archive_page": 2
   },
@@ -1940,10 +1952,10 @@
       "https://landezine.com/folly-forest-by-straub-thurmayr/",
       "https://landezine.com/uliveto-by-surfacedesign/",
       "https://landezine.com/de-turfwide-by-omgeving/",
-      "https://landezine.com/park-of-luna-by-hosper-and-drftwd-office-associates/"
+      "https://landezine.com/park-of-luna-by-hosper-and-drftwd-office-associates/",
+      "https://landezine.com/the-novel-city-faux-nature-maze/"
     ],
     "queue_new": [
-      "https://landezine.com/the-novel-city-faux-nature-maze/",
       "https://landezine.com/tussols-basil-track-and-field-stadium/",
       "https://landezine.com/the-crack-by-taktyk/",
       "https://landezine.com/feyssine-park-by-ilex-paysage-urbanisme/",
@@ -2323,7 +2335,11 @@
       "https://landezine.com/im-letz-nafels-by-mavo/",
       "https://landezine.com/dont-miss-the-citiesalive-2026-future-proofing-new-york-with-green-infrastructure-conference-in-nyc-on-september-30-to-october-3-2026/",
       "https://landezine.com/magic-international-kindergarten-by-zt-studio/",
-      "https://landezine.com/pathway-through-the-pinewood-of-la-algaida-by-acta/"
+      "https://landezine.com/pathway-through-the-pinewood-of-la-algaida-by-acta/",
+      "https://landezine.com/pedra-tosca-park-by-rcr/",
+      "https://landezine.com/tank-park-by-landlab-nz/",
+      "https://landezine.com/boca-de-la-mina-promenade-in-reus-by-batlleiroig/",
+      "https://landezine.com/treasure-hill-by-casagrande-laboratory/"
     ],
     "archive_page": 98
   },
