@@ -59,7 +59,8 @@
       "https://leibal.com/interiors/katonah-house/",
       "https://leibal.com/interiors/ibiza-residence/",
       "https://leibal.com/interiors/studio-guest-house/",
-      "https://leibal.com/interiors/mount-barker-house/"
+      "https://leibal.com/interiors/mount-barker-house/",
+      "https://leibal.com/interiors/daylesford-hill-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -239,9 +240,12 @@
       "https://leibal.com/interiors/w-house/",
       "https://leibal.com/interiors/smart-park-residence/",
       "https://leibal.com/a-day-in/scope-thonglor/",
-      "https://leibal.com/interiors/mount-barker-house/"
+      "https://leibal.com/interiors/mount-barker-house/",
+      "https://leibal.com/interiors/north-west-london-family-home/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/daylesford-hill-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -483,7 +487,8 @@
       "https://www.archdaily.com/1020138/anchor-house-mm-plus-plus-architects",
       "https://www.archdaily.com/1039912/swiss-alpine-cabin-reconstruction-guca-arch",
       "https://www.archdaily.com/983512/house-on-a-hill-amunt",
-      "https://www.archdaily.com/1039869/overlap-no-ma-house-igarchitects"
+      "https://www.archdaily.com/1039869/overlap-no-ma-house-igarchitects",
+      "https://www.archdaily.com/1019360/cabane-7l-installation-manuel-bouzas"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039916/country-house-in-the-interior-of-sao-paulo-db-arquitetos",
@@ -842,9 +847,10 @@
       "https://www.archdaily.com/1042599/nakano-house-kuma-and-elsa",
       "https://www.archdaily.com/1042489/house-for-maria-metriq-estudio",
       "https://www.archdaily.com/1042653/casa-29-estudio29",
-      "https://www.archdaily.com/1042624/casa-blajot-exitprojectes-estudi-darquitectura"
+      "https://www.archdaily.com/1042624/casa-blajot-exitprojectes-estudi-darquitectura",
+      "https://www.archdaily.com/1042643/shou-sugi-ban-house-sandy-anghie-architect"
     ],
-    "archive_page": 116
+    "archive_page": 117
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1179,7 +1185,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/03/esteras-perrote-atelier-cambre/",
       "https://www.dezeen.com/2026/04/04/replus-bureau-villa-quince/",
       "https://www.dezeen.com/2026/04/04/fallingwater-renovation-frank-lloyd-wright-this-week/",
       "https://www.dezeen.com/2026/04/04/cowshed-conversions-beauty-agricultural-buildings/",
@@ -1518,7 +1523,11 @@
       "https://www.dezeen.com/2026/06/22/la-caverne-du-pont-neuf-interior-jr-paris/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/06/22/no-1616-fence-rana-begum-webb-yates-london-festival-of-architecture/",
-      "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/"
+      "https://www.dezeen.com/2026/06/22/snohetta-miami-design-district-sweetbird-north/",
+      "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/",
+      "https://www.dezeen.com/2026/06/23/aaltos-paimio-sanatorium-set-to-be-turned-into-future-oriented-hotel-by-snohetta/",
+      "https://www.dezeen.com/2026/06/23/hugh-simpson-arb-interview/",
+      "https://www.dezeen.com/2026/06/23/antoni-gaudi-unique-style-video/"
     ],
     "archive_page": 2
   },
@@ -1680,7 +1689,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
       "https://www.dezeen.com/2026/06/14/charlap-hyman-herrero-futuristic-la-office/",
       "https://www.dezeen.com/2026/06/13/align-yoga-studio-mexico-city-talo-atelier/",
@@ -1709,7 +1717,8 @@
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
-      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
     ],
     "archive_page": 2
   },
@@ -1951,10 +1960,10 @@
       "https://landezine.com/de-turfwide-by-omgeving/",
       "https://landezine.com/park-of-luna-by-hosper-and-drftwd-office-associates/",
       "https://landezine.com/the-novel-city-faux-nature-maze/",
-      "https://landezine.com/tussols-basil-track-and-field-stadium/"
+      "https://landezine.com/tussols-basil-track-and-field-stadium/",
+      "https://landezine.com/the-crack-by-taktyk/"
     ],
     "queue_new": [
-      "https://landezine.com/the-crack-by-taktyk/",
       "https://landezine.com/feyssine-park-by-ilex-paysage-urbanisme/",
       "https://landezine.com/the-enchanting-secrecy-and-liberating-uselessness-of-roofs/",
       "https://landezine.com/tophane-park-playground-by-carve/",
@@ -2338,7 +2347,7 @@
       "https://landezine.com/boca-de-la-mina-promenade-in-reus-by-batlleiroig/",
       "https://landezine.com/treasure-hill-by-casagrande-laboratory/"
     ],
-    "archive_page": 98
+    "archive_page": 103
   },
   "monstrum_projects": {
     "sent_urls": [
