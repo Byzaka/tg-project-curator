@@ -60,9 +60,12 @@
       "https://leibal.com/interiors/ibiza-residence/",
       "https://leibal.com/interiors/studio-guest-house/",
       "https://leibal.com/interiors/mount-barker-house/",
-      "https://leibal.com/interiors/daylesford-hill-house/"
+      "https://leibal.com/interiors/daylesford-hill-house/",
+      "https://leibal.com/interiors/de-beauvoir-townhouse/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/schoolhouse-2/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -244,9 +247,12 @@
       "https://leibal.com/interiors/north-west-london-family-home/",
       "https://leibal.com/interiors/daylesford-hill-house/",
       "https://leibal.com/interiors/iena/",
-      "https://leibal.com/interiors/cherry-orchard/"
+      "https://leibal.com/interiors/cherry-orchard/",
+      "https://leibal.com/interiors/schoolhouse-2/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/de-beauvoir-townhouse/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -492,7 +498,8 @@
       "https://www.archdaily.com/1019360/cabane-7l-installation-manuel-bouzas",
       "https://www.archdaily.com/1039916/country-house-in-the-interior-of-sao-paulo-db-arquitetos",
       "https://www.archdaily.com/1019847/the-reserve-01-house-studio-bhd",
-      "https://www.archdaily.com/1039934/interface-house-core-design-workshop"
+      "https://www.archdaily.com/1039934/interface-house-core-design-workshop",
+      "https://www.archdaily.com/1019637/ski-house-roberts-gray-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039865/emilys-home-horizontal-design",
@@ -859,9 +866,11 @@
       "https://www.archdaily.com/1040036/casa-meyra-di-frenna-arquitectos",
       "https://www.archdaily.com/1041271/ve-house-triangular",
       "https://www.archdaily.com/1042695/the-dip-pavilion-andblack-design-studio",
-      "https://www.archdaily.com/1042727/el-house-wahana-architects"
+      "https://www.archdaily.com/1042727/el-house-wahana-architects",
+      "https://www.archdaily.com/1042728/casa-estudio-f36-estudio-tecalli",
+      "https://www.archdaily.com/1040735/shand-road-ys-housing"
     ],
-    "archive_page": 118
+    "archive_page": 119
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1197,7 +1206,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/04/byben-sculptural-backyard-adu-los-angeles/",
       "https://www.dezeen.com/2026/04/05/farmstead-road-metropolitan-workshop/",
       "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/",
       "https://www.dezeen.com/2026/04/06/architects-us-department-state-dureau-overseas-buildings-operations/",
@@ -1543,7 +1551,10 @@
       "https://www.dezeen.com/2026/06/24/remise-rosa-hello-wood/",
       "https://www.dezeen.com/2026/06/24/lanza-atelier-2026-serpentine-pavilion-video-interview/",
       "https://www.dezeen.com/2026/06/24/gaudi-lesser-known-gothic-buildings/",
-      "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/"
+      "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/",
+      "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
+      "https://www.dezeen.com/2026/06/25/neal-shasore-riba-presidential-election-opinion/",
+      "https://www.dezeen.com/2026/06/25/fonolleres-house-extension-anna-eugeni-bach-catalan-spain/"
     ],
     "archive_page": 2
   },
@@ -1705,7 +1716,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
       "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/",
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
@@ -1738,7 +1748,9 @@
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
       "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
       "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
-      "https://www.dezeen.com/2026/06/14/charlap-hyman-herrero-futuristic-la-office/"
+      "https://www.dezeen.com/2026/06/14/charlap-hyman-herrero-futuristic-la-office/",
+      "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
+      "https://www.dezeen.com/2026/06/13/align-yoga-studio-mexico-city-talo-atelier/"
     ],
     "archive_page": 2
   },
@@ -1984,10 +1996,10 @@
       "https://landezine.com/the-crack-by-taktyk/",
       "https://landezine.com/feyssine-park-by-ilex-paysage-urbanisme/",
       "https://landezine.com/the-enchanting-secrecy-and-liberating-uselessness-of-roofs/",
-      "https://landezine.com/tophane-park-playground-by-carve/"
+      "https://landezine.com/tophane-park-playground-by-carve/",
+      "https://landezine.com/buurtschap-te-veld-by-studio-blad/"
     ],
     "queue_new": [
-      "https://landezine.com/buurtschap-te-veld-by-studio-blad/",
       "https://landezine.com/adaptation-of-the-surroundings-of-the-lighthouse-of-finisterre-by-rvr-arquitectos/",
       "https://landezine.com/esterwegen-memorial-wes-landscape-architecture/",
       "https://landezine.com/not-just-library-bathhouse-garden-motif/",
@@ -2366,7 +2378,8 @@
       "https://landezine.com/tank-park-by-landlab-nz/",
       "https://landezine.com/boca-de-la-mina-promenade-in-reus-by-batlleiroig/",
       "https://landezine.com/treasure-hill-by-casagrande-laboratory/",
-      "https://landezine.com/the-physic-garden-by-thorbjorn-andersson-with-sweco-architects/"
+      "https://landezine.com/the-physic-garden-by-thorbjorn-andersson-with-sweco-architects/",
+      "https://landezine.com/dwaalster-park-vijversburg-by-lola/"
     ],
     "archive_page": 103
   },
