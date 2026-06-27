@@ -251,7 +251,8 @@
       "https://leibal.com/interiors/schoolhouse-2/",
       "https://leibal.com/interiors/de-beauvoir-townhouse/",
       "https://leibal.com/interiors/house-of-panes/",
-      "https://leibal.com/interiors/hackney-house-2/"
+      "https://leibal.com/interiors/hackney-house-2/",
+      "https://leibal.com/interiors/lindelli-pitt-street/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -503,7 +504,8 @@
       "https://www.archdaily.com/1019637/ski-house-roberts-gray-architects",
       "https://www.archdaily.com/1039865/emilys-home-horizontal-design",
       "https://www.archdaily.com/1019219/the-athletes-village-les-quinconces-uaps",
-      "https://www.archdaily.com/1039914/fitzroy-north-terrace-field-office-architecture"
+      "https://www.archdaily.com/1039914/fitzroy-north-terrace-field-office-architecture",
+      "https://www.archdaily.com/1025261/moon-house-green-mecano"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039920/villa-faringso-artists-house-strombro-building-workshop",
@@ -878,7 +880,7 @@
       "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci",
       "https://www.archdaily.com/1042800/villa-riviera-golf-residence-atelier130"
     ],
-    "archive_page": 120
+    "archive_page": 121
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1215,7 +1217,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/07/hyg-architects-house-in-takahatayama-japan/",
       "https://www.dezeen.com/2026/04/07/big-not-a-hotel-setouchi/",
       "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
       "https://www.dezeen.com/2026/04/07/tepoztlan-market-mexico-ramirez-suarez-arquitectos-laboratorio-regional-de-arquitectura/",
@@ -1566,7 +1567,8 @@
       "https://www.dezeen.com/2026/06/26/dar-al-funoon-abu-dhabi-frank-gehry/",
       "https://www.dezeen.com/2026/06/26/gaudi-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
-      "https://www.dezeen.com/2026/06/26/hotel-attraction-renders-gaudi-centenary-comments/"
+      "https://www.dezeen.com/2026/06/26/hotel-attraction-renders-gaudi-centenary-comments/",
+      "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/"
     ],
     "archive_page": 2
   },
@@ -1728,7 +1730,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
@@ -1763,7 +1764,9 @@
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/",
       "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
-      "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/"
+      "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/",
+      "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
+      "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/"
     ],
     "archive_page": 2
   },
@@ -2013,10 +2016,10 @@
       "https://landezine.com/buurtschap-te-veld-by-studio-blad/",
       "https://landezine.com/adaptation-of-the-surroundings-of-the-lighthouse-of-finisterre-by-rvr-arquitectos/",
       "https://landezine.com/esterwegen-memorial-wes-landscape-architecture/",
-      "https://landezine.com/not-just-library-bathhouse-garden-motif/"
+      "https://landezine.com/not-just-library-bathhouse-garden-motif/",
+      "https://landezine.com/the-park-within-elephant-park-by-gillespies/"
     ],
     "queue_new": [
-      "https://landezine.com/the-park-within-elephant-park-by-gillespies/",
       "https://landezine.com/housing-project-schwerzenbach-by-neuland/",
       "https://landezine.com/lankheet-water-purification-park-by-strootman/",
       "https://landezine.com/still-alive-by-wagon/",
@@ -2397,7 +2400,7 @@
       "https://landezine.com/guangming-oct-trail-by-swa-group/",
       "https://landezine.com/red-note-cafe-courtyard-by-t-c-l/"
     ],
-    "archive_page": 108
+    "archive_page": 113
   },
   "monstrum_projects": {
     "sent_urls": [
