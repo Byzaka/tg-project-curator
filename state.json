@@ -506,7 +506,8 @@
       "https://www.archdaily.com/1019219/the-athletes-village-les-quinconces-uaps",
       "https://www.archdaily.com/1039914/fitzroy-north-terrace-field-office-architecture",
       "https://www.archdaily.com/1025261/moon-house-green-mecano",
-      "https://www.archdaily.com/1039920/villa-faringso-artists-house-strombro-building-workshop"
+      "https://www.archdaily.com/1039920/villa-faringso-artists-house-strombro-building-workshop",
+      "https://www.archdaily.com/1018931/mothers-house-cplus"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039965/treehouse-das-studio",
@@ -883,7 +884,7 @@
       "https://www.archdaily.com/1042744/machikado-project-in-toyama-plan-21",
       "https://www.archdaily.com/1042796/sandstone-house-4brick-studio"
     ],
-    "archive_page": 121
+    "archive_page": 122
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1220,7 +1221,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
       "https://www.dezeen.com/2026/04/07/tepoztlan-market-mexico-ramirez-suarez-arquitectos-laboratorio-regional-de-arquitectura/",
       "https://www.dezeen.com/2026/04/07/the-white-house-construction-legal-limbo/",
       "https://www.dezeen.com/2026/04/08/sabella-arquitetura-casa-colmeia/",
@@ -1570,7 +1570,9 @@
       "https://www.dezeen.com/2026/06/26/gaudi-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/06/26/yvonne-kerzreho-school-complex-sam-architecture/",
       "https://www.dezeen.com/2026/06/26/hotel-attraction-renders-gaudi-centenary-comments/",
-      "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/"
+      "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/",
+      "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/",
+      "https://www.dezeen.com/2026/06/28/david-kohn-architects-house-hill/"
     ],
     "archive_page": 2
   },
@@ -1732,7 +1734,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
@@ -1770,7 +1771,8 @@
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
       "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
       "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
-      "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/"
+      "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/",
+      "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/"
     ],
     "archive_page": 2
   },
@@ -2022,10 +2024,10 @@
       "https://landezine.com/esterwegen-memorial-wes-landscape-architecture/",
       "https://landezine.com/not-just-library-bathhouse-garden-motif/",
       "https://landezine.com/the-park-within-elephant-park-by-gillespies/",
-      "https://landezine.com/housing-project-schwerzenbach-by-neuland/"
+      "https://landezine.com/housing-project-schwerzenbach-by-neuland/",
+      "https://landezine.com/lankheet-water-purification-park-by-strootman/"
     ],
     "queue_new": [
-      "https://landezine.com/lankheet-water-purification-park-by-strootman/",
       "https://landezine.com/still-alive-by-wagon/",
       "https://landezine.com/agence-ter-aqua-magica-landscape-architecture/",
       "https://landezine.com/the-warsaw-uprising-mound-park-by-toposcape/",
@@ -2402,9 +2404,10 @@
       "https://landezine.com/dwaalster-park-vijversburg-by-lola/",
       "https://landezine.com/hageveld-estate-by-hosper-landscape-architecture-and-urban-design/",
       "https://landezine.com/guangming-oct-trail-by-swa-group/",
-      "https://landezine.com/red-note-cafe-courtyard-by-t-c-l/"
+      "https://landezine.com/red-note-cafe-courtyard-by-t-c-l/",
+      "https://landezine.com/gridgrounds-by-openfabric-and-dmau/"
     ],
-    "archive_page": 113
+    "archive_page": 118
   },
   "monstrum_projects": {
     "sent_urls": [
