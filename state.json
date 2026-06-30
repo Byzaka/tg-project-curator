@@ -253,9 +253,12 @@
       "https://leibal.com/interiors/house-of-panes/",
       "https://leibal.com/interiors/hackney-house-2/",
       "https://leibal.com/interiors/lindelli-pitt-street/",
-      "https://leibal.com/interiors/pantheon/"
+      "https://leibal.com/interiors/pantheon/",
+      "https://leibal.com/interiors/purbeck-cottage/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/kreuzberghof-carters-house-2/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -511,7 +514,8 @@
       "https://www.archdaily.com/1018931/mothers-house-cplus",
       "https://www.archdaily.com/1039965/treehouse-das-studio",
       "https://www.archdaily.com/1018923/three-garden-house-parabolica",
-      "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno"
+      "https://www.archdaily.com/1039829/twin-houses-meraki-arquitectura-plus-diseno",
+      "https://www.archdaily.com/1018685/l2a-house-davide-beretta-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039974/jali-house-studio-vdga",
@@ -892,9 +896,10 @@
       "https://www.archdaily.com/1042816/anjung-house-eleena-jamil-architect",
       "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership",
       "https://www.archdaily.com/1042790/baan-you-yen-residence-studio-miti",
-      "https://www.archdaily.com/1042821/lagoa-azul-suite-carlos-alberto-arquitetura"
+      "https://www.archdaily.com/1042821/lagoa-azul-suite-carlos-alberto-arquitetura",
+      "https://www.archdaily.com/1042815/the-th-villa-hoi-an-85-design"
     ],
-    "archive_page": 123
+    "archive_page": 124
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1231,7 +1236,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/08/mata-architects-timber-extension-hamstead-home/",
       "https://www.dezeen.com/2026/04/08/kengo-kuma-national-gallery-wing/",
       "https://www.dezeen.com/2026/04/08/trump-presidential-library-skyscraper-matt-shaw-opinion/",
       "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/",
@@ -1583,7 +1587,9 @@
       "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
       "https://www.dezeen.com/2026/06/29/billard-leece-partnership-wattle-building-childrens-hospital-sydney/",
       "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/",
-      "https://www.dezeen.com/2026/06/29/a-teatro-and-balcony-studio-museum-tower-house-los-angeles/"
+      "https://www.dezeen.com/2026/06/29/a-teatro-and-balcony-studio-museum-tower-house-los-angeles/",
+      "https://www.dezeen.com/2026/06/30/meister-varma-architects-shilaya-cottage/",
+      "https://www.dezeen.com/2026/06/30/top-houses-june-2026/"
     ],
     "archive_page": 2
   },
@@ -1745,7 +1751,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
@@ -1784,7 +1789,10 @@
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/"
+      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
+      "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
+      "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/"
     ],
     "archive_page": 2
   },
@@ -2040,10 +2048,10 @@
       "https://landezine.com/lankheet-water-purification-park-by-strootman/",
       "https://landezine.com/still-alive-by-wagon/",
       "https://landezine.com/agence-ter-aqua-magica-landscape-architecture/",
-      "https://landezine.com/the-warsaw-uprising-mound-park-by-toposcape/"
+      "https://landezine.com/the-warsaw-uprising-mound-park-by-toposcape/",
+      "https://landezine.com/charlottenlund-by-lole-steinsvik/"
     ],
     "queue_new": [
-      "https://landezine.com/charlottenlund-by-lole-steinsvik/",
       "https://landezine.com/smedetoften-by-11-landskab/",
       "https://landezine.com/residential-complex-in-garten-by-neuland-architekturlandschaft/",
       "https://landezine.com/urban-park-playground-by-rehwaldt-landscape-architecture/",
@@ -2417,7 +2425,8 @@
       "https://landezine.com/hageveld-estate-by-hosper-landscape-architecture-and-urban-design/",
       "https://landezine.com/guangming-oct-trail-by-swa-group/",
       "https://landezine.com/red-note-cafe-courtyard-by-t-c-l/",
-      "https://landezine.com/gridgrounds-by-openfabric-and-dmau/"
+      "https://landezine.com/gridgrounds-by-openfabric-and-dmau/",
+      "https://landezine.com/schiffbauplatz-zurich-by-vetschpartner/"
     ],
     "archive_page": 118
   },
