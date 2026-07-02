@@ -258,9 +258,12 @@
       "https://leibal.com/interiors/purbeck-cottage/",
       "https://leibal.com/interiors/kreuzberghof-carters-house-2/",
       "https://leibal.com/architecture/the-findling/",
-      "https://leibal.com/interiors/moss/"
+      "https://leibal.com/interiors/moss/",
+      "https://leibal.com/interiors/candy-factory-lofts-penthouse/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/lisbon-townhouse/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -520,7 +523,8 @@
       "https://www.archdaily.com/1018685/l2a-house-davide-beretta-studio",
       "https://www.archdaily.com/1039974/jali-house-studio-vdga",
       "https://www.archdaily.com/1018351/furuset-hageby-dementia-village-nord-architects-plus-3rw-arkitekter",
-      "https://www.archdaily.com/1039888/lps-residence-davidov-architects"
+      "https://www.archdaily.com/1039888/lps-residence-davidov-architects",
+      "https://www.archdaily.com/1018448/lausanne-apartment-mana-arquitetura-plus-cru-estudio-de-criacao"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040025/summerhill-village-tandem-design-studio",
@@ -909,7 +913,7 @@
       "https://www.archdaily.com/1041694/country-house-teresa-borsoi-arquitetura",
       "https://www.archdaily.com/1042917/iporanga-beach-house-db-arquitetos"
     ],
-    "archive_page": 125
+    "archive_page": 126
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1248,7 +1252,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/",
       "https://www.dezeen.com/2026/04/09/kengo-kuma-earth-tree-installation-copenhagen-contemporary/",
       "https://www.dezeen.com/2026/04/09/glasgow-burning-heritage-buildings-matt-loader-opinion/",
       "https://www.dezeen.com/2026/04/09/casa-das-historias-museum-eduardo-souto-de-moura-video-profile/",
@@ -1608,7 +1611,11 @@
       "https://www.dezeen.com/2026/07/01/alde-boathouse-richard-parr-associates/",
       "https://www.dezeen.com/2026/07/01/leonard-street-rowhouse-pliskin-architecture-brooklyn/",
       "https://www.dezeen.com/2026/07/02/green-lodge-stylus-architects-london-house-extension/",
-      "https://www.dezeen.com/2026/07/01/clase-azuls-la-hacienda-jalisco-atelier-ars/"
+      "https://www.dezeen.com/2026/07/01/clase-azuls-la-hacienda-jalisco-atelier-ars/",
+      "https://www.dezeen.com/2026/07/02/mad-tengyun-center-tencent-headquarters-shenzhen/",
+      "https://www.dezeen.com/2026/07/02/rua-studio-playdeck-davidson-prize/",
+      "https://www.dezeen.com/2026/07/02/splitscape-residence-spacedna/",
+      "https://www.dezeen.com/2026/07/01/uns-korean-football-park-south-korea/"
     ],
     "archive_page": 2
   },
@@ -1770,7 +1777,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
       "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
       "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
@@ -1812,7 +1818,9 @@
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
-      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/"
+      "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
+      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
+      "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/"
     ],
     "archive_page": 2
   },
@@ -2072,10 +2080,10 @@
       "https://landezine.com/charlottenlund-by-lole-steinsvik/",
       "https://landezine.com/smedetoften-by-11-landskab/",
       "https://landezine.com/residential-complex-in-garten-by-neuland-architekturlandschaft/",
-      "https://landezine.com/urban-park-playground-by-rehwaldt-landscape-architecture/"
+      "https://landezine.com/urban-park-playground-by-rehwaldt-landscape-architecture/",
+      "https://landezine.com/sarmange-landscape-architecture/"
     ],
     "queue_new": [
-      "https://landezine.com/sarmange-landscape-architecture/",
       "https://landezine.com/cava-do-viriato-urban-regeneration-by-proap/",
       "https://landezine.com/forest-urbanisms-new-non-human-and-human-ecologies-for-the-21st-century-by-bruno-de-meulder-and-kelly-shannon/",
       "https://landezine.com/the-passage-and-the-smithy-by-bogl/",
@@ -2449,7 +2457,7 @@
       "https://landezine.com/schiffbauplatz-zurich-by-vetschpartner/",
       "https://landezine.com/winners-announced-lila-landezine-international-landscape-award-2026/"
     ],
-    "archive_page": 123
+    "archive_page": 128
   },
   "monstrum_projects": {
     "sent_urls": [
