@@ -262,7 +262,8 @@
       "https://leibal.com/interiors/candy-factory-lofts-penthouse/",
       "https://leibal.com/interiors/lisbon-townhouse/",
       "https://leibal.com/interiors/cendriers-residence/",
-      "https://leibal.com/interiors/house-with-a-white-column/"
+      "https://leibal.com/interiors/house-with-a-white-column/",
+      "https://leibal.com/interiors/office-h/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -528,7 +529,8 @@
       "https://www.archdaily.com/1018448/lausanne-apartment-mana-arquitetura-plus-cru-estudio-de-criacao",
       "https://www.archdaily.com/1040025/summerhill-village-tandem-design-studio",
       "https://www.archdaily.com/1018086/roble-huacho-house-hebra-arquitectos",
-      "https://www.archdaily.com/1039758/maison-de-la-pointe-yh2-architecture"
+      "https://www.archdaily.com/1039758/maison-de-la-pointe-yh2-architecture",
+      "https://www.archdaily.com/1018218/curonians-houses-devyni-architektai"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039941/jevany-villa-architektura",
@@ -924,9 +926,11 @@
       "https://www.archdaily.com/1042876/lake-house-ultra-architects",
       "https://www.archdaily.com/1042623/el-molino-famm-arquitectura",
       "https://www.archdaily.com/1043007/house-in-pompeia-23-sul",
-      "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture"
+      "https://www.archdaily.com/1042945/rollingwood-residence-a-parallel-architecture",
+      "https://www.archdaily.com/1042792/stone-and-wood-studio-common-wonder",
+      "https://www.archdaily.com/1042849/the-bridle-path-ampuero-yutronic"
     ],
-    "archive_page": 127
+    "archive_page": 128
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1265,7 +1269,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/09/european-houses/",
       "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/",
       "https://www.dezeen.com/2026/04/09/cedars-kin-omar-gandhi-cedar-lake-house-canada/",
       "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
@@ -1632,7 +1635,9 @@
       "https://www.dezeen.com/2026/07/03/jay-morton-elected-riba-president/",
       "https://www.dezeen.com/2026/07/03/smart-glasses-gehry-abu-dhabi-heatwave-fashion-week-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
-      "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/"
+      "https://www.dezeen.com/2026/07/03/miller-hull-partnership-woods-bagot-timber-expansion-sea-tac/",
+      "https://www.dezeen.com/2026/07/04/self-build-housing-projects/",
+      "https://www.dezeen.com/2026/07/04/ricardo-leal-pestana-chicken-coop/"
     ],
     "archive_page": 2
   },
@@ -1794,7 +1799,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
@@ -1837,7 +1841,8 @@
       "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
       "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
-      "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/"
+      "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
+      "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/"
     ],
     "archive_page": 2
   },
@@ -2101,10 +2106,10 @@
       "https://landezine.com/sarmange-landscape-architecture/",
       "https://landezine.com/cava-do-viriato-urban-regeneration-by-proap/",
       "https://landezine.com/forest-urbanisms-new-non-human-and-human-ecologies-for-the-21st-century-by-bruno-de-meulder-and-kelly-shannon/",
-      "https://landezine.com/the-passage-and-the-smithy-by-bogl/"
+      "https://landezine.com/the-passage-and-the-smithy-by-bogl/",
+      "https://landezine.com/the-unbound-by-felixx/"
     ],
     "queue_new": [
-      "https://landezine.com/the-unbound-by-felixx/",
       "https://landezine.com/a-dune-in-the-forest-by-gruppe-f/",
       "https://landezine.com/gulbenkian-foundation-garden-extension-by-vdla/",
       "https://landezine.com/rural-estate-kogelhof-kamperland-by-boschslabbers/",
@@ -2472,7 +2477,8 @@
       "https://landezine.com/red-note-cafe-courtyard-by-t-c-l/",
       "https://landezine.com/gridgrounds-by-openfabric-and-dmau/",
       "https://landezine.com/schiffbauplatz-zurich-by-vetschpartner/",
-      "https://landezine.com/winners-announced-lila-landezine-international-landscape-award-2026/"
+      "https://landezine.com/winners-announced-lila-landezine-international-landscape-award-2026/",
+      "https://landezine.com/the-drehbruckenplatz-by-tgp/"
     ],
     "archive_page": 133
   },
