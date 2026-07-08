@@ -64,7 +64,8 @@
       "https://leibal.com/interiors/de-beauvoir-townhouse/",
       "https://leibal.com/interiors/schoolhouse-2/",
       "https://leibal.com/interiors/hackney-house-2/",
-      "https://leibal.com/architecture/the-findling/"
+      "https://leibal.com/architecture/the-findling/",
+      "https://leibal.com/interiors/green-lodge/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -266,9 +267,12 @@
       "https://leibal.com/interiors/office-h/",
       "https://leibal.com/interiors/gravilliers/",
       "https://leibal.com/interiors/walled-courtyard/",
-      "https://leibal.com/interiors/hakluyt-north-american-hq/"
+      "https://leibal.com/interiors/hakluyt-north-american-hq/",
+      "https://leibal.com/interiors/green-lodge/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/studio-18/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -540,7 +544,8 @@
       "https://www.archdaily.com/1017873/chumbaria-village-hemp-brick-house-arquitectura-viva",
       "https://www.archdaily.com/1039764/la-florida-ii-house-lezaeta-lavanchy",
       "https://www.archdaily.com/1017696/kabber-ghor-village-retreat-dws-design-works-studio",
-      "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects"
+      "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects",
+      "https://www.archdaily.com/1017442/hidden-house-estudio-stgo"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects",
@@ -952,9 +957,10 @@
       "https://www.archdaily.com/1043004/steenzicht-social-housing-jvst",
       "https://www.archdaily.com/1054061/rivera-paradise-house-atelierm",
       "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
-      "https://www.archdaily.com/1034338/brm-residence-jacobsen-arquitetura"
+      "https://www.archdaily.com/1034338/brm-residence-jacobsen-arquitetura",
+      "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects"
     ],
-    "archive_page": 131
+    "archive_page": 132
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1294,7 +1300,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/10/goldstein-heather-west-london-house/",
       "https://www.dezeen.com/2026/04/10/sydney-harbour-bridge-cycleway-ramp/",
       "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
       "https://www.dezeen.com/2026/04/10/superlimao-3d-printed-pavilion-brazilian-architecture-biennial/",
@@ -1666,7 +1671,9 @@
       "https://www.dezeen.com/2026/07/07/nitsche-arquitetos-sao-paulo-metro-station-retrofit/",
       "https://www.dezeen.com/2026/07/07/dezeen-debate-big-dymak-headquarters-denmark/",
       "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
-      "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/"
+      "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
+      "https://www.dezeen.com/2026/07/08/david-chipperfield-architects-faro-santander/",
+      "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/"
     ],
     "archive_page": 2
   },
@@ -1828,7 +1835,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
@@ -1874,7 +1880,8 @@
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
-      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/"
+      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
     ],
     "archive_page": 2
   },
@@ -2146,10 +2153,10 @@
       "https://landezine.com/park-zomerhuis-in-stekene-belgium-by-omgeving/",
       "https://landezine.com/expanding-landscape-set-and-surplus/",
       "https://landezine.com/norways-july-22-memorial-sites-by-jonas-dahlberg-studio/",
-      "https://landezine.com/edge-garden-by-yiyu-design/"
+      "https://landezine.com/edge-garden-by-yiyu-design/",
+      "https://landezine.com/kalvebod-faelled-skole/"
     ],
     "queue_new": [
-      "https://landezine.com/kalvebod-faelled-skole/",
       "https://landezine.com/forest-garden-nests-house-by-estudio-ome/",
       "https://landezine.com/hortus-veemarkt-utrecht-by-strootman/",
       "https://landezine.com/scandiagade-by-11-landskab/",
