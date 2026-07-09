@@ -268,11 +268,10 @@
       "https://leibal.com/interiors/gravilliers/",
       "https://leibal.com/interiors/walled-courtyard/",
       "https://leibal.com/interiors/hakluyt-north-american-hq/",
-      "https://leibal.com/interiors/green-lodge/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/green-lodge/",
       "https://leibal.com/interiors/studio-18/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -545,10 +544,10 @@
       "https://www.archdaily.com/1039764/la-florida-ii-house-lezaeta-lavanchy",
       "https://www.archdaily.com/1017696/kabber-ghor-village-retreat-dws-design-works-studio",
       "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects",
-      "https://www.archdaily.com/1017442/hidden-house-estudio-stgo"
+      "https://www.archdaily.com/1017442/hidden-house-estudio-stgo",
+      "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects",
       "https://www.archdaily.com/1039750/trama-house-404-arquitectura",
       "https://www.archdaily.com/1039400/filipines-house-to-do-hub-darquitectura",
       "https://www.archdaily.com/1039917/paulas-house-luciano-kruk",
@@ -958,7 +957,31 @@
       "https://www.archdaily.com/1054061/rivera-paradise-house-atelierm",
       "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
       "https://www.archdaily.com/1034338/brm-residence-jacobsen-arquitetura",
-      "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects"
+      "https://www.archdaily.com/1054020/ghost-gum-house-extension-adriano-pupilli-architects",
+      "https://www.archdaily.com/1055902/unusual-brick-house-plug-modular-architecture",
+      "https://www.archdaily.com/1042853/house-tenjin-atelier-yoo",
+      "https://www.archdaily.com/1054983/vvs-house-mcl-studio",
+      "https://www.archdaily.com/1055250/lina-building-ideia1",
+      "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
+      "https://www.archdaily.com/1056255/ae-house-taller-ezequiel-aguilar-martinez",
+      "https://www.archdaily.com/1042760/piso-oliva-more-and-co",
+      "https://www.archdaily.com/1054981/j-house-hulot",
+      "https://www.archdaily.com/1042724/gardenias-house-vrtical",
+      "https://www.archdaily.com/1042611/boavista-housing-a43-lda",
+      "https://www.archdaily.com/1055475/house-in-merida-f-s-d-a",
+      "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
+      "https://www.archdaily.com/1055217/casaluna-anarquitectura",
+      "https://www.archdaily.com/1055060/d-house-rastro-estudio",
+      "https://www.archdaily.com/1055274/aw-house-sal-arquitetos",
+      "https://www.archdaily.com/1056323/c21-residence-raiz-arquitetura",
+      "https://www.archdaily.com/1092330/clerestory-garden-at-naka-ikebukuro-park-key-operation-inc-architects",
+      "https://www.archdaily.com/1054039/aunt-vals-house-marcio-flavio-motta",
+      "https://www.archdaily.com/1055862/dm-tunquen-house-loft-7",
+      "https://www.archdaily.com/1042218/casa-china-jorgelina-tortorici-and-asociados",
+      "https://www.archdaily.com/1042620/casa-lago-more-and-co",
+      "https://www.archdaily.com/1055859/sm-house-almacen-de-arquitectura",
+      "https://www.archdaily.com/1055208/milagro-house-ravstudio",
+      "https://www.archdaily.com/1042292/af-project"
     ],
     "archive_page": 132
   },
@@ -1111,9 +1134,15 @@
       "https://www.archdaily.com/1042756/a-white-barn-msaa-atelier",
       "https://www.archdaily.com/1042763/grape-classroom-in-the-field-atelier-anonymous",
       "https://www.archdaily.com/1042913/pages-afloat-f-a-n-architects",
-      "https://www.archdaily.com/1042915/the-798-star-751-train-street-renovation-studio-nor"
+      "https://www.archdaily.com/1042915/the-798-star-751-train-street-renovation-studio-nor",
+      "https://www.archdaily.com/1055267/morumbi-sul-park-base-urbana"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://www.archdaily.com/1042980/renovation-of-shell-theatre-in-beijing-chaoyang-park-duts-design",
+      "https://www.archdaily.com/1056250/madrid-rio-park-burgos-and-garrido-arquitectos",
+      "https://www.archdaily.com/1039937/sun-machine-dl-atelier",
+      "https://www.archdaily.com/1042922/spatial-renewal-and-scene-stitching-of-birland-food-court-parallect-design-plus-atelier-diving-bell"
+    ],
     "archive_page": 76
   },
   "dezeen_arch": {
@@ -1300,7 +1329,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/10/sydney-harbour-bridge-cycleway-ramp/",
       "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
       "https://www.dezeen.com/2026/04/10/superlimao-3d-printed-pavilion-brazilian-architecture-biennial/",
       "https://www.dezeen.com/2026/04/11/big-luxury-rammed-earth-villas-japan/",
@@ -1673,7 +1701,8 @@
       "https://www.dezeen.com/2026/07/08/jodhpur-airport-expansion-sthapati/",
       "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
       "https://www.dezeen.com/2026/07/08/david-chipperfield-architects-faro-santander/",
-      "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/"
+      "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/",
+      "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/"
     ],
     "archive_page": 2
   },
@@ -1835,7 +1864,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
@@ -1881,7 +1909,8 @@
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
-      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/"
+      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
     ],
     "archive_page": 2
   },
@@ -2154,10 +2183,10 @@
       "https://landezine.com/expanding-landscape-set-and-surplus/",
       "https://landezine.com/norways-july-22-memorial-sites-by-jonas-dahlberg-studio/",
       "https://landezine.com/edge-garden-by-yiyu-design/",
-      "https://landezine.com/kalvebod-faelled-skole/"
+      "https://landezine.com/kalvebod-faelled-skole/",
+      "https://landezine.com/forest-garden-nests-house-by-estudio-ome/"
     ],
     "queue_new": [
-      "https://landezine.com/forest-garden-nests-house-by-estudio-ome/",
       "https://landezine.com/hortus-veemarkt-utrecht-by-strootman/",
       "https://landezine.com/scandiagade-by-11-landskab/",
       "https://landezine.com/broparken-by-white/",
@@ -2519,7 +2548,8 @@
       "https://landezine.com/winners-announced-lila-landezine-international-landscape-award-2026/",
       "https://landezine.com/the-drehbruckenplatz-by-tgp/",
       "https://landezine.com/amant-art-campus-by-future-green-landscape-architecture/",
-      "https://landezine.com/asiat-by-plant-en-houtgoed/"
+      "https://landezine.com/asiat-by-plant-en-houtgoed/",
+      "https://landezine.com/competition-gov-tom-mccall-waterfront-park-by-portland-parks-recreation/"
     ],
     "archive_page": 133
   },
