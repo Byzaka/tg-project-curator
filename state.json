@@ -269,7 +269,8 @@
       "https://leibal.com/interiors/walled-courtyard/",
       "https://leibal.com/interiors/hakluyt-north-american-hq/",
       "https://leibal.com/interiors/green-lodge/",
-      "https://leibal.com/interiors/studio-18/"
+      "https://leibal.com/interiors/studio-18/",
+      "https://leibal.com/interiors/mek-the-apartment/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -545,7 +546,8 @@
       "https://www.archdaily.com/1017696/kabber-ghor-village-retreat-dws-design-works-studio",
       "https://www.archdaily.com/1040087/wings-way-house-mrtn-architects",
       "https://www.archdaily.com/1017442/hidden-house-estudio-stgo",
-      "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects"
+      "https://www.archdaily.com/1040071/cabin-above-the-valley-system-recovery-architects",
+      "https://www.archdaily.com/1018174/st-ives-house-common-office"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039750/trama-house-404-arquitectura",
@@ -981,9 +983,12 @@
       "https://www.archdaily.com/1042620/casa-lago-more-and-co",
       "https://www.archdaily.com/1055859/sm-house-almacen-de-arquitectura",
       "https://www.archdaily.com/1055208/milagro-house-ravstudio",
-      "https://www.archdaily.com/1042292/af-project"
+      "https://www.archdaily.com/1042292/af-project",
+      "https://www.archdaily.com/1080021/gulzars-residence-field-architects",
+      "https://www.archdaily.com/1092384/courtyard-house-estudio-simbiosis",
+      "https://www.archdaily.com/1054033/kosmalt-housing-renovation-atrium-architekti"
     ],
-    "archive_page": 132
+    "archive_page": 133
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1135,10 +1140,10 @@
       "https://www.archdaily.com/1042763/grape-classroom-in-the-field-atelier-anonymous",
       "https://www.archdaily.com/1042913/pages-afloat-f-a-n-architects",
       "https://www.archdaily.com/1042915/the-798-star-751-train-street-renovation-studio-nor",
-      "https://www.archdaily.com/1055267/morumbi-sul-park-base-urbana"
+      "https://www.archdaily.com/1055267/morumbi-sul-park-base-urbana",
+      "https://www.archdaily.com/1042980/renovation-of-shell-theatre-in-beijing-chaoyang-park-duts-design"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1042980/renovation-of-shell-theatre-in-beijing-chaoyang-park-duts-design",
       "https://www.archdaily.com/1056250/madrid-rio-park-burgos-and-garrido-arquitectos",
       "https://www.archdaily.com/1039937/sun-machine-dl-atelier",
       "https://www.archdaily.com/1042922/spatial-renewal-and-scene-stitching-of-birland-food-court-parallect-design-plus-atelier-diving-bell"
@@ -1329,7 +1334,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
       "https://www.dezeen.com/2026/04/10/superlimao-3d-printed-pavilion-brazilian-architecture-biennial/",
       "https://www.dezeen.com/2026/04/11/big-luxury-rammed-earth-villas-japan/",
       "https://www.dezeen.com/2026/04/11/dsdha-sheep-field-barn-henry-moore/",
@@ -1702,7 +1706,9 @@
       "https://www.dezeen.com/2026/07/07/office-to-residential-conversion-building-at-risk-of-collapse-in-new-york/",
       "https://www.dezeen.com/2026/07/08/david-chipperfield-architects-faro-santander/",
       "https://www.dezeen.com/2026/07/08/estudio-futuro-ph-gainza/",
-      "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/"
+      "https://www.dezeen.com/2026/07/08/kpmb-david-geffen-school-of-drama-building-yale-university-renders/",
+      "https://www.dezeen.com/2026/07/09/riba-national-awards-2026-uk/",
+      "https://www.dezeen.com/2026/07/09/sanctum-retreat-arches/"
     ],
     "archive_page": 2
   },
@@ -1864,7 +1870,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
       "https://www.dezeen.com/2026/06/07/fantastic-frank-stockholm-office-aska-interiors-green/",
       "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
@@ -1910,7 +1915,8 @@
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
-      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/"
+      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
+      "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/"
     ],
     "archive_page": 2
   },
@@ -2184,10 +2190,10 @@
       "https://landezine.com/norways-july-22-memorial-sites-by-jonas-dahlberg-studio/",
       "https://landezine.com/edge-garden-by-yiyu-design/",
       "https://landezine.com/kalvebod-faelled-skole/",
-      "https://landezine.com/forest-garden-nests-house-by-estudio-ome/"
+      "https://landezine.com/forest-garden-nests-house-by-estudio-ome/",
+      "https://landezine.com/hortus-veemarkt-utrecht-by-strootman/"
     ],
     "queue_new": [
-      "https://landezine.com/hortus-veemarkt-utrecht-by-strootman/",
       "https://landezine.com/scandiagade-by-11-landskab/",
       "https://landezine.com/broparken-by-white/",
       "https://landezine.com/landesgartenschau-wassertrudingen-by-planorama-landschaftsarchitektur/",
