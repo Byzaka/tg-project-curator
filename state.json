@@ -65,9 +65,12 @@
       "https://leibal.com/interiors/schoolhouse-2/",
       "https://leibal.com/interiors/hackney-house-2/",
       "https://leibal.com/architecture/the-findling/",
-      "https://leibal.com/interiors/green-lodge/"
+      "https://leibal.com/interiors/green-lodge/",
+      "https://leibal.com/interiors/garret-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/house-in-rorum/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -276,9 +279,12 @@
       "https://leibal.com/interiors/quiet-home-in-the-city/",
       "https://leibal.com/interiors/park-slope-home-office/",
       "https://leibal.com/interiors/leblon-apartment/",
-      "https://leibal.com/interiors/carlsberg-byen-apartment/"
+      "https://leibal.com/interiors/carlsberg-byen-apartment/",
+      "https://leibal.com/interiors/garret-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/house-in-rorum/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -562,7 +568,8 @@
       "https://www.archdaily.com/1019923/mata-house-estudio-mariana-vilela-plus-atelier-daniel-florez",
       "https://www.archdaily.com/1040068/an-unfinished-house-kraft-architects",
       "https://www.archdaily.com/1020585/terra-casa-studio-dashline",
-      "https://www.archdaily.com/1040011/red-bridge-cabin-wiki-world-plus-advanced-architecture-lab"
+      "https://www.archdaily.com/1040011/red-bridge-cabin-wiki-world-plus-advanced-architecture-lab",
+      "https://www.archdaily.com/1021299/house-northroy-true-story-plus-lloyd-hartley-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040031/casa-ga-archiplanstudio",
@@ -1022,9 +1029,12 @@
       "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
       "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos",
       "https://www.archdaily.com/1031502/casa-luna-nommo-arquitetos-plus-coti-arquitetura",
-      "https://www.archdaily.com/1148552/pr-house-0studio-arquitectura"
+      "https://www.archdaily.com/1148552/pr-house-0studio-arquitectura",
+      "https://www.archdaily.com/1148603/denj-lane-carter-williamson-architects",
+      "https://www.archdaily.com/1148557/nb01-house-tnt-architecture",
+      "https://www.archdaily.com/1092472/econeo-summerhouse-saga-space-architects"
     ],
-    "archive_page": 137
+    "archive_page": 138
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1186,11 +1196,10 @@
       "https://www.archdaily.com/1068468/los-coltrahues-lookout-laura-munoz-cea",
       "https://www.archdaily.com/1068440/el-museito-roman-bauer-arquitectos",
       "https://www.archdaily.com/1026042/tiny-auro-trawa-arquitectos",
-      "https://www.archdaily.com/1092344/yanlord-arcadia-sunken-garden-lacy-steps-trop-terrains-plus-open-space"
-    ],
-    "queue_new": [
+      "https://www.archdaily.com/1092344/yanlord-arcadia-sunken-garden-lacy-steps-trop-terrains-plus-open-space",
       "https://www.archdaily.com/1092347/tbb-libraries-hundred-flowers-park-libraries-atelier-liu-yuyang-architects"
     ],
+    "queue_new": [],
     "archive_page": 76
   },
   "dezeen_arch": {
@@ -1377,7 +1386,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
       "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
       "https://www.dezeen.com/2026/04/14/sawdust-struvite-fireproof-material-eth-zurich-empa/",
       "https://www.dezeen.com/2026/04/14/niall-mclaughlin-sydney-cathedral-precinct/",
@@ -1755,7 +1763,9 @@
       "https://www.dezeen.com/2026/07/13/future-stadiums-roundup/",
       "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
       "https://www.dezeen.com/2026/07/13/future-stadium-series-introduction/",
-      "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/"
+      "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/",
+      "https://www.dezeen.com/2026/07/14/nerihu-mandarin-oriental-the-landmark-facade-hong-kong/",
+      "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/"
     ],
     "archive_page": 2
   },
@@ -1917,7 +1927,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
       "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/",
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
@@ -1967,7 +1976,8 @@
       "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
       "https://www.dezeen.com/2026/06/13/align-yoga-studio-mexico-city-talo-atelier/",
       "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
-      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/"
+      "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
+      "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/"
     ],
     "archive_page": 2
   },
@@ -2251,10 +2261,10 @@
       "https://landezine.com/28-june-1-july-uia-world-congress-of-architects-2026-barcelona/",
       "https://landezine.com/fuji-kindergarten/",
       "https://landezine.com/luisenstadtischer-cemetery/",
-      "https://landezine.com/estate-koningsweg-by-buro-harro/"
+      "https://landezine.com/estate-koningsweg-by-buro-harro/",
+      "https://landezine.com/saint-etienne-montreynaud-district-by-in-situ/"
     ],
     "queue_new": [
-      "https://landezine.com/saint-etienne-montreynaud-district-by-in-situ/",
       "https://landezine.com/lila-2020-ballerup-boulevard-by-marianne-levinsen-landskab/",
       "https://landezine.com/hard-turm-park-zurich-vetschpartner/",
       "https://landezine.com/averbode-abbey-square-by-omgeving/",
@@ -2612,7 +2622,8 @@
       "https://landezine.com/cardada-viewpoint/",
       "https://landezine.com/asiat-by-plant-en-houtgoed-51n4e/",
       "https://landezine.com/champ-de-la-confluence-lyon-by-base/",
-      "https://landezine.com/crack-garden/"
+      "https://landezine.com/crack-garden/",
+      "https://landezine.com/more-feeling-thicket-and-sundance-by-sowatorini-landschaft/"
     ],
     "archive_page": 148
   },
