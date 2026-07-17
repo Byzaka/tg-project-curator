@@ -284,11 +284,10 @@
       "https://leibal.com/interiors/house-in-rorum/",
       "https://leibal.com/interiors/canal-house-2/",
       "https://leibal.com/architecture/casa-san-francisco-2/",
-      "https://leibal.com/interiors/7-eight/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/7-eight/",
       "https://leibal.com/interiors/marbella-apartment/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -577,10 +576,10 @@
       "https://www.archdaily.com/1040031/casa-ga-archiplanstudio",
       "https://www.archdaily.com/1021884/summer-capsule-for-a-digital-nomad-pineda-monedero",
       "https://www.archdaily.com/1039998/east-river-residence-omar-gandhi-architects",
-      "https://www.archdaily.com/1021542/olivos-house-gonzalo-bardach-arquitectura"
+      "https://www.archdaily.com/1021542/olivos-house-gonzalo-bardach-arquitectura",
+      "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects",
       "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
       "https://www.archdaily.com/1040030/villa-lyla-saota",
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
@@ -1050,7 +1049,12 @@
       "https://www.archdaily.com/1148763/jardim-house-renovation-baixo-impacto-arquitetura",
       "https://www.archdaily.com/1148611/playhouse-residence-carter-williamson-architects",
       "https://www.archdaily.com/1148643/nirvana-house-untag",
-      "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa"
+      "https://www.archdaily.com/1148648/zasip-house-renovation-and-expansion-raketa",
+      "https://www.archdaily.com/1148783/treinta-y-nueve-arboles-grizzo-studio",
+      "https://www.archdaily.com/1148758/residencia-ma-atibaia-estudio-rossi-arquitetos",
+      "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
+      "https://www.archdaily.com/1148769/blue-house-extrastudio",
+      "https://www.archdaily.com/1148703/ensenada-house-paralelo-transversal"
     ],
     "archive_page": 140
   },
@@ -1408,7 +1412,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
       "https://www.dezeen.com/2026/04/14/kengo-kuma-skyscraper-quito-ceramics/",
       "https://www.dezeen.com/2026/04/14/payette-net-zero-timber-farm-stand-massachusetts/",
       "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
@@ -1794,7 +1797,11 @@
       "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
       "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/",
       "https://www.dezeen.com/2026/07/16/studio-font-casa-diez-pies-mexico/",
-      "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
+      "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/",
+      "https://www.dezeen.com/2026/07/17/bokey-grant-creates-low-tech-sanctuary-in-australian-flame-zone/",
+      "https://www.dezeen.com/2026/07/16/future-stadium-series-dezeen-agenda/",
+      "https://www.dezeen.com/2026/07/16/benjamin-flowers-opinion-stadiums-monumentality/",
+      "https://www.dezeen.com/2026/07/16/aia-21st-century-road-to-housing-act-bill/"
     ],
     "archive_page": 2
   },
@@ -1956,7 +1963,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
       "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/",
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
@@ -2007,7 +2013,8 @@
       "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/",
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
       "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
-      "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/"
+      "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
+      "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/"
     ],
     "archive_page": 2
   },
@@ -2296,10 +2303,10 @@
       "https://landezine.com/lila-2020-ballerup-boulevard-by-marianne-levinsen-landskab/",
       "https://landezine.com/hard-turm-park-zurich-vetschpartner/",
       "https://landezine.com/averbode-abbey-square-by-omgeving/",
-      "https://landezine.com/the-slaughterhouse-site-in-holstebro-by-bogl/"
+      "https://landezine.com/the-slaughterhouse-site-in-holstebro-by-bogl/",
+      "https://landezine.com/bureplatsen-by-niva/"
     ],
     "queue_new": [
-      "https://landezine.com/bureplatsen-by-niva/",
       "https://landezine.com/kossuth-square-kispest-by-leptek-terv/",
       "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/",
       "https://landezine.com/the-garden-of-migrations-by-agence-aps/",
@@ -2655,7 +2662,8 @@
       "https://landezine.com/crack-garden/",
       "https://landezine.com/more-feeling-thicket-and-sundance-by-sowatorini-landschaft/",
       "https://landezine.com/anticipating-the-landscape-by-andrew-van-egmond/",
-      "https://landezine.com/the-waterfront-promenade-at-aker-brygge-by-link-landskap/"
+      "https://landezine.com/the-waterfront-promenade-at-aker-brygge-by-link-landskap/",
+      "https://landezine.com/santa-clotilde-gardens-by-scob-architecture-and-landscape/"
     ],
     "archive_page": 158
   },
