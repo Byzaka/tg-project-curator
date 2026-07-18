@@ -287,11 +287,10 @@
       "https://leibal.com/architecture/casa-san-francisco-2/",
       "https://leibal.com/interiors/7-eight/",
       "https://leibal.com/interiors/marbella-apartment/",
-      "https://leibal.com/interiors/heathside-house/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/heathside-house/",
       "https://leibal.com/interiors/maison-butte-bergeyre/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -582,10 +581,10 @@
       "https://www.archdaily.com/1039998/east-river-residence-omar-gandhi-architects",
       "https://www.archdaily.com/1021542/olivos-house-gonzalo-bardach-arquitectura",
       "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects",
-      "https://www.archdaily.com/1021572/skondal-terrace-houses-karlsson-lauri-arkitekter"
+      "https://www.archdaily.com/1021572/skondal-terrace-houses-karlsson-lauri-arkitekter",
+      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
       "https://www.archdaily.com/1040030/villa-lyla-saota",
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
       "https://www.archdaily.com/1040086/v-house-23o5studio",
@@ -1060,7 +1059,9 @@
       "https://www.archdaily.com/1148839/ma-house-atibaia-estudio-rossi-arquitetos",
       "https://www.archdaily.com/1148769/blue-house-extrastudio",
       "https://www.archdaily.com/1148703/ensenada-house-paralelo-transversal",
-      "https://www.archdaily.com/1148554/house-hotelito"
+      "https://www.archdaily.com/1148554/house-hotelito",
+      "https://www.archdaily.com/1148934/curved-house-efcarquitetura",
+      "https://www.archdaily.com/1148825/house-in-san-isidro"
     ],
     "archive_page": 141
   },
@@ -1419,7 +1420,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/14/payette-net-zero-timber-farm-stand-massachusetts/",
       "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
       "https://www.dezeen.com/2026/04/15/house-born-four-soils-hiren-patel-architects-design/",
       "https://www.dezeen.com/2026/04/15/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk/",
@@ -1811,7 +1811,9 @@
       "https://www.dezeen.com/2026/07/17/crystal-palace-dinosaurs-restored-hta-design/",
       "https://www.dezeen.com/2026/07/17/note-design-studio-villa-osterlen-sweden/",
       "https://www.dezeen.com/2026/07/17/ponte-morandi-bridge-collapse-sentence/",
-      "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/"
+      "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/07/18/nokia-dumbphones-ai-powered-buttons-this-week/",
+      "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/"
     ],
     "archive_page": 2
   },
@@ -1973,7 +1975,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
@@ -2024,7 +2025,8 @@
       "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
       "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
-      "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/"
+      "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
+      "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/"
     ],
     "archive_page": 2
   },
@@ -2315,10 +2317,10 @@
       "https://landezine.com/averbode-abbey-square-by-omgeving/",
       "https://landezine.com/the-slaughterhouse-site-in-holstebro-by-bogl/",
       "https://landezine.com/bureplatsen-by-niva/",
-      "https://landezine.com/kossuth-square-kispest-by-leptek-terv/"
+      "https://landezine.com/kossuth-square-kispest-by-leptek-terv/",
+      "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/"
     ],
     "queue_new": [
-      "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/",
       "https://landezine.com/the-garden-of-migrations-by-agence-aps/",
       "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/",
       "https://landezine.com/the-ruins-by-estudio-ome/",
