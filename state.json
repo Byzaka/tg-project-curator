@@ -288,7 +288,8 @@
       "https://leibal.com/interiors/7-eight/",
       "https://leibal.com/interiors/marbella-apartment/",
       "https://leibal.com/interiors/heathside-house/",
-      "https://leibal.com/interiors/maison-butte-bergeyre/"
+      "https://leibal.com/interiors/maison-butte-bergeyre/",
+      "https://leibal.com/interiors/land-of-peace/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -582,7 +583,8 @@
       "https://www.archdaily.com/1021542/olivos-house-gonzalo-bardach-arquitectura",
       "https://www.archdaily.com/1040093/hopetoun-house-fgr-architects",
       "https://www.archdaily.com/1021572/skondal-terrace-houses-karlsson-lauri-arkitekter",
-      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects"
+      "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
+      "https://www.archdaily.com/1020892/paricatuba-house-iapo-estudio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040030/villa-lyla-saota",
@@ -1061,9 +1063,10 @@
       "https://www.archdaily.com/1148703/ensenada-house-paralelo-transversal",
       "https://www.archdaily.com/1148554/house-hotelito",
       "https://www.archdaily.com/1148934/curved-house-efcarquitetura",
-      "https://www.archdaily.com/1148825/house-in-san-isidro"
+      "https://www.archdaily.com/1148825/house-in-san-isidro",
+      "https://www.archdaily.com/1092473/elementary-house-yumi-architekci"
     ],
-    "archive_page": 141
+    "archive_page": 142
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1420,7 +1423,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
       "https://www.dezeen.com/2026/04/15/house-born-four-soils-hiren-patel-architects-design/",
       "https://www.dezeen.com/2026/04/15/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk/",
       "https://www.dezeen.com/2026/04/15/christ-gantenbein-dongjak-art-space/",
@@ -1813,7 +1815,8 @@
       "https://www.dezeen.com/2026/07/17/ponte-morandi-bridge-collapse-sentence/",
       "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/07/18/nokia-dumbphones-ai-powered-buttons-this-week/",
-      "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/"
+      "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
+      "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/"
     ],
     "archive_page": 2
   },
@@ -1975,7 +1978,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/27/studio-multi-tabitha-isobel-coppermaker-square-co-working-space/",
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
@@ -2026,7 +2028,9 @@
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
       "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
       "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
-      "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/"
+      "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/",
+      "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
+      "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/"
     ],
     "archive_page": 2
   },
@@ -2318,10 +2322,10 @@
       "https://landezine.com/the-slaughterhouse-site-in-holstebro-by-bogl/",
       "https://landezine.com/bureplatsen-by-niva/",
       "https://landezine.com/kossuth-square-kispest-by-leptek-terv/",
-      "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/"
+      "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/",
+      "https://landezine.com/the-garden-of-migrations-by-agence-aps/"
     ],
     "queue_new": [
-      "https://landezine.com/the-garden-of-migrations-by-agence-aps/",
       "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/",
       "https://landezine.com/the-ruins-by-estudio-ome/",
       "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/",
