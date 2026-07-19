@@ -289,7 +289,8 @@
       "https://leibal.com/interiors/marbella-apartment/",
       "https://leibal.com/interiors/heathside-house/",
       "https://leibal.com/interiors/maison-butte-bergeyre/",
-      "https://leibal.com/interiors/land-of-peace/"
+      "https://leibal.com/interiors/land-of-peace/",
+      "https://leibal.com/interiors/home-for-mutual-gaze/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -585,7 +586,8 @@
       "https://www.archdaily.com/1021572/skondal-terrace-houses-karlsson-lauri-arkitekter",
       "https://www.archdaily.com/1040158/scarlet-pavilion-duha-architects",
       "https://www.archdaily.com/1020892/paricatuba-house-iapo-estudio",
-      "https://www.archdaily.com/1040030/villa-lyla-saota"
+      "https://www.archdaily.com/1040030/villa-lyla-saota",
+      "https://www.archdaily.com/1021066/weald-house-mailendesign-plus-peter-bradford-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
@@ -1069,7 +1071,7 @@
       "https://www.archdaily.com/1148559/jng-house-bodinchapa-architects",
       "https://www.archdaily.com/1148902/veredas-apartment-novais-arquitetura"
     ],
-    "archive_page": 142
+    "archive_page": 143
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1427,7 +1429,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/15/va-east-museum-odonnell-tuomey-ja-projects-studio-mutt-london-uk/",
       "https://www.dezeen.com/2026/04/15/christ-gantenbein-dongjak-art-space/",
       "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
       "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
@@ -1819,7 +1820,9 @@
       "https://www.dezeen.com/2026/07/17/world-cup-future-stadium-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/07/18/nokia-dumbphones-ai-powered-buttons-this-week/",
       "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
-      "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/"
+      "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
+      "https://www.dezeen.com/2026/07/19/2030-world-cup-stadiums-future-stadium/",
+      "https://www.dezeen.com/2026/07/19/tokyo-ballet-house-kenta-sano-associates-architects-japan-dance-studio/"
     ],
     "archive_page": 2
   },
@@ -1981,7 +1984,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
@@ -2034,7 +2036,8 @@
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
       "https://www.dezeen.com/2026/07/18/oma-oberon-restaurant-new-museum-new-york-city/",
-      "https://www.dezeen.com/2026/07/19/cinderella-house-ysg-redfern-sydney-australia/"
+      "https://www.dezeen.com/2026/07/19/cinderella-house-ysg-redfern-sydney-australia/",
+      "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/"
     ],
     "archive_page": 2
   },
@@ -2328,10 +2331,10 @@
       "https://landezine.com/kossuth-square-kispest-by-leptek-terv/",
       "https://landezine.com/stadtgarten-auf-dem-bunker-hamburg-st-pauli/",
       "https://landezine.com/the-garden-of-migrations-by-agence-aps/",
-      "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/"
+      "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/",
+      "https://landezine.com/the-ruins-by-estudio-ome/"
     ],
     "queue_new": [
-      "https://landezine.com/the-ruins-by-estudio-ome/",
       "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/",
       "https://landezine.com/tepoztlan-spa-by-paar-taller/",
       "https://landezine.com/winkelriedplatz-by-frl/",
@@ -2686,7 +2689,7 @@
       "https://landezine.com/santa-clotilde-gardens-by-scob-architecture-and-landscape/",
       "https://landezine.com/metiushof-by-kcap/"
     ],
-    "archive_page": 158
+    "archive_page": 163
   },
   "monstrum_projects": {
     "sent_urls": [
