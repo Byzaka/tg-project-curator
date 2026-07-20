@@ -290,9 +290,12 @@
       "https://leibal.com/interiors/heathside-house/",
       "https://leibal.com/interiors/maison-butte-bergeyre/",
       "https://leibal.com/interiors/land-of-peace/",
-      "https://leibal.com/interiors/home-for-mutual-gaze/"
+      "https://leibal.com/interiors/home-for-mutual-gaze/",
+      "https://leibal.com/interiors/apartment-i/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/springs-residence/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -588,7 +591,8 @@
       "https://www.archdaily.com/1020892/paricatuba-house-iapo-estudio",
       "https://www.archdaily.com/1040030/villa-lyla-saota",
       "https://www.archdaily.com/1021066/weald-house-mailendesign-plus-peter-bradford-architects",
-      "https://www.archdaily.com/1039990/capuchinas-house-labarq"
+      "https://www.archdaily.com/1039990/capuchinas-house-labarq",
+      "https://www.archdaily.com/1021098/alto-residencial-coop-carbajo-barrios-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040086/v-house-23o5studio",
@@ -1073,9 +1077,10 @@
       "https://www.archdaily.com/1148884/splitscape-residence-spacedna",
       "https://www.archdaily.com/1148742/thomas-residence-embrace-architects",
       "https://www.archdaily.com/1148926/illapangui-del-peumo-house-vergara-arquitectos",
-      "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades"
+      "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades",
+      "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji"
     ],
-    "archive_page": 143
+    "archive_page": 144
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1433,7 +1438,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/15/art-installations-peter-zumthor-lacma-california/",
       "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
       "https://www.dezeen.com/2026/04/16/sosokki-anac-abogoga-cafe/",
       "https://www.dezeen.com/2026/04/16/famous-stalled-projects-construction/",
@@ -1825,7 +1829,11 @@
       "https://www.dezeen.com/2026/07/17/historic-stadium-architecture/",
       "https://www.dezeen.com/2026/07/18/tp-link-lxd-tech-campus-kpf-china/",
       "https://www.dezeen.com/2026/07/19/2030-world-cup-stadiums-future-stadium/",
-      "https://www.dezeen.com/2026/07/19/tokyo-ballet-house-kenta-sano-associates-architects-japan-dance-studio/"
+      "https://www.dezeen.com/2026/07/19/tokyo-ballet-house-kenta-sano-associates-architects-japan-dance-studio/",
+      "https://www.dezeen.com/2026/07/20/dakar-bubble-houses-andrea-ferro/",
+      "https://www.dezeen.com/2026/07/20/vector-architects-aranya-art-center-guangzhou/",
+      "https://www.dezeen.com/2026/07/20/yn-studio-tile-house/",
+      "https://www.dezeen.com/2026/07/20/tottenham-hotspur-stadium-populous/"
     ],
     "archive_page": 2
   },
@@ -1987,7 +1995,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
@@ -2338,10 +2345,10 @@
       "https://landezine.com/the-garden-of-migrations-by-agence-aps/",
       "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/",
       "https://landezine.com/the-ruins-by-estudio-ome/",
-      "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/"
+      "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/",
+      "https://landezine.com/tepoztlan-spa-by-paar-taller/"
     ],
     "queue_new": [
-      "https://landezine.com/tepoztlan-spa-by-paar-taller/",
       "https://landezine.com/winkelriedplatz-by-frl/",
       "https://landezine.com/jardins-de-metis-rotunda-by-citylaboratory/",
       "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/",
@@ -2692,7 +2699,8 @@
       "https://landezine.com/anticipating-the-landscape-by-andrew-van-egmond/",
       "https://landezine.com/the-waterfront-promenade-at-aker-brygge-by-link-landskap/",
       "https://landezine.com/santa-clotilde-gardens-by-scob-architecture-and-landscape/",
-      "https://landezine.com/metiushof-by-kcap/"
+      "https://landezine.com/metiushof-by-kcap/",
+      "https://landezine.com/playground-in-genicart-sud-by-base/"
     ],
     "archive_page": 163
   },
