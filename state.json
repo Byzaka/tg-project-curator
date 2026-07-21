@@ -291,11 +291,10 @@
       "https://leibal.com/interiors/maison-butte-bergeyre/",
       "https://leibal.com/interiors/land-of-peace/",
       "https://leibal.com/interiors/home-for-mutual-gaze/",
-      "https://leibal.com/interiors/apartment-i/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/apartment-i/",
       "https://leibal.com/interiors/springs-residence/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -592,10 +591,10 @@
       "https://www.archdaily.com/1040030/villa-lyla-saota",
       "https://www.archdaily.com/1021066/weald-house-mailendesign-plus-peter-bradford-architects",
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
-      "https://www.archdaily.com/1021098/alto-residencial-coop-carbajo-barrios-arquitectos"
+      "https://www.archdaily.com/1021098/alto-residencial-coop-carbajo-barrios-arquitectos",
+      "https://www.archdaily.com/1040086/v-house-23o5studio"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040086/v-house-23o5studio",
       "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
       "https://www.archdaily.com/1040191/h168-house-only-human",
       "https://www.archdaily.com/1039959/light-house-studioninedots",
@@ -1078,7 +1077,11 @@
       "https://www.archdaily.com/1148742/thomas-residence-embrace-architects",
       "https://www.archdaily.com/1148926/illapangui-del-peumo-house-vergara-arquitectos",
       "https://www.archdaily.com/1148881/casa-libertad-clusellas-ades",
-      "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji"
+      "https://www.archdaily.com/1148815/a-courtyard-house-office-mi-ji",
+      "https://www.archdaily.com/1148951/nana-house-daniel-fromer",
+      "https://www.archdaily.com/1181244/kul-nosara-qbo3-arquitectos",
+      "https://www.archdaily.com/1181271/de-jonghe-residence-restoration-michel-architects",
+      "https://www.archdaily.com/1181304/threshold-house-david-macias"
     ],
     "archive_page": 144
   },
@@ -1249,7 +1252,8 @@
       "https://www.archdaily.com/1057032/treehouse-studio-memm",
       "https://www.archdaily.com/1056629/aurea-space-julia-faria",
       "https://www.archdaily.com/1148725/scala-san-filippo-caarpa",
-      "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos"
+      "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
+      "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo"
     ],
     "queue_new": [],
     "archive_page": 77
@@ -1438,7 +1442,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
       "https://www.dezeen.com/2026/04/16/sosokki-anac-abogoga-cafe/",
       "https://www.dezeen.com/2026/04/16/famous-stalled-projects-construction/",
       "https://www.dezeen.com/2026/04/16/kolkata-cricket-stadium-populous-eden-gardens/",
@@ -1995,7 +1998,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
       "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
@@ -2049,7 +2051,9 @@
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
       "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
       "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
-      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/"
+      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
+      "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
+      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/"
     ],
     "archive_page": 2
   },
@@ -2346,10 +2350,10 @@
       "https://landezine.com/bunker-599-by-raaaf-atelier-de-lyon/",
       "https://landezine.com/the-ruins-by-estudio-ome/",
       "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/",
-      "https://landezine.com/tepoztlan-spa-by-paar-taller/"
+      "https://landezine.com/tepoztlan-spa-by-paar-taller/",
+      "https://landezine.com/winkelriedplatz-by-frl/"
     ],
     "queue_new": [
-      "https://landezine.com/winkelriedplatz-by-frl/",
       "https://landezine.com/jardins-de-metis-rotunda-by-citylaboratory/",
       "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/",
       "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/",
