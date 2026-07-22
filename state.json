@@ -294,9 +294,12 @@
       "https://leibal.com/interiors/apartment-i/",
       "https://leibal.com/interiors/springs-residence/",
       "https://leibal.com/a-day-in/monogram-penthouse/",
-      "https://leibal.com/interiors/villa-clarisse/"
+      "https://leibal.com/interiors/villa-clarisse/",
+      "https://leibal.com/interiors/apartamento-jls/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/estudio-ruido-branco/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -596,7 +599,8 @@
       "https://www.archdaily.com/1021098/alto-residencial-coop-carbajo-barrios-arquitectos",
       "https://www.archdaily.com/1040086/v-house-23o5studio",
       "https://www.archdaily.com/974174/fm-house-sontangmsiregar-architects",
-      "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura"
+      "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
+      "https://www.archdaily.com/1002266/house-patios-of-petals-sandra-micaela-casinha-atelier"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040191/h168-house-only-human",
@@ -1094,7 +1098,7 @@
       "https://www.archdaily.com/1148797/casa-culo-ohlab",
       "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes"
     ],
-    "archive_page": 145
+    "archive_page": 146
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1453,7 +1457,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/16/kolkata-cricket-stadium-populous-eden-gardens/",
       "https://www.dezeen.com/2026/04/16/woods-bagot-modular-terminal-lax/",
       "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
       "https://www.dezeen.com/2026/04/16/mies-van-der-rohe-award-2026/",
@@ -1849,7 +1852,11 @@
       "https://www.dezeen.com/2026/07/21/sunflower-network-project-horizon-hospital-ukraine/",
       "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
       "https://www.dezeen.com/2026/07/21/lifeline-community-centre-assemble/",
-      "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/"
+      "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/",
+      "https://www.dezeen.com/2026/07/21/future-stadium-sports-anchored-districts-development/",
+      "https://www.dezeen.com/2026/07/22/mvrdv-urban-revivo-flagship-beijing/",
+      "https://www.dezeen.com/2026/07/22/kenta-hirayama-house-in-kinuta/",
+      "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/"
     ],
     "archive_page": 2
   },
@@ -2011,7 +2018,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
       "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
@@ -2366,10 +2372,10 @@
       "https://landezine.com/tepoztlan-spa-by-paar-taller/",
       "https://landezine.com/winkelriedplatz-by-frl/",
       "https://landezine.com/jardins-de-metis-rotunda-by-citylaboratory/",
-      "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/"
+      "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/",
+      "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/"
     ],
     "queue_new": [
-      "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/",
       "https://landezine.com/krater-ljubljana-creative-laboratory-in-a-construction-pit-by-krater-collective/",
       "https://landezine.com/rwanda-institute-for-conservation-agriculture-by-mass-design-group/",
       "https://landezine.com/zollverein-park-by-planergruppe-gmbh/",
@@ -2718,7 +2724,9 @@
       "https://landezine.com/santa-clotilde-gardens-by-scob-architecture-and-landscape/",
       "https://landezine.com/metiushof-by-kcap/",
       "https://landezine.com/playground-in-genicart-sud-by-base/",
-      "https://landezine.com/lake-whitney-water-treatment-facility-by-mvva/"
+      "https://landezine.com/lake-whitney-water-treatment-facility-by-mvva/",
+      "https://landezine.com/free-competition-botanical-turn/",
+      "https://landezine.com/cemetery-design-igualada/"
     ],
     "archive_page": 163
   },
