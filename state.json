@@ -293,11 +293,10 @@
       "https://leibal.com/interiors/home-for-mutual-gaze/",
       "https://leibal.com/interiors/apartment-i/",
       "https://leibal.com/interiors/springs-residence/",
-      "https://leibal.com/a-day-in/monogram-penthouse/"
-    ],
-    "queue_new": [
+      "https://leibal.com/a-day-in/monogram-penthouse/",
       "https://leibal.com/interiors/villa-clarisse/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -596,10 +595,10 @@
       "https://www.archdaily.com/1039990/capuchinas-house-labarq",
       "https://www.archdaily.com/1021098/alto-residencial-coop-carbajo-barrios-arquitectos",
       "https://www.archdaily.com/1040086/v-house-23o5studio",
-      "https://www.archdaily.com/974174/fm-house-sontangmsiregar-architects"
+      "https://www.archdaily.com/974174/fm-house-sontangmsiregar-architects",
+      "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
       "https://www.archdaily.com/1040191/h168-house-only-human",
       "https://www.archdaily.com/1039959/light-house-studioninedots",
       "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
@@ -1089,7 +1088,11 @@
       "https://www.archdaily.com/1181249/glade-house-ming-architects",
       "https://www.archdaily.com/1181250/pamoja-house-project-51-a-h",
       "https://www.archdaily.com/1181247/skylark-house-house-of-em",
-      "https://www.archdaily.com/1181262/nereidas-homes-studio-font"
+      "https://www.archdaily.com/1181262/nereidas-homes-studio-font",
+      "https://www.archdaily.com/1181404/martha-beatriz-house-atempo-arquitectura",
+      "https://www.archdaily.com/1181317/casa-ponta-fina-aiuruoca-gil-mello-arquitetura",
+      "https://www.archdaily.com/1148797/casa-culo-ohlab",
+      "https://www.archdaily.com/1148879/racine-carree-social-housing-rue-royale-architectes"
     ],
     "archive_page": 145
   },
@@ -1450,7 +1453,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/16/famous-stalled-projects-construction/",
       "https://www.dezeen.com/2026/04/16/kolkata-cricket-stadium-populous-eden-gardens/",
       "https://www.dezeen.com/2026/04/16/woods-bagot-modular-terminal-lax/",
       "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
@@ -1846,7 +1848,8 @@
       "https://www.dezeen.com/2026/07/20/tottenham-hotspur-stadium-populous/",
       "https://www.dezeen.com/2026/07/21/sunflower-network-project-horizon-hospital-ukraine/",
       "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
-      "https://www.dezeen.com/2026/07/21/lifeline-community-centre-assemble/"
+      "https://www.dezeen.com/2026/07/21/lifeline-community-centre-assemble/",
+      "https://www.dezeen.com/2026/07/21/rerucha-studio-park-house-seattle/"
     ],
     "archive_page": 2
   },
@@ -2008,7 +2011,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/05/31/mil-studios-junge-office-madrid/",
@@ -2063,7 +2065,8 @@
       "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
       "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
       "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
-      "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/"
+      "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
+      "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/"
     ],
     "archive_page": 2
   },
@@ -2362,10 +2365,10 @@
       "https://landezine.com/casa-montessori-orff-school-by-straub-thurmayr/",
       "https://landezine.com/tepoztlan-spa-by-paar-taller/",
       "https://landezine.com/winkelriedplatz-by-frl/",
-      "https://landezine.com/jardins-de-metis-rotunda-by-citylaboratory/"
+      "https://landezine.com/jardins-de-metis-rotunda-by-citylaboratory/",
+      "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/"
     ],
     "queue_new": [
-      "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/",
       "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/",
       "https://landezine.com/krater-ljubljana-creative-laboratory-in-a-construction-pit-by-krater-collective/",
       "https://landezine.com/rwanda-institute-for-conservation-agriculture-by-mass-design-group/",
@@ -2714,7 +2717,8 @@
       "https://landezine.com/the-waterfront-promenade-at-aker-brygge-by-link-landskap/",
       "https://landezine.com/santa-clotilde-gardens-by-scob-architecture-and-landscape/",
       "https://landezine.com/metiushof-by-kcap/",
-      "https://landezine.com/playground-in-genicart-sud-by-base/"
+      "https://landezine.com/playground-in-genicart-sud-by-base/",
+      "https://landezine.com/lake-whitney-water-treatment-facility-by-mvva/"
     ],
     "archive_page": 163
   },
