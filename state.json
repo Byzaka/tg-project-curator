@@ -70,11 +70,10 @@
       "https://leibal.com/interiors/house-in-rorum/",
       "https://leibal.com/architecture/casa-san-francisco-2/",
       "https://leibal.com/interiors/maison-butte-bergeyre/",
-      "https://leibal.com/interiors/coastal-villa/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/coastal-villa/",
       "https://leibal.com/interiors/cecebre-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "leibal_int": {
@@ -300,11 +299,10 @@
       "https://leibal.com/interiors/villa-clarisse/",
       "https://leibal.com/interiors/apartamento-jls/",
       "https://leibal.com/interiors/estudio-ruido-branco/",
-      "https://leibal.com/interiors/coastal-villa/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/coastal-villa/",
       "https://leibal.com/interiors/cecebre-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -607,10 +605,10 @@
       "https://www.archdaily.com/1039896/perobinha-house-poro-arquitetura",
       "https://www.archdaily.com/1002266/house-patios-of-petals-sandra-micaela-casinha-atelier",
       "https://www.archdaily.com/1040191/h168-house-only-human",
-      "https://www.archdaily.com/1021399/moongate-adu-cover-architecture"
+      "https://www.archdaily.com/1021399/moongate-adu-cover-architecture",
+      "https://www.archdaily.com/1039959/light-house-studioninedots"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039959/light-house-studioninedots",
       "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
       "https://www.archdaily.com/1040133/real-house-hk-associates-inc",
       "https://www.archdaily.com/1040127/apartment-a",
@@ -1107,7 +1105,11 @@
       "https://www.archdaily.com/1181428/casa-para-ver-la-pena-tenter-studio",
       "https://www.archdaily.com/1181368/ja-house-ayoub-architects",
       "https://www.archdaily.com/1181423/apartment-in-uehara-ultra-studio",
-      "https://www.archdaily.com/1148866/green-lodge-stylus-architects"
+      "https://www.archdaily.com/1148866/green-lodge-stylus-architects",
+      "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
+      "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
+      "https://www.archdaily.com/1181419/carla-ridge-house-montalba-architects",
+      "https://www.archdaily.com/1181357/cinco-house-memola-estudio"
     ],
     "archive_page": 147
   },
@@ -1280,9 +1282,13 @@
       "https://www.archdaily.com/1148725/scala-san-filippo-caarpa",
       "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
       "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo",
-      "https://www.archdaily.com/1148921/deadwood-hut-insight-architects"
+      "https://www.archdaily.com/1148921/deadwood-hut-insight-architects",
+      "https://www.archdaily.com/1149775/treng-treng-lookout-footbridge-arq-sostenible"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
+      "https://www.archdaily.com/1149936/blue-house-estudio-orth-plus-julieta-fialho-paisagismo"
+    ],
     "archive_page": 77
   },
   "dezeen_arch": {
@@ -1469,7 +1475,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/16/mies-van-der-rohe-award-2026/",
       "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
       "https://www.dezeen.com/2026/04/17/british-pavilion-2027-venice-architecture-biennale-festival-of-hungry-ghosts/",
       "https://www.dezeen.com/2026/04/17/milan-design-week-trump-arch-dezeen-weekly-podcast/",
@@ -1872,7 +1877,9 @@
       "https://www.dezeen.com/2026/07/23/hyan-green-sandwich-house-renovation-japan/",
       "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/",
       "https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/",
-      "https://www.dezeen.com/2026/07/23/santiago-bernabeu-renovation-future-stadium-gmp-architekten/"
+      "https://www.dezeen.com/2026/07/23/santiago-bernabeu-renovation-future-stadium-gmp-architekten/",
+      "https://www.dezeen.com/2026/07/23/dezeen-agenda-2030-world-cup-stadiums-future-stadium/",
+      "https://www.dezeen.com/2026/07/23/manica-kansas-city-chiefs-dome-stadium/"
     ],
     "archive_page": 2
   },
@@ -2034,7 +2041,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/",
       "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
       "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
@@ -2088,7 +2094,8 @@
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
-      "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/"
+      "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
+      "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/"
     ],
     "archive_page": 2
   },
@@ -2391,10 +2398,10 @@
       "https://landezine.com/georgswerder-energy-hill-by-hafnerjimenez-buro-fur-landschaftsarchitektur/",
       "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/",
       "https://landezine.com/krater-ljubljana-creative-laboratory-in-a-construction-pit-by-krater-collective/",
-      "https://landezine.com/rwanda-institute-for-conservation-agriculture-by-mass-design-group/"
+      "https://landezine.com/rwanda-institute-for-conservation-agriculture-by-mass-design-group/",
+      "https://landezine.com/zollverein-park-by-planergruppe-gmbh/"
     ],
     "queue_new": [
-      "https://landezine.com/zollverein-park-by-planergruppe-gmbh/",
       "https://landezine.com/mooi-mosterdhof-by-veenenbos-en-bosch-landscape-architecture/",
       "https://landezine.com/willow-street-garden-by-mvva/",
       "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
