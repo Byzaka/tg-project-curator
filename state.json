@@ -300,9 +300,12 @@
       "https://leibal.com/interiors/apartamento-jls/",
       "https://leibal.com/interiors/estudio-ruido-branco/",
       "https://leibal.com/interiors/coastal-villa/",
-      "https://leibal.com/interiors/cecebre-house/"
+      "https://leibal.com/interiors/cecebre-house/",
+      "https://leibal.com/interiors/franqueville/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/arcipressi/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -606,7 +609,8 @@
       "https://www.archdaily.com/1002266/house-patios-of-petals-sandra-micaela-casinha-atelier",
       "https://www.archdaily.com/1040191/h168-house-only-human",
       "https://www.archdaily.com/1021399/moongate-adu-cover-architecture",
-      "https://www.archdaily.com/1039959/light-house-studioninedots"
+      "https://www.archdaily.com/1039959/light-house-studioninedots",
+      "https://www.archdaily.com/1022223/station-road-extensions-delve-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
@@ -1109,9 +1113,12 @@
       "https://www.archdaily.com/1181260/casa-diez-pies-studio-font",
       "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
       "https://www.archdaily.com/1181419/carla-ridge-house-montalba-architects",
-      "https://www.archdaily.com/1181357/cinco-house-memola-estudio"
+      "https://www.archdaily.com/1181357/cinco-house-memola-estudio",
+      "https://www.archdaily.com/1181367/house-off-the-ground-nanometer-architecture",
+      "https://www.archdaily.com/1148654/casa-tramuntana",
+      "https://www.archdaily.com/1148743/house-malija-raketa-plus-tria-studio"
     ],
-    "archive_page": 147
+    "archive_page": 148
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1283,11 +1290,12 @@
       "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos",
       "https://www.archdaily.com/1148626/sugar-house-plus-atelier-guo",
       "https://www.archdaily.com/1148921/deadwood-hut-insight-architects",
-      "https://www.archdaily.com/1149775/treng-treng-lookout-footbridge-arq-sostenible"
+      "https://www.archdaily.com/1149775/treng-treng-lookout-footbridge-arq-sostenible",
+      "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
-      "https://www.archdaily.com/1149936/blue-house-estudio-orth-plus-julieta-fialho-paisagismo"
+      "https://www.archdaily.com/1149936/blue-house-estudio-orth-plus-julieta-fialho-paisagismo",
+      "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews"
     ],
     "archive_page": 77
   },
@@ -1475,7 +1483,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
       "https://www.dezeen.com/2026/04/17/british-pavilion-2027-venice-architecture-biennale-festival-of-hungry-ghosts/",
       "https://www.dezeen.com/2026/04/17/milan-design-week-trump-arch-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
@@ -1879,7 +1886,11 @@
       "https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/",
       "https://www.dezeen.com/2026/07/23/santiago-bernabeu-renovation-future-stadium-gmp-architekten/",
       "https://www.dezeen.com/2026/07/23/dezeen-agenda-2030-world-cup-stadiums-future-stadium/",
-      "https://www.dezeen.com/2026/07/23/manica-kansas-city-chiefs-dome-stadium/"
+      "https://www.dezeen.com/2026/07/23/manica-kansas-city-chiefs-dome-stadium/",
+      "https://www.dezeen.com/2026/07/24/sanaa-design-for-national-museum-of-ecuador-selected/",
+      "https://www.dezeen.com/2026/07/24/mvrdv-rotterdam-rocks-shift-competition-comments/",
+      "https://www.dezeen.com/2026/07/24/stirling-prize-space-mirror-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/07/24/rdh-cechvala-architects/"
     ],
     "archive_page": 2
   },
@@ -2041,7 +2052,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
       "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
       "https://www.dezeen.com/2026/05/28/alex-chinneck-dior-window-displays/",
       "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
@@ -2399,10 +2409,10 @@
       "https://landezine.com/piazza-nember-by-stradivarie-associated-architects/",
       "https://landezine.com/krater-ljubljana-creative-laboratory-in-a-construction-pit-by-krater-collective/",
       "https://landezine.com/rwanda-institute-for-conservation-agriculture-by-mass-design-group/",
-      "https://landezine.com/zollverein-park-by-planergruppe-gmbh/"
+      "https://landezine.com/zollverein-park-by-planergruppe-gmbh/",
+      "https://landezine.com/mooi-mosterdhof-by-veenenbos-en-bosch-landscape-architecture/"
     ],
     "queue_new": [
-      "https://landezine.com/mooi-mosterdhof-by-veenenbos-en-bosch-landscape-architecture/",
       "https://landezine.com/willow-street-garden-by-mvva/",
       "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
       "https://landezine.com/paddington-reservoir-by-jmd-design/",
