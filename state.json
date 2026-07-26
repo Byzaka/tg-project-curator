@@ -612,10 +612,10 @@
       "https://www.archdaily.com/1039959/light-house-studioninedots",
       "https://www.archdaily.com/1022223/station-road-extensions-delve-architects",
       "https://www.archdaily.com/1040202/house-in-the-city-james-allen-architect",
-      "https://www.archdaily.com/1023403/3-house-baquio-arquitectura"
+      "https://www.archdaily.com/1023403/3-house-baquio-arquitectura",
+      "https://www.archdaily.com/1040133/real-house-hk-associates-inc"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040133/real-house-hk-associates-inc",
       "https://www.archdaily.com/1040127/apartment-a",
       "https://www.archdaily.com/1039532/luaa-house-ana-smud",
       "https://www.archdaily.com/1040252/pbr-house-studio-saransh",
@@ -1122,7 +1122,11 @@
       "https://www.archdaily.com/1181432/23-living-plan-b-arquitectos",
       "https://www.archdaily.com/1181620/mel-house-francisco-lang-arquitetura",
       "https://www.archdaily.com/1181572/lomadas-house-grizzo-studio",
-      "https://www.archdaily.com/1148756/bentinck-agence-ontwerp"
+      "https://www.archdaily.com/1148756/bentinck-agence-ontwerp",
+      "https://www.archdaily.com/1181279/ochre-residence-thought-parallels",
+      "https://www.archdaily.com/1148795/full-renovation-lvl-abaton",
+      "https://www.archdaily.com/1181479/wildcoast-residence-studio-kennon",
+      "https://www.archdaily.com/1181636/o-house-yes-architects"
     ],
     "archive_page": 149
   },
@@ -1299,11 +1303,10 @@
       "https://www.archdaily.com/1149775/treng-treng-lookout-footbridge-arq-sostenible",
       "https://www.archdaily.com/1181567/rene-schneider-park-caw-arquitectos",
       "https://www.archdaily.com/1149936/blue-house-estudio-orth-plus-julieta-fialho-paisagismo",
-      "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews"
-    ],
-    "queue_new": [
+      "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
       "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria"
     ],
+    "queue_new": [],
     "archive_page": 78
   },
   "dezeen_arch": {
@@ -1490,7 +1493,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
       "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/",
       "https://www.dezeen.com/2026/04/17/hillman-library-renovation-gbbn-university-pittsburgh/",
       "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
@@ -2062,7 +2064,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/20/cc-residence-renovation-brooklyn-plan-plan/",
       "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
       "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
@@ -2422,10 +2423,10 @@
       "https://landezine.com/zollverein-park-by-planergruppe-gmbh/",
       "https://landezine.com/mooi-mosterdhof-by-veenenbos-en-bosch-landscape-architecture/",
       "https://landezine.com/willow-street-garden-by-mvva/",
-      "https://landezine.com/cycling-through-the-trees-by-burolandschap/"
+      "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
+      "https://landezine.com/paddington-reservoir-by-jmd-design/"
     ],
     "queue_new": [
-      "https://landezine.com/paddington-reservoir-by-jmd-design/",
       "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/",
       "https://landezine.com/housing-steinwies-irisstrasse/",
       "https://landezine.com/birzhevaya-square-by-karres-en-brands/",
