@@ -616,7 +616,8 @@
       "https://www.archdaily.com/1023403/3-house-baquio-arquitectura",
       "https://www.archdaily.com/1040133/real-house-hk-associates-inc",
       "https://www.archdaily.com/1023462/full-house-warchitect",
-      "https://www.archdaily.com/1040127/apartment-a"
+      "https://www.archdaily.com/1040127/apartment-a",
+      "https://www.archdaily.com/1023327/shesher-kobita-residence-studio-morphogenesis"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039532/luaa-house-ana-smud",
@@ -1129,9 +1130,11 @@
       "https://www.archdaily.com/1148795/full-renovation-lvl-abaton",
       "https://www.archdaily.com/1181479/wildcoast-residence-studio-kennon",
       "https://www.archdaily.com/1181636/o-house-yes-architects",
-      "https://www.archdaily.com/1181504/the-house-of-green-court-andblack-design-studio"
+      "https://www.archdaily.com/1181504/the-house-of-green-court-andblack-design-studio",
+      "https://www.archdaily.com/1181472/cork-house-polysmiths",
+      "https://www.archdaily.com/1181251/casa-macahuite-studio-font"
     ],
-    "archive_page": 150
+    "archive_page": 151
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1308,7 +1311,8 @@
       "https://www.archdaily.com/1149936/blue-house-estudio-orth-plus-julieta-fialho-paisagismo",
       "https://www.archdaily.com/1148867/pavillon-of-the-sliding-doors-piertzovanis-toews",
       "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria",
-      "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture"
+      "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
+      "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences"
     ],
     "queue_new": [],
     "archive_page": 78
@@ -1497,7 +1501,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
       "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/",
       "https://www.dezeen.com/2026/04/19/startt-beyond-pantheon-rome/",
       "https://www.dezeen.com/2026/04/20/kere-architecture-goethe-institut/",
@@ -1905,7 +1908,10 @@
       "https://www.dezeen.com/2026/07/24/north-tower-skyscraper-400-lake-shore-drive-chicago-som/",
       "https://www.dezeen.com/2026/07/25/yano-aoyama-architecture-design-tobe-zoo-toilet/",
       "https://www.dezeen.com/2026/07/25/british-dormer-extensions-design-another-level/",
-      "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/"
+      "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
+      "https://www.dezeen.com/2026/07/27/cta-casa-mac-annexe-vietnam/",
+      "https://www.dezeen.com/2026/07/27/rshps-one-shanghai-tower/",
+      "https://www.dezeen.com/2026/07/27/no-10-north-manchester-digital-campus/"
     ],
     "archive_page": 2
   },
@@ -2067,7 +2073,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/31/lamartine-hotel-polanco-mexico-city-ppaa/",
       "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
@@ -2123,7 +2128,8 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
       "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
       "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
-      "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/"
+      "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
+      "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/"
     ],
     "archive_page": 2
   },
@@ -2433,10 +2439,10 @@
       "https://landezine.com/cycling-through-the-trees-by-burolandschap/",
       "https://landezine.com/paddington-reservoir-by-jmd-design/",
       "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/",
-      "https://landezine.com/housing-steinwies-irisstrasse/"
+      "https://landezine.com/housing-steinwies-irisstrasse/",
+      "https://landezine.com/birzhevaya-square-by-karres-en-brands/"
     ],
     "queue_new": [
-      "https://landezine.com/birzhevaya-square-by-karres-en-brands/",
       "https://landezine.com/bradfords-city-park-by-gillespies/",
       "https://landezine.com/21-23-april-conference-urbanscapes-2026/",
       "https://landezine.com/archstoyanie-park-by-wagon-landscaping/",
@@ -2778,7 +2784,8 @@
       "https://landezine.com/lake-whitney-water-treatment-facility-by-mvva/",
       "https://landezine.com/free-competition-botanical-turn/",
       "https://landezine.com/cemetery-design-igualada/",
-      "https://landezine.com/norrebro-gathers-on-the-field-by-masu-planning/"
+      "https://landezine.com/norrebro-gathers-on-the-field-by-masu-planning/",
+      "https://landezine.com/bio-towers-lauchhammer-by-hochc-landschaftsarchitekten/"
     ],
     "archive_page": 173
   },
