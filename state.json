@@ -71,7 +71,8 @@
       "https://leibal.com/architecture/casa-san-francisco-2/",
       "https://leibal.com/interiors/maison-butte-bergeyre/",
       "https://leibal.com/interiors/coastal-villa/",
-      "https://leibal.com/interiors/cecebre-house/"
+      "https://leibal.com/interiors/cecebre-house/",
+      "https://leibal.com/interiors/avenue/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -305,7 +306,8 @@
       "https://leibal.com/interiors/arcipressi/",
       "https://leibal.com/interiors/living-canvas/",
       "https://leibal.com/interiors/apartment-1701/",
-      "https://leibal.com/interiors/springfield-farm/"
+      "https://leibal.com/interiors/springfield-farm/",
+      "https://leibal.com/interiors/avenue/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -619,7 +621,8 @@
       "https://www.archdaily.com/1023462/full-house-warchitect",
       "https://www.archdaily.com/1040127/apartment-a",
       "https://www.archdaily.com/1023327/shesher-kobita-residence-studio-morphogenesis",
-      "https://www.archdaily.com/1039532/luaa-house-ana-smud"
+      "https://www.archdaily.com/1039532/luaa-house-ana-smud",
+      "https://www.archdaily.com/1023460/huebergass-and-district-park-bern-housing-gwj-architektur"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040252/pbr-house-studio-saransh",
@@ -1136,9 +1139,13 @@
       "https://www.archdaily.com/1181251/casa-macahuite-studio-font",
       "https://www.archdaily.com/1181509/colors-apartment-lucas-jimeno-dualde",
       "https://www.archdaily.com/1181365/c-plus-c-house-studio-maignan-architects",
-      "https://www.archdaily.com/1181645/muda-l11-pereira-miguel-arquitectos"
+      "https://www.archdaily.com/1181645/muda-l11-pereira-miguel-arquitectos",
+      "https://www.archdaily.com/1181648/mom-house-supra-simplicities",
+      "https://www.archdaily.com/1181690/the-orb-house-chiasmus-partners",
+      "https://www.archdaily.com/1148661/the-melody-house-modo-designs",
+      "https://www.archdaily.com/1181717/enfants-rouges-apartment-studio-carre"
     ],
-    "archive_page": 151
+    "archive_page": 152
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1505,7 +1512,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/19/startt-beyond-pantheon-rome/",
       "https://www.dezeen.com/2026/04/20/kere-architecture-goethe-institut/",
       "https://www.dezeen.com/2026/04/20/gender-pay-gap-uk-architecture-2/",
       "https://www.dezeen.com/2026/04/20/cherokee-heritage-center-oklahoma-safdie-architects/",
@@ -1916,7 +1922,12 @@
       "https://www.dezeen.com/2026/07/27/rshps-one-shanghai-tower/",
       "https://www.dezeen.com/2026/07/27/no-10-north-manchester-digital-campus/",
       "https://www.dezeen.com/2026/07/27/montreal-olympic-stadium-gmp-arcitekten-construction/",
-      "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/"
+      "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/",
+      "https://www.dezeen.com/2026/07/28/mackintosh-building-glasgow-school-of-art-fire-rebuild-rory-olcayto-opinion/",
+      "https://www.dezeen.com/2026/07/28/tashkent-modernism-unesco-world-heritage-site-soviet-architecture-uzbekistan-unesco/",
+      "https://www.dezeen.com/2026/07/28/frank-gehry-guggenheim-abu-dhabi-december-opening/",
+      "https://www.dezeen.com/2026/07/28/aalto-modernist-finland-unesco-world-heritage-list/",
+      "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/"
     ],
     "archive_page": 2
   },
@@ -2078,7 +2089,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
@@ -2133,7 +2143,9 @@
       "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
       "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
       "https://www.dezeen.com/2026/06/21/compact-warsaw-apartment-dawid-konieczyn/",
-      "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/"
+      "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
+      "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
+      "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/"
     ],
     "archive_page": 2
   },
@@ -2445,10 +2457,10 @@
       "https://landezine.com/dans-ma-benne-benne-benne-by-dientre/",
       "https://landezine.com/housing-steinwies-irisstrasse/",
       "https://landezine.com/birzhevaya-square-by-karres-en-brands/",
-      "https://landezine.com/bradfords-city-park-by-gillespies/"
+      "https://landezine.com/bradfords-city-park-by-gillespies/",
+      "https://landezine.com/21-23-april-conference-urbanscapes-2026/"
     ],
     "queue_new": [
-      "https://landezine.com/21-23-april-conference-urbanscapes-2026/",
       "https://landezine.com/archstoyanie-park-by-wagon-landscaping/",
       "https://landezine.com/sohlbergplassen-viewpoint/",
       "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
