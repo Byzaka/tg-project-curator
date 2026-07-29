@@ -72,7 +72,8 @@
       "https://leibal.com/interiors/maison-butte-bergeyre/",
       "https://leibal.com/interiors/coastal-villa/",
       "https://leibal.com/interiors/cecebre-house/",
-      "https://leibal.com/interiors/avenue/"
+      "https://leibal.com/interiors/avenue/",
+      "https://leibal.com/interiors/courtyard-house-7/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -307,7 +308,8 @@
       "https://leibal.com/interiors/living-canvas/",
       "https://leibal.com/interiors/apartment-1701/",
       "https://leibal.com/interiors/springfield-farm/",
-      "https://leibal.com/interiors/avenue/"
+      "https://leibal.com/interiors/avenue/",
+      "https://leibal.com/interiors/courtyard-house-7/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -623,7 +625,8 @@
       "https://www.archdaily.com/1023327/shesher-kobita-residence-studio-morphogenesis",
       "https://www.archdaily.com/1039532/luaa-house-ana-smud",
       "https://www.archdaily.com/1023460/huebergass-and-district-park-bern-housing-gwj-architektur",
-      "https://www.archdaily.com/1040252/pbr-house-studio-saransh"
+      "https://www.archdaily.com/1040252/pbr-house-studio-saransh",
+      "https://www.archdaily.com/1025823/house-of-the-alley-estudio-artigas"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects",
@@ -1147,9 +1150,11 @@
       "https://www.archdaily.com/1181705/tear-house-felipe-caboclo-arquitetura",
       "https://www.archdaily.com/1181644/ridge-residence-hsu-mccullough",
       "https://www.archdaily.com/1181719/rangunia-residence-moofer-architecture",
-      "https://www.archdaily.com/1181581/la-negrilla-house-croxatto-y-opazo-arquitectos"
+      "https://www.archdaily.com/1181581/la-negrilla-house-croxatto-y-opazo-arquitectos",
+      "https://www.archdaily.com/1181718/vinh-long-house-naq-architecture",
+      "https://www.archdaily.com/1181727/tokyo-ballet-house-kenta-sano-and-associates-architects"
     ],
-    "archive_page": 152
+    "archive_page": 153
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1330,7 +1335,7 @@
       "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences"
     ],
     "queue_new": [],
-    "archive_page": 78
+    "archive_page": 79
   },
   "dezeen_arch": {
     "sent_urls": [
@@ -1516,7 +1521,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/20/gender-pay-gap-uk-architecture-2/",
       "https://www.dezeen.com/2026/04/20/cherokee-heritage-center-oklahoma-safdie-architects/",
       "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/",
       "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
@@ -1933,7 +1937,9 @@
       "https://www.dezeen.com/2026/07/28/shenzhen-natural-history-museum-3xn/",
       "https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/",
       "https://www.dezeen.com/2026/07/28/gordie-howe-international-bridge-opens-traffic/",
-      "https://www.dezeen.com/2026/07/28/dezeen-debate-mvrdv-rotterdam-rocks-shift-competition/"
+      "https://www.dezeen.com/2026/07/28/dezeen-debate-mvrdv-rotterdam-rocks-shift-competition/",
+      "https://www.dezeen.com/2026/07/29/bricolage-castlands-road-self-build/",
+      "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/"
     ],
     "archive_page": 2
   },
@@ -2095,7 +2101,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
@@ -2466,10 +2471,10 @@
       "https://landezine.com/birzhevaya-square-by-karres-en-brands/",
       "https://landezine.com/bradfords-city-park-by-gillespies/",
       "https://landezine.com/21-23-april-conference-urbanscapes-2026/",
-      "https://landezine.com/archstoyanie-park-by-wagon-landscaping/"
+      "https://landezine.com/archstoyanie-park-by-wagon-landscaping/",
+      "https://landezine.com/sohlbergplassen-viewpoint/"
     ],
     "queue_new": [
-      "https://landezine.com/sohlbergplassen-viewpoint/",
       "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
       "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
       "https://landezine.com/times-square-redesign-by-snohetta-opens-today/",
