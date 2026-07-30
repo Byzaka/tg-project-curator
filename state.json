@@ -309,9 +309,12 @@
       "https://leibal.com/interiors/apartment-1701/",
       "https://leibal.com/interiors/springfield-farm/",
       "https://leibal.com/interiors/avenue/",
-      "https://leibal.com/interiors/courtyard-house-7/"
+      "https://leibal.com/interiors/courtyard-house-7/",
+      "https://leibal.com/interiors/the-dairy/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/beverly-hills-residence/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -627,7 +630,8 @@
       "https://www.archdaily.com/1023460/huebergass-and-district-park-bern-housing-gwj-architektur",
       "https://www.archdaily.com/1040252/pbr-house-studio-saransh",
       "https://www.archdaily.com/1025823/house-of-the-alley-estudio-artigas",
-      "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects"
+      "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects",
+      "https://www.archdaily.com/1027086/ccb-house-kiko-salomao-plus-marcio-tanaka"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto",
@@ -1156,9 +1160,10 @@
       "https://www.archdaily.com/1181702/sono-atelier-carle",
       "https://www.archdaily.com/1181847/caju-apartment-coda-arquitetura",
       "https://www.archdaily.com/1023045/catalejo-tololo-ugarte",
-      "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos"
+      "https://www.archdaily.com/1181767/mooca-house-andre-guerra-arquitetos",
+      "https://www.archdaily.com/1181835/mueonga-house-snow-aide"
     ],
-    "archive_page": 153
+    "archive_page": 154
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1525,7 +1530,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/",
       "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
       "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
       "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
@@ -1944,7 +1948,10 @@
       "https://www.dezeen.com/2026/07/29/bricolage-castlands-road-self-build/",
       "https://www.dezeen.com/2026/07/29/jan-kattein-architects-global-generation-community-garden-london/",
       "https://www.dezeen.com/2026/07/29/acdf-architecture-completes-red-white-quebec-apartment-building/",
-      "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/"
+      "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/",
+      "https://www.dezeen.com/2026/07/30/bengaluru-museum-innovation-startup-technology/",
+      "https://www.dezeen.com/2026/07/30/nanhai-buddha-pavilion-dodesign/",
+      "https://www.dezeen.com/2026/07/30/record-breaking-stadiums-future-stadium-roundup/"
     ],
     "archive_page": 2
   },
@@ -2106,7 +2113,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
@@ -2163,7 +2169,8 @@
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
       "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
-      "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/"
+      "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
+      "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/"
     ],
     "archive_page": 2
   },
@@ -2479,10 +2486,10 @@
       "https://landezine.com/21-23-april-conference-urbanscapes-2026/",
       "https://landezine.com/archstoyanie-park-by-wagon-landscaping/",
       "https://landezine.com/sohlbergplassen-viewpoint/",
-      "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/"
+      "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
+      "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/"
     ],
     "queue_new": [
-      "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
       "https://landezine.com/times-square-redesign-by-snohetta-opens-today/",
       "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/",
       "https://landezine.com/petite-saussaie-by-paysarchitectures/",
@@ -2819,7 +2826,8 @@
       "https://landezine.com/free-competition-botanical-turn/",
       "https://landezine.com/cemetery-design-igualada/",
       "https://landezine.com/norrebro-gathers-on-the-field-by-masu-planning/",
-      "https://landezine.com/bio-towers-lauchhammer-by-hochc-landschaftsarchitekten/"
+      "https://landezine.com/bio-towers-lauchhammer-by-hochc-landschaftsarchitekten/",
+      "https://landezine.com/3-november-international-garden-festival-of-chaumont-sur-loire/"
     ],
     "archive_page": 173
   },
