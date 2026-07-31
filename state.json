@@ -311,9 +311,12 @@
       "https://leibal.com/interiors/avenue/",
       "https://leibal.com/interiors/courtyard-house-7/",
       "https://leibal.com/interiors/the-dairy/",
-      "https://leibal.com/interiors/beverly-hills-residence/"
+      "https://leibal.com/interiors/beverly-hills-residence/",
+      "https://leibal.com/interiors/villa-in-recco/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/crystal-portal/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -631,7 +634,8 @@
       "https://www.archdaily.com/1025823/house-of-the-alley-estudio-artigas",
       "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects",
       "https://www.archdaily.com/1027086/ccb-house-kiko-salomao-plus-marcio-tanaka",
-      "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto"
+      "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto",
+      "https://www.archdaily.com/1026608/field-house-wilkinson-king-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter",
@@ -1165,9 +1169,11 @@
       "https://www.archdaily.com/1181896/live-oak-farm-pavilion-austin-sandy-architects",
       "https://www.archdaily.com/1181910/flow-house-felipe-caboclo-arquitetura",
       "https://www.archdaily.com/1181866/refuge-house-taller-segovia-molina",
-      "https://www.archdaily.com/1181913/agua-de-la-culebra-quincho-alvarez-railton-arquitectura"
+      "https://www.archdaily.com/1181913/agua-de-la-culebra-quincho-alvarez-railton-arquitectura",
+      "https://www.archdaily.com/1181872/mac-casa-cta-creative-architects",
+      "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design"
     ],
-    "archive_page": 154
+    "archive_page": 155
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1346,7 +1352,8 @@
       "https://www.archdaily.com/1148724/reggia-di-rivalta-openfabric-plus-caarpa-plus-fm-ingegneria",
       "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
       "https://www.archdaily.com/1148793/gabonsa-pavilion-hochschule-kaiserslautern-university-of-applied-sciences",
-      "https://www.archdaily.com/1181427/stool-tower-1y-architects"
+      "https://www.archdaily.com/1181427/stool-tower-1y-architects",
+      "https://www.archdaily.com/1181796/treebox"
     ],
     "queue_new": [],
     "archive_page": 79
@@ -1535,7 +1542,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
       "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
       "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
       "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/",
@@ -1959,7 +1965,12 @@
       "https://www.dezeen.com/2026/07/30/mountain-residence-california-spf-architects/",
       "https://www.dezeen.com/2026/07/30/dulles-revamp-trump-united-airlines-concept-rendering/",
       "https://www.dezeen.com/2026/07/30/hok-carolina-panthers-nfl-stadium-charlotte/",
-      "https://www.dezeen.com/2026/07/30/dezeen-agenda-features-guggenheim-abu-dhabi-opening-date/"
+      "https://www.dezeen.com/2026/07/30/dezeen-agenda-features-guggenheim-abu-dhabi-opening-date/",
+      "https://www.dezeen.com/2026/07/31/japan-takes-this-seriously-commenter/",
+      "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
+      "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
+      "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/"
     ],
     "archive_page": 2
   },
@@ -2121,7 +2132,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
@@ -2497,10 +2507,10 @@
       "https://landezine.com/sohlbergplassen-viewpoint/",
       "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
       "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
-      "https://landezine.com/times-square-redesign-by-snohetta-opens-today/"
+      "https://landezine.com/times-square-redesign-by-snohetta-opens-today/",
+      "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/"
     ],
     "queue_new": [
-      "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/",
       "https://landezine.com/petite-saussaie-by-paysarchitectures/",
       "https://landezine.com/lila-2020-terra-dominicata-hotel-winery/",
       "https://landezine.com/reblooming-here-erhai-lake-ecological-restoration-project/",
@@ -2837,7 +2847,8 @@
       "https://landezine.com/norrebro-gathers-on-the-field-by-masu-planning/",
       "https://landezine.com/bio-towers-lauchhammer-by-hochc-landschaftsarchitekten/",
       "https://landezine.com/3-november-international-garden-festival-of-chaumont-sur-loire/",
-      "https://landezine.com/platform-park-by-terremoto/"
+      "https://landezine.com/platform-park-by-terremoto/",
+      "https://landezine.com/the-little-project-by-ping-design-llc/"
     ],
     "archive_page": 173
   },
