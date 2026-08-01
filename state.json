@@ -312,11 +312,10 @@
       "https://leibal.com/interiors/courtyard-house-7/",
       "https://leibal.com/interiors/the-dairy/",
       "https://leibal.com/interiors/beverly-hills-residence/",
-      "https://leibal.com/interiors/villa-in-recco/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/villa-in-recco/",
       "https://leibal.com/interiors/crystal-portal/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -635,10 +634,10 @@
       "https://www.archdaily.com/1040245/toward-the-sun-summerhouse-tassos-biris-sofia-tsiraki-and-associate-architects",
       "https://www.archdaily.com/1027086/ccb-house-kiko-salomao-plus-marcio-tanaka",
       "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto",
-      "https://www.archdaily.com/1026608/field-house-wilkinson-king-architects"
+      "https://www.archdaily.com/1026608/field-house-wilkinson-king-architects",
+      "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter",
       "https://www.archdaily.com/1040250/henville-street-house-philip-stejskal-architecture",
       "https://www.archdaily.com/1039923/casa-komorebi-studio-saxe",
       "https://www.archdaily.com/1040212/strazne-cottage-mimosa-architects",
@@ -1171,7 +1170,10 @@
       "https://www.archdaily.com/1181866/refuge-house-taller-segovia-molina",
       "https://www.archdaily.com/1181913/agua-de-la-culebra-quincho-alvarez-railton-arquitectura",
       "https://www.archdaily.com/1181872/mac-casa-cta-creative-architects",
-      "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design"
+      "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design",
+      "https://www.archdaily.com/1181869/ri-house-infante-poblete-montt",
+      "https://www.archdaily.com/1181907/meadow-house-mark-english-architects",
+      "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza"
     ],
     "archive_page": 155
   },
@@ -1542,7 +1544,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
       "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
       "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/",
       "https://www.dezeen.com/2026/04/22/thing-ladder-library-conversion/",
@@ -1970,7 +1971,8 @@
       "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
       "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
-      "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/"
+      "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
+      "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/"
     ],
     "archive_page": 2
   },
@@ -2132,7 +2134,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
@@ -2189,7 +2190,8 @@
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
-      "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/"
+      "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
+      "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/"
     ],
     "archive_page": 2
   },
@@ -2508,10 +2510,10 @@
       "https://landezine.com/european-hansemuseum-lubeck-wes-landscape-architecture/",
       "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
       "https://landezine.com/times-square-redesign-by-snohetta-opens-today/",
-      "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/"
+      "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/",
+      "https://landezine.com/petite-saussaie-by-paysarchitectures/"
     ],
     "queue_new": [
-      "https://landezine.com/petite-saussaie-by-paysarchitectures/",
       "https://landezine.com/lila-2020-terra-dominicata-hotel-winery/",
       "https://landezine.com/reblooming-here-erhai-lake-ecological-restoration-project/",
       "https://landezine.com/sechselautenplatz-by-vetschpartner-landscape-architecture/",
