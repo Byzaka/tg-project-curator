@@ -313,7 +313,8 @@
       "https://leibal.com/interiors/the-dairy/",
       "https://leibal.com/interiors/beverly-hills-residence/",
       "https://leibal.com/interiors/villa-in-recco/",
-      "https://leibal.com/interiors/crystal-portal/"
+      "https://leibal.com/interiors/crystal-portal/",
+      "https://leibal.com/interiors/house-of-atrium/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -635,7 +636,8 @@
       "https://www.archdaily.com/1027086/ccb-house-kiko-salomao-plus-marcio-tanaka",
       "https://www.archdaily.com/1039762/renovation-of-the-ground-floor-of-the-prudencia-building-gui-paoliello-arquiteto",
       "https://www.archdaily.com/1026608/field-house-wilkinson-king-architects",
-      "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter"
+      "https://www.archdaily.com/1040034/the-prairie-house-hoem-plus-folstad-arkitekter",
+      "https://www.archdaily.com/1026564/pumphouse-commercial-and-residential-building-5468796-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040250/henville-street-house-philip-stejskal-architecture",
@@ -1173,9 +1175,10 @@
       "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design",
       "https://www.archdaily.com/1181869/ri-house-infante-poblete-montt",
       "https://www.archdaily.com/1181907/meadow-house-mark-english-architects",
-      "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza"
+      "https://www.archdaily.com/1182040/jabuticabeiras-house-studio-andre-lenza",
+      "https://www.archdaily.com/1181752/lecomte-apartment-atelier-orzan"
     ],
-    "archive_page": 155
+    "archive_page": 156
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1544,7 +1547,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
       "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/",
       "https://www.dezeen.com/2026/04/22/thing-ladder-library-conversion/",
       "https://www.dezeen.com/2026/04/22/konigsberger-vannucchi-sao-paulo-bueno-brandao-257/",
@@ -1972,7 +1974,9 @@
       "https://www.dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas/",
       "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
-      "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/"
+      "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
+      "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
+      "https://www.dezeen.com/2026/08/01/top-houses-july-2026/"
     ],
     "archive_page": 2
   },
@@ -2134,7 +2138,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
       "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
       "https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/",
       "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
@@ -2511,10 +2514,10 @@
       "https://landezine.com/artificial-intelligence-generative-design-and-landscape-architecture/",
       "https://landezine.com/times-square-redesign-by-snohetta-opens-today/",
       "https://landezine.com/weiherpark-eppingen-by-planorama-landschaftsarchitektur/",
-      "https://landezine.com/petite-saussaie-by-paysarchitectures/"
+      "https://landezine.com/petite-saussaie-by-paysarchitectures/",
+      "https://landezine.com/lila-2020-terra-dominicata-hotel-winery/"
     ],
     "queue_new": [
-      "https://landezine.com/lila-2020-terra-dominicata-hotel-winery/",
       "https://landezine.com/reblooming-here-erhai-lake-ecological-restoration-project/",
       "https://landezine.com/sechselautenplatz-by-vetschpartner-landscape-architecture/",
       "https://landezine.com/science-courtyard-by-straub-thurmayr/",
@@ -2852,7 +2855,7 @@
       "https://landezine.com/platform-park-by-terremoto/",
       "https://landezine.com/the-little-project-by-ping-design-llc/"
     ],
-    "archive_page": 173
+    "archive_page": 178
   },
   "monstrum_projects": {
     "sent_urls": [
