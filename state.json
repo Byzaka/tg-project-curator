@@ -75,7 +75,8 @@
       "https://leibal.com/interiors/avenue/",
       "https://leibal.com/interiors/courtyard-house-7/",
       "https://leibal.com/a-night-at/vipp-pavilion/",
-      "https://leibal.com/interiors/wildcoast/"
+      "https://leibal.com/interiors/wildcoast/",
+      "https://leibal.com/interiors/maison-de-la-claye/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -319,9 +320,12 @@
       "https://leibal.com/interiors/house-of-atrium/",
       "https://leibal.com/interiors/yehui199-villa/",
       "https://leibal.com/interiors/sansoeurs/",
-      "https://leibal.com/interiors/wildcoast/"
+      "https://leibal.com/interiors/wildcoast/",
+      "https://leibal.com/interiors/nested-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/maison-de-la-claye/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -649,7 +653,8 @@
       "https://www.archdaily.com/1025890/sous-les-ailes-bioclamatic-house-kida-architecture-and-design",
       "https://www.archdaily.com/1040212/strazne-cottage-mimosa-architects",
       "https://www.archdaily.com/1026175/the-old-byre-home-gianni-botsford-architects",
-      "https://www.archdaily.com/1040300/waiheke-house-cheshire-architects"
+      "https://www.archdaily.com/1040300/waiheke-house-cheshire-architects",
+      "https://www.archdaily.com/1025842/two-triangles-house-dua-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040000/cardwell-clubhouse-dubbeldam-architecture-plus-design",
@@ -1202,9 +1207,11 @@
       "https://www.archdaily.com/1182086/western-valley-house-st-p",
       "https://www.archdaily.com/1182076/house-in-harmony-golchin-studio",
       "https://www.archdaily.com/1182176/casa-tertulia-marcela-carranza-arquitectura",
-      "https://www.archdaily.com/1181928/granada-echo-park-granada-form"
+      "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
+      "https://www.archdaily.com/1181952/rdh-house-cechvala-architects",
+      "https://www.archdaily.com/1181856/treelithon-a-countryside-retreat-not-a-number-architects"
     ],
-    "archive_page": 159
+    "archive_page": 160
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1576,7 +1583,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/23/gordon-gill-jeddah-tower-interview/",
       "https://www.dezeen.com/2026/04/23/queen-elizabeth-ii-memorial-foster-partners-dezeen-agenda/",
       "https://www.dezeen.com/2026/04/23/anantara-white-lotus-resort-skyscraper-miami-kpf-urquiola-odp/",
       "https://www.dezeen.com/2026/04/23/frank-lloyd-wright-preservation-projects-round-up/",
@@ -2011,7 +2017,9 @@
       "https://www.dezeen.com/2026/08/04/sentry-bridge-watkins-glen-gorge-snohetta-sbp/",
       "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
       "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
-      "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/"
+      "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
+      "https://www.dezeen.com/2026/08/05/reclaimed-pavilion-kanan-modi-associates-india/",
+      "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/"
     ],
     "archive_page": 2
   },
@@ -2173,7 +2181,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
       "https://www.dezeen.com/2026/06/14/charlap-hyman-herrero-futuristic-la-office/",
       "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
       "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
@@ -2231,7 +2238,9 @@
       "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
       "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
       "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
-      "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/"
+      "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
+      "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
+      "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/"
     ],
     "archive_page": 2
   },
@@ -2558,10 +2567,10 @@
       "https://landezine.com/science-courtyard-by-straub-thurmayr/",
       "https://landezine.com/the-sulzer-areal-by-vetschpartner-landscape-architecture/",
       "https://landezine.com/poonehzar-by-shid-architects/",
-      "https://landezine.com/lower-factory-pond-by-beglinger-bryan-landschaftsarchitektur/"
+      "https://landezine.com/lower-factory-pond-by-beglinger-bryan-landschaftsarchitektur/",
+      "https://landezine.com/shirley-chisholm-state-park-by-mvva/"
     ],
     "queue_new": [
-      "https://landezine.com/shirley-chisholm-state-park-by-mvva/",
       "https://landezine.com/boerenhol-parking-by-wagon-landscaping/",
       "https://landezine.com/parc-des-iles-ilex/",
       "https://landezine.com/mitigation-park-and-seaside-promenade-by-elemental/",
@@ -2890,7 +2899,9 @@
       "https://landezine.com/3-november-international-garden-festival-of-chaumont-sur-loire/",
       "https://landezine.com/platform-park-by-terremoto/",
       "https://landezine.com/the-little-project-by-ping-design-llc/",
-      "https://landezine.com/balestrate-seafront-by-am3-architetti-associati-and-studio-cangemi/"
+      "https://landezine.com/balestrate-seafront-by-am3-architetti-associati-and-studio-cangemi/",
+      "https://landezine.com/10-november-oberlander-prize-forum-mario-schjetnan-and-victor-legorreta-on-the-landscape-architecture-relationship/",
+      "https://landezine.com/4-20-september-landscape-festival-bergamo-new-renaissance/"
     ],
     "archive_page": 183
   },
@@ -3064,9 +3075,12 @@
       "https://monstrum.dk/en/playground/snowy-owl-play-theatre",
       "https://monstrum.dk/en/playground/spoookitetsparken",
       "https://monstrum.dk/en/playground/duck-fish",
-      "https://monstrum.dk/en/playground/duck-fish"
+      "https://monstrum.dk/en/playground/duck-fish",
+      "https://monstrum.dk/en/playground/life-stone-age-settlement"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://monstrum.dk/en/playground/life-stone-age-settlement"
+    ],
     "archive_page": 1
   }
 }
