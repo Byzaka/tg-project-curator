@@ -323,9 +323,12 @@
       "https://leibal.com/interiors/wildcoast/",
       "https://leibal.com/interiors/nested-house/",
       "https://leibal.com/interiors/maison-de-la-claye/",
-      "https://leibal.com/interiors/teo-apartment/"
+      "https://leibal.com/interiors/teo-apartment/",
+      "https://leibal.com/interiors/foch/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/m20-apartment/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -657,7 +660,8 @@
       "https://www.archdaily.com/1025842/two-triangles-house-dua-studio",
       "https://www.archdaily.com/1040000/cardwell-clubhouse-dubbeldam-architecture-plus-design",
       "https://www.archdaily.com/1025853/tokyo-clubhouse-tan-yamanouchi-and-awgl",
-      "https://www.archdaily.com/1039988/infante-house-blaanc"
+      "https://www.archdaily.com/1039988/infante-house-blaanc",
+      "https://www.archdaily.com/1025577/lake-house-gilda-meirelles-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039290/peten-reims-502",
@@ -1219,9 +1223,11 @@
       "https://www.archdaily.com/1181918/masseria-ficazzella-valari-studio",
       "https://www.archdaily.com/1182295/paqueta-house-zebulun-arquitetura",
       "https://www.archdaily.com/1041737/helix-residence-saota",
-      "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos"
+      "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
+      "https://www.archdaily.com/1182293/casa-eva-s-ar",
+      "https://www.archdaily.com/1182241/cn-house-idin-architects"
     ],
-    "archive_page": 161
+    "archive_page": 162
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1404,7 +1410,8 @@
       "https://www.archdaily.com/1181796/treebox",
       "https://www.archdaily.com/1181998/resonancia-ppaa",
       "https://www.archdaily.com/1182008/circulating-garden-for-the-circular-economy-innovation-center-ciec-gassz-arquitectos",
-      "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft"
+      "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
+      "https://www.archdaily.com/1182107/de-vice-studio-caspar-schols"
     ],
     "queue_new": [],
     "archive_page": 79
@@ -1593,7 +1600,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/24/gender-pay-gap-jeddah-tower-stalled-buildings-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/04/24/studioninedots-light-house/",
       "https://www.dezeen.com/2026/04/24/tennessee-performing-arts-nashville-big-metal-pipes-comments/",
       "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
@@ -2031,7 +2037,11 @@
       "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
       "https://www.dezeen.com/2026/08/06/lj-house-studio-saransh-iksoi-studio/",
       "https://www.dezeen.com/2026/08/06/mvrdv-bihailou-art-village-shenzhen/",
-      "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/"
+      "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
+      "https://www.dezeen.com/2026/08/07/riba-neave-brown-award-shortlist-2026-news/",
+      "https://www.dezeen.com/2026/08/07/antarctic-arctowski-station-kurylowicz-architects/",
+      "https://www.dezeen.com/2026/08/07/foster-partners-corniche-window-death-not-guilty/",
+      "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/"
     ],
     "archive_page": 2
   },
@@ -2193,7 +2203,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/13/align-yoga-studio-mexico-city-talo-atelier/",
       "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/",
@@ -2252,7 +2261,9 @@
       "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
       "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
-      "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/"
+      "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
+      "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
+      "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/"
     ],
     "archive_page": 2
   },
@@ -2583,10 +2594,10 @@
       "https://landezine.com/shirley-chisholm-state-park-by-mvva/",
       "https://landezine.com/boerenhol-parking-by-wagon-landscaping/",
       "https://landezine.com/parc-des-iles-ilex/",
-      "https://landezine.com/mitigation-park-and-seaside-promenade-by-elemental/"
+      "https://landezine.com/mitigation-park-and-seaside-promenade-by-elemental/",
+      "https://landezine.com/china-fortune-tian-di-phase-1-by-dlc/"
     ],
     "queue_new": [
-      "https://landezine.com/china-fortune-tian-di-phase-1-by-dlc/",
       "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-arc/",
       "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/",
       "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/",
@@ -2914,7 +2925,9 @@
       "https://landezine.com/balestrate-seafront-by-am3-architetti-associati-and-studio-cangemi/",
       "https://landezine.com/10-november-oberlander-prize-forum-mario-schjetnan-and-victor-legorreta-on-the-landscape-architecture-relationship/",
       "https://landezine.com/4-20-september-landscape-festival-bergamo-new-renaissance/",
-      "https://landezine.com/tangshan-quarry-park-by-zt-studio/"
+      "https://landezine.com/tangshan-quarry-park-by-zt-studio/",
+      "https://landezine.com/gilly-by-central/",
+      "https://landezine.com/wolkenwerk-leutschenbach-zurich-by-mavo/"
     ],
     "archive_page": 183
   },
