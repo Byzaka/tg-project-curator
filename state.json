@@ -324,11 +324,10 @@
       "https://leibal.com/interiors/nested-house/",
       "https://leibal.com/interiors/maison-de-la-claye/",
       "https://leibal.com/interiors/teo-apartment/",
-      "https://leibal.com/interiors/foch/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/foch/",
       "https://leibal.com/interiors/m20-apartment/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -661,10 +660,10 @@
       "https://www.archdaily.com/1040000/cardwell-clubhouse-dubbeldam-architecture-plus-design",
       "https://www.archdaily.com/1025853/tokyo-clubhouse-tan-yamanouchi-and-awgl",
       "https://www.archdaily.com/1039988/infante-house-blaanc",
-      "https://www.archdaily.com/1025577/lake-house-gilda-meirelles-arquitetura"
+      "https://www.archdaily.com/1025577/lake-house-gilda-meirelles-arquitetura",
+      "https://www.archdaily.com/1039290/peten-reims-502"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1039290/peten-reims-502",
       "https://www.archdaily.com/1040161/abbie-abbotsford-terrace-eckersley-architects",
       "https://www.archdaily.com/1040230/zdar-wooden-housing-kuba-and-pilar-architekti",
       "https://www.archdaily.com/1040078/house-in-cervello-arqbag",
@@ -1225,7 +1224,10 @@
       "https://www.archdaily.com/1041737/helix-residence-saota",
       "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
       "https://www.archdaily.com/1182293/casa-eva-s-ar",
-      "https://www.archdaily.com/1182241/cn-house-idin-architects"
+      "https://www.archdaily.com/1182241/cn-house-idin-architects",
+      "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
+      "https://www.archdaily.com/1182435/collective-housing-in-vila-do-conde-raulino-silva-arquitecto",
+      "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture"
     ],
     "archive_page": 162
   },
@@ -1600,7 +1602,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/24/studioninedots-light-house/",
       "https://www.dezeen.com/2026/04/24/tennessee-performing-arts-nashville-big-metal-pipes-comments/",
       "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
       "https://www.dezeen.com/2026/04/24/aro-greenwood-cemetery-greenhouse/",
@@ -2041,7 +2042,8 @@
       "https://www.dezeen.com/2026/08/07/riba-neave-brown-award-shortlist-2026-news/",
       "https://www.dezeen.com/2026/08/07/antarctic-arctowski-station-kurylowicz-architects/",
       "https://www.dezeen.com/2026/08/07/foster-partners-corniche-window-death-not-guilty/",
-      "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/"
+      "https://www.dezeen.com/2026/08/07/linhay-charles-gillespie-architecture-comments/",
+      "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/"
     ],
     "archive_page": 2
   },
@@ -2203,7 +2205,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
       "https://www.dezeen.com/2026/05/29/bad-roman-beverly-hills-grt-architects/",
       "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/",
       "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
@@ -2595,10 +2596,10 @@
       "https://landezine.com/boerenhol-parking-by-wagon-landscaping/",
       "https://landezine.com/parc-des-iles-ilex/",
       "https://landezine.com/mitigation-park-and-seaside-promenade-by-elemental/",
-      "https://landezine.com/china-fortune-tian-di-phase-1-by-dlc/"
+      "https://landezine.com/china-fortune-tian-di-phase-1-by-dlc/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-arc/"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-arc/",
       "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/",
       "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/",
       "https://landezine.com/streetlife-outdoor-furniture-plaza-shades/",
