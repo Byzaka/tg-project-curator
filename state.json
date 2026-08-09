@@ -664,7 +664,8 @@
       "https://www.archdaily.com/1025577/lake-house-gilda-meirelles-arquitetura",
       "https://www.archdaily.com/1039290/peten-reims-502",
       "https://www.archdaily.com/1025308/cobalt-coach-house-foils",
-      "https://www.archdaily.com/1040161/abbie-abbotsford-terrace-eckersley-architects"
+      "https://www.archdaily.com/1040161/abbie-abbotsford-terrace-eckersley-architects",
+      "https://www.archdaily.com/1025318/replacement-buildings-old-carpentry-beck-oser-architekten"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040230/zdar-wooden-housing-kuba-and-pilar-architekti",
@@ -1233,7 +1234,7 @@
       "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura",
       "https://www.archdaily.com/1182167/shin-nakano-residence-ryuichi-sasaki-architecture"
     ],
-    "archive_page": 163
+    "archive_page": 164
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1606,7 +1607,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/24/aro-greenwood-cemetery-greenhouse/",
       "https://www.dezeen.com/2026/04/25/cucu-cabin-studio-bucky/",
       "https://www.dezeen.com/2026/04/25/auteur-russian-river-bohlin-cywinski-jackson-california/",
       "https://www.dezeen.com/2026/04/26/spaceworkers-vila-do-bispo-museum/",
@@ -2048,7 +2048,8 @@
       "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
       "https://www.dezeen.com/2026/08/08/multi-generational-homes-roundup-2/",
       "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
-      "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/"
+      "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
+      "https://www.dezeen.com/2026/08/09/lithium-crystal-sauna-bigert-bergstrom/"
     ],
     "archive_page": 2
   },
@@ -2210,7 +2211,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/",
       "https://www.dezeen.com/2026/06/12/pure-amazon-river-boat-peru-abercrombie-kent/",
       "https://www.dezeen.com/2026/06/02/logic-commercial-office-humble-inviting-workspace/",
       "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
@@ -2269,7 +2269,10 @@
       "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
       "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
-      "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/"
+      "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
+      "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
+      "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
+      "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/"
     ],
     "archive_page": 2
   },
@@ -2604,10 +2607,10 @@
       "https://landezine.com/china-fortune-tian-di-phase-1-by-dlc/",
       "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-arc/",
       "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/",
-      "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/"
+      "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/",
+      "https://landezine.com/streetlife-outdoor-furniture-plaza-shades/"
     ],
     "queue_new": [
-      "https://landezine.com/streetlife-outdoor-furniture-plaza-shades/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-industry-picnic-set/",
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -2934,7 +2937,8 @@
       "https://landezine.com/tangshan-quarry-park-by-zt-studio/",
       "https://landezine.com/gilly-by-central/",
       "https://landezine.com/wolkenwerk-leutschenbach-zurich-by-mavo/",
-      "https://landezine.com/carl-nielsens-alle-by-werk/"
+      "https://landezine.com/carl-nielsens-alle-by-werk/",
+      "https://landezine.com/residence-on-horseshoe-lake-by-mvva/"
     ],
     "archive_page": 183
   },
