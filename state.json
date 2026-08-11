@@ -327,11 +327,10 @@
       "https://leibal.com/interiors/foch/",
       "https://leibal.com/interiors/m20-apartment/",
       "https://leibal.com/interiors/waterview-townhome/",
-      "https://leibal.com/interiors/ciutat-vella-apartment/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/ciutat-vella-apartment/",
       "https://leibal.com/interiors/apartment-no-201/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -670,10 +669,10 @@
       "https://www.archdaily.com/1040161/abbie-abbotsford-terrace-eckersley-architects",
       "https://www.archdaily.com/1025318/replacement-buildings-old-carpentry-beck-oser-architekten",
       "https://www.archdaily.com/1040230/zdar-wooden-housing-kuba-and-pilar-architekti",
-      "https://www.archdaily.com/954929/house-u-shinta-hamada-architects"
+      "https://www.archdaily.com/954929/house-u-shinta-hamada-architects",
+      "https://www.archdaily.com/1040078/house-in-cervello-arqbag"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040078/house-in-cervello-arqbag",
       "https://www.archdaily.com/1040323/old-folk-house-in-iwakura-td-atelier",
       "https://www.archdaily.com/1039989/jl-residence-kiko-castello-branco-arquitetura-plus-lucas-cunha",
       "https://www.archdaily.com/1039999/kaye-residences-grzywinski-plus-pons",
@@ -1241,7 +1240,9 @@
       "https://www.archdaily.com/1182183/moment-residence-apollo-architects-and-associates",
       "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
       "https://www.archdaily.com/1182334/babylonia-residence-fmd-architects",
-      "https://www.archdaily.com/1182342/ukigumo-floating-clouds-residence-ukei-shimada-architects"
+      "https://www.archdaily.com/1182342/ukigumo-floating-clouds-residence-ukei-shimada-architects",
+      "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
+      "https://www.archdaily.com/1182410/casa-limoneros"
     ],
     "archive_page": 165
   },
@@ -1428,9 +1429,12 @@
       "https://www.archdaily.com/1182008/circulating-garden-for-the-circular-economy-innovation-center-ciec-gassz-arquitectos",
       "https://www.archdaily.com/1181840/the-vertical-playgarden-studio-kraft",
       "https://www.archdaily.com/1182107/de-vice-studio-caspar-schols",
-      "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea"
+      "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
+      "https://www.archdaily.com/1182509/cali-foothills-integral-corridor-edward-conde-serna-arquitectos"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://www.archdaily.com/1182710/encuentro-guadalupe-hotel-graciastudio"
+    ],
     "archive_page": 79
   },
   "dezeen_arch": {
@@ -1617,7 +1621,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/26/spaceworkers-vila-do-bispo-museum/",
       "https://www.dezeen.com/2026/04/27/kruunuvuori-bridge-helsinki-finland-wsp-news/",
       "https://www.dezeen.com/2026/04/27/musson-brown-architects-miltiadou-cook-mitzman-flatpack-newcastle-home/",
       "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/",
@@ -2061,7 +2064,8 @@
       "https://www.dezeen.com/2026/08/10/habitat-collaborative-new-horizon/",
       "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
-      "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/"
+      "https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/",
+      "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/"
     ],
     "archive_page": 2
   },
@@ -2223,7 +2227,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
       "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
       "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
@@ -2621,10 +2624,10 @@
       "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/",
       "https://landezine.com/streetlife-outdoor-furniture-plaza-shades/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-industry-picnic-set/",
-      "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-panel-backdrop/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/maglin-outdoor-furniture-the-pixel-collection/",
       "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
