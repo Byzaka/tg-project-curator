@@ -76,7 +76,8 @@
       "https://leibal.com/interiors/courtyard-house-7/",
       "https://leibal.com/a-night-at/vipp-pavilion/",
       "https://leibal.com/interiors/wildcoast/",
-      "https://leibal.com/interiors/maison-de-la-claye/"
+      "https://leibal.com/interiors/maison-de-la-claye/",
+      "https://leibal.com/interiors/dune-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -329,9 +330,12 @@
       "https://leibal.com/interiors/waterview-townhome/",
       "https://leibal.com/interiors/ciutat-vella-apartment/",
       "https://leibal.com/interiors/apartment-no-201/",
-      "https://leibal.com/interiors/casa-jml/"
+      "https://leibal.com/interiors/casa-jml/",
+      "https://leibal.com/interiors/retro-apartment-in-aix-en-provence/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/dune-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -673,7 +677,8 @@
       "https://www.archdaily.com/954929/house-u-shinta-hamada-architects",
       "https://www.archdaily.com/1040078/house-in-cervello-arqbag",
       "https://www.archdaily.com/1011548/alpuins-branco-cavaleiro-and-associados-lda",
-      "https://www.archdaily.com/1040323/old-folk-house-in-iwakura-td-atelier"
+      "https://www.archdaily.com/1040323/old-folk-house-in-iwakura-td-atelier",
+      "https://www.archdaily.com/1023490/mecos-house-dnsrq"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039989/jl-residence-kiko-castello-branco-arquitetura-plus-lucas-cunha",
@@ -1249,9 +1254,12 @@
       "https://www.archdaily.com/1182312/100-windows-house-inrestudio",
       "https://www.archdaily.com/1182192/bprom-oad",
       "https://www.archdaily.com/1182436/house-over-the-hills-diogo-aguiar-studio",
-      "https://www.archdaily.com/1183121/txai-bungalow-tetro-arquitetura"
+      "https://www.archdaily.com/1183121/txai-bungalow-tetro-arquitetura",
+      "https://www.archdaily.com/1182477/lily-block-residence-3fconcept",
+      "https://www.archdaily.com/1182467/mori-house-aires-mateus-plus-ma-plus-co",
+      "https://www.archdaily.com/1182512/villa-osterlen-note-design-studio"
     ],
-    "archive_page": 166
+    "archive_page": 167
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1628,7 +1636,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/",
       "https://www.dezeen.com/2026/04/27/donald-trump-lincoln-memorial-reflecting-pool/",
       "https://www.dezeen.com/2026/04/28/will-gamble-architects-ribbon-house/",
       "https://www.dezeen.com/2026/04/29/nike-dropcity-air-lab-innovation-space-milan/",
@@ -2073,7 +2080,11 @@
       "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
       "https://www.dezeen.com/2026/08/11/studio-maks-vista-science-experience-centre/",
       "https://www.dezeen.com/2026/08/11/canadian-design-thom-fougere-24-sussex-opinion/",
-      "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/"
+      "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/",
+      "https://www.dezeen.com/2026/08/12/cesar-pelli-final-building-lola-mora-center-argentina/",
+      "https://www.dezeen.com/2026/08/12/oyo-architects-elia-group-ostend-office-warehouse/",
+      "https://www.dezeen.com/2026/08/12/dallas-stars-nhl-team-arena-hntb/",
+      "https://www.dezeen.com/2026/08/12/lego-va-dundee-kengo-kuma/"
     ],
     "archive_page": 2
   },
@@ -2235,7 +2246,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/08/communal-table-archipelago-steel-kiez-kebab-restaurant/",
       "https://www.dezeen.com/2026/06/27/wild-form-design-studio-love-thy-neighbor-west-village-nyc/",
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
@@ -2296,7 +2306,10 @@
       "https://www.dezeen.com/2026/08/11/ebba-architects-cup-of-joy-cafe-marylebone-london/",
       "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
       "https://www.dezeen.com/2026/08/11/kim-kardashian-nude-hued-skims-london-flagship-store/",
-      "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/"
+      "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
+      "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
+      "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
+      "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/"
     ],
     "archive_page": 2
   },
@@ -2637,10 +2650,10 @@
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-panel-backdrop/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/maglin-outdoor-furniture-the-pixel-collection/"
+      "https://landezine.com/maglin-outdoor-furniture-the-pixel-collection/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/durbanis-outdoor-furniture-roc/",
       "https://landezine.com/durbanis-outdoor-furniture-nomad/",
       "https://landezine.com/landscape-forms-outdoor-furniture-torres-path-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -2967,7 +2980,14 @@
       "https://landezine.com/streetlife-outdoor-furniture-plaza-shades/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/miramondo-outdoor-furniture-tetatet/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-2/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-2/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-bench-montreal/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/maglin-outdoor-furniture-alum/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/city-design-outdoor-furniture-bench-flow/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/metalco-outdoor-furniture-bench-harris/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-barrier-antares/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/miramondo-outdoor-furniture-la-superfine/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/streetlife-outdoor-furniture-rough-ready-big-green-benches/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 188
   },
