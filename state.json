@@ -78,7 +78,8 @@
       "https://leibal.com/interiors/wildcoast/",
       "https://leibal.com/interiors/maison-de-la-claye/",
       "https://leibal.com/interiors/dune-house/",
-      "https://leibal.com/interiors/magdalen-house/"
+      "https://leibal.com/interiors/magdalen-house/",
+      "https://leibal.com/interiors/casa-refugio/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -338,9 +339,12 @@
       "https://leibal.com/interiors/do-sol/",
       "https://leibal.com/interiors/magdalen-house/",
       "https://leibal.com/interiors/marks/",
-      "https://leibal.com/interiors/chao-phraya-river-apartment/"
+      "https://leibal.com/interiors/chao-phraya-river-apartment/",
+      "https://leibal.com/interiors/casa-refugio/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/villa-sous-tous-vent/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -692,7 +696,8 @@
       "https://www.archdaily.com/1023810/guthaus-apartment-grau-architects",
       "https://www.archdaily.com/1040204/scotch-chalet-carta-architecte-plus-designer",
       "https://www.archdaily.com/1012252/well-house-memo-architectuur",
-      "https://www.archdaily.com/1040203/taliru-house-wright-inspires"
+      "https://www.archdaily.com/1040203/taliru-house-wright-inspires",
+      "https://www.archdaily.com/1023875/triplex-vila-romana-pietro-terlizzi-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040304/ymk-house-takeshi-hirobe-architects",
@@ -1286,9 +1291,10 @@
       "https://www.archdaily.com/1148796/villa-arena-abaton",
       "https://www.archdaily.com/1183236/kifisia-apartment-a-reconfiguration-of-domestic-boundaries-georgios-apostolopoulos-architects",
       "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
-      "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber"
+      "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
+      "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio"
     ],
-    "archive_page": 171
+    "archive_page": 172
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1476,7 +1482,8 @@
       "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
       "https://www.archdaily.com/1182509/cali-foothills-integral-corridor-edward-conde-serna-arquitectos",
       "https://www.archdaily.com/1182710/encuentro-guadalupe-hotel-graciastudio",
-      "https://www.archdaily.com/1183136/water-stories-ar-ar-martinez-arquitectura-y-paisaje"
+      "https://www.archdaily.com/1183136/water-stories-ar-ar-martinez-arquitectura-y-paisaje",
+      "https://www.archdaily.com/1183313/sentry-bridge-snohetta-plus-sbp"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -1665,7 +1672,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/29/adkins-treehouse-benjamin-hall-design-phoenix/",
       "https://www.dezeen.com/2026/04/30/hollaway-studio-westview-cottage/",
       "https://www.dezeen.com/2026/04/30/dezeen-agenda-features-kruunuvuori-bridge-helsinki-finland-wsp-news/",
       "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/",
@@ -2117,7 +2123,10 @@
       "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/",
       "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/",
-      "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/"
+      "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
+      "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
+      "https://www.dezeen.com/2026/08/17/kuba-wozniczka-studzienno-27/",
+      "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/"
     ],
     "archive_page": 2
   },
@@ -2279,7 +2288,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
       "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
@@ -2344,7 +2352,11 @@
       "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
       "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
-      "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/"
+      "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
+      "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
+      "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
+      "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
+      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/"
     ],
     "archive_page": 2
   },
@@ -2694,10 +2706,10 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-chipman-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-highlife-iii-picnic-sets/",
       "https://landezine.com/register-for-eclas-2026-take-care-planetary-landscape-architecture-16-19-sep/",
-      "https://landezine.com/area-outdoor-furniture-bench-vancouver/"
+      "https://landezine.com/area-outdoor-furniture-bench-vancouver/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/miramondo-outdoor-furniture-bibi/",
       "https://landezine.com/bellitalia-outdoor-furniture-olimpo/",
       "https://landezine.com/corniche-des-forts-park-by-ilex-paysages/",
@@ -3070,7 +3082,7 @@
       "https://landezine.com/bellitalia-outdoor-furniture-olimpo/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/miramondo-outdoor-furniture-coffin-lounge/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
-    "archive_page": 188
+    "archive_page": 193
   },
   "monstrum_projects": {
     "sent_urls": [
