@@ -340,11 +340,10 @@
       "https://leibal.com/interiors/magdalen-house/",
       "https://leibal.com/interiors/marks/",
       "https://leibal.com/interiors/chao-phraya-river-apartment/",
-      "https://leibal.com/interiors/casa-refugio/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/casa-refugio/",
       "https://leibal.com/interiors/villa-sous-tous-vent/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -697,10 +696,10 @@
       "https://www.archdaily.com/1040204/scotch-chalet-carta-architecte-plus-designer",
       "https://www.archdaily.com/1012252/well-house-memo-architectuur",
       "https://www.archdaily.com/1040203/taliru-house-wright-inspires",
-      "https://www.archdaily.com/1023875/triplex-vila-romana-pietro-terlizzi-arquitetura"
+      "https://www.archdaily.com/1023875/triplex-vila-romana-pietro-terlizzi-arquitetura",
+      "https://www.archdaily.com/1040304/ymk-house-takeshi-hirobe-architects"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040304/ymk-house-takeshi-hirobe-architects",
       "https://www.archdaily.com/1039994/valle-house-dafdf-arquitectura-y-urbanismo",
       "https://www.archdaily.com/1040267/81-housing-units-ramdam-architectes-plus-palast",
       "https://www.archdaily.com/1040311/the-brick-house-studio-vdga",
@@ -1292,7 +1291,8 @@
       "https://www.archdaily.com/1183236/kifisia-apartment-a-reconfiguration-of-domestic-boundaries-georgios-apostolopoulos-architects",
       "https://www.archdaily.com/1183394/refuge-house-elisa-porto-arquitetura",
       "https://www.archdaily.com/1183256/pavillon-monk-l-mccomber",
-      "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio"
+      "https://www.archdaily.com/1183332/the-inner-court-house-plus-idea-studio",
+      "https://www.archdaily.com/1183398/linha-house-ricardo-azevedo-arquitecto"
     ],
     "archive_page": 172
   },
@@ -1672,7 +1672,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/04/30/hollaway-studio-westview-cottage/",
       "https://www.dezeen.com/2026/04/30/dezeen-agenda-features-kruunuvuori-bridge-helsinki-finland-wsp-news/",
       "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/",
       "https://www.dezeen.com/2026/05/01/top-houses-april-2026/",
@@ -2126,7 +2125,8 @@
       "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
       "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
       "https://www.dezeen.com/2026/08/17/kuba-wozniczka-studzienno-27/",
-      "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/"
+      "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
+      "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/"
     ],
     "archive_page": 2
   },
@@ -2288,7 +2288,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
@@ -2356,7 +2355,8 @@
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
       "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
       "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
-      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/"
+      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
+      "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/"
     ],
     "archive_page": 2
   },
@@ -2707,10 +2707,10 @@
       "https://landezine.com/streetlife-outdoor-furniture-highlife-iii-picnic-sets/",
       "https://landezine.com/register-for-eclas-2026-take-care-planetary-landscape-architecture-16-19-sep/",
       "https://landezine.com/area-outdoor-furniture-bench-vancouver/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/miramondo-outdoor-furniture-bibi/"
     ],
     "queue_new": [
-      "https://landezine.com/miramondo-outdoor-furniture-bibi/",
       "https://landezine.com/bellitalia-outdoor-furniture-olimpo/",
       "https://landezine.com/corniche-des-forts-park-by-ilex-paysages/",
       "https://landezine.com/park-by-sla-landscape-architecture/",
@@ -3080,7 +3080,13 @@
       "https://landezine.com/rotterdam-rooftopwalk-by-lola/",
       "https://landezine.com/durbanis-outdoor-furniture-cilar/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/bellitalia-outdoor-furniture-olimpo/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/miramondo-outdoor-furniture-coffin-lounge/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/miramondo-outdoor-furniture-coffin-lounge/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-bench-atlantique/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/streetlife-outdoor-furniture-roughready-curve-bench-all-black/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/durbanis-outdoor-furniture-piet/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/ttc-timmler-technology-outdoor-furniture-led-hayat/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/nola-outdoor-furniture-gry-furniture-group/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 193
   },
