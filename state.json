@@ -80,9 +80,12 @@
       "https://leibal.com/interiors/dune-house/",
       "https://leibal.com/interiors/magdalen-house/",
       "https://leibal.com/interiors/casa-refugio/",
-      "https://leibal.com/interiors/house-in-las-rozas/"
+      "https://leibal.com/interiors/house-in-las-rozas/",
+      "https://leibal.com/interiors/kookaburra-ridge/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/cathedral-house/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -344,9 +347,12 @@
       "https://leibal.com/interiors/casa-refugio/",
       "https://leibal.com/interiors/villa-sous-tous-vent/",
       "https://leibal.com/interiors/aether-house/",
-      "https://leibal.com/interiors/house-in-las-rozas/"
+      "https://leibal.com/interiors/house-in-las-rozas/",
+      "https://leibal.com/interiors/kookaburra-ridge/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/cathedral-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -702,7 +708,8 @@
       "https://www.archdaily.com/1023875/triplex-vila-romana-pietro-terlizzi-arquitetura",
       "https://www.archdaily.com/1040304/ymk-house-takeshi-hirobe-architects",
       "https://www.archdaily.com/1023550/art-deco-house-simon-jouin-architecte",
-      "https://www.archdaily.com/1039994/valle-house-dafdf-arquitectura-y-urbanismo"
+      "https://www.archdaily.com/1039994/valle-house-dafdf-arquitectura-y-urbanismo",
+      "https://www.archdaily.com/1023585/heroes-residence-island-arons-and-gelauff-architecten"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040267/81-housing-units-ramdam-architectes-plus-palast",
@@ -1302,9 +1309,13 @@
       "https://www.archdaily.com/1183519/porfirio-building-viga-arquitectos",
       "https://www.archdaily.com/1183539/caraca-residence-23-sul",
       "https://www.archdaily.com/1183504/damata-house-melina-romano",
-      "https://www.archdaily.com/1183525/h1-house-genovesi-arquitectos"
+      "https://www.archdaily.com/1183525/h1-house-genovesi-arquitectos",
+      "https://www.archdaily.com/1183312/private-house-in-la-claye-atelier-iso-architectes",
+      "https://www.archdaily.com/1183408/house-of-rasing-the-umbrella-chaoffice",
+      "https://www.archdaily.com/1183261/house-gapfohl-bernardo-bader-architekten",
+      "https://www.archdaily.com/1183518/house-for-camping-patchwork-architecture"
     ],
-    "archive_page": 173
+    "archive_page": 174
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1682,7 +1693,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/01/top-houses-april-2026/",
       "https://www.dezeen.com/2026/05/01/milan-design-week-2026-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/05/01/john-pawson-art-of-simplicity-gaggenau-milan-talk-video-2026/",
       "https://www.dezeen.com/2026/05/01/gs-architecture-hampstead-passive-house/",
@@ -2138,7 +2148,10 @@
       "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
       "https://www.dezeen.com/2026/08/18/jia-curated-pavilions/",
       "https://www.dezeen.com/2026/08/18/thompson-center-google-jahn-chicago-new-facade/",
-      "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/"
+      "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
+      "https://www.dezeen.com/2026/08/19/arb-professional-practice-experience-news/",
+      "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
+      "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/"
     ],
     "archive_page": 2
   },
@@ -2300,7 +2313,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
       "https://www.dezeen.com/2026/06/04/the-roof-gardens-cinema-london-nice-projects/",
       "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/",
       "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
@@ -2367,7 +2379,8 @@
       "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
       "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
-      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/"
+      "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
+      "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/"
     ],
     "archive_page": 2
   },
@@ -2724,7 +2737,6 @@
       "https://landezine.com/corniche-des-forts-park-by-ilex-paysages/"
     ],
     "queue_new": [
-      "https://landezine.com/park-by-sla-landscape-architecture/",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-chipman-chair/",
       "https://landezine.com/nola-outdoor-furniture-four-seasons-sun-parasol/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/maglin-outdoor-furniture-foro/",
