@@ -356,7 +356,8 @@
       "https://leibal.com/interiors/skyline-workscape/",
       "https://leibal.com/interiors/casa-niveous/",
       "https://leibal.com/interiors/appartement-lecomte/",
-      "https://leibal.com/interiors/casa-ambrose/"
+      "https://leibal.com/interiors/casa-ambrose/",
+      "https://leibal.com/interiors/greenview-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -726,7 +727,8 @@
       "https://www.archdaily.com/1022881/the-voids-villa-asnow-design-and-construct",
       "https://www.archdaily.com/1040319/n3-residence-tristan-burfield",
       "https://www.archdaily.com/1022739/open-house-as-arquitectura-plus-diseno",
-      "https://www.archdaily.com/1040159/veil-arid"
+      "https://www.archdaily.com/1040159/veil-arid",
+      "https://www.archdaily.com/1022657/hokusetsu-polygon-house-fujiwaramuro-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
@@ -1349,9 +1351,11 @@
       "https://www.archdaily.com/1183672/tomi-house-the-studio",
       "https://www.archdaily.com/1183689/dr-house-arc-architects",
       "https://www.archdaily.com/1183716/house-in-santana-do-parnaiba-gruposp",
-      "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos"
+      "https://www.archdaily.com/1183512/house-on-the-northern-coast-of-sao-paulo-andre-vainer-arquitetos",
+      "https://www.archdaily.com/1183668/twilight-house-spacefiction-studio",
+      "https://www.archdaily.com/1183733/cabin-sande-helen-and-hard-architects"
     ],
-    "archive_page": 179
+    "archive_page": 180
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1735,7 +1739,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/03/bernard-tschumi-architects-philo/",
       "https://www.dezeen.com/2026/05/04/brutalist-london-book-owen-hopkins-nigel-green/",
       "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/",
       "https://www.dezeen.com/2026/05/04/lga-architectural-partners-toronto-the-belle-pavilion/",
@@ -2199,7 +2202,9 @@
       "https://www.dezeen.com/2026/08/24/shigeru-ban-hotel-pasona-awaji-island/",
       "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
       "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
-      "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/"
+      "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/",
+      "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
+      "https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/"
     ],
     "archive_page": 2
   },
@@ -2361,7 +2366,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/21/scenic-bathrooms-windows-great-outdoors-lookbooks/",
       "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
       "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
       "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
@@ -2428,7 +2432,8 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
       "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
       "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
-      "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/"
+      "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
+      "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/"
     ],
     "archive_page": 2
   },
@@ -2792,10 +2797,10 @@
       "https://landezine.com/heavy-heavy-block-seats/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/miramondo-outdoor-furniture-hop-hop/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/liam-young-half-earth-planet-city/",
-      "https://landezine.com/ttc-timmler-technology-outdoor-furniture-led-lightline-handrail/"
+      "https://landezine.com/ttc-timmler-technology-outdoor-furniture-led-lightline-handrail/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-corten-bicycle-racks/",
       "https://landezine.com/miramondo-outdoor-furniture-la-superfine/",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -3182,7 +3187,9 @@
       "https://landezine.com/miramondo-outdoor-furniture-mayfield/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/city-design-outdoor-furniture-bench-noale/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-highlife-iii-picnic-sets/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/oakland-museum-of-california-by-hood-design-studio/"
+      "https://landezine.com/oakland-museum-of-california-by-hood-design-studio/",
+      "https://landezine.com/mellemrummet/",
+      "https://landezine.com/durbanis-outdoor-furniture-superlock/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 198
   },
