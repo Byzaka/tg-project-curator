@@ -361,10 +361,11 @@
       "https://leibal.com/interiors/casa-ambrose/",
       "https://leibal.com/interiors/greenview-house/",
       "https://leibal.com/interiors/muttram-veedu/",
-      "https://leibal.com/interiors/amsterdam-canal-house-2/"
+      "https://leibal.com/interiors/amsterdam-canal-house-2/",
+      "https://leibal.com/interiors/villa-osterlen/"
     ],
     "queue_new": [
-      "https://leibal.com/interiors/villa-osterlen/"
+      "https://leibal.com/interiors/greenwich-residence/"
     ],
     "archive_page": 2
   },
@@ -736,7 +737,8 @@
       "https://www.archdaily.com/1040159/veil-arid",
       "https://www.archdaily.com/1022657/hokusetsu-polygon-house-fujiwaramuro-architects",
       "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
-      "https://www.archdaily.com/1022628/private-residence-in-goto-islands-souta-yoriki-design-office"
+      "https://www.archdaily.com/1022628/private-residence-in-goto-islands-souta-yoriki-design-office",
+      "https://www.archdaily.com/1022428/one-river-north-mad-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
@@ -1369,9 +1371,17 @@
       "https://www.archdaily.com/1183784/fringe-dweller-residence-mihaly-slocombe",
       "https://www.archdaily.com/1183727/caloz-bramois-house-r2a-architectes",
       "https://www.archdaily.com/1183783/oh-ho-residence-play-architecture",
-      "https://www.archdaily.com/1183952/split-mass-residence-k-thengono-design-studio"
+      "https://www.archdaily.com/1183952/split-mass-residence-k-thengono-design-studio",
+      "https://www.archdaily.com/1183897/troia-37-house-fragmentos",
+      "https://www.archdaily.com/1184015/el-trebol-house-engelman-estudio",
+      "https://www.archdaily.com/1183880/beneath-jeoji-oreum-house-a-root-architecture",
+      "https://www.archdaily.com/1183862/arlo-house-luis-royon-barea-and-andreu-arevalo-llacer",
+      "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
+      "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
+      "https://www.archdaily.com/1184036/t-errakota-house-spacefiction-studio",
+      "https://www.archdaily.com/1183980/japu-house-aia-estudio"
     ],
-    "archive_page": 181
+    "archive_page": 182
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1755,7 +1765,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/04/lga-architectural-partners-toronto-the-belle-pavilion/",
       "https://www.dezeen.com/2026/05/05/trump-tower-tbilisi-georgia-design-revelaed/",
       "https://www.dezeen.com/2026/05/05/peterson-rich-office-met-galleries/",
       "https://www.dezeen.com/2026/05/05/olson-kundig-otis-elevators-double-decker-elevators-space-needle/",
@@ -2222,7 +2231,11 @@
       "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imt/",
       "https://www.dezeen.com/2026/08/26/colar-adobe-casa-esteli-mexico/",
       "https://www.dezeen.com/2026/08/26/riksbyggen-swedens-smallest-apartments-housing-crisis-tangible/",
-      "https://www.dezeen.com/2026/08/26/wildlife-tower-reclaimed-honeygar-farm-somerset-pearce/"
+      "https://www.dezeen.com/2026/08/26/wildlife-tower-reclaimed-honeygar-farm-somerset-pearce/",
+      "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/",
+      "https://www.dezeen.com/2026/08/27/studio-three-sixty-sauna-theatre-edinburgh-fringe-festival/",
+      "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
+      "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/"
     ],
     "archive_page": 2
   },
@@ -2384,7 +2397,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
       "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
@@ -2450,7 +2462,9 @@
       "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
       "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
       "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
-      "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/"
+      "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
+      "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
+      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/"
     ],
     "archive_page": 2
   },
@@ -2817,10 +2831,10 @@
       "https://landezine.com/ttc-timmler-technology-outdoor-furniture-led-lightline-handrail/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-corten-bicycle-racks/",
-      "https://landezine.com/miramondo-outdoor-furniture-la-superfine/"
+      "https://landezine.com/miramondo-outdoor-furniture-la-superfine/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/",
       "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/",
       "https://landezine.com/heavy-heavy-block-seats/",
@@ -3210,7 +3224,8 @@
       "https://landezine.com/durbanis-outdoor-furniture-bench-io/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/bellitalia-outdoor-furniture-cuddly/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/9-september-five-finalists-to-be-announced-for-the-european-prize-for-urban-public-space/",
-      "https://landezine.com/call-for-entries-international-garden-festival-2027-at-domaine-de-chaumont-sur-loire/"
+      "https://landezine.com/call-for-entries-international-garden-festival-2027-at-domaine-de-chaumont-sur-loire/",
+      "https://landezine.com/navitas-harbour-front-by-marianne-levinsen-landskab/"
     ],
     "archive_page": 198
   },
