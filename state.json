@@ -362,11 +362,10 @@
       "https://leibal.com/interiors/greenview-house/",
       "https://leibal.com/interiors/muttram-veedu/",
       "https://leibal.com/interiors/amsterdam-canal-house-2/",
-      "https://leibal.com/interiors/villa-osterlen/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/villa-osterlen/",
       "https://leibal.com/interiors/greenwich-residence/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -738,7 +737,8 @@
       "https://www.archdaily.com/1022657/hokusetsu-polygon-house-fujiwaramuro-architects",
       "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
       "https://www.archdaily.com/1022628/private-residence-in-goto-islands-souta-yoriki-design-office",
-      "https://www.archdaily.com/1022428/one-river-north-mad-architects"
+      "https://www.archdaily.com/1022428/one-river-north-mad-architects",
+      "https://www.archdaily.com/1022208/q8-residence-menard-dworkind-architecture-and-design"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
@@ -1379,9 +1379,14 @@
       "https://www.archdaily.com/1183983/guaratuba-house-estudio-41",
       "https://www.archdaily.com/1183356/house-in-cherive-paul-bernier-architecte",
       "https://www.archdaily.com/1184036/t-errakota-house-spacefiction-studio",
-      "https://www.archdaily.com/1183980/japu-house-aia-estudio"
+      "https://www.archdaily.com/1183980/japu-house-aia-estudio",
+      "https://www.archdaily.com/1183695/cherokee-house-studio-kp2",
+      "https://www.archdaily.com/1184012/social-atrium-54-social-housing-units-in-besos-peris-plus-torarquitectes",
+      "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
+      "https://www.archdaily.com/1184076/casa-muda-l13-pereira-miguel-arquitectos",
+      "https://www.archdaily.com/1184047/casa-galeria-sommet"
     ],
-    "archive_page": 182
+    "archive_page": 183
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1765,7 +1770,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/05/trump-tower-tbilisi-georgia-design-revelaed/",
       "https://www.dezeen.com/2026/05/05/peterson-rich-office-met-galleries/",
       "https://www.dezeen.com/2026/05/05/olson-kundig-otis-elevators-double-decker-elevators-space-needle/",
       "https://www.dezeen.com/2026/05/05/parametricism-introduction-owen-hopkins/",
@@ -2235,7 +2239,9 @@
       "https://www.dezeen.com/2026/08/26/wild-sumaco-research-pavilion-ecuador-caa-pora-arquitectura/",
       "https://www.dezeen.com/2026/08/27/studio-three-sixty-sauna-theatre-edinburgh-fringe-festival/",
       "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
-      "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/"
+      "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/",
+      "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
+      "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/"
     ],
     "archive_page": 2
   },
@@ -2397,7 +2403,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/05/skin1004-nyc-flagship-store-soho-lmtls-architecture/",
       "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
@@ -2464,7 +2469,8 @@
       "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
       "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
-      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/"
+      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
+      "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/"
     ],
     "archive_page": 2
   },
@@ -2832,10 +2838,10 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-corten-bicycle-racks/",
       "https://landezine.com/miramondo-outdoor-furniture-la-superfine/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/"
     ],
     "queue_new": [
-      "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/",
       "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/",
       "https://landezine.com/heavy-heavy-block-seats/",
       "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -3225,7 +3231,8 @@
       "https://landezine.com/bellitalia-outdoor-furniture-cuddly/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/9-september-five-finalists-to-be-announced-for-the-european-prize-for-urban-public-space/",
       "https://landezine.com/call-for-entries-international-garden-festival-2027-at-domaine-de-chaumont-sur-loire/",
-      "https://landezine.com/navitas-harbour-front-by-marianne-levinsen-landskab/"
+      "https://landezine.com/navitas-harbour-front-by-marianne-levinsen-landskab/",
+      "https://landezine.com/la-craquelure/"
     ],
     "archive_page": 198
   },
