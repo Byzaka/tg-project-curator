@@ -85,7 +85,8 @@
       "https://leibal.com/interiors/cathedral-house/",
       "https://leibal.com/interiors/white-breakers/",
       "https://leibal.com/interiors/muttram-veedu/",
-      "https://leibal.com/interiors/villa-osterlen/"
+      "https://leibal.com/interiors/villa-osterlen/",
+      "https://leibal.com/interiors/house-by-the-sea/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -363,9 +364,12 @@
       "https://leibal.com/interiors/muttram-veedu/",
       "https://leibal.com/interiors/amsterdam-canal-house-2/",
       "https://leibal.com/interiors/villa-osterlen/",
-      "https://leibal.com/interiors/greenwich-residence/"
+      "https://leibal.com/interiors/greenwich-residence/",
+      "https://leibal.com/interiors/house-by-the-sea/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/zws-studio/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -738,7 +742,8 @@
       "https://www.archdaily.com/1040256/le-grand-bercail-l-mccomber",
       "https://www.archdaily.com/1022628/private-residence-in-goto-islands-souta-yoriki-design-office",
       "https://www.archdaily.com/1022428/one-river-north-mad-architects",
-      "https://www.archdaily.com/1022208/q8-residence-menard-dworkind-architecture-and-design"
+      "https://www.archdaily.com/1022208/q8-residence-menard-dworkind-architecture-and-design",
+      "https://www.archdaily.com/935506/north-bank-house-elliott-architects-ltd"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
@@ -1384,9 +1389,11 @@
       "https://www.archdaily.com/1184012/social-atrium-54-social-housing-units-in-besos-peris-plus-torarquitectes",
       "https://www.archdaily.com/1184094/fpw-house-obra-arquitetos",
       "https://www.archdaily.com/1184076/casa-muda-l13-pereira-miguel-arquitectos",
-      "https://www.archdaily.com/1184047/casa-galeria-sommet"
+      "https://www.archdaily.com/1184047/casa-galeria-sommet",
+      "https://www.archdaily.com/1183846/casa-pb16",
+      "https://www.archdaily.com/1183707/country-house-in-boladala-village-arc-architects"
     ],
-    "archive_page": 183
+    "archive_page": 184
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1581,7 +1588,8 @@
       "https://www.archdaily.com/1183413/hut-spot-pavilion-m2ft-architects",
       "https://www.archdaily.com/1183770/yaku-sustainable-urban-runoff-management-module-el-sindicato-arquitectura",
       "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
-      "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti"
+      "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
+      "https://www.archdaily.com/1183732/katuvu-hut-hut-atelier-darchitecture"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -1770,7 +1778,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/05/peterson-rich-office-met-galleries/",
       "https://www.dezeen.com/2026/05/05/olson-kundig-otis-elevators-double-decker-elevators-space-needle/",
       "https://www.dezeen.com/2026/05/05/parametricism-introduction-owen-hopkins/",
       "https://www.dezeen.com/2026/05/05/heydar-aliyev-centre-zaha-hadid-parametricism-case-study/",
@@ -2241,7 +2248,10 @@
       "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
       "https://www.dezeen.com/2026/08/27/hirosaki-castle-volunteer-relocation-japan/",
       "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-      "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/"
+      "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
+      "https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/",
+      "https://www.dezeen.com/2026/08/28/baumhaus-office-square-metre-studio-tree-opposite-office/",
+      "https://www.dezeen.com/2026/08/28/nodecraft-studio-designs-poured-earth-farmhouse/"
     ],
     "archive_page": 2
   },
@@ -2403,7 +2413,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/21/toronto-metropolitan-university-school-of-medicine-diamond-schmitt/",
       "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
       "https://www.dezeen.com/2026/06/22/clap-studio-spook-nightclub-el-cubo/",
       "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
@@ -2839,10 +2848,10 @@
       "https://landezine.com/streetlife-outdoor-furniture-corten-bicycle-racks/",
       "https://landezine.com/miramondo-outdoor-furniture-la-superfine/",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/"
+      "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/",
       "https://landezine.com/heavy-heavy-block-seats/",
       "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/durbanis-outdoor-furniture-lamina/",
