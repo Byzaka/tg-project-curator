@@ -366,7 +366,8 @@
       "https://leibal.com/interiors/villa-osterlen/",
       "https://leibal.com/interiors/greenwich-residence/",
       "https://leibal.com/interiors/house-by-the-sea/",
-      "https://leibal.com/interiors/zws-studio/"
+      "https://leibal.com/interiors/zws-studio/",
+      "https://leibal.com/interiors/berto/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -744,7 +745,8 @@
       "https://www.archdaily.com/1022208/q8-residence-menard-dworkind-architecture-and-design",
       "https://www.archdaily.com/935506/north-bank-house-elliott-architects-ltd",
       "https://www.archdaily.com/1021770/kumagaya-house-chop-plus-archi",
-      "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos"
+      "https://www.archdaily.com/1040307/house-si-iraguen-vinuela-arquitectos",
+      "https://www.archdaily.com/1021684/straussengasse-14-feld72"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040427/two-gabled-volumes-one-landscape-brbb-architects",
@@ -1396,7 +1398,7 @@
       "https://www.archdaily.com/1184087/house-in-estancia-el-terron-santiago-bertotti",
       "https://www.archdaily.com/1184135/tomaz-building-ideia1"
     ],
-    "archive_page": 185
+    "archive_page": 186
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1781,7 +1783,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/05/heydar-aliyev-centre-zaha-hadid-parametricism-case-study/",
       "https://www.dezeen.com/2026/05/05/oriente-green-campus-portugal-kpf-saraivaassociados/",
       "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
       "https://www.dezeen.com/2026/05/06/oddo-architects-th-house-extension/",
@@ -2253,7 +2254,8 @@
       "https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/",
       "https://www.dezeen.com/2026/08/28/baumhaus-office-square-metre-studio-tree-opposite-office/",
       "https://www.dezeen.com/2026/08/28/nodecraft-studio-designs-poured-earth-farmhouse/",
-      "https://www.dezeen.com/2026/08/29/farmhouse-renovations/"
+      "https://www.dezeen.com/2026/08/29/farmhouse-renovations/",
+      "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/"
     ],
     "archive_page": 2
   },
@@ -2415,7 +2417,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
       "https://www.dezeen.com/2026/06/22/digital-guide-london-design-festival-2026/",
       "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
       "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
@@ -2852,10 +2853,10 @@
       "https://landezine.com/area-outdoor-furniture-tree-grate-baltimore/",
       "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/",
       "https://landezine.com/heavy-heavy-block-seats/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/durbanis-outdoor-furniture-lamina/"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-lamina/",
       "https://landezine.com/1-may-call-for-submissions-thresholds-55-property/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-structures/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/area-outdoor-furniture-bench-table-chicago/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -3242,7 +3243,10 @@
       "https://landezine.com/9-september-five-finalists-to-be-announced-for-the-european-prize-for-urban-public-space/",
       "https://landezine.com/call-for-entries-international-garden-festival-2027-at-domaine-de-chaumont-sur-loire/",
       "https://landezine.com/navitas-harbour-front-by-marianne-levinsen-landskab/",
-      "https://landezine.com/la-craquelure/"
+      "https://landezine.com/la-craquelure/",
+      "https://landezine.com/the-nieuwe-ooster-by-karres-en-brands/",
+      "https://landezine.com/solvallsparken-by-karavan-landskapsarkitekter/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 203
   },
