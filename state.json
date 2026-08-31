@@ -86,7 +86,8 @@
       "https://leibal.com/interiors/white-breakers/",
       "https://leibal.com/interiors/muttram-veedu/",
       "https://leibal.com/interiors/villa-osterlen/",
-      "https://leibal.com/interiors/house-by-the-sea/"
+      "https://leibal.com/interiors/house-by-the-sea/",
+      "https://leibal.com/interiors/casa-insula/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -368,9 +369,12 @@
       "https://leibal.com/interiors/house-by-the-sea/",
       "https://leibal.com/interiors/zws-studio/",
       "https://leibal.com/interiors/berto/",
-      "https://leibal.com/interiors/noice/"
+      "https://leibal.com/interiors/noice/",
+      "https://leibal.com/interiors/calatrava-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/casa-insula/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -750,7 +754,8 @@
       "https://www.archdaily.com/1021684/straussengasse-14-feld72",
       "https://www.archdaily.com/1040427/two-gabled-volumes-one-landscape-brbb-architects",
       "https://www.archdaily.com/1021453/house-barje-arhitekti-pocivasek-petranovic",
-      "https://www.archdaily.com/1040395/villa-ef-depaolidefranceschibaldan-architetti"
+      "https://www.archdaily.com/1040395/villa-ef-depaolidefranceschibaldan-architetti",
+      "https://www.archdaily.com/996208/multifamily-residence-frauenfeld-ivanov-and-partner"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040326/carrickalinga-shed-architects-ink",
@@ -1409,9 +1414,14 @@
       "https://www.archdaily.com/1184208/the-plinth-house-2-luke-stanley-architects",
       "https://www.archdaily.com/1184089/etchegoyen-house-wasingerbarletti-arquitectos",
       "https://www.archdaily.com/1184079/house-in-shichiku",
-      "https://www.archdaily.com/1184110/house-in-hino-shigeo-takizawa-architects"
+      "https://www.archdaily.com/1184110/house-in-hino-shigeo-takizawa-architects",
+      "https://www.archdaily.com/1184182/pedra-azul-house-escala-arquitetura",
+      "https://www.archdaily.com/1184204/weekend-villa-r-plus-r-architects",
+      "https://www.archdaily.com/1183895/house-of-monitors-williamson-williamson",
+      "https://www.archdaily.com/1184279/akina-house-di-frenna-arquitectos",
+      "https://www.archdaily.com/1183899/maison-bellon-camprubi-r2a-architectes"
     ],
-    "archive_page": 187
+    "archive_page": 188
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1797,7 +1807,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/06/parametricism-simple-guide/",
       "https://www.dezeen.com/2026/05/06/aia-architecture-degress-professional-degree/",
       "https://www.dezeen.com/2026/05/07/patrik-schumacher-parametricism-interview/",
       "https://www.dezeen.com/2026/05/07/smallholding-nesjestranda-rever-drage-norway-extension/",
@@ -2268,7 +2277,8 @@
       "https://www.dezeen.com/2026/08/29/farmhouse-renovations/",
       "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
       "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/",
-      "https://www.dezeen.com/2026/08/30/top-houses-august-2026/"
+      "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
+      "https://www.dezeen.com/2026/08/31/antonio-costa-lima-arquitectos-praia-do-bom-housing-block-lisbon/"
     ],
     "archive_page": 2
   },
@@ -2430,7 +2440,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
       "https://www.dezeen.com/2026/06/23/space4architects-transforms-brooklyn-warehouse-into-residence/",
       "https://www.dezeen.com/2026/08/04/contraband-coffee-melbourne-cafe-interiors-taylor-knights/",
       "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
@@ -2871,10 +2880,10 @@
       "https://landezine.com/durbanis-outdoor-furniture-lamina/",
       "https://landezine.com/1-may-call-for-submissions-thresholds-55-property/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-structures/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/area-outdoor-furniture-bench-table-chicago/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/area-outdoor-furniture-bench-table-chicago/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/area-outdoor-furniture-bicycle-rack-antares/",
       "https://landezine.com/landscape-forms-outdoor-furniture-torres-path-light/",
       "https://landezine.com/museum-park-louvre-lens-by-mosbach-paysagistes/",
