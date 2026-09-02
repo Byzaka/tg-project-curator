@@ -372,9 +372,12 @@
       "https://leibal.com/interiors/noice/",
       "https://leibal.com/interiors/calatrava-house/",
       "https://leibal.com/interiors/casa-insula/",
-      "https://leibal.com/interiors/haven-of-nature/"
+      "https://leibal.com/interiors/haven-of-nature/",
+      "https://leibal.com/interiors/aperture-house-2/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/century-park-residence/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -758,7 +761,8 @@
       "https://www.archdaily.com/996208/multifamily-residence-frauenfeld-ivanov-and-partner",
       "https://www.archdaily.com/1040326/carrickalinga-shed-architects-ink",
       "https://www.archdaily.com/1020987/suna-house-ydr-estudio",
-      "https://www.archdaily.com/1040428/sailom-house-anonym"
+      "https://www.archdaily.com/1040428/sailom-house-anonym",
+      "https://www.archdaily.com/1021238/house-in-hakusan-kenta-hirayama-architect-and-associates"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040426/tull-weekend-home",
@@ -1433,9 +1437,12 @@
       "https://www.archdaily.com/1184349/vista-house-studio-gontijo-arquitetura",
       "https://www.archdaily.com/1184391/vivienda-eme-indarq",
       "https://www.archdaily.com/1184371/casa-tepoztlan-dosa-studio",
-      "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline"
+      "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+      "https://www.archdaily.com/1184288/the-makers-barn-hutch-design",
+      "https://www.archdaily.com/1183987/transformation-of-a-farmhouse-in-grandvillard-bard-yersin-architectes",
+      "https://www.archdaily.com/1183894/high-bluff-house-mapos"
     ],
-    "archive_page": 189
+    "archive_page": 190
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1632,7 +1639,8 @@
       "https://www.archdaily.com/1183419/zamalanda-park-on-the-nervion-riverbanks-burgos-and-garrido-arquitectos",
       "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
       "https://www.archdaily.com/1183732/katuvu-hut-hut-atelier-darchitecture",
-      "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio"
+      "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio",
+      "https://www.archdaily.com/1184291/west-garden-florist-luo-studio"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -1821,7 +1829,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/07/isabel-strauss-competition-restroom-gropius-house-massachusetts/",
       "https://www.dezeen.com/2026/05/07/zgf-navy-seal-museum-san-diego/",
       "https://www.dezeen.com/2026/05/07/olson-kundig-otis-elevators-space-needle-agenda/",
       "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
@@ -2297,7 +2304,11 @@
       "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
       "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
       "https://www.dezeen.com/2026/09/01/elia-zenghelis-obiturary/",
-      "https://www.dezeen.com/2026/09/01/kogaa-smeral-art-factory/"
+      "https://www.dezeen.com/2026/09/01/kogaa-smeral-art-factory/",
+      "https://www.dezeen.com/2026/09/02/dune-house-delaware-ziger-snead/",
+      "https://www.dezeen.com/2026/09/02/old-oak-common-hs2-station-wilkinsoneyre-construction/",
+      "https://www.dezeen.com/2026/09/02/danshuis-mad-rotterdam-dance-centre/",
+      "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/"
     ],
     "archive_page": 2
   },
@@ -2459,7 +2470,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
       "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
       "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
       "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
@@ -2524,7 +2534,8 @@
       "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
       "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
       "https://www.dezeen.com/2026/08/04/contraband-coffee-melbourne-cafe-interiors-taylor-knights/",
-      "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/"
+      "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/",
+      "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/"
     ],
     "archive_page": 2
   },
@@ -2904,10 +2915,10 @@
       "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/area-outdoor-furniture-bicycle-rack-antares/",
       "https://landezine.com/landscape-forms-outdoor-furniture-torres-path-light/",
-      "https://landezine.com/museum-park-louvre-lens-by-mosbach-paysagistes/"
+      "https://landezine.com/museum-park-louvre-lens-by-mosbach-paysagistes/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/",
       "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/",
@@ -3292,7 +3303,8 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-fgp-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/maglin-outdoor-furniture-the-l-series/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/brooklyn-bridge-park-by-mvva/",
-      "https://landezine.com/area-outdoor-furniture-bench-vancouver/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/area-outdoor-furniture-bench-vancouver/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 208
   },
