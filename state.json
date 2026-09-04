@@ -376,9 +376,12 @@
       "https://leibal.com/interiors/aperture-house-2/",
       "https://leibal.com/interiors/century-park-residence/",
       "https://leibal.com/interiors/fcv-apartment/",
-      "https://leibal.com/interiors/apartment-1-1-4/"
+      "https://leibal.com/interiors/apartment-1-1-4/",
+      "https://leibal.com/interiors/jeju/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/scout-2/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -766,7 +769,8 @@
       "https://www.archdaily.com/1021238/house-in-hakusan-kenta-hirayama-architect-and-associates",
       "https://www.archdaily.com/1040426/tull-weekend-home",
       "https://www.archdaily.com/1021198/aniketana-house-kasa-design-collective",
-      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos"
+      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos",
+      "https://www.archdaily.com/993892/corsal-house-mch-arquitecto-interiorista-plus-echeri-bioconstruccion"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
@@ -1453,9 +1457,12 @@
       "https://www.archdaily.com/1184338/house-in-kamiyasu-yutaka-yoshida-architect-and-associates",
       "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
       "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
-      "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura"
+      "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura",
+      "https://www.archdaily.com/1183989/house-among-the-trees-studio-cosmo",
+      "https://www.archdaily.com/1184481/house-particular-dois-jose-adriao-arquitetos",
+      "https://www.archdaily.com/1184462/210-south-12th-building-rshp"
     ],
-    "archive_page": 191
+    "archive_page": 192
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1653,7 +1660,8 @@
       "https://www.archdaily.com/1183571/pavilion-in-brolo-park-cn10-architetti",
       "https://www.archdaily.com/1183732/katuvu-hut-hut-atelier-darchitecture",
       "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio",
-      "https://www.archdaily.com/1184291/west-garden-florist-luo-studio"
+      "https://www.archdaily.com/1184291/west-garden-florist-luo-studio",
+      "https://www.archdaily.com/1184407/a-seaside-swing-installation-xbtw-office"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -1842,7 +1850,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/08/courthouse-building-h-i29-dp6/",
       "https://www.dezeen.com/2026/05/08/hollaway-studio-westview-cottage-comments/",
       "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
       "https://www.dezeen.com/2026/05/08/adidas-marathon-super-shoe-met-gala-kengo-kuma-angers-cathedral-dezeen-weekly-podcast/",
@@ -2321,7 +2328,9 @@
       "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/",
       "https://www.dezeen.com/2026/09/02/obama-presidential-center-video-chicago-tod-williams-billie-tsien/",
       "https://www.dezeen.com/2026/09/03/tower-of-london-historic-england/",
-      "https://www.dezeen.com/2026/09/03/lucas-museum-los-angeles-mad-open/"
+      "https://www.dezeen.com/2026/09/03/lucas-museum-los-angeles-mad-open/",
+      "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
+      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/"
     ],
     "archive_page": 2
   },
@@ -2483,7 +2492,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
       "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
@@ -2547,7 +2555,9 @@
       "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/",
       "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
       "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
-      "https://www.dezeen.com/2026/09/03/bin-wu-design-language-timeless-east/"
+      "https://www.dezeen.com/2026/09/03/bin-wu-design-language-timeless-east/",
+      "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
+      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/"
     ],
     "archive_page": 2
   },
@@ -2931,10 +2941,10 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/",
       "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/",
       "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/",
       "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/",
