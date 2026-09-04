@@ -375,11 +375,10 @@
       "https://leibal.com/interiors/haven-of-nature/",
       "https://leibal.com/interiors/aperture-house-2/",
       "https://leibal.com/interiors/century-park-residence/",
-      "https://leibal.com/interiors/fcv-apartment/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/fcv-apartment/",
       "https://leibal.com/interiors/apartment-1-1-4/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -766,10 +765,10 @@
       "https://www.archdaily.com/1040428/sailom-house-anonym",
       "https://www.archdaily.com/1021238/house-in-hakusan-kenta-hirayama-architect-and-associates",
       "https://www.archdaily.com/1040426/tull-weekend-home",
-      "https://www.archdaily.com/1021198/aniketana-house-kasa-design-collective"
+      "https://www.archdaily.com/1021198/aniketana-house-kasa-design-collective",
+      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos",
       "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
       "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
       "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes",
@@ -1450,7 +1449,11 @@
       "https://www.archdaily.com/1184375/house-of-wall-forest-igarchitects",
       "https://www.archdaily.com/1184382/pinn-pan-house-forx-design-studio",
       "https://www.archdaily.com/1184160/veil-house-turkel-design",
-      "https://www.archdaily.com/1184481/house-jose-adriao-arquitetos"
+      "https://www.archdaily.com/1184481/house-jose-adriao-arquitetos",
+      "https://www.archdaily.com/1184338/house-in-kamiyasu-yutaka-yoshida-architect-and-associates",
+      "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz",
+      "https://www.archdaily.com/1184512/casa-solis-21-ihouse-estudio",
+      "https://www.archdaily.com/1184435/bf2-house-peninsula-arquitetura"
     ],
     "archive_page": 191
   },
@@ -1839,7 +1842,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
       "https://www.dezeen.com/2026/05/08/courthouse-building-h-i29-dp6/",
       "https://www.dezeen.com/2026/05/08/hollaway-studio-westview-cottage-comments/",
       "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
@@ -2481,7 +2483,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
       "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
       "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
@@ -2929,10 +2930,10 @@
       "https://landezine.com/museum-park-louvre-lens-by-mosbach-paysagistes/",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-21-chair/",
       "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/",
       "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/",
       "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/",
       "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
