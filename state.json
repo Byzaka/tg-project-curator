@@ -378,7 +378,8 @@
       "https://leibal.com/interiors/fcv-apartment/",
       "https://leibal.com/interiors/apartment-1-1-4/",
       "https://leibal.com/interiors/jeju/",
-      "https://leibal.com/interiors/scout-2/"
+      "https://leibal.com/interiors/scout-2/",
+      "https://leibal.com/interiors/aloe-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -770,7 +771,8 @@
       "https://www.archdaily.com/1021198/aniketana-house-kasa-design-collective",
       "https://www.archdaily.com/1040054/farmers-assembly-lousinha-arquitectos",
       "https://www.archdaily.com/993892/corsal-house-mch-arquitecto-interiorista-plus-echeri-bioconstruccion",
-      "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur"
+      "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
+      "https://www.archdaily.com/1020567/rt2-apartments-jorge-urias-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
@@ -1460,9 +1462,10 @@
       "https://www.archdaily.com/1183989/house-among-the-trees-studio-cosmo",
       "https://www.archdaily.com/1184481/house-particular-dois-jose-adriao-arquitetos",
       "https://www.archdaily.com/1184462/210-south-12th-building-rshp",
-      "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos"
+      "https://www.archdaily.com/1184583/perichon-house-odb-arquitectos",
+      "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture"
     ],
-    "archive_page": 192
+    "archive_page": 193
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1851,7 +1854,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
       "https://www.dezeen.com/2026/05/08/adidas-marathon-super-shoe-met-gala-kengo-kuma-angers-cathedral-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/05/08/public-toilets-england-royal-society-for-public-health/",
       "https://www.dezeen.com/2026/05/08/3-days-design-2026-digital-guides-dezeen-events-guide/",
@@ -2330,7 +2332,8 @@
       "https://www.dezeen.com/2026/09/03/tower-of-london-historic-england/",
       "https://www.dezeen.com/2026/09/03/lucas-museum-los-angeles-mad-open/",
       "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
-      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/"
+      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
+      "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/"
     ],
     "archive_page": 2
   },
@@ -2492,7 +2495,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "https://www.dezeen.com/2026/06/25/cubitts-headquarters-london-51-architecture/",
       "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
@@ -2944,10 +2946,10 @@
       "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-chair-americana/",
       "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/",
-      "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/"
+      "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/",
       "https://landezine.com/landscape-forms-outdoor-furniture-tiers/",
       "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -3330,7 +3332,7 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/city-design-outdoor-furniture-litter-bin-cima/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
-    "archive_page": 208
+    "archive_page": 213
   },
   "monstrum_projects": {
     "sent_urls": [
