@@ -379,7 +379,8 @@
       "https://leibal.com/interiors/apartment-1-1-4/",
       "https://leibal.com/interiors/jeju/",
       "https://leibal.com/interiors/scout-2/",
-      "https://leibal.com/interiors/aloe-residence/"
+      "https://leibal.com/interiors/aloe-residence/",
+      "https://leibal.com/interiors/husarik-hut/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -773,7 +774,8 @@
       "https://www.archdaily.com/993892/corsal-house-mch-arquitecto-interiorista-plus-echeri-bioconstruccion",
       "https://www.archdaily.com/1040437/stenklovervej-vacation-house-filip-karl-edward-arkitektur",
       "https://www.archdaily.com/1020567/rt2-apartments-jorge-urias-studio",
-      "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning"
+      "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
+      "https://www.archdaily.com/1020643/orla-apartment-factsheet"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes",
@@ -1466,9 +1468,10 @@
       "https://www.archdaily.com/1183499/mr-fool-moves-a-mountain-schwartz-and-architecture",
       "https://www.archdaily.com/1184454/ocean-house-biazus-arquitetura",
       "https://www.archdaily.com/1184609/yarumos-apartment-tropico-arquitectura",
-      "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos"
+      "https://www.archdaily.com/1184588/joao-moura-apartment-margem-arquitetos",
+      "https://www.archdaily.com/1184449/the-overlook-migration-studios"
     ],
-    "archive_page": 193
+    "archive_page": 194
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1857,7 +1860,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/08/public-toilets-england-royal-society-for-public-health/",
       "https://www.dezeen.com/2026/05/08/3-days-design-2026-digital-guides-dezeen-events-guide/",
       "https://www.dezeen.com/2026/05/09/this-week-launched-series-parametricism/",
       "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
@@ -2336,7 +2338,8 @@
       "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
       "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
-      "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/"
+      "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/",
+      "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/"
     ],
     "archive_page": 2
   },
@@ -2498,7 +2501,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/12/costa-brazil-store-hudson-yards-new-york-alexander-may/",
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
       "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
       "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
@@ -2952,10 +2954,10 @@
       "https://landezine.com/durbanis-outdoor-furniture-bench-loclock/",
       "https://landezine.com/wijkeroogpark-velsen-by-bureau-bb-atelier-de-lyon/",
       "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
-      "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/"
+      "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-tiers/",
       "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/into-the-forest-being-a-guest-in-the-landscape-by-andrew-van-egmond/",
       "https://landezine.com/durbanis-outdoor-furniture-piet/",
