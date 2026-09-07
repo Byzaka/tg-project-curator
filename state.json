@@ -87,7 +87,8 @@
       "https://leibal.com/interiors/muttram-veedu/",
       "https://leibal.com/interiors/villa-osterlen/",
       "https://leibal.com/interiors/house-by-the-sea/",
-      "https://leibal.com/interiors/casa-insula/"
+      "https://leibal.com/interiors/casa-insula/",
+      "https://leibal.com/interiors/aj-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -380,7 +381,8 @@
       "https://leibal.com/interiors/jeju/",
       "https://leibal.com/interiors/scout-2/",
       "https://leibal.com/interiors/aloe-residence/",
-      "https://leibal.com/interiors/husarik-hut/"
+      "https://leibal.com/interiors/husarik-hut/",
+      "https://leibal.com/interiors/aj-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -776,7 +778,8 @@
       "https://www.archdaily.com/1020567/rt2-apartments-jorge-urias-studio",
       "https://www.archdaily.com/1040499/bellevue-villa-g8a-architecture-and-urban-planning",
       "https://www.archdaily.com/1020643/orla-apartment-factsheet",
-      "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes"
+      "https://www.archdaily.com/1039992/24-affordable-housing-units-in-igualada-4rq-arquitectura-plus-mbm-arquitectes",
+      "https://www.archdaily.com/1020515/sarvasva-building-spasm-design-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040305/santa-maria-del-oro-house-mauricio-ceballos-x-architects",
@@ -1472,9 +1475,12 @@
       "https://www.archdaily.com/1184449/the-overlook-migration-studios",
       "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
       "https://www.archdaily.com/1184612/grava-house-remyarchitects",
-      "https://www.archdaily.com/1184469/the-doctors-house-jose-costa"
+      "https://www.archdaily.com/1184469/the-doctors-house-jose-costa",
+      "https://www.archdaily.com/1183941/curious-house-forvm",
+      "https://www.archdaily.com/1184379/gradient-house-and-studio-observation-studio",
+      "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos"
     ],
-    "archive_page": 194
+    "archive_page": 195
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1863,7 +1869,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/09/this-week-launched-series-parametricism/",
       "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
       "https://www.dezeen.com/2026/05/10/pend-overlooked-infill-site-mews-homes-light-privacy/",
       "https://www.dezeen.com/2026/05/09/600-congress-avenue-austin-texas-lake-flato/",
@@ -2341,7 +2346,9 @@
       "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
       "https://www.dezeen.com/2026/09/06/plana-house-kristijan-markoc-downloadable-timber-home/",
-      "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/"
+      "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library/",
+      "https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/",
+      "https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/"
     ],
     "archive_page": 2
   },
@@ -2503,7 +2510,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
       "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
       "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
       "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
@@ -2568,7 +2574,9 @@
       "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
       "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
-      "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/"
+      "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/",
+      "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
+      "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/"
     ],
     "archive_page": 2
   },
@@ -2958,10 +2966,10 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-table-carousel-table/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-benches/",
       "https://landezine.com/landscape-forms-outdoor-furniture-tiers/",
-      "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/bellitalia-outdoor-furniture-arrow-bench/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/into-the-forest-being-a-guest-in-the-landscape-by-andrew-van-egmond/"
     ],
     "queue_new": [
-      "https://landezine.com/into-the-forest-being-a-guest-in-the-landscape-by-andrew-van-egmond/",
       "https://landezine.com/durbanis-outdoor-furniture-piet/",
       "https://landezine.com/area-outdoor-furniture-bollard-antares/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/nola-outdoor-furniture-langbordet-picnic-table/",
@@ -3339,7 +3347,10 @@
       "https://landezine.com/area-outdoor-furniture-bench-vancouver/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-profile-column-light/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/city-design-outdoor-furniture-litter-bin-cima/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/gronningen-bispeparken-by-sla/"
+      "https://landezine.com/gronningen-bispeparken-by-sla/",
+      "https://landezine.com/landezine-receives-ifla-europe-award-2026/",
+      "https://landezine.com/luisenkirchhof-iii-cemetery-by-relais-landschaftsarchitekten/",
+      "https://landezine.com/nola-outdoor-furniture-langbordet-picnic-table/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 213
   },
