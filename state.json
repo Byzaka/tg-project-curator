@@ -89,7 +89,8 @@
       "https://leibal.com/interiors/house-by-the-sea/",
       "https://leibal.com/interiors/casa-insula/",
       "https://leibal.com/interiors/aj-house/",
-      "https://leibal.com/interiors/virginia-water/"
+      "https://leibal.com/interiors/virginia-water/",
+      "https://leibal.com/interiors/casa-loma-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -385,9 +386,12 @@
       "https://leibal.com/interiors/husarik-hut/",
       "https://leibal.com/interiors/aj-house/",
       "https://leibal.com/interiors/virginia-water/",
-      "https://leibal.com/interiors/ehae/"
+      "https://leibal.com/interiors/ehae/",
+      "https://leibal.com/interiors/casa-loma-residence/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/parkhill-residence/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -785,7 +789,8 @@
       "https://www.archdaily.com/1020515/sarvasva-building-spasm-design-architects",
       "https://www.archdaily.com/1040305/santa-maria-del-oro-house-mauricio-ceballos-x-architects",
       "https://www.archdaily.com/1020293/music-box-house-multiplicity",
-      "https://www.archdaily.com/1040435/a-house-resident-and-milk-delivery-service-meguro-architecture-laboratory"
+      "https://www.archdaily.com/1040435/a-house-resident-and-milk-delivery-service-meguro-architecture-laboratory",
+      "https://www.archdaily.com/1019646/sm-house-ta-plan-design"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039309/pukkun-residence-reims-502",
@@ -1491,9 +1496,11 @@
       "https://www.archdaily.com/1184749/espatodias-house-leo-romano",
       "https://www.archdaily.com/1184746/house-22-loft7",
       "https://www.archdaily.com/1184657/casa-one-jorgelina-tortorici-and-asociados",
-      "https://www.archdaily.com/1184758/sow-and-grow-house-nevertheless-yusuke-sagawa-architects"
+      "https://www.archdaily.com/1184758/sow-and-grow-house-nevertheless-yusuke-sagawa-architects",
+      "https://www.archdaily.com/1183827/villa-mahler-philipp-architekten",
+      "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle"
     ],
-    "archive_page": 196
+    "archive_page": 197
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1883,7 +1890,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/10/house-kala-caceres-tous-bali/",
       "https://www.dezeen.com/2026/05/10/alejandro-ramirez-orozco-remanencias-photography-exhibition-mexico/",
       "https://www.dezeen.com/2026/05/11/douglas-spencer-parametricism-opinion/",
       "https://www.dezeen.com/2026/05/11/earth-lines-hilltop-house/",
@@ -2363,7 +2369,11 @@
       "https://www.dezeen.com/2026/09/08/76ers-arena-philadelphia-populous-moody-nolan/",
       "https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/",
       "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
-      "https://www.dezeen.com/2026/09/09/205-north-quay-brisbane/"
+      "https://www.dezeen.com/2026/09/09/205-north-quay-brisbane/",
+      "https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/",
+      "https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/",
+      "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
+      "https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/"
     ],
     "archive_page": 2
   },
@@ -2525,7 +2535,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/26/banh-banh-brixton-restaurant-house-of-baby/",
       "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "https://www.dezeen.com/2026/08/11/ebba-architects-cup-of-joy-cafe-marylebone-london/",
       "https://www.dezeen.com/2026/07/16/toad-bakery-deptford-southest-london-nick-tudor/",
@@ -2590,7 +2599,10 @@
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
       "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/",
       "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
-      "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/"
+      "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
+      "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
+      "https://www.dezeen.com/2026/08/09/i-in-human-made-store-korean-celadon-tiles/",
+      "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/"
     ],
     "archive_page": 2
   },
@@ -2984,10 +2996,10 @@
       "https://landezine.com/into-the-forest-being-a-guest-in-the-landscape-by-andrew-van-egmond/",
       "https://landezine.com/durbanis-outdoor-furniture-piet/",
       "https://landezine.com/area-outdoor-furniture-bollard-antares/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/nola-outdoor-furniture-langbordet-picnic-table/"
+      "https://landezine.com/nola-outdoor-furniture-langbordet-picnic-table/",
+      "https://landezine.com/miramondo-outdoor-furniture-buddy/"
     ],
     "queue_new": [
-      "https://landezine.com/miramondo-outdoor-furniture-buddy/",
       "https://landezine.com/landscape-forms-outdoor-furniture-louis/",
       "https://landezine.com/landscape-forms-outdoor-furniture-stul-air/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/metalco-outdoor-furniture-table-air-circle/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
@@ -3371,7 +3383,8 @@
       "https://landezine.com/international-african-american-museum-by-hood-design-studio/",
       "https://landezine.com/kildegarden/",
       "https://landezine.com/parco-lineare/",
-      "https://landezine.com/30-october-radicepura-garden-fesitival-gardens-of-hope-cultivating-coexistence/"
+      "https://landezine.com/30-october-radicepura-garden-fesitival-gardens-of-hope-cultivating-coexistence/",
+      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-curve/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 213
   },
