@@ -391,9 +391,12 @@
       "https://leibal.com/interiors/casa-loma-residence/",
       "https://leibal.com/interiors/parkhill-residence/",
       "https://leibal.com/interiors/casa-iriarte/",
-      "https://leibal.com/interiors/house-in-east-ryde/"
+      "https://leibal.com/interiors/house-in-east-ryde/",
+      "https://leibal.com/interiors/sar/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/ogt/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -795,7 +798,8 @@
       "https://www.archdaily.com/1019646/sm-house-ta-plan-design",
       "https://www.archdaily.com/1039309/pukkun-residence-reims-502",
       "https://www.archdaily.com/1020039/tinyleaf-cabin-goc",
-      "https://www.archdaily.com/1040546/princess-farm-antonio-costa-lima-arquitectos"
+      "https://www.archdaily.com/1040546/princess-farm-antonio-costa-lima-arquitectos",
+      "https://www.archdaily.com/1019556/the-sierra-alternative-housing-kadre-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040261/the-babel-community-coliving-residence-dhoundt-plus-bajart-architectes-and-associes",
@@ -1514,9 +1518,10 @@
       "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
       "https://www.archdaily.com/1184903/cholan-nests-house-la-cabina-de-la-curiosidad",
       "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
-      "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura"
+      "https://www.archdaily.com/1184700/tejo-engenharia-sainz-arquitetura",
+      "https://www.archdaily.com/1184858/residential-house-in-lower-pavilnys-vilnius-inblum-architects"
     ],
-    "archive_page": 198
+    "archive_page": 199
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1907,7 +1912,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/11/tour-triangle-skyscraper-herzog-de-meuron-tops-out-paris/",
       "https://www.dezeen.com/2026/05/11/johnston-marklee-ray-phoenix-arizona/",
       "https://www.dezeen.com/2026/05/12/metropol-parosol-j-mayer-h-arup-parametricism/",
       "https://www.dezeen.com/2026/05/12/antonio-bessa-cruz-architects-agramonte-house/",
@@ -2390,7 +2394,10 @@
       "https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/",
       "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
       "https://www.dezeen.com/2026/09/10/bt-tower-renovation-swimming-pool-orms/",
-      "https://www.dezeen.com/2026/09/10/qastic-asa-plus-accessory-dwelling-unit-qastic-los-angeles/"
+      "https://www.dezeen.com/2026/09/10/qastic-asa-plus-accessory-dwelling-unit-qastic-los-angeles/",
+      "https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/",
+      "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
+      "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/"
     ],
     "archive_page": 2
   },
@@ -2552,7 +2559,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/11/kim-kardashian-nude-hued-skims-london-flagship-store/",
       "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
       "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
       "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
@@ -3016,10 +3022,10 @@
       "https://landezine.com/miramondo-outdoor-furniture-buddy/",
       "https://landezine.com/landscape-forms-outdoor-furniture-louis/",
       "https://landezine.com/landscape-forms-outdoor-furniture-stul-air/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/metalco-outdoor-furniture-table-air-circle/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/metalco-outdoor-furniture-table-air-circle/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/metalco-outdoor-furniture-litter-bin-spencer/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "queue_new": [
-      "https://landezine.com/metalco-outdoor-furniture-litter-bin-spencer/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/miramondo-outdoor-furniture-merlin/",
       "https://landezine.com/streetlife-outdoor-furniture-corten-bicycle-racks/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/landscape-forms-outdoor-furniture-stul-air/",
@@ -3400,7 +3406,8 @@
       "https://landezine.com/kildegarden/",
       "https://landezine.com/parco-lineare/",
       "https://landezine.com/30-october-radicepura-garden-fesitival-gardens-of-hope-cultivating-coexistence/",
-      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-curve/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/durbanis-outdoor-furniture-bench-caribou-curve/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/27-october-international-garden-festival-in-quebec-open-call/"
     ],
     "archive_page": 218
   },
