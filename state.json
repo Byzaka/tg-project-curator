@@ -91,9 +91,12 @@
       "https://leibal.com/interiors/aj-house/",
       "https://leibal.com/interiors/virginia-water/",
       "https://leibal.com/interiors/casa-loma-residence/",
-      "https://leibal.com/interiors/casa-iriarte/"
+      "https://leibal.com/interiors/casa-iriarte/",
+      "https://leibal.com/interiors/house-in-tinos/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/forest-villa-mb/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -396,9 +399,12 @@
       "https://leibal.com/interiors/ogt/",
       "https://leibal.com/interiors/kolonaki-micro-apartment/",
       "https://leibal.com/interiors/abg/",
-      "https://leibal.com/interiors/tregunter/"
+      "https://leibal.com/interiors/tregunter/",
+      "https://leibal.com/interiors/house-in-tinos/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/forest-villa-mb/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -810,7 +816,8 @@
       "https://www.archdaily.com/1019558/whistling-wind-island-akb-architects",
       "https://www.archdaily.com/1040393/writing-cabin-olin-petzold",
       "https://www.archdaily.com/1019166/transitional-housing-cypress-park-kadre-architects-plus-lehrer-architects",
-      "https://www.archdaily.com/1040314/ten-social-housing-units-in-santa-margalida-mallorca-javier-gavin-plus-siddartha-rodrigo-plus-juan-moreno-plus-dataae"
+      "https://www.archdaily.com/1040314/ten-social-housing-units-in-santa-margalida-mallorca-javier-gavin-plus-siddartha-rodrigo-plus-juan-moreno-plus-dataae",
+      "https://www.archdaily.com/1019192/vila-madalena-residence-arquitetura-gui-mattos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040465/embargo-bangsue-residence-patara-architects",
@@ -1552,9 +1559,12 @@
       "https://www.archdaily.com/1185045/mar-conversion-of-a-single-family-house-into-two-residential-units-bruna-studio",
       "https://www.archdaily.com/1184910/casa-fatima-marmolbravo",
       "https://www.archdaily.com/1185067/casa-vo-desangles-abreu-arquitectos-and-arkina",
-      "https://www.archdaily.com/1184934/villa-yandara-padovani-arquitetos"
+      "https://www.archdaily.com/1184934/villa-yandara-padovani-arquitetos",
+      "https://www.archdaily.com/1185106/darnaway-a-studio-for-anne-richmond-bell",
+      "https://www.archdaily.com/1184381/4015-house-and-studio-observation-studio",
+      "https://www.archdaily.com/1185246/noor-house-marcos-lula"
     ],
-    "archive_page": 203
+    "archive_page": 204
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1946,7 +1956,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/14/chaos-survey-artificial-intelligence-architecture/",
       "https://www.dezeen.com/2026/05/13/kennedy-library-renovation-miller-hull-partnership-california/",
       "https://www.dezeen.com/2026/05/14/oda-post-skyscraper-nearing-completion/",
       "https://www.dezeen.com/2026/05/14/otlo-studio-house-quiet-raga/",
@@ -2435,7 +2444,10 @@
       "https://www.dezeen.com/2026/09/15/poke-ball-themed-hotel-not-a-hotel/",
       "https://www.dezeen.com/2026/09/15/grimshaw-north-plaza-allegiant-boring-company-las-vegas/",
       "https://www.dezeen.com/2026/09/15/house-beyond-mango-trees-inle-architects/",
-      "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/"
+      "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
+      "https://www.dezeen.com/2026/09/16/cairngorm-cottage-architecture-office/",
+      "https://www.dezeen.com/2026/09/16/rshp-erre-valencia-central-station/",
+      "https://www.dezeen.com/2026/09/16/arquitectonica-msc-cruise-terminal-port-miami/"
     ],
     "archive_page": 2
   },
@@ -2597,7 +2609,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/18/oma-oberon-restaurant-new-museum-new-york-city/",
       "https://www.dezeen.com/2026/07/19/cinderella-house-ysg-redfern-sydney-australia/",
       "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
       "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
@@ -3070,10 +3081,10 @@
       "https://landezine.com/metalco-outdoor-furniture-seating-break-time/",
       "https://landezine.com/landscape-forms-outdoor-furniture-louis/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-6-benches/",
-      "https://landezine.com/streetlife-outdoor-furniture-table-solid-picnic-sets/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/streetlife-outdoor-furniture-table-solid-picnic-sets/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/lila-2020-lifting-the-palm-grove-to-a-higher-level-by-building-beyond-borders-morocco/"
     ],
     "queue_new": [
-      "https://landezine.com/lila-2020-lifting-the-palm-grove-to-a-higher-level-by-building-beyond-borders-morocco/",
       "https://landezine.com/fish-cycle-wieringermeer-by-hosper/",
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus-2/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/kala-playground-and-green-space-in-berlinby-rehwaldt-la/",
@@ -3449,7 +3460,9 @@
       "https://landezine.com/passeig-de-st-joan-boulevard-by-lola-domenech/",
       "https://landezine.com/17-september-book-session-tu-delft-eclas-take-care-planetary-landscape-architecture/",
       "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
-      "https://landezine.com/october-29-31-2nd-porto-urban-greening-biennal-cultivating-communities/"
+      "https://landezine.com/october-29-31-2nd-porto-urban-greening-biennal-cultivating-communities/",
+      "https://landezine.com/european-prize-for-urban-public-space-2026-finalists-announced/",
+      "https://landezine.com/miramondo-outdoor-furniture-hot-dot/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
     ],
     "archive_page": 223
   },
