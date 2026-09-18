@@ -402,9 +402,12 @@
       "https://leibal.com/interiors/tregunter/",
       "https://leibal.com/interiors/house-in-tinos/",
       "https://leibal.com/interiors/forest-villa-mb/",
-      "https://leibal.com/interiors/retreat-house/"
+      "https://leibal.com/interiors/retreat-house/",
+      "https://leibal.com/interiors/nichigetsu/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/jungle/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -820,7 +823,8 @@
       "https://www.archdaily.com/1019192/vila-madalena-residence-arquitetura-gui-mattos",
       "https://www.archdaily.com/1040465/embargo-bangsue-residence-patara-architects",
       "https://www.archdaily.com/1017741/the-vaulted-house-vrushaket-pawar-plus-architects-vp-plus-a",
-      "https://www.archdaily.com/1040478/elmali-house-pin-architects"
+      "https://www.archdaily.com/1040478/elmali-house-pin-architects",
+      "https://www.archdaily.com/1016897/jardin-house-patio-livity"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040494/mozart-house-studio-dera",
@@ -1571,9 +1575,10 @@
       "https://www.archdaily.com/1185198/dong-trieu-retreat-naqi-and-partners",
       "https://www.archdaily.com/1185282/lorne-road-house-foomann-architects",
       "https://www.archdaily.com/1185325/honor-vacui-equipo-de-arquitectura",
-      "https://www.archdaily.com/1184893/hug-house-tati-tavares-plus-alex-dalcin-arquitetura"
+      "https://www.archdaily.com/1184893/hug-house-tati-tavares-plus-alex-dalcin-arquitetura",
+      "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer"
     ],
-    "archive_page": 205
+    "archive_page": 206
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1776,7 +1781,8 @@
       "https://www.archdaily.com/1184555/rain-rhizome-tanat-plus-rizoma-del-agua",
       "https://www.archdaily.com/1184696/kay-kay-de-monkul-lookout-walkway-gonzalo-verdugo-plus-carlos-seguel-arquitectos",
       "https://www.archdaily.com/1184772/luxelakes-cornori-commercial-park-atelier-oo",
-      "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects"
+      "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
+      "https://www.archdaily.com/1185273/cultural-center-in-gisors-richter-architectes-et-associes"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -1965,7 +1971,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/14/seoul-robot-ai-museum-parametric-architecture/",
       "https://www.dezeen.com/2026/05/14/design-ni-dukaan-geometric-gujarat-house/",
       "https://www.dezeen.com/2026/05/14/studio-gang-theatre-hudson-valley-shakespeare-new-york-mass-timber/",
       "https://www.dezeen.com/2026/05/15/dezeen-weekly-parametricism/",
@@ -2458,7 +2463,9 @@
       "https://www.dezeen.com/2026/09/17/lechner-lechner-architects-quiet-retreat/",
       "https://www.dezeen.com/2026/09/17/denmark-land-reclamation-fehmarnbelt-tunnel/",
       "https://www.dezeen.com/2026/09/17/hks-interior-renderings-commanders-stadium-dc-nfl/",
-      "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/"
+      "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+      "https://www.dezeen.com/2026/09/18/studio-egret-west-revises-battersea-power-station-masterplan-for-final-phases/",
+      "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/"
     ],
     "archive_page": 2
   },
@@ -2620,7 +2627,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/19/casa-magma-portinari-casacor-sao-paulo-suite-arquitetos/",
       "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
       "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
@@ -3093,10 +3099,10 @@
       "https://landezine.com/streetlife-outdoor-furniture-table-solid-picnic-sets/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/lila-2020-lifting-the-palm-grove-to-a-higher-level-by-building-beyond-borders-morocco/",
       "https://landezine.com/fish-cycle-wieringermeer-by-hosper/",
-      "https://landezine.com/kala-playground-and-green-space-in-berlinby-rehwaldt-la/"
+      "https://landezine.com/kala-playground-and-green-space-in-berlinby-rehwaldt-la/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/",
       "https://landezine.com/streetlife-outdoor-furniture-cliffhanger-park-benches/",
       "https://landezine.com/area-outdoor-furniture-bench-table-chicago/",
       "https://landezine.com/landscape-forms-outdoor-furniture-rockford-litter/",
@@ -3470,7 +3476,8 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
       "https://landezine.com/october-29-31-2nd-porto-urban-greening-biennal-cultivating-communities/",
       "https://landezine.com/european-prize-for-urban-public-space-2026-finalists-announced/",
-      "https://landezine.com/miramondo-outdoor-furniture-hot-dot/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products"
+      "https://landezine.com/miramondo-outdoor-furniture-hot-dot/?utm_source=landezine&utm_medium=sidebar_banner_fallback&utm_campaign=random_products",
+      "https://landezine.com/n322-beneden-leeuwen-druten-by-wurck/"
     ],
     "archive_page": 223
   },
