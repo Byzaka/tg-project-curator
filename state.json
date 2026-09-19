@@ -403,11 +403,10 @@
       "https://leibal.com/interiors/house-in-tinos/",
       "https://leibal.com/interiors/forest-villa-mb/",
       "https://leibal.com/interiors/retreat-house/",
-      "https://leibal.com/interiors/nichigetsu/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/nichigetsu/",
       "https://leibal.com/interiors/jungle/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -824,10 +823,10 @@
       "https://www.archdaily.com/1040465/embargo-bangsue-residence-patara-architects",
       "https://www.archdaily.com/1017741/the-vaulted-house-vrushaket-pawar-plus-architects-vp-plus-a",
       "https://www.archdaily.com/1040478/elmali-house-pin-architects",
-      "https://www.archdaily.com/1016897/jardin-house-patio-livity"
+      "https://www.archdaily.com/1016897/jardin-house-patio-livity",
+      "https://www.archdaily.com/1040494/mozart-house-studio-dera"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040494/mozart-house-studio-dera",
       "https://www.archdaily.com/1039932/embargo-lee-house-candalepas-associates",
       "https://www.archdaily.com/1040529/cunha-house-roberto-brotero-arquitetura",
       "https://www.archdaily.com/1040401/house-in-a-garden-edition-office",
@@ -1576,7 +1575,10 @@
       "https://www.archdaily.com/1185282/lorne-road-house-foomann-architects",
       "https://www.archdaily.com/1185325/honor-vacui-equipo-de-arquitectura",
       "https://www.archdaily.com/1184893/hug-house-tati-tavares-plus-alex-dalcin-arquitetura",
-      "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer"
+      "https://www.archdaily.com/1185186/alpamyr-house-sandro-durrer",
+      "https://www.archdaily.com/1185391/aerocasa-feliu-vega-kennedy-arquitectura",
+      "https://www.archdaily.com/1185394/gandarillas-house-jose-pedro-vicente-arquitectos",
+      "https://www.archdaily.com/1185340/mini-atalhada-building-so-arquitetura-and-design"
     ],
     "archive_page": 206
   },
@@ -1971,7 +1973,6 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/14/design-ni-dukaan-geometric-gujarat-house/",
       "https://www.dezeen.com/2026/05/14/studio-gang-theatre-hudson-valley-shakespeare-new-york-mass-timber/",
       "https://www.dezeen.com/2026/05/15/dezeen-weekly-parametricism/",
       "https://www.dezeen.com/2026/05/15/johnston-marklee-ray-phoenix-arizona-comments/",
@@ -2627,7 +2628,6 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
       "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
       "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
@@ -3100,10 +3100,10 @@
       "https://landezine.com/lila-2020-lifting-the-palm-grove-to-a-higher-level-by-building-beyond-borders-morocco/",
       "https://landezine.com/fish-cycle-wieringermeer-by-hosper/",
       "https://landezine.com/kala-playground-and-green-space-in-berlinby-rehwaldt-la/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-table-harvest-table/",
+      "https://landezine.com/streetlife-outdoor-furniture-cliffhanger-park-benches/"
     ],
     "queue_new": [
-      "https://landezine.com/streetlife-outdoor-furniture-cliffhanger-park-benches/",
       "https://landezine.com/area-outdoor-furniture-bench-table-chicago/",
       "https://landezine.com/landscape-forms-outdoor-furniture-rockford-litter/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-peano-benches/",
