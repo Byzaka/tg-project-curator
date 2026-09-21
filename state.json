@@ -94,7 +94,8 @@
       "https://leibal.com/interiors/casa-iriarte/",
       "https://leibal.com/interiors/house-in-tinos/",
       "https://leibal.com/interiors/forest-villa-mb/",
-      "https://leibal.com/interiors/retreat-house/"
+      "https://leibal.com/interiors/retreat-house/",
+      "https://leibal.com/interiors/villa-nouvelle-vague/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -406,9 +407,12 @@
       "https://leibal.com/interiors/nichigetsu/",
       "https://leibal.com/interiors/jungle/",
       "https://leibal.com/interiors/living-along-the-window/",
-      "https://leibal.com/interiors/rubi/"
+      "https://leibal.com/interiors/rubi/",
+      "https://leibal.com/interiors/apartamento-dos-porticos/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/villa-nouvelle-vague/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -830,7 +834,8 @@
       "https://www.archdaily.com/1039932/embargo-lee-house-candalepas-associates",
       "https://www.archdaily.com/1040529/cunha-house-roberto-brotero-arquitetura",
       "https://www.archdaily.com/1040401/house-in-a-garden-edition-office",
-      "https://www.archdaily.com/1040399/itaipava-farm-lucas-jimeno-dualde"
+      "https://www.archdaily.com/1040399/itaipava-farm-lucas-jimeno-dualde",
+      "https://www.archdaily.com/1010793/house-in-the-pine-forest-at-architectes"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040614/vesp-house-story-architecture",
@@ -1584,9 +1589,11 @@
       "https://www.archdaily.com/1185405/cella-house-ihouse-estudio",
       "https://www.archdaily.com/1185199/bangbae-geunsaeng-neighbourhood-facility-aoa-architects",
       "https://www.archdaily.com/1185342/sukoon-house-tubb",
-      "https://www.archdaily.com/1185236/house-k-hgaa"
+      "https://www.archdaily.com/1185236/house-k-hgaa",
+      "https://www.archdaily.com/1185046/skovsporet-3d-printed-student-housing-saga-space-architects",
+      "https://www.archdaily.com/1185427/lilac-bureau"
     ],
-    "archive_page": 216
+    "archive_page": 217
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1980,10 +1987,10 @@
       "https://www.dezeen.com/2026/03/24/brick-bonds-book-melissa-price/",
       "https://www.dezeen.com/2026/05/15/dezeen-weekly-parametricism/",
       "https://www.dezeen.com/2026/05/15/johnston-marklee-ray-phoenix-arizona-comments/",
-      "https://www.dezeen.com/2026/05/15/mad-hainan-science-museum-china/"
+      "https://www.dezeen.com/2026/05/15/mad-hainan-science-museum-china/",
+      "https://www.dezeen.com/2026/05/15/ambrosian-monastery-stefano-boeri-architetti-milan/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/15/ambrosian-monastery-stefano-boeri-architetti-milan/",
       "https://www.dezeen.com/2026/05/15/house-in-amagansett-khanna-schultz-hamptons/",
       "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
       "https://www.dezeen.com/2026/05/15/vancouver-science-world-trionda-match-ball-world-cup-2026/",
@@ -2478,7 +2485,10 @@
       "https://www.dezeen.com/2026/09/20/house-of-shadows-cadence-architects/",
       "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
       "https://www.dezeen.com/2026/09/21/stand-out-projects-oslo-architecture-triennale/",
-      "https://www.dezeen.com/2026/09/20/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg/"
+      "https://www.dezeen.com/2026/09/20/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg/",
+      "https://www.dezeen.com/2026/09/21/trump-triumphal-arch-military-base-washington-dc/",
+      "https://www.dezeen.com/2026/09/21/design-new-york-city-borough-based-jail-program/",
+      "https://www.dezeen.com/2026/09/21/rx-architects-druim-extension/"
     ],
     "archive_page": 2
   },
@@ -2640,10 +2650,10 @@
       "https://www.dezeen.com/2026/05/26/paloma-bau-ausias-perez-sornells-21/",
       "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
       "https://www.dezeen.com/2026/08/17/last-chance-feature-dezeens-digital-guide-london-design-festival-2026/",
-      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/"
+      "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
+      "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
       "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
       "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
@@ -2704,7 +2714,9 @@
       "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
       "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
-      "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/"
+      "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
+      "https://www.dezeen.com/2026/09/21/ual-atterbury-flat-student-design-archive/",
+      "https://www.dezeen.com/2026/09/21/neurodiverse-design-ellie-foster-opinion/"
     ],
     "archive_page": 2
   },
@@ -3121,10 +3133,10 @@
       "https://landezine.com/area-outdoor-furniture-bench-table-chicago/",
       "https://landezine.com/landscape-forms-outdoor-furniture-rockford-litter/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-peano-benches/",
-      "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/"
+      "https://landezine.com/metalco-outdoor-furniture-bench-libre-2-0/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-light-typology-ring-light/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-light-typology-ring-light/",
       "https://landezine.com/miramondo-outdoor-furniture-picnic/",
       "https://landezine.com/city-design-outdoor-furniture-bench-noale/",
       "https://landezine.com/metalco-outdoor-furniture-bench-jasper/",
