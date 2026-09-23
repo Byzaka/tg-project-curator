@@ -411,9 +411,12 @@
       "https://leibal.com/interiors/apartamento-dos-porticos/",
       "https://leibal.com/interiors/villa-nouvelle-vague/",
       "https://leibal.com/interiors/casa-gongora/",
-      "https://leibal.com/interiors/b-apartment/"
+      "https://leibal.com/interiors/b-apartment/",
+      "https://leibal.com/interiors/su-residence/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/residence-uden/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -839,7 +842,8 @@
       "https://www.archdaily.com/1010793/house-in-the-pine-forest-at-architectes",
       "https://www.archdaily.com/1040614/vesp-house-story-architecture",
       "https://www.archdaily.com/1010790/ferskule-house-denkkamer",
-      "https://www.archdaily.com/1040636/nojoor-hive-architecture"
+      "https://www.archdaily.com/1040636/nojoor-hive-architecture",
+      "https://www.archdaily.com/1010481/montes-claros-house-venta-arquitetos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040447/gort-ui-ghaoithin-fuinneamh-workshop-architects",
@@ -1602,9 +1606,12 @@
       "https://www.archdaily.com/1185522/casa-amona-colar-colectivo-de-arquitectura",
       "https://www.archdaily.com/1185526/casa-pm-feliu-vega-kennedy-arquitectura",
       "https://www.archdaily.com/1034340/mrd-residence-jacobsen-arquitetura",
-      "https://www.archdaily.com/1185293/th-plus-house-oddo-architects"
+      "https://www.archdaily.com/1185293/th-plus-house-oddo-architects",
+      "https://www.archdaily.com/1185507/casa-esteli-colar-colectivo-de-arquitectura",
+      "https://www.archdaily.com/1033068/shore-house-stanley-office-of-architecture",
+      "https://www.archdaily.com/1185662/mogno-house-rb-arquitetura"
     ],
-    "archive_page": 218
+    "archive_page": 219
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2002,10 +2009,10 @@
       "https://www.dezeen.com/2026/05/15/ambrosian-monastery-stefano-boeri-architetti-milan/",
       "https://www.dezeen.com/2026/05/15/house-in-amagansett-khanna-schultz-hamptons/",
       "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
-      "https://www.dezeen.com/2026/05/15/vancouver-science-world-trionda-match-ball-world-cup-2026/"
+      "https://www.dezeen.com/2026/05/15/vancouver-science-world-trionda-match-ball-world-cup-2026/",
+      "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/",
       "https://www.dezeen.com/2026/05/17/atelier-write-unravel-salon-tokyo-warehouse/",
       "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
       "https://www.dezeen.com/2026/05/18/nordpark-railway-stations-innsbruck-austria-zaha-hadid/",
@@ -2505,7 +2512,9 @@
       "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
       "https://www.dezeen.com/2026/09/22/parsons-plastic-toxicity-american-manufactured-homes/",
       "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
-      "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+      "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/",
+      "https://www.dezeen.com/2026/09/23/pend-newhaven-extension/",
+      "https://www.dezeen.com/2026/09/23/teen-takeovers-christopher-martin-opinion/"
     ],
     "archive_page": 2
   },
@@ -2671,10 +2680,10 @@
       "https://www.dezeen.com/2026/07/21/joyce-wang-studio-genso-restaurant-hong-kong/",
       "https://www.dezeen.com/2026/06/30/nikolaj-mentze-cobe-studio-architecture-bookshop/",
       "https://www.dezeen.com/2026/06/30/sabine-marcelis-rotterdam-loft-apartment/",
-      "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/"
+      "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
+      "https://www.dezeen.com/2026/08/20/aim-architecture-zara-flagship-shanghai/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/20/aim-architecture-zara-flagship-shanghai/",
       "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/",
       "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
       "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/",
@@ -2735,7 +2744,8 @@
       "https://www.dezeen.com/2026/09/21/ual-atterbury-flat-student-design-archive/",
       "https://www.dezeen.com/2026/09/21/neurodiverse-design-ellie-foster-opinion/",
       "https://www.dezeen.com/2026/09/22/andersson-bell-tokyo-store-i-in/",
-      "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/"
+      "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/",
+      "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/"
     ],
     "archive_page": 2
   },
@@ -3156,10 +3166,10 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-light-typology-ring-light/",
       "https://landezine.com/miramondo-outdoor-furniture-picnic/",
       "https://landezine.com/city-design-outdoor-furniture-bench-noale/",
-      "https://landezine.com/metalco-outdoor-furniture-bench-jasper/"
+      "https://landezine.com/metalco-outdoor-furniture-bench-jasper/",
+      "https://landezine.com/bellitalia-outdoor-furniture-jonathan-bench/"
     ],
     "queue_new": [
-      "https://landezine.com/bellitalia-outdoor-furniture-jonathan-bench/",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-big-green-benches/",
       "https://landezine.com/nola-outdoor-furniture-gry-furniture-group/",
       "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/",
