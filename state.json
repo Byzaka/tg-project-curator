@@ -414,9 +414,12 @@
       "https://leibal.com/interiors/b-apartment/",
       "https://leibal.com/interiors/su-residence/",
       "https://leibal.com/interiors/residence-uden/",
-      "https://leibal.com/interiors/victoria-harbour-residence/"
+      "https://leibal.com/interiors/victoria-harbour-residence/",
+      "https://leibal.com/interiors/living-room/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/sadovye-kvartaly/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -846,7 +849,8 @@
       "https://www.archdaily.com/1010481/montes-claros-house-venta-arquitetos",
       "https://www.archdaily.com/1040447/gort-ui-ghaoithin-fuinneamh-workshop-architects",
       "https://www.archdaily.com/1010302/the-sandbox-peter-braithwaite-studio",
-      "https://www.archdaily.com/1040692/fn-house-anonym"
+      "https://www.archdaily.com/1040692/fn-house-anonym",
+      "https://www.archdaily.com/1010059/dot-sofia-i-o-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040398/eucalyptus-house-julia-yako-plus-laura-marino",
@@ -1619,9 +1623,11 @@
       "https://www.archdaily.com/1185595/terravue-residence-fictive-architects",
       "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects",
       "https://www.archdaily.com/1185721/a-house-with-one-hundred-pines-luis-barandiaran",
-      "https://www.archdaily.com/1033146/bosque-house-fgmf"
+      "https://www.archdaily.com/1033146/bosque-house-fgmf",
+      "https://www.archdaily.com/1029465/panorama-house-studio-b-architecture-plus-interiors",
+      "https://www.archdaily.com/1185535/residence-lourmel-mars-architectes"
     ],
-    "archive_page": 220
+    "archive_page": 221
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2023,10 +2029,10 @@
       "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/",
       "https://www.dezeen.com/2026/05/17/atelier-write-unravel-salon-tokyo-warehouse/",
       "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
-      "https://www.dezeen.com/2026/05/18/nordpark-railway-stations-innsbruck-austria-zaha-hadid/"
+      "https://www.dezeen.com/2026/05/18/nordpark-railway-stations-innsbruck-austria-zaha-hadid/",
+      "https://www.dezeen.com/2026/05/18/kuma-elsa-nakano-house-apartments-japan/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/18/kuma-elsa-nakano-house-apartments-japan/",
       "https://www.dezeen.com/2026/05/18/the-harper-manhattan-oda/",
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/",
       "https://www.dezeen.com/2026/05/19/ynas-house-in-miyakonojo-japan/",
@@ -2530,7 +2536,10 @@
       "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
       "https://www.dezeen.com/2026/09/24/line-ramstad-oslo-architecture-triennale/",
       "https://www.dezeen.com/2026/09/24/fondation-beyeler-peter-zumthor-switzerland/",
-      "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/"
+      "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
+      "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
+      "https://www.dezeen.com/2026/09/25/iphone-duo-folding-smartphones-washington-triumphal-arch-dezeen-weekly/",
+      "https://www.dezeen.com/2026/09/25/bdp-research-campus-chia-tai-tianqing-pharmaceutical-group-shanghai/"
     ],
     "archive_page": 2
   },
@@ -2700,10 +2709,10 @@
       "https://www.dezeen.com/2026/08/20/aim-architecture-zara-flagship-shanghai/",
       "https://www.dezeen.com/2026/07/24/zylia-restaurant-red-deer/",
       "https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/",
-      "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/"
+      "https://www.dezeen.com/2026/07/25/encinitas-residence-mid-century-renovation-california-unfold-projects/",
+      "https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/",
       "https://www.dezeen.com/2026/08/23/ktgy-revamps-interiors-fairmont-hotel-chicago/",
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
       "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
@@ -2761,7 +2770,8 @@
       "https://www.dezeen.com/2026/09/21/neurodiverse-design-ellie-foster-opinion/",
       "https://www.dezeen.com/2026/09/22/andersson-bell-tokyo-store-i-in/",
       "https://www.dezeen.com/2026/09/23/apple-music-hall-battersea-power-station/",
-      "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/"
+      "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
+      "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/"
     ],
     "archive_page": 2
   },
@@ -3186,10 +3196,10 @@
       "https://landezine.com/bellitalia-outdoor-furniture-jonathan-bench/",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-big-green-benches/",
       "https://landezine.com/nola-outdoor-furniture-gry-furniture-group/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-moment-area-light/",
+      "https://landezine.com/jissen-womens-university-hino-campus-by-stgk/"
     ],
     "queue_new": [
-      "https://landezine.com/jissen-womens-university-hino-campus-by-stgk/",
       "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-picnic-sets/",
       "https://landezine.com/metalco-outdoor-furniture-treeline/",
@@ -3554,7 +3564,9 @@
       "https://landezine.com/henning-g-kruses-plads-by-big/",
       "https://landezine.com/20-27-september-climate-week-nyc/",
       "https://landezine.com/heel-europa-by-delva/",
-      "https://landezine.com/post-industrial-landscape-architecture-latz-partner/"
+      "https://landezine.com/post-industrial-landscape-architecture-latz-partner/",
+      "https://landezine.com/yanlord-arcadia-lacy-steps-by-trop-terrainsopen-space/",
+      "https://landezine.com/area-development-ooijen-wanssum-by-hns-landscape-architects/"
     ],
     "archive_page": 228
   },
