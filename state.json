@@ -854,7 +854,8 @@
       "https://www.archdaily.com/1010059/dot-sofia-i-o-architects",
       "https://www.archdaily.com/1040398/eucalyptus-house-julia-yako-plus-laura-marino",
       "https://www.archdaily.com/1009969/productive-floating-house-la-balsanera-natura-futura-arquitectura-plus-juan-carlos-bamba",
-      "https://www.archdaily.com/1040227/pcg-house-visioarq-arquitectos"
+      "https://www.archdaily.com/1040227/pcg-house-visioarq-arquitectos",
+      "https://www.archdaily.com/1009880/lujambio-house-jorge-garibay-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040690/cloud-terrace-cloud-architects",
@@ -1637,7 +1638,7 @@
       "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
       "https://www.archdaily.com/1185865/vyd-pavilion-enne-arquitectura"
     ],
-    "archive_page": 222
+    "archive_page": 223
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2046,7 +2047,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/19/corniche-skyscraper-foster-partners-trial-london/",
       "https://www.dezeen.com/2026/05/19/parametricism-opinion-catherine-slessor/",
       "https://www.dezeen.com/2026/05/19/louvre-renovation-entrances-selldorf-architects-studios-architecture-winner/",
       "https://www.dezeen.com/2026/05/19/global-design-forum-istanbul-waugh-thistleton-pavilion/",
@@ -2552,7 +2552,9 @@
       "https://www.dezeen.com/2026/09/25/bdp-research-campus-chia-tai-tianqing-pharmaceutical-group-shanghai/",
       "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
       "https://www.dezeen.com/2026/09/26/skinny-hampstead-townhouse-hayhurst-co/",
-      "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/"
+      "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
+      "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
+      "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/"
     ],
     "archive_page": 2
   },
@@ -2728,7 +2730,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
       "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
       "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
@@ -3214,10 +3215,10 @@
       "https://landezine.com/jissen-womens-university-hino-campus-by-stgk/",
       "https://landezine.com/maglin-outdoor-furniture-fava-cluster-seating/",
       "https://landezine.com/streetlife-outdoor-furniture-drifter-picnic-sets/",
-      "https://landezine.com/metalco-outdoor-furniture-treeline/"
+      "https://landezine.com/metalco-outdoor-furniture-treeline/",
+      "https://landezine.com/nature-recreation-area-de-punt-ouddorp-by-boschslabbers/"
     ],
     "queue_new": [
-      "https://landezine.com/nature-recreation-area-de-punt-ouddorp-by-boschslabbers/",
       "https://landezine.com/the-park-of-encounters-by-robin-winogrond-studio-vulkan/",
       "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/",
       "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/",
@@ -3582,7 +3583,7 @@
       "https://landezine.com/yanlord-arcadia-lacy-steps-by-trop-terrainsopen-space/",
       "https://landezine.com/area-development-ooijen-wanssum-by-hns-landscape-architects/"
     ],
-    "archive_page": 233
+    "archive_page": 238
   },
   "monstrum_projects": {
     "sent_urls": [
