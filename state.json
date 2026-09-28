@@ -95,7 +95,8 @@
       "https://leibal.com/interiors/house-in-tinos/",
       "https://leibal.com/interiors/forest-villa-mb/",
       "https://leibal.com/interiors/retreat-house/",
-      "https://leibal.com/interiors/villa-nouvelle-vague/"
+      "https://leibal.com/interiors/villa-nouvelle-vague/",
+      "https://leibal.com/interiors/sint-anna/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -418,7 +419,8 @@
       "https://leibal.com/interiors/living-room/",
       "https://leibal.com/interiors/sadovye-kvartaly/",
       "https://leibal.com/interiors/serene-nook/",
-      "https://leibal.com/interiors/house-mg/"
+      "https://leibal.com/interiors/house-mg/",
+      "https://leibal.com/interiors/sint-anna/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -856,7 +858,8 @@
       "https://www.archdaily.com/1009969/productive-floating-house-la-balsanera-natura-futura-arquitectura-plus-juan-carlos-bamba",
       "https://www.archdaily.com/1040227/pcg-house-visioarq-arquitectos",
       "https://www.archdaily.com/1009880/lujambio-house-jorge-garibay-arquitectos",
-      "https://www.archdaily.com/1040690/cloud-terrace-cloud-architects"
+      "https://www.archdaily.com/1040690/cloud-terrace-cloud-architects",
+      "https://www.archdaily.com/1009627/honoria-tower-in-monaco-jean-pierre-lott-architecte"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040438/platte-lostraat-collective-housing-kpw-architecten",
@@ -1637,9 +1640,11 @@
       "https://www.archdaily.com/1185623/house-in-kagurazaka-takumi-wakui-plus-riho-wakui-architects",
       "https://www.archdaily.com/1185857/vila-marebo-frederico-zanelato-arquitetos",
       "https://www.archdaily.com/1185865/vyd-pavilion-enne-arquitectura",
-      "https://www.archdaily.com/1185815/az-boroun-villa-crossarchitecture"
+      "https://www.archdaily.com/1185815/az-boroun-villa-crossarchitecture",
+      "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
+      "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos"
     ],
-    "archive_page": 223
+    "archive_page": 224
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1845,7 +1850,8 @@
       "https://www.archdaily.com/1033655/trailcenter-rytterknaegten-matters-architects",
       "https://www.archdaily.com/1185273/cultural-center-in-gisors-richter-architectes-et-associes",
       "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
-      "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office"
+      "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office",
+      "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -2048,7 +2054,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/19/louvre-renovation-entrances-selldorf-architects-studios-architecture-winner/",
       "https://www.dezeen.com/2026/05/19/global-design-forum-istanbul-waugh-thistleton-pavilion/",
       "https://www.dezeen.com/2026/05/19/ibsp-ii-ignacio-rojas-hirigoyen-leonardo-guzman-valencia-chile/",
       "https://www.dezeen.com/2026/05/20/buro-ziyu-zhuang-prairie-ark/",
@@ -2555,7 +2560,10 @@
       "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
       "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
       "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
-      "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/"
+      "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
+      "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
+      "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+      "https://www.dezeen.com/2026/09/28/surf-road-house-coughlin-scheel-architects-fire-island/"
     ],
     "archive_page": 2
   },
@@ -2731,7 +2739,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/04/debaixo-do-bloco-arquitetura-brasilia-installation-bienal-pavilion-oscar-niemeyer/",
       "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
       "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
       "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
@@ -2786,7 +2793,10 @@
       "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
       "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
       "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
-      "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/"
+      "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
+      "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
+      "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
+      "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/"
     ],
     "archive_page": 2
   },
@@ -3217,10 +3227,10 @@
       "https://landezine.com/streetlife-outdoor-furniture-drifter-picnic-sets/",
       "https://landezine.com/metalco-outdoor-furniture-treeline/",
       "https://landezine.com/nature-recreation-area-de-punt-ouddorp-by-boschslabbers/",
-      "https://landezine.com/the-park-of-encounters-by-robin-winogrond-studio-vulkan/"
+      "https://landezine.com/the-park-of-encounters-by-robin-winogrond-studio-vulkan/",
+      "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/"
     ],
     "queue_new": [
-      "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/",
       "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/",
       "https://landezine.com/durbanis-outdoor-furniture-cilar/",
       "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
