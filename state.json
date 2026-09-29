@@ -420,9 +420,12 @@
       "https://leibal.com/interiors/sadovye-kvartaly/",
       "https://leibal.com/interiors/serene-nook/",
       "https://leibal.com/interiors/house-mg/",
-      "https://leibal.com/interiors/sint-anna/"
+      "https://leibal.com/interiors/sint-anna/",
+      "https://leibal.com/interiors/argumosa-street-apartment/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/saint-germain-apartment/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -860,7 +863,8 @@
       "https://www.archdaily.com/1009880/lujambio-house-jorge-garibay-arquitectos",
       "https://www.archdaily.com/1040690/cloud-terrace-cloud-architects",
       "https://www.archdaily.com/1009627/honoria-tower-in-monaco-jean-pierre-lott-architecte",
-      "https://www.archdaily.com/1040438/platte-lostraat-collective-housing-kpw-architecten"
+      "https://www.archdaily.com/1040438/platte-lostraat-collective-housing-kpw-architecten",
+      "https://www.archdaily.com/1009426/psa-house-psa-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects",
@@ -1645,9 +1649,12 @@
       "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos",
       "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
       "https://www.archdaily.com/1185918/rice-husk-house-summary",
-      "https://www.archdaily.com/1185828/casa-piva-be-architecture"
+      "https://www.archdaily.com/1185828/casa-piva-be-architecture",
+      "https://www.archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects",
+      "https://www.archdaily.com/1029095/garner-residence-davey-mceathron-architecture",
+      "https://www.archdaily.com/1185817/the-house-of-continum-squelette-design"
     ],
-    "archive_page": 224
+    "archive_page": 225
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1855,7 +1862,8 @@
       "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
       "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office",
       "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
-      "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture"
+      "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
+      "https://www.archdaily.com/1183988/the-temple-skuli-mogensen"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -2058,7 +2066,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/19/ibsp-ii-ignacio-rojas-hirigoyen-leonardo-guzman-valencia-chile/",
       "https://www.dezeen.com/2026/05/20/buro-ziyu-zhuang-prairie-ark/",
       "https://www.dezeen.com/2026/05/20/daniel-oakley-zaha-hadid-digital-design-videos/",
       "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
@@ -2568,7 +2575,10 @@
       "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
       "https://www.dezeen.com/2026/09/28/surf-road-house-coughlin-scheel-architects-fire-island/",
       "https://www.dezeen.com/2026/09/29/jiashan-dayun-landison-manor-hotel/",
-      "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/"
+      "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
+      "https://www.dezeen.com/2026/09/29/vietnam-national-stadium-rach-chiec/",
+      "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
+      "https://www.dezeen.com/2026/09/29/data-centres-design-architecture-hyperscale-ai/"
     ],
     "archive_page": 2
   },
@@ -2744,7 +2754,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
       "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
       "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
       "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
@@ -3233,10 +3242,10 @@
       "https://landezine.com/nature-recreation-area-de-punt-ouddorp-by-boschslabbers/",
       "https://landezine.com/the-park-of-encounters-by-robin-winogrond-studio-vulkan/",
       "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/",
-      "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/"
+      "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/",
+      "https://landezine.com/durbanis-outdoor-furniture-cilar/"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-cilar/",
       "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
       "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
@@ -3595,7 +3604,9 @@
       "https://landezine.com/heel-europa-by-delva/",
       "https://landezine.com/post-industrial-landscape-architecture-latz-partner/",
       "https://landezine.com/yanlord-arcadia-lacy-steps-by-trop-terrainsopen-space/",
-      "https://landezine.com/area-development-ooijen-wanssum-by-hns-landscape-architects/"
+      "https://landezine.com/area-development-ooijen-wanssum-by-hns-landscape-architects/",
+      "https://landezine.com/dezeen-awards-2026-shortlist-in-landscape-and-urban-design/",
+      "https://landezine.com/renaturation-of-the-river-aire-geneva-atelier-descombes-rampini/"
     ],
     "archive_page": 238
   },
