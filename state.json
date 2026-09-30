@@ -422,7 +422,8 @@
       "https://leibal.com/interiors/house-mg/",
       "https://leibal.com/interiors/sint-anna/",
       "https://leibal.com/interiors/argumosa-street-apartment/",
-      "https://leibal.com/interiors/saint-germain-apartment/"
+      "https://leibal.com/interiors/saint-germain-apartment/",
+      "https://leibal.com/interiors/casa-malonic/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -864,7 +865,8 @@
       "https://www.archdaily.com/1009627/honoria-tower-in-monaco-jean-pierre-lott-architecte",
       "https://www.archdaily.com/1040438/platte-lostraat-collective-housing-kpw-architecten",
       "https://www.archdaily.com/1009426/psa-house-psa-architecture",
-      "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects"
+      "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects",
+      "https://www.archdaily.com/1009394/casa-taller-agustin-berzero-plus-manuel-gonzalez-veglia"
     ],
     "queue_new": [
       "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
@@ -1656,9 +1658,13 @@
       "https://www.archdaily.com/1186022/path-hendre-bloem-interior-design",
       "https://www.archdaily.com/1185914/house-jf-aaa-azevedo-agencia-de-arquitetura",
       "https://www.archdaily.com/1185934/fuente-de-piedra-number-45-feliu-vega-kennedy-arquitectura",
-      "https://www.archdaily.com/1185981/liu-lin-residence-choo-gim-wah-architect"
+      "https://www.archdaily.com/1185981/liu-lin-residence-choo-gim-wah-architect",
+      "https://www.archdaily.com/1185892/house-at-the-top-of-the-hill-skupaj-arhitekti",
+      "https://www.archdaily.com/1184622/juul-transformation-of-the-julianakerk-ha-ha-design-and-development",
+      "https://www.archdaily.com/1185997/matriz-house-estudio-zargos",
+      "https://www.archdaily.com/1029675/shed-house-side-angle-side"
     ],
-    "archive_page": 225
+    "archive_page": 226
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2070,7 +2076,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/20/daniel-oakley-zaha-hadid-digital-design-videos/",
       "https://www.dezeen.com/2026/05/20/kengo-kuma-associates-pennsylvania-brandywine-conservancy-museum-of-art/",
       "https://www.dezeen.com/2026/05/20/ademas-arquitectura-casa-alba-two-buenos-aires-concrete-wall/",
       "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
@@ -2585,7 +2590,10 @@
       "https://www.dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote/",
       "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/",
       "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
-      "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/"
+      "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
+      "https://www.dezeen.com/2026/09/30/top-houses-september-2026/",
+      "https://www.dezeen.com/2026/09/30/los-tigres-house-prim-estudio-argentina/",
+      "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/"
     ],
     "archive_page": 2
   },
@@ -2761,7 +2769,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/29/country-house-by-the-river-aensemble/",
       "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
       "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
       "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
@@ -2817,7 +2824,8 @@
       "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
       "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
       "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
-      "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/"
+      "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
+      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/"
     ],
     "archive_page": 2
   },
@@ -3252,10 +3260,10 @@
       "https://landezine.com/nola-outdoor-furniture-kaskad-furniture-group/",
       "https://landezine.com/quarry-garden-in-shanghai-botanical-garden/",
       "https://landezine.com/durbanis-outdoor-furniture-cilar/",
-      "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/"
+      "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
+      "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/"
     ],
     "queue_new": [
-      "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
       "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/",
       "https://landezine.com/durbanis-outdoor-furniture-caribou-star/",
