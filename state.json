@@ -423,9 +423,12 @@
       "https://leibal.com/interiors/sint-anna/",
       "https://leibal.com/interiors/argumosa-street-apartment/",
       "https://leibal.com/interiors/saint-germain-apartment/",
-      "https://leibal.com/interiors/casa-malonic/"
+      "https://leibal.com/interiors/casa-malonic/",
+      "https://leibal.com/interiors/cup-of-joy/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/apartment-1956/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -867,7 +870,8 @@
       "https://www.archdaily.com/1009426/psa-house-psa-architecture",
       "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects",
       "https://www.archdaily.com/1009394/casa-taller-agustin-berzero-plus-manuel-gonzalez-veglia",
-      "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design"
+      "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
+      "https://www.archdaily.com/1009205/casa-st-vianellogasparin"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
@@ -1667,9 +1671,11 @@
       "https://www.archdaily.com/1186107/jqy-house-andre-becker",
       "https://www.archdaily.com/1185996/house-around-the-corner-in-kugahara-some-plus-tezzo-nishizawa-architects",
       "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio",
-      "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes"
+      "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes",
+      "https://www.archdaily.com/1186111/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques",
+      "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture"
     ],
-    "archive_page": 226
+    "archive_page": 227
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1878,7 +1884,8 @@
       "https://www.archdaily.com/1036780/the-full-moon-shisuo-design-office",
       "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
       "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
-      "https://www.archdaily.com/1183988/the-temple-skuli-mogensen"
+      "https://www.archdaily.com/1183988/the-temple-skuli-mogensen",
+      "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -2081,7 +2088,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/20/ademas-arquitectura-casa-alba-two-buenos-aires-concrete-wall/",
       "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
       "https://www.dezeen.com/2026/05/21/dezeen-events-guide-3-days-design-2026-launch/",
       "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
@@ -2600,7 +2606,12 @@
       "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/",
       "https://www.dezeen.com/2026/10/01/architecture-design-events-october-2026/",
       "https://www.dezeen.com/2026/10/01/higher-education-cedric-price-owen-hopkins-opinion/",
-      "https://www.dezeen.com/2026/10/01/delivering-humanised-places-research-thomas-heatherwick/"
+      "https://www.dezeen.com/2026/10/01/delivering-humanised-places-research-thomas-heatherwick/",
+      "https://www.dezeen.com/2026/10/01/david-chipperfield-hepworth-turner-contemporary/",
+      "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
+      "https://www.dezeen.com/2026/10/01/casa-ani-mexico-valle-de-bravo-chain-siman/",
+      "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
+      "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/"
     ],
     "archive_page": 2
   },
@@ -2776,7 +2787,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
       "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
       "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
       "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
@@ -2831,7 +2841,8 @@
       "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
       "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
       "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
-      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/"
+      "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
+      "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/"
     ],
     "archive_page": 2
   },
@@ -3268,10 +3279,10 @@
       "https://landezine.com/durbanis-outdoor-furniture-cilar/",
       "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
-      "https://landezine.com/nola-outdoor-furniture-viaduct-bench/"
+      "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/",
       "https://landezine.com/durbanis-outdoor-furniture-caribou-star/",
       "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/",
@@ -3628,7 +3639,8 @@
       "https://landezine.com/yanlord-arcadia-lacy-steps-by-trop-terrainsopen-space/",
       "https://landezine.com/area-development-ooijen-wanssum-by-hns-landscape-architects/",
       "https://landezine.com/dezeen-awards-2026-shortlist-in-landscape-and-urban-design/",
-      "https://landezine.com/renaturation-of-the-river-aire-geneva-atelier-descombes-rampini/"
+      "https://landezine.com/renaturation-of-the-river-aire-geneva-atelier-descombes-rampini/",
+      "https://landezine.com/wander-woods-at-california-academy-of-sciences-by-terremoto/"
     ],
     "archive_page": 238
   },
