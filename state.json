@@ -424,11 +424,10 @@
       "https://leibal.com/interiors/argumosa-street-apartment/",
       "https://leibal.com/interiors/saint-germain-apartment/",
       "https://leibal.com/interiors/casa-malonic/",
-      "https://leibal.com/interiors/cup-of-joy/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/cup-of-joy/",
       "https://leibal.com/interiors/apartment-1956/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -871,10 +870,10 @@
       "https://www.archdaily.com/1040536/wildcoast-house-pandolfini-architects",
       "https://www.archdaily.com/1009394/casa-taller-agustin-berzero-plus-manuel-gonzalez-veglia",
       "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
-      "https://www.archdaily.com/1009205/casa-st-vianellogasparin"
+      "https://www.archdaily.com/1009205/casa-st-vianellogasparin",
+      "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
       "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos",
       "https://www.archdaily.com/1040472/the-house-of-the-green-pond-aceboxalonso-studio",
       "https://www.archdaily.com/1040554/pom-two-residential-buildings-block-iii-zanderroth",
@@ -1673,7 +1672,12 @@
       "https://www.archdaily.com/1186092/yuu-kee-house-em-estudio",
       "https://www.archdaily.com/1186071/the-fig-tree-house-comas-pont-arquitectes",
       "https://www.archdaily.com/1186111/casa-em-pouca-farinha-ana-teresa-niza-plus-ana-rita-marques",
-      "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture"
+      "https://www.archdaily.com/1029710/dutchmoor-valley-guesthouse-seek-design-plus-architecture",
+      "https://www.archdaily.com/1186107/jqy-house-andre-becker-plus-ricardo-karman",
+      "https://www.archdaily.com/1185995/terra-pavillion-studio-sangath",
+      "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
+      "https://www.archdaily.com/1186087/arme-residence-studio-s-plus-ao",
+      "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura"
     ],
     "archive_page": 227
   },
@@ -2088,7 +2092,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/21/centre-pompidou-hanwha-seoul-wilmotte-associes/",
       "https://www.dezeen.com/2026/05/21/dezeen-events-guide-3-days-design-2026-launch/",
       "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
       "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
@@ -2611,7 +2614,9 @@
       "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
       "https://www.dezeen.com/2026/10/01/casa-ani-mexico-valle-de-bravo-chain-siman/",
       "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
-      "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/"
+      "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
+      "https://www.dezeen.com/2026/10/02/snohetta-lech-mountain-mirror/",
+      "https://www.dezeen.com/2026/10/02/benthem-crouwel-afsluitdijk-revamp/"
     ],
     "archive_page": 2
   },
@@ -2787,7 +2792,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
       "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
       "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
       "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
@@ -3280,10 +3284,10 @@
       "https://landezine.com/metalco-outdoor-furniture-bicycle-rack-baum/",
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
       "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/",
+      "https://landezine.com/durbanis-outdoor-furniture-caribou-star/"
     ],
     "queue_new": [
-      "https://landezine.com/durbanis-outdoor-furniture-caribou-star/",
       "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-lounge/",
