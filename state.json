@@ -425,9 +425,12 @@
       "https://leibal.com/interiors/saint-germain-apartment/",
       "https://leibal.com/interiors/casa-malonic/",
       "https://leibal.com/interiors/cup-of-joy/",
-      "https://leibal.com/interiors/apartment-1956/"
+      "https://leibal.com/interiors/apartment-1956/",
+      "https://leibal.com/interiors/double-courtyard-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/casa-amr/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -871,7 +874,8 @@
       "https://www.archdaily.com/1009394/casa-taller-agustin-berzero-plus-manuel-gonzalez-veglia",
       "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
       "https://www.archdaily.com/1009205/casa-st-vianellogasparin",
-      "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos"
+      "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
+      "https://www.archdaily.com/1009010/copan-apartment-vereda-arquitetos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos",
@@ -1677,9 +1681,11 @@
       "https://www.archdaily.com/1185995/terra-pavillion-studio-sangath",
       "https://www.archdaily.com/1186138/casa-cinco-7-qbo3-arquitectos",
       "https://www.archdaily.com/1186087/arme-residence-studio-s-plus-ao",
-      "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura"
+      "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura",
+      "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
+      "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio"
     ],
-    "archive_page": 227
+    "archive_page": 228
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1889,7 +1895,8 @@
       "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
       "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
       "https://www.archdaily.com/1183988/the-temple-skuli-mogensen",
-      "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+      "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta",
+      "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma"
     ],
     "queue_new": [],
     "archive_page": 80
@@ -2092,7 +2099,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/21/dezeen-events-guide-3-days-design-2026-launch/",
       "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
       "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
       "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/",
@@ -2616,7 +2622,10 @@
       "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
       "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
       "https://www.dezeen.com/2026/10/02/snohetta-lech-mountain-mirror/",
-      "https://www.dezeen.com/2026/10/02/benthem-crouwel-afsluitdijk-revamp/"
+      "https://www.dezeen.com/2026/10/02/benthem-crouwel-afsluitdijk-revamp/",
+      "https://www.dezeen.com/2026/10/02/chatham-residence-desai-chia-upstate-new-york/",
+      "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/"
     ],
     "archive_page": 2
   },
@@ -2792,7 +2801,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
       "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
       "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
       "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
@@ -2846,7 +2854,8 @@
       "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
       "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
       "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
-      "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/"
+      "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
+      "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/"
     ],
     "archive_page": 2
   },
@@ -3285,10 +3294,10 @@
       "https://landezine.com/metalco-outdoor-furniture-litter-bin-cissus/",
       "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/",
-      "https://landezine.com/durbanis-outdoor-furniture-caribou-star/"
+      "https://landezine.com/durbanis-outdoor-furniture-caribou-star/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/",
       "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-lounge/",
       "https://landezine.com/area-outdoor-furniture-litter-bin-narcisse/",
