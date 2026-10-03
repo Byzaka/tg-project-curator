@@ -426,11 +426,10 @@
       "https://leibal.com/interiors/casa-malonic/",
       "https://leibal.com/interiors/cup-of-joy/",
       "https://leibal.com/interiors/apartment-1956/",
-      "https://leibal.com/interiors/double-courtyard-house/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/double-courtyard-house/",
       "https://leibal.com/interiors/casa-amr/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -875,10 +874,10 @@
       "https://www.archdaily.com/1038022/house-of-the-shattered-rock-so-arquitetura-and-design",
       "https://www.archdaily.com/1009205/casa-st-vianellogasparin",
       "https://www.archdaily.com/1040310/house-on-the-fuy-river-iraguen-vinuela-arquitectos",
-      "https://www.archdaily.com/1009010/copan-apartment-vereda-arquitetos"
+      "https://www.archdaily.com/1009010/copan-apartment-vereda-arquitetos",
+      "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040731/cs-residence-fpoles-arquitetos",
       "https://www.archdaily.com/1040472/the-house-of-the-green-pond-aceboxalonso-studio",
       "https://www.archdaily.com/1040554/pom-two-residential-buildings-block-iii-zanderroth",
       "https://www.archdaily.com/1040160/holiday-homes-in-moldovenesti-mvaa",
@@ -1683,7 +1682,8 @@
       "https://www.archdaily.com/1186087/arme-residence-studio-s-plus-ao",
       "https://www.archdaily.com/1186176/casa-votupoca-arkitito-arquitetura",
       "https://www.archdaily.com/1186038/chalet-des-huarts-atelier-maa-architecture-plus",
-      "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio"
+      "https://www.archdaily.com/1186032/cabreira-house-are-architects-studio",
+      "https://www.archdaily.com/1022179/foundations-house-holger-cuadrado"
     ],
     "archive_page": 228
   },
@@ -2099,7 +2099,6 @@
       "https://www.dezeen.com/2026/05/19/mimosa-architects-rock-river-fire-czech-republic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/21/svendborg-architects-wohlert-arckitekter-ishoj-theatre-denmark/",
       "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
       "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/",
       "https://www.dezeen.com/2026/05/21/gensler-thistle-data-center-phoenix-corten-steel/",
@@ -2625,7 +2624,8 @@
       "https://www.dezeen.com/2026/10/02/benthem-crouwel-afsluitdijk-revamp/",
       "https://www.dezeen.com/2026/10/02/chatham-residence-desai-chia-upstate-new-york/",
       "https://www.dezeen.com/2026/10/02/muse-ai-charm-new-york-jails-dezeen-weekly-podcast/",
-      "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/"
+      "https://www.dezeen.com/2026/10/02/house-yakami-enter-archi-japan/",
+      "https://www.dezeen.com/2026/10/03/data-centre-architecture-this-week/"
     ],
     "archive_page": 2
   },
@@ -2801,7 +2801,6 @@
       "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
       "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/",
       "https://www.dezeen.com/2026/09/01/gwyneth-paltrow-michael-hsu-goop-kitchen-san-diego/",
       "https://www.dezeen.com/2026/08/04/contraband-coffee-melbourne-cafe-interiors-taylor-knights/",
@@ -3295,10 +3294,10 @@
       "https://landezine.com/nola-outdoor-furniture-viaduct-bench/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-table/",
       "https://landezine.com/durbanis-outdoor-furniture-caribou-star/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-ride-bike-rack/",
+      "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/"
     ],
     "queue_new": [
-      "https://landezine.com/streetlife-outdoor-furniture-rough-ready-curved-benches/",
       "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-lounge/",
       "https://landezine.com/area-outdoor-furniture-litter-bin-narcisse/",
       "https://landezine.com/landscape-forms-outdoor-furniture-bench-glide/",
