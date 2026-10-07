@@ -433,11 +433,10 @@
       "https://leibal.com/interiors/lamour/",
       "https://leibal.com/interiors/trace-of-flow/",
       "https://leibal.com/interiors/fysika/",
-      "https://leibal.com/interiors/jcb-house/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/jcb-house/",
       "https://leibal.com/interiors/ds-residence-2/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -890,10 +889,10 @@
       "https://www.archdaily.com/1040554/pom-two-residential-buildings-block-iii-zanderroth",
       "https://www.archdaily.com/1008436/a-house-in-quang-nam-lequang-architects",
       "https://www.archdaily.com/1040160/holiday-homes-in-moldovenesti-mvaa",
-      "https://www.archdaily.com/1008367/narbon-villa-gera-studio-architects"
+      "https://www.archdaily.com/1008367/narbon-villa-gera-studio-architects",
+      "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design",
       "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
       "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
       "https://www.archdaily.com/1039401/hermi-house-superestudio",
@@ -1712,7 +1711,11 @@
       "https://www.archdaily.com/1186168/bare-brick-house-yuuga-design-collective",
       "https://www.archdaily.com/1186377/hikari-house-estudio-pk",
       "https://www.archdaily.com/1186291/villa-ris-r21-arkitekter",
-      "https://www.archdaily.com/1034516/miramar-tower-ooda"
+      "https://www.archdaily.com/1034516/miramar-tower-ooda",
+      "https://www.archdaily.com/1034775/pupunha-house-laurent-troost-architectures-plus-hana-eto-gall-paisagismo",
+      "https://www.archdaily.com/1186193/dual-family-house-khuon-studio",
+      "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio",
+      "https://www.archdaily.com/1186181/skin-of-skin-house-cans-architecture-studio"
     ],
     "archive_page": 232
   },
@@ -2131,10 +2134,10 @@
       "https://www.dezeen.com/2026/05/22/studio-hallett-ike-cemetery-house-extension-london/",
       "https://www.dezeen.com/2026/05/22/giacomo-moor-quadrodesign-salone-del-mobile-2026/",
       "https://www.dezeen.com/2026/05/22/lanza-atelier-2026-serpentine-pavilion-video/",
-      "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/"
+      "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/",
+      "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/",
       "https://www.dezeen.com/2026/05/22/arc-de-trump-design-approved-for-washington-dc-cfa/",
       "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
       "https://www.dezeen.com/2026/05/22/utah-data-centre-ikea-ps-collection-tour-triangle-paris-dezeen-weekly-podcast/",
@@ -2842,10 +2845,10 @@
       "https://www.dezeen.com/2026/09/02/piercy-company-apartment-21/",
       "https://www.dezeen.com/2026/08/04/joyce-wangs-mandarin-oriental-the-landmark-hong-kong/",
       "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
-      "https://www.dezeen.com/2026/09/03/bin-wu-design-language-timeless-east/"
+      "https://www.dezeen.com/2026/09/03/bin-wu-design-language-timeless-east/",
+      "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
       "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
       "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
@@ -2896,7 +2899,8 @@
       "https://www.dezeen.com/2026/10/03/kimpton-era-hotel-new-york-city-inc/",
       "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
       "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
-      "https://www.dezeen.com/2026/10/06/bar-shrimp-autex-audio-sound-panel/"
+      "https://www.dezeen.com/2026/10/06/bar-shrimp-autex-audio-sound-panel/",
+      "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/"
     ],
     "archive_page": 2
   },
@@ -3344,10 +3348,10 @@
       "https://landezine.com/berczy-park-toronto-by-claude-cormier/",
       "https://landezine.com/miramondo-outdoor-furniture-hop-hop/",
       "https://landezine.com/ttc-timmler-technology-outdoor-furniture-led-hayat/",
-      "https://landezine.com/https-www-streetlife-nl-en-products-solid-skirt-block-benches-solid-skirt-block-benches/"
+      "https://landezine.com/https-www-streetlife-nl-en-products-solid-skirt-block-benches-solid-skirt-block-benches/",
+      "https://landezine.com/city-design-outdoor-furniture-bench-flow/"
     ],
     "queue_new": [
-      "https://landezine.com/city-design-outdoor-furniture-bench-flow/",
       "https://landezine.com/maglin-outdoor-furniture-alum/",
       "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/",
       "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/",
