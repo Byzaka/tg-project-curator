@@ -99,7 +99,8 @@
       "https://leibal.com/interiors/sint-anna/",
       "https://leibal.com/interiors/fysika/",
       "https://leibal.com/interiors/ds-residence-2/",
-      "https://leibal.com/interiors/blue-house-2/"
+      "https://leibal.com/interiors/blue-house-2/",
+      "https://leibal.com/interiors/walkers-hook-residence/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -437,9 +438,12 @@
       "https://leibal.com/interiors/jcb-house/",
       "https://leibal.com/interiors/ds-residence-2/",
       "https://leibal.com/interiors/seaside-house-2/",
-      "https://leibal.com/interiors/blue-house-2/"
+      "https://leibal.com/interiors/blue-house-2/",
+      "https://leibal.com/interiors/residence-dnb/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/walkers-hook-residence/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -895,7 +899,8 @@
       "https://www.archdaily.com/1008367/narbon-villa-gera-studio-architects",
       "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design",
       "https://www.archdaily.com/1008168/vegetable-house-facundo-s-lopez",
-      "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura"
+      "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
+      "https://www.archdaily.com/1007903/waterzicht-apartments-atelier-kempe-thill-plus-buur-plus-urban-platform-plus-evr-architecten"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
@@ -1723,9 +1728,12 @@
       "https://www.archdaily.com/1186241/mikagecho-house-tomoaki-uno-architects",
       "https://www.archdaily.com/1152565/campeche-houses-terra-e-tuma-arquitetos-associados",
       "https://www.archdaily.com/1186207/kian-residence-kamat-and-rozario-architecture",
-      "https://www.archdaily.com/1186533/4-social-housing-buildings-in-valdecorvos-pontevedra-diaz-y-diaz-arquitectos"
+      "https://www.archdaily.com/1186533/4-social-housing-buildings-in-valdecorvos-pontevedra-diaz-y-diaz-arquitectos",
+      "https://www.archdaily.com/1186596/zayma-residential-development-0studio-arquitectura",
+      "https://www.archdaily.com/1034377/cl-house-artequitectos",
+      "https://www.archdaily.com/1185752/house-on-the-hill-gangoly-and-kristiner-architects"
     ],
-    "archive_page": 233
+    "archive_page": 234
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2147,7 +2155,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/22/utah-data-centre-ikea-ps-collection-tour-triangle-paris-dezeen-weekly-podcast/",
       "https://www.dezeen.com/2026/05/22/chapel-of-st-ignatius-new-orleans-trahan-architects/",
       "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
       "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
@@ -2680,7 +2687,10 @@
       "https://www.dezeen.com/2026/10/08/na-design-studio-glen-gery-bricks/",
       "https://www.dezeen.com/2026/10/07/chrysler-building-restoration-plan-tishman-speyer/",
       "https://www.dezeen.com/2026/10/08/global-leadership-centre-university-oxford-john-mcaslan-partners/",
-      "https://www.dezeen.com/2026/10/08/zaha-hadid-foundation-cultural-hub-london/"
+      "https://www.dezeen.com/2026/10/08/zaha-hadid-foundation-cultural-hub-london/",
+      "https://www.dezeen.com/2026/10/08/residential-architecture-playful-kevin-mccloud-interviews/",
+      "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
+      "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/"
     ],
     "archive_page": 2
   },
@@ -2863,7 +2873,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
       "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/",
@@ -2913,7 +2922,8 @@
       "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
       "https://www.dezeen.com/2026/10/06/bar-shrimp-autex-audio-sound-panel/",
       "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/",
-      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/"
+      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
+      "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/"
     ],
     "archive_page": 2
   },
@@ -3364,10 +3374,10 @@
       "https://landezine.com/https-www-streetlife-nl-en-products-solid-skirt-block-benches-solid-skirt-block-benches/",
       "https://landezine.com/city-design-outdoor-furniture-bench-flow/",
       "https://landezine.com/maglin-outdoor-furniture-alum/",
-      "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/"
+      "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/",
+      "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/",
       "https://landezine.com/area-outdoor-furniture-michigan-aluminium-chaise-longue/",
       "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-large/",
       "https://landezine.com/metalco-outdoor-furniture-seat-frank/",
