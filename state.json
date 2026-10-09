@@ -440,7 +440,8 @@
       "https://leibal.com/interiors/seaside-house-2/",
       "https://leibal.com/interiors/blue-house-2/",
       "https://leibal.com/interiors/residence-dnb/",
-      "https://leibal.com/interiors/walkers-hook-residence/"
+      "https://leibal.com/interiors/walkers-hook-residence/",
+      "https://leibal.com/interiors/millo/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -900,7 +901,8 @@
       "https://www.archdaily.com/1008168/vegetable-house-facundo-s-lopez",
       "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
       "https://www.archdaily.com/1007903/waterzicht-apartments-atelier-kempe-thill-plus-buur-plus-urban-platform-plus-evr-architecten",
-      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape"
+      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
+      "https://www.archdaily.com/1007619/francilian-house-hemaa"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039401/hermi-house-superestudio",
@@ -1734,9 +1736,11 @@
       "https://www.archdaily.com/1186297/house-q-hgaa",
       "https://www.archdaily.com/1186358/oasis-student-residence-atelier-stephane-fernandez",
       "https://www.archdaily.com/1034564/varanda-house-esquadra-arquitetos",
-      "https://www.archdaily.com/1186485/casa-iriarte"
+      "https://www.archdaily.com/1186485/casa-iriarte",
+      "https://www.archdaily.com/1185963/house-in-tinos-kelly-spanou",
+      "https://www.archdaily.com/1034091/g-5-houses-summary"
     ],
-    "archive_page": 234
+    "archive_page": 235
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2158,7 +2162,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
       "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
       "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/",
       "https://www.dezeen.com/2026/05/23/barde-vanvoltt-estero-residences-gamba-cafe-san-jose-del-cabo-mexico/",
@@ -2693,7 +2696,9 @@
       "https://www.dezeen.com/2026/10/08/residential-architecture-playful-kevin-mccloud-interviews/",
       "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
       "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
-      "https://www.dezeen.com/2026/10/09/ian-potter-state-theatre-melbourne/"
+      "https://www.dezeen.com/2026/10/09/ian-potter-state-theatre-melbourne/",
+      "https://www.dezeen.com/2026/10/09/sugi-house-ujizono-architects-kyoto/",
+      "https://www.dezeen.com/2026/10/09/the-line-neom-saudi-arabia-dezeen-weekly-podcast/"
     ],
     "archive_page": 2
   },
@@ -2876,7 +2881,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/",
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
       "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/",
@@ -2926,7 +2930,9 @@
       "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/",
       "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
-      "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/"
+      "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
+      "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
+      "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/"
     ],
     "archive_page": 2
   },
@@ -3381,7 +3387,6 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/"
     ],
     "queue_new": [
-      "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-large/",
       "https://landezine.com/metalco-outdoor-furniture-seat-frank/",
       "https://landezine.com/sustainable-stormwater-management-in-brondby-by-gruppe-f/",
       "https://landezine.com/area-outdoor-furniture-bollard-antares/",
