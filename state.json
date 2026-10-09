@@ -439,11 +439,10 @@
       "https://leibal.com/interiors/ds-residence-2/",
       "https://leibal.com/interiors/seaside-house-2/",
       "https://leibal.com/interiors/blue-house-2/",
-      "https://leibal.com/interiors/residence-dnb/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/residence-dnb/",
       "https://leibal.com/interiors/walkers-hook-residence/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -900,10 +899,10 @@
       "https://www.archdaily.com/1040732/house-in-kirigamine-imajo-design",
       "https://www.archdaily.com/1008168/vegetable-house-facundo-s-lopez",
       "https://www.archdaily.com/1040490/glg-residence-ximenes-leite-arquitetura",
-      "https://www.archdaily.com/1007903/waterzicht-apartments-atelier-kempe-thill-plus-buur-plus-urban-platform-plus-evr-architecten"
+      "https://www.archdaily.com/1007903/waterzicht-apartments-atelier-kempe-thill-plus-buur-plus-urban-platform-plus-evr-architecten",
+      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
       "https://www.archdaily.com/1039401/hermi-house-superestudio",
       "https://www.archdaily.com/1040762/minamicho-house-roovice",
       "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
@@ -1731,7 +1730,11 @@
       "https://www.archdaily.com/1186533/4-social-housing-buildings-in-valdecorvos-pontevedra-diaz-y-diaz-arquitectos",
       "https://www.archdaily.com/1186596/zayma-residential-development-0studio-arquitectura",
       "https://www.archdaily.com/1034377/cl-house-artequitectos",
-      "https://www.archdaily.com/1185752/house-on-the-hill-gangoly-and-kristiner-architects"
+      "https://www.archdaily.com/1185752/house-on-the-hill-gangoly-and-kristiner-architects",
+      "https://www.archdaily.com/1186297/house-q-hgaa",
+      "https://www.archdaily.com/1186358/oasis-student-residence-atelier-stephane-fernandez",
+      "https://www.archdaily.com/1034564/varanda-house-esquadra-arquitetos",
+      "https://www.archdaily.com/1186485/casa-iriarte"
     ],
     "archive_page": 234
   },
@@ -2155,7 +2158,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/22/chapel-of-st-ignatius-new-orleans-trahan-architects/",
       "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
       "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
       "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/",
@@ -2690,7 +2692,8 @@
       "https://www.dezeen.com/2026/10/08/zaha-hadid-foundation-cultural-hub-london/",
       "https://www.dezeen.com/2026/10/08/residential-architecture-playful-kevin-mccloud-interviews/",
       "https://www.dezeen.com/2026/10/08/sepka-architekti-wardrobe-house/",
-      "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/"
+      "https://www.dezeen.com/2026/10/08/oxford-street-pedestrianised-east/",
+      "https://www.dezeen.com/2026/10/09/ian-potter-state-theatre-melbourne/"
     ],
     "archive_page": 2
   },
@@ -2873,7 +2876,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
       "https://www.dezeen.com/2026/08/06/mumbai-apartment-kerala-backwaters-lily-pads/",
       "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/",
       "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
@@ -2923,7 +2925,8 @@
       "https://www.dezeen.com/2026/10/06/bar-shrimp-autex-audio-sound-panel/",
       "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/",
       "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
-      "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/"
+      "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
+      "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/"
     ],
     "archive_page": 2
   },
@@ -3378,7 +3381,6 @@
       "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/"
     ],
     "queue_new": [
-      "https://landezine.com/area-outdoor-furniture-michigan-aluminium-chaise-longue/",
       "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-large/",
       "https://landezine.com/metalco-outdoor-furniture-seat-frank/",
       "https://landezine.com/sustainable-stormwater-management-in-brondby-by-gruppe-f/",
