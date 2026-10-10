@@ -441,7 +441,8 @@
       "https://leibal.com/interiors/blue-house-2/",
       "https://leibal.com/interiors/residence-dnb/",
       "https://leibal.com/interiors/walkers-hook-residence/",
-      "https://leibal.com/interiors/millo/"
+      "https://leibal.com/interiors/millo/",
+      "https://leibal.com/interiors/cream-bean/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -903,7 +904,8 @@
       "https://www.archdaily.com/1007903/waterzicht-apartments-atelier-kempe-thill-plus-buur-plus-urban-platform-plus-evr-architecten",
       "https://www.archdaily.com/1040771/the-blooming-haus-studio-whitescape",
       "https://www.archdaily.com/1007619/francilian-house-hemaa",
-      "https://www.archdaily.com/1039401/hermi-house-superestudio"
+      "https://www.archdaily.com/1039401/hermi-house-superestudio",
+      "https://www.archdaily.com/1007338/baitridana-hut-rinaldo-del-nero"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040762/minamicho-house-roovice",
@@ -1739,9 +1741,10 @@
       "https://www.archdaily.com/1186485/casa-iriarte",
       "https://www.archdaily.com/1185963/house-in-tinos-kelly-spanou",
       "https://www.archdaily.com/1034091/g-5-houses-summary",
-      "https://www.archdaily.com/1034511/house-d-plus-j-pablo-lanza-arquitetura"
+      "https://www.archdaily.com/1034511/house-d-plus-j-pablo-lanza-arquitetura",
+      "https://www.archdaily.com/1186084/an-unfinished-domestic-device-as-a-threshold-between-interior-and-landscape-studio-ex"
     ],
-    "archive_page": 235
+    "archive_page": 236
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2164,7 +2167,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/",
       "https://www.dezeen.com/2026/05/23/barde-vanvoltt-estero-residences-gamba-cafe-san-jose-del-cabo-mexico/",
       "https://www.dezeen.com/2026/05/24/jia-art-shanghai-foster-partners/",
       "https://www.dezeen.com/2026/05/24/cocopah-museum-cultural-center-expansion-arizona-eyrc-architects/",
@@ -2700,7 +2702,8 @@
       "https://www.dezeen.com/2026/10/09/ian-potter-state-theatre-melbourne/",
       "https://www.dezeen.com/2026/10/09/sugi-house-ujizono-architects-kyoto/",
       "https://www.dezeen.com/2026/10/09/the-line-neom-saudi-arabia-dezeen-weekly-podcast/",
-      "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/"
+      "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/",
+      "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/"
     ],
     "archive_page": 2
   },
@@ -2883,7 +2886,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/07/crissy-zhang-parkhill-melbourne/",
       "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather/",
       "https://www.dezeen.com/2026/08/08/ruido-branco-studio-casacor-sao-paulo-cyro-arquitetura/",
       "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
@@ -2933,7 +2935,9 @@
       "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
       "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
       "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
-      "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/"
+      "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
+      "https://www.dezeen.com/2026/09/07/north-sea-coast-seaside-penthouse-merckx-holvoet-architecten/",
+      "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/"
     ],
     "archive_page": 2
   },
@@ -3386,10 +3390,10 @@
       "https://landezine.com/maglin-outdoor-furniture-alum/",
       "https://landezine.com/landscape-forms-outdoor-furniture-harvest-stool/",
       "https://landezine.com/landscape-forms-outdoor-furniture-bench-parallel4/",
-      "https://landezine.com/metalco-outdoor-furniture-seat-frank/"
+      "https://landezine.com/metalco-outdoor-furniture-seat-frank/",
+      "https://landezine.com/sustainable-stormwater-management-in-brondby-by-gruppe-f/"
     ],
     "queue_new": [
-      "https://landezine.com/sustainable-stormwater-management-in-brondby-by-gruppe-f/",
       "https://landezine.com/area-outdoor-furniture-bollard-antares/",
       "https://landezine.com/deerconcrete-outdoor-furniture-grid-cobbles/",
       "https://landezine.com/call-for-entries-streetlife-design-competition-2/",
@@ -3735,7 +3739,7 @@
       "https://landezine.com/acanthus-prize-opens-for-historic-garden-initiatives/",
       "https://landezine.com/blucher-square-by-afa/"
     ],
-    "archive_page": 243
+    "archive_page": 248
   },
   "monstrum_projects": {
     "sent_urls": [
