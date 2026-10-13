@@ -100,9 +100,12 @@
       "https://leibal.com/interiors/fysika/",
       "https://leibal.com/interiors/ds-residence-2/",
       "https://leibal.com/interiors/blue-house-2/",
-      "https://leibal.com/interiors/walkers-hook-residence/"
+      "https://leibal.com/interiors/walkers-hook-residence/",
+      "https://leibal.com/interiors/casa-piva/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/orchard-house/"
+    ],
     "archive_page": 2
   },
   "leibal_int": {
@@ -443,9 +446,12 @@
       "https://leibal.com/interiors/walkers-hook-residence/",
       "https://leibal.com/interiors/millo/",
       "https://leibal.com/interiors/cream-bean/",
-      "https://leibal.com/interiors/vedbaek-house-2/"
+      "https://leibal.com/interiors/vedbaek-house-2/",
+      "https://leibal.com/interiors/casa-piva/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/orchard-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -911,7 +917,8 @@
       "https://www.archdaily.com/1007436/public-housing-in-platja-den-bossa-08014-arquitectura",
       "https://www.archdaily.com/1040466/islington-house-architecture-for-london-plus-hamish-vincent-design",
       "https://www.archdaily.com/1007179/01-tvn-house-saraiva-e-associados",
-      "https://www.archdaily.com/1040211/na-kukackach-mountain-chalet-edit-architects"
+      "https://www.archdaily.com/1040211/na-kukackach-mountain-chalet-edit-architects",
+      "https://www.archdaily.com/1006945/lagoon-house-studio-bloco-arquitetura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040777/house-30-massive-order",
@@ -1758,9 +1765,11 @@
       "https://www.archdaily.com/1032927/lima-house-bloco-arquitetos",
       "https://www.archdaily.com/1186659/hosho-house-israelpacheco-arquitectos",
       "https://www.archdaily.com/1186209/house-oy-1-1-architects",
-      "https://www.archdaily.com/1186482/district-six-restitution-housing-jakupa-architects-and-urban-designers"
+      "https://www.archdaily.com/1186482/district-six-restitution-housing-jakupa-architects-and-urban-designers",
+      "https://www.archdaily.com/1032794/coral-house-sidney-quintela-architecture-plus-urban-planning",
+      "https://www.archdaily.com/1186760/katnap-house-nutum-estudio"
     ],
-    "archive_page": 238
+    "archive_page": 239
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2183,7 +2192,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/26/stefano-boeri-architetti-community-hub-rome/",
       "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/",
       "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
       "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/",
@@ -2722,7 +2730,10 @@
       "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
       "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
       "https://www.dezeen.com/2026/10/13/shading-pavilion-camden-pearce-plus/",
-      "https://www.dezeen.com/2026/10/13/donald-insall-dies-aged-100/"
+      "https://www.dezeen.com/2026/10/13/donald-insall-dies-aged-100/",
+      "https://www.dezeen.com/2026/10/13/sable-house-allan-joyce-architects/",
+      "https://www.dezeen.com/2026/10/13/timber-lane-retreat-wheeler-kearns-architects/",
+      "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/"
     ],
     "archive_page": 2
   },
@@ -2905,7 +2916,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/",
       "https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/",
       "https://www.dezeen.com/2026/08/11/ebba-architects-cup-of-joy-cafe-marylebone-london/",
       "https://www.dezeen.com/2026/08/11/kim-kardashian-nude-hued-skims-london-flagship-store/",
@@ -3412,7 +3422,6 @@
       "https://landezine.com/area-outdoor-furniture-bollard-antares/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-parc-centre-chair/",
       "https://landezine.com/airlie-park-by-dfla/",
       "https://landezine.com/metalco-outdoor-furniture-seating-splash/",
       "https://landezine.com/nola-outdoor-furniture-parco-furniture-group/",
