@@ -922,7 +922,8 @@
       "https://www.archdaily.com/1006945/lagoon-house-studio-bloco-arquitetura",
       "https://www.archdaily.com/1040777/house-30-massive-order",
       "https://www.archdaily.com/1006800/house-of-the-circular-terraces-denis-joelsons",
-      "https://www.archdaily.com/1040695/six-grid-house-in-osaka-atelier-405"
+      "https://www.archdaily.com/1040695/six-grid-house-in-osaka-atelier-405",
+      "https://www.archdaily.com/1006502/apartment-s-enzo-rosada-architecte"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040148/tt-houses-pjv-arquitetura",
@@ -1775,9 +1776,12 @@
       "https://www.archdaily.com/1186290/cabin-ostoya-r21-arkitekter",
       "https://www.archdaily.com/1186822/padre-luis-cabral-building-hori-zonte",
       "https://www.archdaily.com/1186470/house-by-the-vineyard-architekti-mikulaj-and-mikulajova",
-      "https://www.archdaily.com/1186768/casa-emilio-delporte-citic"
+      "https://www.archdaily.com/1186768/casa-emilio-delporte-citic",
+      "https://www.archdaily.com/1186590/azenya-villas-kwca-kosala-weerasekara-chartered-architects",
+      "https://www.archdaily.com/1186863/loungueira-house-pontoatelier",
+      "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer"
     ],
-    "archive_page": 240
+    "archive_page": 241
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2200,7 +2204,6 @@
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/27/sou-fujimoto-dior-shinsaibashi/",
       "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/",
       "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/",
       "https://www.dezeen.com/2026/05/28/plastic-potted-green-walls/",
@@ -2741,7 +2744,9 @@
       "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
       "https://www.dezeen.com/2026/10/14/dulwich-cricket-pavilion-andy-matthews-studio-streatham-marlborough/",
       "https://www.dezeen.com/2026/10/14/omar-gandhi-brodye-chappell-prince-edwards-island/",
-      "https://www.dezeen.com/2026/10/14/riverside-modern-studley-park/"
+      "https://www.dezeen.com/2026/10/14/riverside-modern-studley-park/",
+      "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
+      "https://www.dezeen.com/2026/10/15/resonance-pavilion-tallinn-architecture-biennale/"
     ],
     "archive_page": 2
   },
@@ -2924,7 +2929,6 @@
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
       "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/",
       "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
       "https://www.dezeen.com/2026/08/13/youth-manchester-cubitts-eyewear-store/",
@@ -3429,7 +3433,6 @@
       "https://landezine.com/airlie-park-by-dfla/"
     ],
     "queue_new": [
-      "https://landezine.com/the-woodland-garden-at-brooklyn-botanic-garden-by-mvva/",
       "https://landezine.com/maglin-outdoor-furniture-the-l-series/",
       "https://landezine.com/departure-into-the-landscape-by-100landschaftsarchitektur/",
       "https://landezine.com/norreport-station-copenhagen-cobe/",
