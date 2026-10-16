@@ -450,9 +450,12 @@
       "https://leibal.com/interiors/casa-piva/",
       "https://leibal.com/interiors/orchard-house/",
       "https://leibal.com/interiors/house-in-yamanakako/",
-      "https://leibal.com/interiors/cairngorm-cottage/"
+      "https://leibal.com/interiors/cairngorm-cottage/",
+      "https://leibal.com/interiors/rubio-y-gali/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/un-capannone/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -924,7 +927,8 @@
       "https://www.archdaily.com/1006800/house-of-the-circular-terraces-denis-joelsons",
       "https://www.archdaily.com/1040695/six-grid-house-in-osaka-atelier-405",
       "https://www.archdaily.com/1006502/apartment-s-enzo-rosada-architecte",
-      "https://www.archdaily.com/1040148/tt-houses-pjv-arquitetura"
+      "https://www.archdaily.com/1040148/tt-houses-pjv-arquitetura",
+      "https://www.archdaily.com/1006529/anandah-cafe-and-house-takeshi-ishiodori-architecture"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040560/trim-house-robert-konieczny-plus-kwk-promes",
@@ -1782,9 +1786,11 @@
       "https://www.archdaily.com/1186572/la-maison-en-bord-de-mer",
       "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
       "https://www.archdaily.com/1186205/holland-grove-blair-smith-architecture",
-      "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna"
+      "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna",
+      "https://www.archdaily.com/1186600/two-multi-family-housing-units-aplomb",
+      "https://www.archdaily.com/1186489/house-with-a-red-addition-facha-architekti"
     ],
-    "archive_page": 241
+    "archive_page": 242
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -1997,7 +2003,8 @@
       "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta",
       "https://www.archdaily.com/1185637/what-the-stones-whisper-collectif-magma",
       "https://www.archdaily.com/1186496/urban-mantle-felipe-burgos-villablanca",
-      "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+      "https://www.archdaily.com/1186487/comillas-waterfront-promenade",
+      "https://www.archdaily.com/1186962/gondomar-urban-park-paulo-merlini-arquitetos"
     ],
     "queue_new": [],
     "archive_page": 81
@@ -2205,10 +2212,10 @@
       "https://www.dezeen.com/2026/05/22/lanza-atelier-2026-serpentine-pavilion-video/",
       "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/",
       "https://www.dezeen.com/2026/05/22/stratos-hyperscale-data-center-gensler-utah-comments/",
-      "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/"
+      "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/",
+      "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/",
       "https://www.dezeen.com/2026/05/28/plastic-potted-green-walls/",
       "https://www.dezeen.com/2026/05/28/julia-watson-lo-tek-water-interview/",
       "https://www.dezeen.com/2026/05/28/stadium-of-life-rise-international/",
@@ -2751,7 +2758,10 @@
       "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
       "https://www.dezeen.com/2026/10/15/resonance-pavilion-tallinn-architecture-biennale/",
       "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
-      "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/"
+      "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
+      "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
+      "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
+      "https://www.dezeen.com/2026/10/16/stirling-prize-winner-dezeen-weekly/"
     ],
     "archive_page": 2
   },
@@ -2932,10 +2942,10 @@
       "https://www.dezeen.com/2026/08/04/norm-architects-dynaudio-showroom-speaker-components/",
       "https://www.dezeen.com/2026/09/03/bin-wu-design-language-timeless-east/",
       "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
-      "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/"
+      "https://www.dezeen.com/2026/09/13/interiors-billiard-tables-lookbooks/",
+      "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/12/arthouse-glasgow-hotel-scotland-a-nrd/",
       "https://www.dezeen.com/2026/08/13/youth-manchester-cubitts-eyewear-store/",
       "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
       "https://www.dezeen.com/2026/09/15/lee-broom-1970s-glamour-chant-chambers-installation/",
@@ -3438,7 +3448,6 @@
       "https://landezine.com/airlie-park-by-dfla/"
     ],
     "queue_new": [
-      "https://landezine.com/departure-into-the-landscape-by-100landschaftsarchitektur/",
       "https://landezine.com/norreport-station-copenhagen-cobe/",
       "https://landezine.com/streetlife-outdoor-furniture-heavy-heavy-benches/",
       "https://landezine.com/nola-outdoor-furniture-four-seasons-sun-parasol/",
