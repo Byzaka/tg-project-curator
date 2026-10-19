@@ -103,7 +103,8 @@
       "https://leibal.com/interiors/walkers-hook-residence/",
       "https://leibal.com/interiors/casa-piva/",
       "https://leibal.com/interiors/orchard-house/",
-      "https://leibal.com/interiors/house-in-yamanakako/"
+      "https://leibal.com/interiors/house-in-yamanakako/",
+      "https://leibal.com/interiors/house-of-wall-forest/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -454,9 +455,12 @@
       "https://leibal.com/interiors/rubio-y-gali/",
       "https://leibal.com/interiors/un-capannone/",
       "https://leibal.com/interiors/arc%c2%b7haven-residence/",
-      "https://leibal.com/interiors/vapa-house/"
+      "https://leibal.com/interiors/vapa-house/",
+      "https://leibal.com/interiors/v-penthouse/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/house-of-wall-forest/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -934,7 +938,8 @@
       "https://www.archdaily.com/1006394/r-and-r-house-alvaro-moragrega-arquitecto",
       "https://www.archdaily.com/1040557/eugen-bolz-student-residence-cukrowicz-nachbaur-architekten",
       "https://www.archdaily.com/1006081/palheiro-house-pedro-henrique-arquiteto",
-      "https://www.archdaily.com/1040757/burnley-house-sonelo-architects"
+      "https://www.archdaily.com/1040757/burnley-house-sonelo-architects",
+      "https://www.archdaily.com/1006001/pinguino-house-estudio-galera"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico",
@@ -1801,9 +1806,11 @@
       "https://www.archdaily.com/1187047/house-in-belem-filipe-borges-de-macedo",
       "https://www.archdaily.com/1187039/promenade-house-studio-gm",
       "https://www.archdaily.com/1186479/calm-haven-house-ada-design-and-build",
-      "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture"
+      "https://www.archdaily.com/1186687/the-summer-path-house-gieo-architecture",
+      "https://www.archdaily.com/1187112/house-in-santa-maria-da-feira-branco-delrio-arquitectos",
+      "https://www.archdaily.com/1186756/dua-villa-architecture-brio"
     ],
-    "archive_page": 244
+    "archive_page": 245
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2232,10 +2239,10 @@
       "https://www.dezeen.com/2026/05/28/julia-watson-lo-tek-water-interview/",
       "https://www.dezeen.com/2026/05/28/stadium-of-life-rise-international/",
       "https://www.dezeen.com/2026/05/28/purbeck-cottage-renovation-type/",
-      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/"
+      "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+      "https://www.dezeen.com/2026/05/29/gehry-why-olin-getty-tram-los-angeles/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/gehry-why-olin-getty-tram-los-angeles/",
       "https://www.dezeen.com/2026/05/29/silk-wood-playscape-gloucestershire/",
       "https://www.dezeen.com/2026/05/29/gentleism-opinion-nat-barker/",
       "https://www.dezeen.com/2026/05/30/parametricism-architecture-feature-dezeen-in-depth/",
@@ -2780,7 +2787,10 @@
       "https://www.dezeen.com/2026/10/17/converted-power-stations-roundup/",
       "https://www.dezeen.com/2026/10/17/snohetta-shanghai-grand-opera-house/",
       "https://www.dezeen.com/2026/10/18/bellavista-11-villa-fran-silvestre-arquitectos/",
-      "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/"
+      "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
+      "https://www.dezeen.com/2026/10/19/oma-palais-de-justice-de-lille/",
+      "https://www.dezeen.com/2026/10/19/limoges-town-hall-fire-france-protests/",
+      "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/"
     ],
     "archive_page": 2
   },
@@ -2967,10 +2977,10 @@
       "https://www.dezeen.com/2026/08/13/kii-sr-ice-cream-miyakojima/",
       "https://www.dezeen.com/2026/09/15/lee-broom-1970s-glamour-chant-chambers-installation/",
       "https://www.dezeen.com/2026/09/15/veronica-mishaan-bogota-colombia-penthouse/",
-      "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/"
+      "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/",
+      "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
       "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
       "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
@@ -3009,7 +3019,9 @@
       "https://www.dezeen.com/2026/10/12/gundry-ducker-french-dining-culture-london-cassette/",
       "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
       "https://www.dezeen.com/2026/09/09/east-sussex-house-anam-design-studio/",
-      "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/"
+      "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
+      "https://www.dezeen.com/2026/10/19/nm3-classic-bar-milan/",
+      "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/"
     ],
     "archive_page": 2
   },
@@ -3471,7 +3483,6 @@
       "https://landezine.com/nola-outdoor-furniture-four-seasons-sun-parasol/"
     ],
     "queue_new": [
-      "https://landezine.com/metalco-outdoor-furniture-litter-bin-spencer/",
       "https://landezine.com/area-outdoor-furniture-bench-ontario/",
       "https://landezine.com/may-7-ny-crossroads-seminar-2026-urban-microclimates-landscape-strategies-for-cooler-cities/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-quattro-pillars-and-solid-quattro-bollards/",
