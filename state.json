@@ -104,7 +104,8 @@
       "https://leibal.com/interiors/casa-piva/",
       "https://leibal.com/interiors/orchard-house/",
       "https://leibal.com/interiors/house-in-yamanakako/",
-      "https://leibal.com/interiors/house-of-wall-forest/"
+      "https://leibal.com/interiors/house-of-wall-forest/",
+      "https://leibal.com/interiors/treetop-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -457,9 +458,12 @@
       "https://leibal.com/interiors/arc%c2%b7haven-residence/",
       "https://leibal.com/interiors/vapa-house/",
       "https://leibal.com/interiors/v-penthouse/",
-      "https://leibal.com/interiors/house-of-wall-forest/"
+      "https://leibal.com/interiors/house-of-wall-forest/",
+      "https://leibal.com/interiors/treetop-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/maison-mattelin/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -939,7 +943,8 @@
       "https://www.archdaily.com/1006081/palheiro-house-pedro-henrique-arquiteto",
       "https://www.archdaily.com/1040757/burnley-house-sonelo-architects",
       "https://www.archdaily.com/1006001/pinguino-house-estudio-galera",
-      "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico"
+      "https://www.archdaily.com/1040543/house-of-light-oaxaca-t804-arquitectura-e-interiorismo-estrategico",
+      "https://www.archdaily.com/1005678/gallery-house-tallerdarquitectura"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040761/house-and-office-sh-1-1-architects",
@@ -1810,9 +1815,11 @@
       "https://www.archdaily.com/1186756/dua-villa-architecture-brio",
       "https://www.archdaily.com/1187138/fg-house-oficina-conceito-arquitetura",
       "https://www.archdaily.com/1187114/anja-house-ihouse-estudio",
-      "https://www.archdaily.com/1187072/casa-canal-este-norte-estudio"
+      "https://www.archdaily.com/1187072/casa-canal-este-norte-estudio",
+      "https://www.archdaily.com/1186292/cabin-budor-r21-arkitekter",
+      "https://www.archdaily.com/1186975/courtyard-house-hennessey-architecture"
     ],
-    "archive_page": 245
+    "archive_page": 246
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2244,10 +2251,10 @@
       "https://www.dezeen.com/2026/05/28/purbeck-cottage-renovation-type/",
       "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
       "https://www.dezeen.com/2026/05/29/gehry-why-olin-getty-tram-los-angeles/",
-      "https://www.dezeen.com/2026/05/29/silk-wood-playscape-gloucestershire/"
+      "https://www.dezeen.com/2026/05/29/silk-wood-playscape-gloucestershire/",
+      "https://www.dezeen.com/2026/05/29/gentleism-opinion-nat-barker/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/05/29/gentleism-opinion-nat-barker/",
       "https://www.dezeen.com/2026/05/30/parametricism-architecture-feature-dezeen-in-depth/",
       "https://www.dezeen.com/2026/05/30/studio-weave-maida-hill-toilet-block/",
       "https://www.dezeen.com/2026/05/30/fgmf-arquitetos-valente-skyscraper-sao-paulo-brazil/",
@@ -2793,7 +2800,13 @@
       "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
       "https://www.dezeen.com/2026/10/19/oma-palais-de-justice-de-lille/",
       "https://www.dezeen.com/2026/10/19/limoges-town-hall-fire-france-protests/",
-      "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/"
+      "https://www.dezeen.com/2026/10/19/golf-clubhouse-graham-baba-washington-architects/",
+      "https://www.dezeen.com/2026/10/13/pioneering-conservationist-donald-insall-dies-aged-100/",
+      "https://www.dezeen.com/2026/10/18/minimalist-villa-ibiza-fran-silvestre-arquitectos/",
+      "https://www.dezeen.com/2026/10/20/wildlife-pavilion-desai-chia-architecture-new-york/",
+      "https://www.dezeen.com/2026/10/15/aimee-daniels-shaded-interview/",
+      "https://www.dezeen.com/2026/10/17/stirling-prize-winner-2026-this-week/",
+      "https://www.dezeen.com/2026/10/20/anselm-kiefer-pavilion-david-chipperfield-architects-germany/"
     ],
     "archive_page": 2
   },
@@ -2982,10 +2995,10 @@
       "https://www.dezeen.com/2026/09/15/veronica-mishaan-bogota-colombia-penthouse/",
       "https://www.dezeen.com/2026/08/14/busta-studio-kimpton-ashbel-hotel/",
       "https://www.dezeen.com/2026/08/15/ome-dezin-lumens-renovated-los-angeles-residence/",
-      "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/"
+      "https://www.dezeen.com/2026/08/16/ice-cream-shops-respite-summer-heat/",
+      "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
       "https://www.dezeen.com/2026/08/17/tatjana-von-stein-the-dean-munich/",
       "https://www.dezeen.com/2026/09/19/guzema-jewellery-boutique-soho-new-york-victoria-yakusha-studio/",
       "https://www.dezeen.com/2026/09/21/isabel-helen-showcase-their-obsession-with-movement-with-kinetic-models-at-the-conran-shop/",
@@ -3025,7 +3038,9 @@
       "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
       "https://www.dezeen.com/2026/10/19/nm3-classic-bar-milan/",
       "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-bangkok-cafe-interior/",
-      "https://www.dezeen.com/2026/10/20/box-9-brick-soho-restaurant-kid/"
+      "https://www.dezeen.com/2026/10/20/box-9-brick-soho-restaurant-kid/",
+      "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
+      "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-blue-gold-bangkok-cafe/"
     ],
     "archive_page": 2
   },
@@ -3485,10 +3500,10 @@
       "https://landezine.com/norreport-station-copenhagen-cobe/",
       "https://landezine.com/streetlife-outdoor-furniture-heavy-heavy-benches/",
       "https://landezine.com/nola-outdoor-furniture-four-seasons-sun-parasol/",
-      "https://landezine.com/area-outdoor-furniture-bench-ontario/"
+      "https://landezine.com/area-outdoor-furniture-bench-ontario/",
+      "https://landezine.com/may-7-ny-crossroads-seminar-2026-urban-microclimates-landscape-strategies-for-cooler-cities/"
     ],
     "queue_new": [
-      "https://landezine.com/may-7-ny-crossroads-seminar-2026-urban-microclimates-landscape-strategies-for-cooler-cities/",
       "https://landezine.com/streetlife-outdoor-furniture-solid-quattro-pillars-and-solid-quattro-bollards/",
       "https://landezine.com/miramondo-outdoor-furniture-coffin-lounge/",
       "https://landezine.com/head-office-of-agc-glass-europe-by-erik-dhont/",
@@ -3814,7 +3829,7 @@
       "https://landezine.com/acanthus-prize-opens-for-historic-garden-initiatives/",
       "https://landezine.com/blucher-square-by-afa/"
     ],
-    "archive_page": 253
+    "archive_page": 255
   },
   "monstrum_projects": {
     "sent_urls": [
