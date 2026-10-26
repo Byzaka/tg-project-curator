@@ -107,7 +107,8 @@
       "https://leibal.com/interiors/house-of-wall-forest/",
       "https://leibal.com/interiors/treetop-house/",
       "https://leibal.com/uncategorized/framed-house/",
-      "https://leibal.com/architecture/framed-house/"
+      "https://leibal.com/architecture/framed-house/",
+      "https://leibal.com/interiors/chalet-moraine/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -468,9 +469,12 @@
       "https://leibal.com/interiors/telegraphe/",
       "https://leibal.com/interiors/taihu-ruyuan-residence/",
       "https://leibal.com/architecture/framed-house/",
-      "https://leibal.com/interiors/building-49/"
+      "https://leibal.com/interiors/building-49/",
+      "https://leibal.com/interiors/hessen/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/chalet-moraine/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -962,7 +966,8 @@
       "https://www.archdaily.com/1005115/house-9x9-oficina-de-arquitectura-x",
       "https://www.archdaily.com/1040443/gs-house-studio-fp02",
       "https://www.archdaily.com/1004991/house-in-mitterfischen-florian-nagler-architekten",
-      "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office"
+      "https://www.archdaily.com/1040800/loli-house-t-plus-m-design-office",
+      "https://www.archdaily.com/1004958/llor-house-jorge-vidal-studio"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040469/mmmm-apartment-depaolidefranceschibaldan-architetti",
@@ -1859,9 +1864,11 @@
       "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
       "https://www.archdaily.com/1187389/mornington-house-foomann-architects",
       "https://www.archdaily.com/1010715/relampago-house-h3o-architects",
-      "https://www.archdaily.com/1186430/house-in-mibu-tato-architects"
+      "https://www.archdaily.com/1186430/house-in-mibu-tato-architects",
+      "https://www.archdaily.com/1186101/house-jcm-ralph-germann-architectes",
+      "https://www.archdaily.com/1187520/coqueira-house-tiago-sousa-arquitecto"
     ],
-    "archive_page": 251
+    "archive_page": 252
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2306,10 +2313,10 @@
       "https://www.dezeen.com/2026/06/01/oma-hangzhou-prism/",
       "https://www.dezeen.com/2026/06/01/sigla-studio-turo-park-apartment-barcelona-green-bathroom/",
       "https://www.dezeen.com/2026/06/01/safdie-architects-crystal-bridges-museum-of-art-arkansas-expansion/",
-      "https://www.dezeen.com/2026/06/01/k-studio-and-arup-to-expand-grigoris-lamprakis-stadium-in-athens/"
+      "https://www.dezeen.com/2026/06/01/k-studio-and-arup-to-expand-grigoris-lamprakis-stadium-in-athens/",
+      "https://www.dezeen.com/2026/06/02/japanese-houses-ka-me-ra-book/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/02/japanese-houses-ka-me-ra-book/",
       "https://www.dezeen.com/2026/06/02/freedmens-town-theaster-gates-studio-zewde-pavilion-houston/",
       "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/",
       "https://www.dezeen.com/2026/06/02/swoop-adu-out-of-line-new-jersey/",
@@ -2870,7 +2877,10 @@
       "https://www.dezeen.com/2026/10/24/nakshabid-architects-project-roundup/",
       "https://www.dezeen.com/2026/10/24/cloud-house-peter-morris/",
       "https://www.dezeen.com/2026/10/25/arup-pilen-viewpoint-fehmarnbelt-tunnel/",
-      "https://www.dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich/"
+      "https://www.dezeen.com/2026/10/26/think-architecture-hillside-house-lake-zurich/",
+      "https://www.dezeen.com/2026/10/26/paralelo-transversal-casa-ensenada-chile/",
+      "https://www.dezeen.com/2026/10/26/loco-park-masterplan-stefano-boeri/",
+      "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/"
     ],
     "archive_page": 2
   },
@@ -3071,10 +3081,10 @@
       "https://www.dezeen.com/2026/09/23/nama-studio-federico-stefanovich-studio-1920s-mexico-building/",
       "https://www.dezeen.com/2026/09/25/gjergji-shkurti-million-goods-ft-green/",
       "https://www.dezeen.com/2026/09/26/dezeen-awards-shortlists-this-week/",
-      "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/"
+      "https://www.dezeen.com/2026/09/26/skywalker-grill-lucas-museum-narrative-art-los-angeles-rockwell-group/",
+      "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/24/yarlington-lodge-newt-somerset-richard-parr/",
       "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
       "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
       "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
@@ -3574,7 +3584,6 @@
       "https://landezine.com/de-nieuwe-mark-breda-by-stadsingenieurs-breda-with-odc-architecture-and-studio-mars/"
     ],
     "queue_new": [
-      "https://landezine.com/miramondo-outdoor-furniture-tetatet/",
       "https://landezine.com/the-power-station-by-hocker-design-group/",
       "https://landezine.com/landscape-forms-outdoor-furniture-motive-area-light/",
       "https://landezine.com/university-of-new-mexico-smith-plaza-by-surfacedesign/",
