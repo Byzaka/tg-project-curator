@@ -109,11 +109,10 @@
       "https://leibal.com/uncategorized/framed-house/",
       "https://leibal.com/architecture/framed-house/",
       "https://leibal.com/interiors/chalet-moraine/",
-      "https://leibal.com/interiors/villa-ha/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/villa-ha/",
       "https://leibal.com/interiors/oakley-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "leibal_int": {
@@ -479,11 +478,10 @@
       "https://leibal.com/interiors/historic-westchester-estate/",
       "https://leibal.com/interiors/ts-residence/",
       "https://leibal.com/interiors/harrow-on-the-hill/",
-      "https://leibal.com/interiors/villa-ha/"
-    ],
-    "queue_new": [
+      "https://leibal.com/interiors/villa-ha/",
       "https://leibal.com/interiors/oakley-house/"
     ],
+    "queue_new": [],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -982,10 +980,10 @@
       "https://www.archdaily.com/1040849/louvered-house-i2a-architects-studio",
       "https://www.archdaily.com/1004489/ngau-house-limdim-house-studio",
       "https://www.archdaily.com/1040423/house-of-ashes-taco-taller-de-arquitectura-contextual",
-      "https://www.archdaily.com/1004344/mendoza-apartment-renovation-noma-estudio"
+      "https://www.archdaily.com/1004344/mendoza-apartment-renovation-noma-estudio",
+      "https://www.archdaily.com/1040846/frenzy-stair-sepide-elmi"
     ],
     "queue_new": [
-      "https://www.archdaily.com/1040846/frenzy-stair-sepide-elmi",
       "https://www.archdaily.com/1040029/kiellandsstien-residence-hoem-plus-folstad-arkitekter",
       "https://www.archdaily.com/1040838/nth-neutral-tactile-habitat-ply-architecture",
       "https://www.archdaily.com/1040306/vihara-house-di-frenna-arquitectos",
@@ -1898,7 +1896,10 @@
       "https://www.archdaily.com/1187678/yakisugi-house-estudio-mazara",
       "https://www.archdaily.com/1187551/cottage-archicraft",
       "https://www.archdaily.com/1024034/grey-house-adam-kane-architects",
-      "https://www.archdaily.com/1187562/island-house-agis-mourelatos"
+      "https://www.archdaily.com/1187562/island-house-agis-mourelatos",
+      "https://www.archdaily.com/1187789/house-in-ibiza-the-roca-views-fran-silvestre-arquitectos",
+      "https://www.archdaily.com/1187510/vaastavya-residence-space-agency",
+      "https://www.archdaily.com/1187776/curico-house-armstrong-arquitectos-plus-par-arquitectos"
     ],
     "archive_page": 255
   },
@@ -2354,10 +2355,10 @@
       "https://www.dezeen.com/2026/06/02/swoop-adu-out-of-line-new-jersey/",
       "https://www.dezeen.com/2026/06/03/delcy-morelos-origo-installation-barbican/",
       "https://www.dezeen.com/2026/06/02/studio-weave-maida-hill-toilet-block-dezeen-debate/",
-      "https://www.dezeen.com/2026/06/03/nest-chapel-felipe-caboclo-arquitectura-sao-paulo/"
+      "https://www.dezeen.com/2026/06/03/nest-chapel-felipe-caboclo-arquitectura-sao-paulo/",
+      "https://www.dezeen.com/2026/06/03/lanza-atelier-designs-snaking-brick-serpentine-pavilion-in-london/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/03/lanza-atelier-designs-snaking-brick-serpentine-pavilion-in-london/",
       "https://www.dezeen.com/2026/06/03/serpentine-pavilion-2026-lanza-atelier/",
       "https://www.dezeen.com/2026/06/03/t-ark-architects-laugaras-lagoon/",
       "https://www.dezeen.com/2026/06/03/the-architecture-of-13-presidential-libraries-from-hoover-to-bush/",
@@ -2929,7 +2930,8 @@
       "https://www.dezeen.com/2026/10/29/minimalist-house-form-kouichi-kimura/",
       "https://www.dezeen.com/2026/10/29/ai-piers-taylor-opinion/",
       "https://www.dezeen.com/2026/10/29/buro-ole-scheeren-suseong-continuum-gallery-south-korea/",
-      "https://www.dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity/"
+      "https://www.dezeen.com/2026/10/29/herzog-de-meuron-field-operations-ehdd-eames-institute-infinite-curiosity/",
+      "https://www.dezeen.com/2026/10/29/foster-partners-manica-generali-stadium/"
     ],
     "archive_page": 2
   },
@@ -3137,10 +3139,10 @@
       "https://www.dezeen.com/2026/09/29/major-league-soccer-new-york-headquarters-tpg-architecture/",
       "https://www.dezeen.com/2026/08/27/aethos-hotel-shoreditch-london-astet-studio/",
       "https://www.dezeen.com/2026/08/26/interior-architects-notion-craftsman-style-office-san-francisco/",
-      "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/"
+      "https://www.dezeen.com/2026/08/28/a24-leroy-street-studio-cherry-lane-theatre-west-village/",
+      "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/08/29/willow-point-lakefront-house-michigan-lauri-design-studio/",
       "https://www.dezeen.com/2026/08/31/h3o-playful-update-historic-barcelona-home/",
       "https://www.dezeen.com/2026/10/03/kimpton-era-hotel-new-york-city-inc/",
       "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
@@ -3169,7 +3171,9 @@
       "https://www.dezeen.com/2026/10/27/mvrdv-essen-central-library/",
       "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
       "https://www.dezeen.com/2026/10/27/protean-practice-manual-photo-lab-chinatown/",
-      "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/"
+      "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
+      "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
+      "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/"
     ],
     "archive_page": 2
   },
@@ -3634,10 +3638,10 @@
       "https://landezine.com/head-office-of-agc-glass-europe-by-erik-dhont/",
       "https://landezine.com/streetlife-outdoor-furniture-planter-rough-ready-circular-tree-isles/",
       "https://landezine.com/16-18-september-asla-2026-conference-action/",
-      "https://landezine.com/de-nieuwe-mark-breda-by-stadsingenieurs-breda-with-odc-architecture-and-studio-mars/"
+      "https://landezine.com/de-nieuwe-mark-breda-by-stadsingenieurs-breda-with-odc-architecture-and-studio-mars/",
+      "https://landezine.com/area-outdoor-furniture-michigan-wood-chaise-longue/"
     ],
     "queue_new": [
-      "https://landezine.com/area-outdoor-furniture-michigan-wood-chaise-longue/",
       "https://landezine.com/pedregals-lava-garden-by-estudio-ome/",
       "https://landezine.com/durbanis-outdoor-furniture-concentrica/",
       "https://landezine.com/atelierhaus-c21-by-rajek-barosch/",
