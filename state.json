@@ -481,9 +481,12 @@
       "https://leibal.com/interiors/villa-ha/",
       "https://leibal.com/interiors/oakley-house/",
       "https://leibal.com/interiors/nunez-de-balboa/",
-      "https://leibal.com/interiors/fj-house/"
+      "https://leibal.com/interiors/fj-house/",
+      "https://leibal.com/interiors/kigenzen-house/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/studio-yc/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -989,7 +992,8 @@
       "https://www.archdaily.com/1004065/house-cx3-lm-arkylab",
       "https://www.archdaily.com/1040838/nth-neutral-tactile-habitat-ply-architecture",
       "https://www.archdaily.com/1003631/bauer-house-luiz-paulo-andrade-arquitetos",
-      "https://www.archdaily.com/1040306/vihara-house-di-frenna-arquitectos"
+      "https://www.archdaily.com/1040306/vihara-house-di-frenna-arquitectos",
+      "https://www.archdaily.com/1003428/hot-top-peak-house-figr-architecture-and-design"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040500/moksha-house-saw-spiegel-aihara-workshop",
@@ -1917,9 +1921,14 @@
       "https://www.archdaily.com/1186735/minimalist-house-form-kouichi-kimura-architects",
       "https://www.archdaily.com/1018550/the-house-of-courtyards-studio-vdga",
       "https://www.archdaily.com/1187664/se-house-kantor-gunawan-gunawan",
-      "https://www.archdaily.com/1187856/lion-green-road"
+      "https://www.archdaily.com/1187856/lion-green-road",
+      "https://www.archdaily.com/1036417/country-house-arquipelago-arquitetos",
+      "https://www.archdaily.com/1187735/mres-mold-architects",
+      "https://www.archdaily.com/1187896/up-in-the-clouds-hennessey-architecture",
+      "https://www.archdaily.com/1187869/tiny-house-razzi",
+      "https://www.archdaily.com/1187977/quinta-da-casa-artequitectos"
     ],
-    "archive_page": 258
+    "archive_page": 259
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2382,10 +2391,10 @@
       "https://www.dezeen.com/2026/06/03/the-architecture-of-13-presidential-libraries-from-hoover-to-bush/",
       "https://www.dezeen.com/2026/06/03/palma-taller-to-panama-art-museum-design/",
       "https://www.dezeen.com/2026/06/04/conflict-ecology-radar-building-damage-lebanon/",
-      "https://www.dezeen.com/2026/06/04/obama-presidential-center-architecture-anthony-paletta-opinion/"
+      "https://www.dezeen.com/2026/06/04/obama-presidential-center-architecture-anthony-paletta-opinion/",
+      "https://www.dezeen.com/2026/06/04/quentin-blake-centre-tim-ronalds-architects/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/04/quentin-blake-centre-tim-ronalds-architects/",
       "https://www.dezeen.com/2026/06/04/tod-williams-billie-tsien-obama-presidential-center/",
       "https://www.dezeen.com/2026/06/04/lanza-ateliers-serpentine-pavilion-features-in-dezeen-agenda/",
       "https://www.dezeen.com/2026/06/05/backrooms-green-walls-gentleism-dezeen-weekly-podcast/",
@@ -2961,7 +2970,10 @@
       "https://www.dezeen.com/2026/11/01/new-huanggang-port-development-aedas-shenzhen-hong-kong/",
       "https://www.dezeen.com/2026/11/02/still-room-casa-no-tempo-corkinho/",
       "https://www.dezeen.com/2026/11/02/lacaton-vassal-le-prix-charlotte-perriand-2027/",
-      "https://www.dezeen.com/2026/11/02/eight-architecture-and-design-events-in-november-from-dezeen-events-guide/"
+      "https://www.dezeen.com/2026/11/02/eight-architecture-and-design-events-in-november-from-dezeen-events-guide/",
+      "https://www.dezeen.com/2026/11/02/the-pay-100-architect-salaries-survey/",
+      "https://www.dezeen.com/2026/11/02/kengo-kuma-kai-water-culture-house-copenhagen/",
+      "https://www.dezeen.com/2026/11/02/cadence-court-alison-brooks-architects-kings-cross/"
     ],
     "archive_page": 2
   },
@@ -3176,10 +3188,10 @@
       "https://www.dezeen.com/2026/10/05/edition-denmark-seoul-spacon-cafe-showroom/",
       "https://www.dezeen.com/2026/10/06/arcane-17-restaurant-betyle-studio/",
       "https://www.dezeen.com/2026/10/06/bar-shrimp-autex-audio-sound-panel/",
-      "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/"
+      "https://www.dezeen.com/2026/10/07/didea-super-f-streetwear-store-mercury-tower-malta/",
+      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
       "https://www.dezeen.com/2026/10/08/josh-greenspan-usm-vvs-cocktail-room-new-york/",
       "https://www.dezeen.com/2026/09/04/surrane-design-hommali-west-village-new-york/",
       "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
@@ -3205,7 +3217,8 @@
       "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
       "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
       "https://www.dezeen.com/2026/10/30/atelier-zebulon-perron-bistrot-franky-montreal/",
-      "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/"
+      "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
+      "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/"
     ],
     "archive_page": 2
   },
@@ -3675,7 +3688,6 @@
       "https://landezine.com/small-plaza-tiled-pattern-pavement-niva/"
     ],
     "queue_new": [
-      "https://landezine.com/landscape-forms-outdoor-furniture-moment-catenary-light/",
       "https://landezine.com/heerenschurli-sport-complex-by-topotek1/",
       "https://landezine.com/the-small-campus-by-buro-harro/",
       "https://landezine.com/area-outdoor-furniture-barrier-antares/",
