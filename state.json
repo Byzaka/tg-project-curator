@@ -111,7 +111,8 @@
       "https://leibal.com/interiors/chalet-moraine/",
       "https://leibal.com/interiors/villa-ha/",
       "https://leibal.com/interiors/oakley-house/",
-      "https://leibal.com/interiors/mesa-de-gallos/"
+      "https://leibal.com/interiors/mesa-de-gallos/",
+      "https://leibal.com/interiors/ersland-skeie-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -493,7 +494,8 @@
       "https://leibal.com/interiors/bureaux-disma/",
       "https://leibal.com/interiors/li-residence/",
       "https://leibal.com/interiors/muhle-flagship-store/",
-      "https://leibal.com/interiors/penthouse-alix/"
+      "https://leibal.com/interiors/penthouse-alix/",
+      "https://leibal.com/interiors/ersland-skeie-house/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -1017,7 +1019,8 @@
       "https://www.archdaily.com/1002478/live-work-share-house-bligh-graham-architects",
       "https://www.archdaily.com/1040424/mp-house-7nze-arquitetura",
       "https://www.archdaily.com/1002054/home-for-family-koki-sugawara-architects",
-      "https://www.archdaily.com/1040384/casa-l5-pasqual-giner-arquitectura"
+      "https://www.archdaily.com/1040384/casa-l5-pasqual-giner-arquitectura",
+      "https://www.archdaily.com/1001983/casa-chica-agb-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040149/vlp-house-pascali-semerdjian-arquitetos",
@@ -1983,9 +1986,13 @@
       "https://www.archdaily.com/1187593/driftwood-residence-nestcraft-architecture",
       "https://www.archdaily.com/1188025/studio-for-two",
       "https://www.archdaily.com/1188317/horizontal-house-estudio-galera",
-      "https://www.archdaily.com/1188142/ambang-house-tamara-wibowo-architects"
+      "https://www.archdaily.com/1188142/ambang-house-tamara-wibowo-architects",
+      "https://www.archdaily.com/1188214/bridge-house-studioshaw",
+      "https://www.archdaily.com/1188094/minimal-maximum-stempel-and-tesar-architekti",
+      "https://www.archdaily.com/1188024/huus-a-de-wegere-kollekti-ag",
+      "https://www.archdaily.com/1188291/benfica-am-and-mr-villa-joao-tiago-aguiar-arquitectos"
     ],
-    "archive_page": 266
+    "archive_page": 267
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2210,7 +2217,8 @@
       "https://www.archdaily.com/1187738/ar-rahbah-market-at-amman-design-week-2026-laith-matarweh-studio-for-architecture",
       "https://www.archdaily.com/1188153/instructions-for-talking-to-birds-anti-pavilion-yemail-arquitectura",
       "https://www.archdaily.com/1188208/molina-de-segura-pedestrian-bridge-fvai",
-      "https://www.archdaily.com/1187741/baietan-guangzhou-ute-agence-ter-and-ana-coello-de-llobet"
+      "https://www.archdaily.com/1187741/baietan-guangzhou-ute-agence-ter-and-ana-coello-de-llobet",
+      "https://www.archdaily.com/1188292/downtown-cary-park-machado-silvetti"
     ],
     "queue_new": [],
     "archive_page": 81
@@ -2468,10 +2476,10 @@
       "https://www.dezeen.com/2026/06/08/oki-sato-steps-down-nendo-leadership/",
       "https://www.dezeen.com/2026/06/08/gods-architect-interview-antoni-gaudi-stanford-antoni/",
       "https://www.dezeen.com/2026/06/08/antoni-gaudi-centenary-100-years/",
-      "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/"
+      "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
+      "https://www.dezeen.com/2026/06/08/rio-ai-city-hyphen-elea-latin-americas-largest-data-center/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/08/rio-ai-city-hyphen-elea-latin-americas-largest-data-center/",
       "https://www.dezeen.com/2026/06/09/rshp-central-china-international-convention-centre/",
       "https://www.dezeen.com/2026/06/09/populous-king-fahd-stadium-riyadh/",
       "https://www.dezeen.com/2026/06/09/the-sagrada-familia-antoni-gaudi/",
@@ -3053,7 +3061,12 @@
       "https://www.dezeen.com/2026/11/08/fala-atelier-cookie-cutter-retreat/",
       "https://www.dezeen.com/2026/11/08/mesoamerican-modern-book-mexico-architecture/",
       "https://www.dezeen.com/2026/11/09/freetown-memorial-sierra-leone-carrier-corps-tosin-oshinowo/",
-      "https://www.dezeen.com/2026/11/09/ebba-architects-dutch-barn/"
+      "https://www.dezeen.com/2026/11/09/ebba-architects-dutch-barn/",
+      "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
+      "https://www.dezeen.com/2026/11/10/la-querola-andorra-jean-nouvel-ribas-ribas-arquitectos-fire/",
+      "https://www.dezeen.com/2026/11/10/ring-bjolfur-arkibygg-architects-esja/",
+      "https://www.dezeen.com/2026/11/10/golmorad-extension-zav-architects/",
+      "https://www.dezeen.com/2026/11/10/primary-architects-carpenters-home-china/"
     ],
     "archive_page": 2
   },
@@ -3283,10 +3296,10 @@
       "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
       "https://www.dezeen.com/2026/10/19/nm3-classic-bar-milan/",
       "https://www.dezeen.com/2026/10/20/box-9-brick-soho-restaurant-kid/",
-      "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/"
+      "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
+      "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-blue-gold-bangkok-cafe/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/10/19/traditional-thai-lanterns-blue-gold-bangkok-cafe/",
       "https://www.dezeen.com/2026/10/23/shanghai-tea-shop-basao-rockbund-historic-buildings/",
       "https://www.dezeen.com/2026/10/24/monos-headquarters-vancouver-ste-marie/",
       "https://www.dezeen.com/2026/10/27/mvrdv-essen-central-library/",
@@ -3785,10 +3798,10 @@
       "https://landezine.com/metalco-outdoor-furniture-bench-dois/",
       "https://landezine.com/belvederes-drentsche-aa-by-strootman/",
       "https://landezine.com/innsbruck-landscape-architecture/",
-      "https://landezine.com/roof-of-oslo-opera-snohetta/"
+      "https://landezine.com/roof-of-oslo-opera-snohetta/",
+      "https://landezine.com/courtyard-landscape-architecture-11-landskab/"
     ],
     "queue_new": [
-      "https://landezine.com/courtyard-landscape-architecture-11-landskab/",
       "https://landezine.com/the-written-garden-by-relais-landschaftsarchitekten/",
       "https://landezine.com/22-april-earth-day-2026-our-power-our-planet/",
       "https://landezine.com/betania-forest-garden-by-ruderal/",
