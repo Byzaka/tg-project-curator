@@ -499,9 +499,12 @@
       "https://leibal.com/interiors/ersland-skeie-house/",
       "https://leibal.com/interiors/mountain-house-iv/",
       "https://leibal.com/interiors/kid/",
-      "https://leibal.com/interiors/borch-editions/"
+      "https://leibal.com/interiors/borch-editions/",
+      "https://leibal.com/interiors/beaune/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/precita-house/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -1029,7 +1032,8 @@
       "https://www.archdaily.com/1001864/housing-cooperation-de-warren-natrufied-architecture",
       "https://www.archdaily.com/1040952/around-the-bend-nigel-grigg-architects",
       "https://www.archdaily.com/1001691/chitrakut-residences-aangan-architects",
-      "https://www.archdaily.com/1040297/the-green-courtyard-house"
+      "https://www.archdaily.com/1040297/the-green-courtyard-house",
+      "https://www.archdaily.com/1001543/house-in-kurume-goya-schroder-and-associates"
     ],
     "queue_new": [
       "https://www.archdaily.com/1039957/el-camino-housing-complex-for-older-adults-and-formerly-unhoused-people-fp-arquitectura",
@@ -2011,9 +2015,13 @@
       "https://www.archdaily.com/1188078/casa-tranquilo-dado",
       "https://www.archdaily.com/1188436/ell-house-suite",
       "https://www.archdaily.com/1188378/mekong-breeze-house-re-edge-architecture",
-      "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez"
+      "https://www.archdaily.com/1188496/casa-de-las-lavanderas-raul-sanchez",
+      "https://www.archdaily.com/1188053/capsule-retreat-east-architecture-studio",
+      "https://www.archdaily.com/1188590/sima-house-dosorozco",
+      "https://www.archdaily.com/1035266/pavilion-in-the-oaks-mork-ulnes-architects",
+      "https://www.archdaily.com/1188089/neuweilerstrasse-mixed-use-development-volpatohatz"
     ],
-    "archive_page": 269
+    "archive_page": 270
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2503,10 +2511,10 @@
       "https://www.dezeen.com/2026/06/09/populous-king-fahd-stadium-riyadh/",
       "https://www.dezeen.com/2026/06/09/the-sagrada-familia-antoni-gaudi/",
       "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/",
-      "https://www.dezeen.com/2026/06/09/coventry-central-baths-demolition-twentieth-century-society/"
+      "https://www.dezeen.com/2026/06/09/coventry-central-baths-demolition-twentieth-century-society/",
+      "https://www.dezeen.com/2026/06/09/pau-penn-station-redesign-political-realities/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/09/pau-penn-station-redesign-political-realities/",
       "https://www.dezeen.com/2026/06/10/marta-nowicka-dom-studio/",
       "https://www.dezeen.com/2026/06/10/herzog-de-meuron-palace-congresses-tirana/",
       "https://www.dezeen.com/2026/06/10/sagrada-familia-architect-maurici-cortes-interview-gaudi-centenary/",
@@ -3100,7 +3108,9 @@
       "https://www.dezeen.com/2026/11/12/wedding-cake-pavilion-dismantled/",
       "https://www.dezeen.com/2026/11/12/embt-naples-underground-central-station/",
       "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
-      "https://www.dezeen.com/2026/11/13/tarlair-outdoor-pool-pavilion-studio-octopi-andrew-doolan-award/"
+      "https://www.dezeen.com/2026/11/13/tarlair-outdoor-pool-pavilion-studio-octopi-andrew-doolan-award/",
+      "https://www.dezeen.com/2026/11/13/big-refugee-city-uganda/",
+      "https://www.dezeen.com/2026/11/13/zando-central-market-think-tank-architecture/"
     ],
     "archive_page": 2
   },
@@ -3336,10 +3346,10 @@
       "https://www.dezeen.com/2026/10/24/monos-headquarters-vancouver-ste-marie/",
       "https://www.dezeen.com/2026/10/27/mvrdv-essen-central-library/",
       "https://www.dezeen.com/2026/10/27/ohlab-experiments-with-colour-blocking-and-cork-in-old-and-new-buildings-of-terreno-barrio-hotel-in-mallorca/",
-      "https://www.dezeen.com/2026/10/27/protean-practice-manual-photo-lab-chinatown/"
+      "https://www.dezeen.com/2026/10/27/protean-practice-manual-photo-lab-chinatown/",
+      "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
       "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
       "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
       "https://www.dezeen.com/2026/10/30/atelier-zebulon-perron-bistrot-franky-montreal/",
@@ -3354,7 +3364,8 @@
       "https://www.dezeen.com/2026/11/11/ysg-moong-gang-hotel-bali/",
       "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/",
       "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
-      "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/"
+      "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
+      "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/"
     ],
     "archive_page": 2
   },
@@ -3842,10 +3853,10 @@
       "https://landezine.com/22-april-earth-day-2026-our-power-our-planet/",
       "https://landezine.com/betania-forest-garden-by-ruderal/",
       "https://landezine.com/area-outdoor-furniture-sun-lounger-atlantique-2/",
-      "https://landezine.com/marmormolen-the-marble-pier-by-11-landskab/"
+      "https://landezine.com/marmormolen-the-marble-pier-by-11-landskab/",
+      "https://landezine.com/a-path-in-the-forest-by-tetsuo-kondo-architects/"
     ],
     "queue_new": [
-      "https://landezine.com/a-path-in-the-forest-by-tetsuo-kondo-architects/",
       "https://landezine.com/city-design-outdoor-furniture-litter-bin-cima/",
       "https://landezine.com/metalco-outdoor-furniture-table-air-circle/",
       "https://landezine.com/shoreline-park-by-mareld-atelier-le-balto/",
