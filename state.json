@@ -502,7 +502,8 @@
       "https://leibal.com/interiors/borch-editions/",
       "https://leibal.com/interiors/beaune/",
       "https://leibal.com/interiors/precita-house/",
-      "https://leibal.com/interiors/feel-and-joy/"
+      "https://leibal.com/interiors/feel-and-joy/",
+      "https://leibal.com/interiors/east-facing-apartment/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -1036,7 +1037,8 @@
       "https://www.archdaily.com/1001543/house-in-kurume-goya-schroder-and-associates",
       "https://www.archdaily.com/1039957/el-camino-housing-complex-for-older-adults-and-formerly-unhoused-people-fp-arquitectura",
       "https://www.archdaily.com/1001352/medanos-house-besonias-almeida-arquitectos",
-      "https://www.archdaily.com/1040866/pomona-house-hive-architecture"
+      "https://www.archdaily.com/1040866/pomona-house-hive-architecture",
+      "https://www.archdaily.com/1001162/moonah-tree-house-kirby-architects"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040705/passive-house-forest-retreat-stark",
@@ -2025,9 +2027,10 @@
       "https://www.archdaily.com/1188439/fm-house-dado-castello-branco-arquitetura",
       "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
       "https://www.archdaily.com/1188511/maryland-house",
-      "https://www.archdaily.com/1187949/vanguard-house-ming-architects"
+      "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
+      "https://www.archdaily.com/1187742/heathside-house-manea-kella"
     ],
-    "archive_page": 271
+    "archive_page": 272
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2521,10 +2524,10 @@
       "https://www.dezeen.com/2026/06/09/pau-penn-station-redesign-political-realities/",
       "https://www.dezeen.com/2026/06/10/marta-nowicka-dom-studio/",
       "https://www.dezeen.com/2026/06/10/herzog-de-meuron-palace-congresses-tirana/",
-      "https://www.dezeen.com/2026/06/10/sagrada-familia-architect-maurici-cortes-interview-gaudi-centenary/"
+      "https://www.dezeen.com/2026/06/10/sagrada-familia-architect-maurici-cortes-interview-gaudi-centenary/",
+      "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/",
       "https://www.dezeen.com/2026/06/11/world-cup-stadiums-usa-canada-mexico-2026/",
       "https://www.dezeen.com/2026/06/11/casa-batllo-antoni-gaudi-centenary/",
       "https://www.dezeen.com/2026/06/11/herzog-de-meuron-titlis-tower/",
@@ -3119,7 +3122,8 @@
       "https://www.dezeen.com/2026/11/13/zando-central-market-think-tank-architecture/",
       "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/",
       "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
-      "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/"
+      "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
+      "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/"
     ],
     "archive_page": 2
   },
@@ -3359,10 +3363,10 @@
       "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
       "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
       "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
-      "https://www.dezeen.com/2026/10/30/atelier-zebulon-perron-bistrot-franky-montreal/"
+      "https://www.dezeen.com/2026/10/30/atelier-zebulon-perron-bistrot-franky-montreal/",
+      "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
       "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/",
       "https://www.dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic/",
       "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
@@ -3374,7 +3378,8 @@
       "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/",
       "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
       "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
-      "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/"
+      "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/",
+      "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china/"
     ],
     "archive_page": 2
   },
@@ -3866,10 +3871,10 @@
       "https://landezine.com/a-path-in-the-forest-by-tetsuo-kondo-architects/",
       "https://landezine.com/city-design-outdoor-furniture-litter-bin-cima/",
       "https://landezine.com/metalco-outdoor-furniture-table-air-circle/",
-      "https://landezine.com/shoreline-park-by-mareld-atelier-le-balto/"
+      "https://landezine.com/shoreline-park-by-mareld-atelier-le-balto/",
+      "https://landezine.com/lebuinus-squares-deventer-by-boschslabbers/"
     ],
     "queue_new": [
-      "https://landezine.com/lebuinus-squares-deventer-by-boschslabbers/",
       "https://landezine.com/krameracker-primary-school-grounds/",
       "https://landezine.com/lila-2019-objets-trouves-bureau-bb-hns/",
       "https://landezine.com/karrtorps-centrum-by-nyrens-arkitektkontor/",
