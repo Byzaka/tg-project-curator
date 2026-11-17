@@ -114,7 +114,8 @@
       "https://leibal.com/interiors/mesa-de-gallos/",
       "https://leibal.com/interiors/ersland-skeie-house/",
       "https://leibal.com/interiors/mountain-house-iv/",
-      "https://leibal.com/interiors/villa-hdv/"
+      "https://leibal.com/interiors/villa-hdv/",
+      "https://leibal.com/interiors/villa-esmeralda/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -505,9 +506,12 @@
       "https://leibal.com/interiors/precita-house/",
       "https://leibal.com/interiors/feel-and-joy/",
       "https://leibal.com/interiors/east-facing-apartment/",
-      "https://leibal.com/interiors/villa-hdv/"
+      "https://leibal.com/interiors/villa-hdv/",
+      "https://leibal.com/interiors/villa-esmeralda/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/voltaire-apartment/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -1043,7 +1047,8 @@
       "https://www.archdaily.com/1001162/moonah-tree-house-kirby-architects",
       "https://www.archdaily.com/1040705/passive-house-forest-retreat-stark",
       "https://www.archdaily.com/1001082/nicolinehus-residential-complex-aart-architects",
-      "https://www.archdaily.com/1040879/tropical-flow-h-and-p-architects"
+      "https://www.archdaily.com/1040879/tropical-flow-h-and-p-architects",
+      "https://www.archdaily.com/1000971/transformation-of-a-protected-barn-simon-durand-architecte"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040950/tn-house-idin-architects",
@@ -2039,9 +2044,15 @@
       "https://www.archdaily.com/1035163/baw-beese-house-disbrow-iannuzzi",
       "https://www.archdaily.com/1010840/link-house-openideas-architects",
       "https://www.archdaily.com/1188716/lambda-house-guillem-carrera",
-      "https://www.archdaily.com/1188549/house-in-akashi-tato-architects"
+      "https://www.archdaily.com/1188549/house-in-akashi-tato-architects",
+      "https://www.archdaily.com/1188716/casa-lambda-guillem-carrera",
+      "https://www.archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra",
+      "https://www.archdaily.com/1188792/restoration-of-the-picote-engineers-houses-and-gardens-cannata-and-fernandes",
+      "https://www.archdaily.com/1188651/root-levs-architecten",
+      "https://www.archdaily.com/1188660/the-cloud-house-peter-morris-architects",
+      "https://www.archdaily.com/1034577/anchorage-road-artist-studio-ballman-khapalova"
     ],
-    "archive_page": 273
+    "archive_page": 274
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2540,10 +2551,10 @@
       "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/",
       "https://www.dezeen.com/2026/06/11/world-cup-stadiums-usa-canada-mexico-2026/",
       "https://www.dezeen.com/2026/06/11/casa-batllo-antoni-gaudi-centenary/",
-      "https://www.dezeen.com/2026/06/11/herzog-de-meuron-titlis-tower/"
+      "https://www.dezeen.com/2026/06/11/herzog-de-meuron-titlis-tower/",
+      "https://www.dezeen.com/2026/06/11/antoni-gaudi-centenary-100-years-dezeen-agenda/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/11/antoni-gaudi-centenary-100-years-dezeen-agenda/",
       "https://www.dezeen.com/2026/06/12/building-stories-book-diebedo-francis-kere-interview/",
       "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/",
       "https://www.dezeen.com/2026/06/12/populous-kansas-city-fifa-fan-festival/",
@@ -3140,7 +3151,11 @@
       "https://www.dezeen.com/2026/11/16/sharjah-architecture-triennial-highlights/",
       "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-architecture-project-of-the-year-revealed/",
       "https://www.dezeen.com/2026/11/16/shisuo-design-office-jiang-deng-lu/",
-      "https://www.dezeen.com/2026/11/17/jean-nouvels-shenzhen-opera-house/"
+      "https://www.dezeen.com/2026/11/17/jean-nouvels-shenzhen-opera-house/",
+      "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
+      "https://www.dezeen.com/2026/11/17/ssdh-adaptation-warehouse-melbourne/",
+      "https://www.dezeen.com/2026/11/17/som-30-street-station-philadelphia-restoration/",
+      "https://www.dezeen.com/2026/11/17/office-simon-robinson-public-housing-melbourne-australia/"
     ],
     "archive_page": 2
   },
@@ -3384,10 +3399,10 @@
       "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
       "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/",
       "https://www.dezeen.com/2026/11/03/batek-architekten-hey-orthodontic-clinic/",
-      "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/"
+      "https://www.dezeen.com/2026/11/04/scad-installation-design-miami-paris/",
+      "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/11/04/jeju-restaurant-daughters/",
       "https://www.dezeen.com/2026/11/05/linehouse-jen-hotel-hangzhou/",
       "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/",
       "https://www.dezeen.com/2026/11/08/matteo-thun-torre-velasca-interiors/",
@@ -3401,7 +3416,10 @@
       "https://www.dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague/",
       "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/",
       "https://www.dezeen.com/2026/11/17/isern-serra-designs-barcelona-pilates-studio-circl/",
-      "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/"
+      "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+      "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
+      "https://www.dezeen.com/2026/11/17/harry-nuriev-20-20-bjarke-ingels/",
+      "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/"
     ],
     "archive_page": 2
   },
@@ -3897,10 +3915,10 @@
       "https://landezine.com/lebuinus-squares-deventer-by-boschslabbers/",
       "https://landezine.com/krameracker-primary-school-grounds/",
       "https://landezine.com/lila-2019-objets-trouves-bureau-bb-hns/",
-      "https://landezine.com/karrtorps-centrum-by-nyrens-arkitektkontor/"
+      "https://landezine.com/karrtorps-centrum-by-nyrens-arkitektkontor/",
+      "https://landezine.com/bellitalia-outdoor-furniture-cuddly/"
     ],
     "queue_new": [
-      "https://landezine.com/bellitalia-outdoor-furniture-cuddly/",
       "https://landezine.com/bridgefoot-street-park-by-dfla/",
       "https://landezine.com/hvidovre-beach-park-by-vega-landskab/",
       "https://landezine.com/lenfance-du-pli-paysarchitectures/",
@@ -4193,7 +4211,8 @@
       "https://landezine.com/13-november-online-international-ifla-workshop-on-flood-resilience/",
       "https://landezine.com/raleigh-iron-works-by-future-green-landscape-architecture/",
       "https://landezine.com/the-crafts-college-in-horsens-by-schonherr/",
-      "https://landezine.com/juvo-by-atsite/"
+      "https://landezine.com/juvo-by-atsite/",
+      "https://landezine.com/gilly-by-central-plant-en-houtgoed/"
     ],
     "archive_page": 265
   },
