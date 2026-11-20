@@ -116,7 +116,8 @@
       "https://leibal.com/interiors/mountain-house-iv/",
       "https://leibal.com/interiors/villa-hdv/",
       "https://leibal.com/interiors/villa-esmeralda/",
-      "https://leibal.com/interiors/minimalist-house/"
+      "https://leibal.com/interiors/minimalist-house/",
+      "https://leibal.com/architecture/boskavel/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -512,9 +513,12 @@
       "https://leibal.com/interiors/voltaire-apartment/",
       "https://leibal.com/interiors/dkr-house/",
       "https://leibal.com/interiors/minimalist-house/",
-      "https://leibal.com/a-day-in/sr-house-paros/"
+      "https://leibal.com/a-day-in/sr-house-paros/",
+      "https://leibal.com/architecture/boskavel/"
     ],
-    "queue_new": [],
+    "queue_new": [
+      "https://leibal.com/interiors/lannes/"
+    ],
     "archive_page": 2
   },
   "archdaily_projects": {
@@ -1056,7 +1060,8 @@
       "https://www.archdaily.com/1000652/folding-roof-courtyard-mat-office",
       "https://www.archdaily.com/1040540/refugio-house-db-estudio-de-arquitectura",
       "https://www.archdaily.com/1000432/bombai-house-tim-arquitectos",
-      "https://www.archdaily.com/1040575/west-london-house-goldstein-heather"
+      "https://www.archdaily.com/1040575/west-london-house-goldstein-heather",
+      "https://www.archdaily.com/1000274/residential-barn-be-architektur"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects",
@@ -2062,9 +2067,10 @@
       "https://www.archdaily.com/1187388/villa-in-nishinokyo-aliana-architects",
       "https://www.archdaily.com/1188731/can-amor-de-la-isla-kosmos-architects-plus-blanca-gardelegui",
       "https://www.archdaily.com/1188935/oslo-houses-nommo-arquitetos",
-      "https://www.archdaily.com/1188976/casa-sierra-morena-i-gallese-arquitectos"
+      "https://www.archdaily.com/1188976/casa-sierra-morena-i-gallese-arquitectos",
+      "https://www.archdaily.com/1188693/snake-building-c-plus-s-architects"
     ],
-    "archive_page": 276
+    "archive_page": 277
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2573,10 +2579,10 @@
       "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/",
       "https://www.dezeen.com/2026/06/12/populous-kansas-city-fifa-fan-festival/",
       "https://www.dezeen.com/2026/06/13/built-works-yogis-cabin/",
-      "https://www.dezeen.com/2026/06/13/antoni-gaudi-centenary-100-years-this-week/"
+      "https://www.dezeen.com/2026/06/13/antoni-gaudi-centenary-100-years-this-week/",
+      "https://www.dezeen.com/2026/06/13/contemporary-british-houses-roundup/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/13/contemporary-british-houses-roundup/",
       "https://www.dezeen.com/2026/06/14/permanent-camping-3-casey-brown-architecture-new-south-wales-australia/",
       "https://www.dezeen.com/2026/06/14/mvrdv-nieuw-bergen-housing-complex-eindhoven/",
       "https://www.dezeen.com/2026/06/14/multnomah-county-library-operations-center-portland-henneber-eddy-architects/",
@@ -3182,7 +3188,10 @@
       "https://www.dezeen.com/2026/11/19/clayfield-hotel-sid-lee-architecture-ontario/",
       "https://www.dezeen.com/2026/11/20/big-hotel-siegenthalergut-thun-switzerland/",
       "https://www.dezeen.com/2026/11/20/shanghai-opera-house-controversy-aaron-betsky-opinion/",
-      "https://www.dezeen.com/2026/11/20/dezeen-awards-white-house-dezeen-weekly-podcast/"
+      "https://www.dezeen.com/2026/11/20/dezeen-awards-white-house-dezeen-weekly-podcast/",
+      "https://www.dezeen.com/2026/11/20/atelier-manferdini-virginia-power-station/",
+      "https://www.dezeen.com/2026/11/20/can-house-tropicalia/",
+      "https://www.dezeen.com/2026/11/20/lanza-atelier-interview-frida-escobedo-20x20/"
     ],
     "archive_page": 2
   },
@@ -3432,10 +3441,10 @@
       "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side/",
       "https://www.dezeen.com/2026/11/08/matteo-thun-torre-velasca-interiors/",
       "https://www.dezeen.com/2026/11/11/ysg-moong-gang-hotel-bali/",
-      "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/"
+      "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/",
+      "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
       "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
       "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/",
       "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china/",
@@ -3949,10 +3958,10 @@
       "https://landezine.com/hvidovre-beach-park-by-vega-landskab/",
       "https://landezine.com/lenfance-du-pli-paysarchitectures/",
       "https://landezine.com/the-dark-line-by-michelemiquel-and-da-vision-design/",
-      "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/"
+      "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/",
+      "https://landezine.com/green-corridor-kosmosviertel-by-hochc-landscape-architecture/"
     ],
     "queue_new": [
-      "https://landezine.com/green-corridor-kosmosviertel-by-hochc-landscape-architecture/",
       "https://landezine.com/teardrop-park-mvva/",
       "https://landezine.com/sugar-beach-by-claude-cormier-associes/",
       "https://landezine.com/moesgaard-museum-by-kristine-jensen/",
@@ -4242,7 +4251,8 @@
       "https://landezine.com/juvo-by-atsite/",
       "https://landezine.com/gilly-by-central-plant-en-houtgoed/",
       "https://landezine.com/marina-park-receives-presidents-award-at-the-irish-landscape-institute-awards-2026/",
-      "https://landezine.com/new-online-ifla-hub-the-international-knowledge-hub-for-landscape-architecture/"
+      "https://landezine.com/new-online-ifla-hub-the-international-knowledge-hub-for-landscape-architecture/",
+      "https://landezine.com/zamora-park-by-eptdesign/"
     ],
     "archive_page": 265
   },
