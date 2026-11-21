@@ -515,7 +515,8 @@
       "https://leibal.com/interiors/minimalist-house/",
       "https://leibal.com/a-day-in/sr-house-paros/",
       "https://leibal.com/architecture/boskavel/",
-      "https://leibal.com/interiors/lannes/"
+      "https://leibal.com/interiors/lannes/",
+      "https://leibal.com/interiors/koko/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -1061,7 +1062,8 @@
       "https://www.archdaily.com/1000432/bombai-house-tim-arquitectos",
       "https://www.archdaily.com/1040575/west-london-house-goldstein-heather",
       "https://www.archdaily.com/1000274/residential-barn-be-architektur",
-      "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects"
+      "https://www.archdaily.com/1040935/ramsden-house-james-harbard-architects",
+      "https://www.archdaily.com/1000050/suki-house-obra-arquitetos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040904/neem-tree-house-dada-partners",
@@ -2068,9 +2070,10 @@
       "https://www.archdaily.com/1188935/oslo-houses-nommo-arquitetos",
       "https://www.archdaily.com/1188976/casa-sierra-morena-i-gallese-arquitectos",
       "https://www.archdaily.com/1188693/snake-building-c-plus-s-architects",
-      "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura"
+      "https://www.archdaily.com/1036263/house-duas-marias-i-canoa-arquitetura",
+      "https://www.archdaily.com/1036137/house-al-n2b-arquitetura"
     ],
-    "archive_page": 277
+    "archive_page": 278
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2582,10 +2585,10 @@
       "https://www.dezeen.com/2026/06/13/built-works-yogis-cabin/",
       "https://www.dezeen.com/2026/06/13/antoni-gaudi-centenary-100-years-this-week/",
       "https://www.dezeen.com/2026/06/13/contemporary-british-houses-roundup/",
-      "https://www.dezeen.com/2026/06/14/permanent-camping-3-casey-brown-architecture-new-south-wales-australia/"
+      "https://www.dezeen.com/2026/06/14/permanent-camping-3-casey-brown-architecture-new-south-wales-australia/",
+      "https://www.dezeen.com/2026/06/14/mvrdv-nieuw-bergen-housing-complex-eindhoven/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/14/mvrdv-nieuw-bergen-housing-complex-eindhoven/",
       "https://www.dezeen.com/2026/06/14/multnomah-county-library-operations-center-portland-henneber-eddy-architects/",
       "https://www.dezeen.com/2026/06/15/brick-awards-2026-winners/",
       "https://www.dezeen.com/2026/06/15/olympia-canopy-heatherwick-studio-spparc-london/",
@@ -3193,7 +3196,8 @@
       "https://www.dezeen.com/2026/11/20/atelier-manferdini-virginia-power-station/",
       "https://www.dezeen.com/2026/11/20/can-house-tropicalia/",
       "https://www.dezeen.com/2026/11/20/lanza-atelier-interview-frida-escobedo-20x20/",
-      "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/"
+      "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/",
+      "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/"
     ],
     "archive_page": 2
   },
@@ -3445,10 +3449,10 @@
       "https://www.dezeen.com/2026/11/11/ysg-moong-gang-hotel-bali/",
       "https://www.dezeen.com/2026/11/11/not-a-hotel-architects-brutalist-tokyo-warehouse-office/",
       "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
-      "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/"
+      "https://www.dezeen.com/2026/11/13/marburger-farm-antique-design-show/",
+      "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/11/13/formafantasma-ferrari-new-york-gonzalez-haase-aas/",
       "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china/",
       "https://www.dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well/",
       "https://www.dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague/",
@@ -3962,10 +3966,10 @@
       "https://landezine.com/the-dark-line-by-michelemiquel-and-da-vision-design/",
       "https://landezine.com/monsted-kalkgruber-by-schonherr-landscape-architects/",
       "https://landezine.com/green-corridor-kosmosviertel-by-hochc-landscape-architecture/",
-      "https://landezine.com/teardrop-park-mvva/"
+      "https://landezine.com/teardrop-park-mvva/",
+      "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
     ],
     "queue_new": [
-      "https://landezine.com/sugar-beach-by-claude-cormier-associes/",
       "https://landezine.com/moesgaard-museum-by-kristine-jensen/",
       "https://landezine.com/27-june-la-call-for-papers-field/",
       "https://landezine.com/17-22-may-wuf-at-baku/",
