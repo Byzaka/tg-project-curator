@@ -117,7 +117,8 @@
       "https://leibal.com/interiors/villa-hdv/",
       "https://leibal.com/interiors/villa-esmeralda/",
       "https://leibal.com/interiors/minimalist-house/",
-      "https://leibal.com/architecture/boskavel/"
+      "https://leibal.com/architecture/boskavel/",
+      "https://leibal.com/interiors/auf-dem-hummel/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -520,7 +521,8 @@
       "https://leibal.com/interiors/the-art-of-living-with-ease/",
       "https://leibal.com/interiors/oval-house/",
       "https://leibal.com/interiors/bronxville/",
-      "https://leibal.com/interiors/hampstead-house-2/"
+      "https://leibal.com/interiors/hampstead-house-2/",
+      "https://leibal.com/interiors/auf-dem-hummel/"
     ],
     "queue_new": [],
     "archive_page": 2
@@ -1073,7 +1075,8 @@
       "https://www.archdaily.com/1040948/house-tn-1-1-architects",
       "https://www.archdaily.com/1040974/a-place-in-the-country-studio-ben-allen",
       "https://www.archdaily.com/999891/entreluz-house-pablo-padilla-carvacho-plus-jesus-del-rio-enrico",
-      "https://www.archdaily.com/999475/paintbrush-residence-clb-architects"
+      "https://www.archdaily.com/999475/paintbrush-residence-clb-architects",
+      "https://www.archdaily.com/999440/amaluna-house-plan-b-arquitectos"
     ],
     "queue_new": [
       "https://www.archdaily.com/1040938/wind-fence-2-hyunjoon-yoo-plus-partners",
@@ -2096,9 +2099,11 @@
       "https://www.archdaily.com/1189070/forestscope-sakakura-associates-architects-and-engineers",
       "https://www.archdaily.com/1189096/colina-31-house-pereira-miguel-arquitectos",
       "https://www.archdaily.com/1188855/private-residence-naturehumaine-architecture",
-      "https://www.archdaily.com/1151143/rivas-struque-house-mas-fernandez-arquitectos"
+      "https://www.archdaily.com/1151143/rivas-struque-house-mas-fernandez-arquitectos",
+      "https://www.archdaily.com/1188641/leopoldquartier",
+      "https://www.archdaily.com/1018042/mesaguamo-house-tropico-arquitectura"
     ],
-    "archive_page": 281
+    "archive_page": 282
   },
   "archdaily_landscape": {
     "sent_urls": [
@@ -2616,10 +2621,10 @@
       "https://www.dezeen.com/2026/06/15/olympia-canopy-heatherwick-studio-spparc-london/",
       "https://www.dezeen.com/2026/06/15/walled-courtyard-inglis-badrashi-loddo/",
       "https://www.dezeen.com/2026/06/15/park-guell-housing-estate-gaudi-centenary/",
-      "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/"
+      "https://www.dezeen.com/2026/06/16/nbbj-vivo-headquarters-shenzhen/",
+      "https://www.dezeen.com/2026/06/15/wilkinsoneyre-cibc-development-toronto-canada/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/06/15/wilkinsoneyre-cibc-development-toronto-canada/",
       "https://www.dezeen.com/2026/06/16/serpentine-pavilion-jesus-rafael-soto/",
       "https://www.dezeen.com/2026/06/16/backrooms-movie-edwin-heathcote-opinion/",
       "https://www.dezeen.com/2026/06/16/troya-pavilion-dum-dum-lab-chile/",
@@ -3230,7 +3235,9 @@
       "https://www.dezeen.com/2026/11/24/gerhard-richters-doha-pavilion-selldorf-architects/",
       "https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/",
       "https://www.dezeen.com/2026/11/24/kumaelsa-key-projects-dezeen-awards-emerging-architect/",
-      "https://www.dezeen.com/2026/11/24/studio-gang-wisconsin-womens-leadership-center/"
+      "https://www.dezeen.com/2026/11/24/studio-gang-wisconsin-womens-leadership-center/",
+      "https://www.dezeen.com/2026/11/25/bay-house-tuckey-design-studio/",
+      "https://www.dezeen.com/2026/11/25/trees-on-buildings-greenwashing/"
     ],
     "archive_page": 2
   },
@@ -3489,10 +3496,10 @@
       "https://www.dezeen.com/2026/11/16/life-behind-the-walls-north-korea-exhibition-b2-architecture-prague/",
       "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/",
       "https://www.dezeen.com/2026/11/17/isern-serra-designs-barcelona-pilates-studio-circl/",
-      "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/"
+      "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+      "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/"
     ],
     "queue_new": [
-      "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
       "https://www.dezeen.com/2026/11/17/harry-nuriev-20-20-bjarke-ingels/",
       "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/",
       "https://www.dezeen.com/2026/11/20/dezeen-awards-white-house-dezeen-weekly-podcast/",
@@ -4010,10 +4017,10 @@
       "https://landezine.com/17-22-may-wuf-at-baku/",
       "https://landezine.com/funenpark-by-landlab/",
       "https://landezine.com/lila-2020-flyvestation-vaerlose-by-juul-frost-architects/",
-      "https://landezine.com/hofheide-crematorium-holsbeek-belgium-by-omgeving-and-rcr/"
+      "https://landezine.com/hofheide-crematorium-holsbeek-belgium-by-omgeving-and-rcr/",
+      "https://landezine.com/renens-mail-du-marche-by-approches/"
     ],
     "queue_new": [
-      "https://landezine.com/renens-mail-du-marche-by-approches/",
       "https://landezine.com/songzhuang-micro-community-park-by-crossboundaries/",
       "https://landezine.com/durbanis-outdoor-furniture-superlock/",
       "https://landezine.com/pacific-overlook-by-cmg-landscape-architecture/",
@@ -4297,7 +4304,8 @@
       "https://landezine.com/new-online-ifla-hub-the-international-knowledge-hub-for-landscape-architecture/",
       "https://landezine.com/zamora-park-by-eptdesign/",
       "https://landezine.com/landscape-restoration-of-landfill-in-vall-den-joan-by-batlleiroig/",
-      "https://landezine.com/landscape-institute-awards-2026-winners-announced/"
+      "https://landezine.com/landscape-institute-awards-2026-winners-announced/",
+      "https://landezine.com/prairie-plots-by-dept/"
     ],
     "archive_page": 265
   },
